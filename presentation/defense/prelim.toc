@@ -1,0 +1,8 @@
+\beamer@endinputifotherversion {3.10pt}
+\select@language {english}
+\beamer@sectionintoc {1}{Standard Model}{4}{0}{1}
+\beamer@sectionintoc {2}{Experiment}{10}{0}{2}
+\beamer@sectionintoc {3}{Event Selection}{24}{0}{3}
+\beamer@sectionintoc {4}{Signal Region Optimization}{33}{0}{4}
+\beamer@sectionintoc {5}{Statistical Analysis and Results}{44}{0}{5}
+\beamer@sectionintoc {6}{Next Steps}{51}{0}{6}

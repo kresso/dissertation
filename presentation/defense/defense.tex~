@@ -1,0 +1,213 @@
+% $Header: /cvsroot/latex-beamer/latex-beamer/solutions/generic-talks/generic-ornate-15min-45min.en.tex,v 1.5 2007/01/28 20:48:23 tantau Exp $
+
+\documentclass{beamer}
+%\usecolortheme[RGB={205,173,0}]{structure} %Gold
+\usecolortheme[RGB={218, 165, 32}]{structure} %Golden Rod
+% This file is a solution template for:
+
+% - Giving a talk on some subject.
+% - The talk is between 15min and 45min long.
+% - Style is ornate.
+\usepackage{epstopdf} %put by hand to use .eps files with pdflatex
+%\usepackage{longtable}
+\usepackage{multirow}
+\usepackage{hepparticles}
+\usepackage{heppennames}
+% Copyright 2004 by Till Tantau <tantau@users.sourceforge.net>.
+%
+% In principle, this file can be redistributed and/or modified under
+% the terms of the GNU Public License, version 2.
+%
+% However, this file is supposed to be a template to be modified
+% for your own needs. For this reason, if you use this file as a
+% template and not specifically distribute it as part of a another
+% package/program, I grant the extra permission to freely copy and
+% modify this file as you see fit and even to delete this copyright
+% notice. 
+
+
+\mode<presentation>
+{
+  %\usetheme{Singapore}
+  \usetheme{Madrid}
+  % or ...
+
+  \setbeamercovered{transparent}
+  % or whatever (possibly just delete it)
+}
+
+
+\usepackage[english]{babel}
+% or whatever
+
+\usepackage[latin1]{inputenc}
+% or whatever
+
+\usepackage{times}
+\usepackage[T1]{fontenc}
+% Or whatever. Note that the encoding and the font should match. If T1
+% does not look nice, try deleting the line with the fontenc.
+
+
+\title[H$\rightarrow$ZZ$\rightarrow$2l2q] % (optional, use only with long paper titles)
+%{H$\rightarrow$ZZ$\rightarrow$2l2q}
+{SEARCH FOR THE STANDARD MODEL HIGGS BOSON IN THE DECAY CHANNEL H$\rightarrow$ZZ$\rightarrow$2l2q AT CMS}
+
+%\subtitle
+%{Status Update} % (optional)
+\author[Matthew Kress] % (optional, use only with lots of authors)
+{Matthew Kress}
+%\\
+%\vspace{1em}
+%On behalf of the 2l2q team}
+% - Use the \inst{?} command only if the authors have different
+%   affiliation.
+
+\institute[Purdue University] % (optional, but mostly needed)
+%{
+%  
+%  Purdue University}
+% - Use the \inst command only if there are several affiliations.
+% - Keep it simple, no one is interested in your street address.
+
+\date[December 2, 2013] % (optional)
+{Adviser: Daniela Bortoletto
+\\
+
+Ph.D. Defense
+\\
+December 2, 2013
+}
+
+\subject{Talks}
+% This is only inserted into the PDF information catalog. Can be left
+% out. 
+
+
+
+% If you have a file called "university-logo-filename.xxx", where xxx
+% is a graphic format that can be processed by latex or pdflatex,
+% resp., then you can add a logo as follows:
+
+%\pgfdeclareimage[height=0.5cm]{university-logo}{images/purdue_logo}
+%\logo{\pgfuseimage{university-logo}}
+
+
+
+% Delete this, if you do not want the table of contents to pop up at
+% the beginning of each subsection:
+
+% If you wish to uncover everything in a step-wise fashion, uncomment
+% the following command: 
+\AtBeginSection[]
+{
+  \begin{frame}<beamer>{Outline}
+    \tableofcontents[currentsection,currentsubsection]
+  \end{frame}
+}
+%\beamerdefaultoverlayspecification{<+->}
+
+
+\begin{document}
+
+\begin{frame}
+  \titlepage
+\end{frame}
+
+\begin{frame}{Outline}
+  \tableofcontents
+  % You might wish to add the option [pausesections]
+\end{frame}
+
+% Since this a solution template for a generic talk, very little can
+% be said about how it should be structured. However, the talk length
+% of between 15min and 45min and the theme suggest that you stick to
+% the following rules:  
+
+% - Exactly two or three sections (other than the summary).
+% - At *most* three subsections per section.
+% - Talk about 30s to 2min per frame. So there should be between about
+%   15 and 30 frames, all told.
+
+
+%\begin{frame}{2l2q Team}
+%  \begin{itemize}
+%  \item
+%    \emph{\color{red} KIT:} M.U.Mozer
+%  \item
+%    \emph{\color{red} CERN:} A.Bonato, P.Lenzi, M.Mannelli	
+%  \item
+%    \emph{\color{red} INFN-Padova:} K.Kanishchev
+%  \item
+%    \emph{\color{red} U. Basilicata \& INFN-Napoli:} F. Fabozzi
+%  \item
+%    \emph{\color{red} CIEMAT:} O.Gonz\'{a}lez L\'{o}pez, D.Dom\'{i}nguez V\'{a}zquez, P.Garc\'{i}a, J.Hern\'{a}ndez, E. Navarro
+%  \item
+%    \emph{\color{red} Johns Hopkins U.:} A.Gritsan, S.Bolognesi, A.Withbeck
+%  \item
+%    \emph{\color{red} U \& INFN-Napoli:} A.DeCosa
+%  \item
+%    \emph{\color{red} National Central U:} A.P.Singh, S.S.Yu, Y.J. Lu
+%  \item
+%    \emph{\color{red} Panjab:} L.K.Saini
+%  \item
+%    \emph{\color{red} Purdue:} D.Bortoletto, M.Kress, M.Vidal
+%  \item
+%    \emph{\color{red} Rochester:} R.Covarelli, P.Goldenzweig, R.Demina, A.Garcia-Bellido
+%  \item
+%    \emph{\color{red} UAM:} G.Codispoti, J.Fern\'{a}ndez de Troc\'{o}niz
+%  \item
+%    \emph{\color{red} METU:} M.Yalvac
+%  \item
+%    \emph{\color{red} U \& INFN-Firenze:} A.Tropiano, V.Gori, V.Ciulli, E.Gallo
+%  \end{itemize}
+%\end{frame}
+
+
+%\begin{frame}{2l2q Documentation}
+%    \begin{itemize}
+%      \item
+%        Analysis Twiki
+%        \begin{itemize}
+%        \item
+%          \tiny
+          %\scriptsize
+          %\footnotesize
+%          {\color{blue} \url{https://twiki.cern.ch/twiki/bin/viewauth/CMS/HiggsZZ2l2q2012Summer}}
+%        \end{itemize}
+%        \small
+%        \item
+%          Analysis note: AN-12/115
+%        \item
+%          CADI entry: HIG-12-024
+%    \end{itemize}
+%    \begin{center}
+%    \includegraphics[width=0.5\textwidth]{images/AN2012_115.pdf}
+
+%    \end{center}
+%\end{frame}
+
+
+%\section[Standard Model]{Standard Model}
+
+
+
+
+%\include{standard_model}
+
+\include{experiment}
+
+\include{event_selection}
+
+\include{optimization}
+
+\include{systematics}
+
+\include{conclusion}
+
+\include{backupslides}
+
+
+\end{document}
+
+

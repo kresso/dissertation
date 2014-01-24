@@ -1,0 +1,52 @@
+\chapter{Data and Monte Carlo samples}
+\label{sec:tablessamples}
+
+%Table~\ref{table-data} lists the data samples used in the analysis and their corresponding luminosities.
+%The signal samples and their cross-section times branchig-ratio values are reported in Table~\ref{table-mcsignal}.
+%Table~\ref{table-bkg} provides the background datasets, along with their cross sections and luminosities.
+
+\input{Appendix/datasamples}
+\input{Appendix/signalsamples}
+\input{Appendix/bkgsamples}
+
+\chapter{Trigger efficiencies and Monte Carlo correction factors}
+\label{sec:hltsf}
+\input{Appendix/hlt_scalefactors}
+
+\chapter{Lepton identification requirements and efficiencies}
+\label{sec:datamcsf}
+\input{Appendix/leptonid}
+\input{Appendix/datamc_scalefactors}
+
+%\section{Extra plots}
+%\label{sec:extraplots}
+%\input{Appendix/extra_plots}
+
+\chapter{Checks on the likelihood discriminant}
+\label{sec:costhetastar}
+\input{Appendix/costhetastar}
+
+\chapter{Expected signal and background events per btag category}
+\label{sec:numberevents}
+\input{Appendix/numberevents_bck}
+
+\chapter{Determination of $\ttbar$ background from data}
+\label{sec:appttbar}
+\input{Appendix/TtbarExtra}
+
+\chapter{Systematic uncertainties on the signal}
+\label{sec:appsyst}
+\input{Appendix/SignalSyst}
+
+\chapter{Mass distributions for the electron and muon channels}
+\label{sec:emuratios}
+\input{Appendix/e-mu-ratios}
+
+\chapter{Limit Cross Checks}
+\label{sec:cutcount}
+\input{Appendix/cutcount}
+
+%\chapter{Cross Checks requested at Approval}
+%\label{sec:approvalxcheck}
+%\input{Appendix/approvalxcheck}
+

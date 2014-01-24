@@ -1,0 +1,90 @@
+
+
+\chapter{Electron, Muon, and Jet Reconstruction}
+
+\section{Electron Reconstruction}
+
+Electrons are reconstructed from the tracks they form in the silicon tracker, and from their energy which is deposited in the ECAL.  An electron both ionizes the tracker as it passes through and potentially radiates a photon (this process is called bremsstrahlung) for a large energy loss.  This energy loss need to be taken into account.  Electron reconstruction need to joint both the tracks in the tracker and the energy deposit in the ECAL while successfully identifying the particle as an electron.  All this must happen while being careful not to mis-identify ``fake'' electrons, which are other charged particles (like pions).
+
+One of the problems that can happen when an electron radiates a photon is that it can get trapped int he magnetic field and loose most of it energy before reaching the calorimeter.  To take this and other problems into account there are two different clustering algorithms that are used~\cite{Meschi:687345}. 
+
+the energy that is collected in the calorimeter is grouped together into super-clusters, or clusters of the previously mentioned clusters.  This is all done along the $\phi$ direction and takes the most energetic cluster and collects the other geometrically similar clusters together.
+
+Once a super-cluster is created a minimum of two hits is needed in the pixel detector in order to start the electron trajectory reconstruction. Using the trajectory momentum and the loose geometrical matching with the super-cluster the tracks are matched to the appropriate super-cluster. There are four different electron classes that are corrected in different ways for bremsstrahlung and other effects.  The four types are as listed:~\cite{Baffioni:934070}.
+
+\begin{itemize}
+\item
+  Golden electrons. This class represents electrons least affected by radiation emission, with a reconstructed track well matching the supercluster and a well behaved supercluster pattern. 
+\item
+  Big Brem electrons. This class contains electrons with a good matching between $E_{SC}$ and $p_{in}$, a well behaved supercluster pattern, and no evidence of energy loss effects from secondary photon conversion despite a very large measured bremsstrahlung fraction. Electrons for which all the bremsstrahlung is radiated in a single step, either very early or very late when crossing tracker silicon layers, can fall in this category.
+\item
+  Narrow electrons. In this intermediate class, electrons have a significantly large bremsstrahlung fraction but not has high as for Big Brem, a rather well behaved supercluster (i.e. the bremsstrahlung photons are merged inside the single cluster), but, as for Big Brem, a relaxed track-supercluster geometrical matching.
+\item
+  Showering electrons. This class contains electrons which failed to enter any of the above classes. It includes electron supercluster patterns involving one or several identified bremsstrahlung sub-cluster(s), or cases where a bad energy-momentum $E/p$ matching is observed. This bad matching is very likely, for instance, in cases of secondary conversion of some early radiated bremsstrahlung for electrons having radiated a large fraction of their initial energy.
+\end{itemize}
+
+Once the electrons are corrected we have a set of electrons that we call GSF (Gausian Sum Filter) electrons.  Further cuts can be done as part of an analysis or for pre-selectron to reduce ``fake'' electron.
+
+\section{Muon Reconstruction}
+
+In the CMS detector muon tracks are reconstructed both in the tracker and in the muon chambers.  The muons must transverse a large amount of material before they reach the muon chambers which lowers the resolution because of the scattering that has happened. This places a great importance on the tracker measurements both for the fine resolution and the intense magnetic field. 
+
+First the muon tracks are reconstructed from the muon chambers. Then in a two step process the tracks are linked to the corresponding tracks in the tracker.  First a set of tracks that match the momentum and direction of the muon chamber tracks is found.  After that a matching algorithm is applied using kinematics and angular variables to find the most accurate tracker/muon chamber track pair. Figure~\ref{fig:muon_pandolfi}~\cite{Pandolfi_thesis}
+
+\begin{figure}[htb]
+\centering
+\includegraphics[width=0.69\textwidth]{Reconstruction/muon_Pandolfi.pdf}
+\caption{Muon momentum resolution when using the muon spectrometers only (blue), the tracker only (green), and the full system (red): barrel ($|\eta| < $0.2) results are shown on the left, endcaps (1.8 $< |\eta| <$ 2.0) on the right.~\cite{Pandolfi_thesis}}
+\label{fig:muon_pandolfi}
+\end{figure}
+
+An ideal muon made from these two tracks is called a global muon.  If a global muon cannot be reconstructed then using only the tracker information a tracker muon is created and similarly if only a track from the muon systems is found it is reconstructed to be a standalone muon. The HLT or High-Level Trigger uses additional criteria for a selection like isolation and momentum to create datasets for later analysis.
+
+\section{Jet Reconstruction}
+
+At proton colliders the reactions are primarily from the interaction of partons, which is the name given to the constituents that make up a hadron.  While hadrons can only be color neutral the partons do carry a color charge.   The collisions create colored final states and they through hadronization cancel out this color charge.  Hadronization gives rise to columns of stable particles that we call jets.  
+
+Jets are difficult for both theorists and experimental physicists because they are composite objects that cannot be specifically defined.  The jets reconstruction that is used is based on how particle candidates cluster using the particle flow (PF) algorithms which are described below.  Because of this composite nature the detector response varies jet to jet because the detector response is different for each type of particle in the jet.  This becomes a problem for the jet's energy and necessitates varied calibrations for different types of jets.  
+
+Light particles make up of the bulk of hadronization.  The typical breakdown of a jets energy is as follows:
+\begin{itemize}
+ \item
+about 65\% of a jet’s energy is carried by charged particles, predominantly
+charged pions and kaons;
+\item
+ 20\% is converted into high-energy photons, mainly from the electromagnetic
+decay of neutral mesons such as $\pi$'s and $\eta$'s;
+\item
+ the remaining 15\% is stored in long-lived neutral hadrons, mainly neutral
+kaons, neutrons and Λ baryons.~\cite{Pandolfi_thesis}
+\end{itemize}
+
+With only 20\% of the jet energy being purely electromagnets the remaining measured through the hadronic calorimeter which leads to additional energy measurement difficulties.  
+
+The clustering of the particles that make of the jets is done mainly with the anti - $K_t$ algorithm.  This algorithm works as follows:~\cite{1126-6708-2008-04-063}
+%Annapaula pg 60
+\begin{equation}
+d_{ij} = \min(k_{ti}^{2p}, k_{tj}^{2p}) \frac{\Delta_{ij}^2}{R^2}\,,\\
+d_{iB} = k_{ti}^{2p}\,,
+\end{equation}
+where $\Delta_{ij}^2 = (y_i-y_j)^2 + (\phi_i - \phi_j)^2$ and
+$k_{ti}$, $y_i$ and $\phi_i$ are respectively the transverse momentum,
+rapidity and azimuth of particle $i$. We find the minimum of the all the distances $d_{ij}$ and $d_{iB}$.  If the minimum is one of the $d_{iB}$ they it is called a jet and if it is a $d_{ij}$ combined $i$ and $j$ into a new particle by summing over the momentum.  We continue to do this until we only have jets.
+
+One of the benefits of this algorithm is that the distance parameter R only allows particles to be merged into jets of that specific radius or smaller.  This alos results in conical jets that have radius equal to or smaller than this distance parameter.  In this analysis the R value is 0.5.
+
+\begin{figure}
+
+\includegraphics[width=0.79\textwidth]{Reconstruction/herwig-parton-level-ev-antikt-R1-ghosted4root.eps}
+\centering
+\caption{A sample parton-level event (generated with
+    Herwig~\cite{Herwig}), together with many random soft ``ghosts'',
+    clustered with the anti-$k_t$ algorithms, illustrating the
+    ``active'' catchment areas of the resulting hard jets. For $k_t$
+    and Cam/Aachen the detailed shapes are in part determined by the
+    specific set of ghosts used, and change when the ghosts are
+    modified.}
+\label{fig:anti_atk}
+\end{figure}
+
+\section{Particle Flow Reconstruction}

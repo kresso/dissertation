@@ -1,0 +1,142 @@
+The trigger efficiencies and MC correction factors used in the analysis are listed in Tables~\ref{elleg8SF} and~\ref{elleg17SF} for the electron
+triggers, and in Table~\ref{dimuoneff} for the muon trigger.
+
+\begin{table}[h]
+\caption{Working point loose to the HLT Ele8 leg tag-and-probe efficiencies and scale factors.}
+\label{elleg8SF}
+\begin{center}
+\begin{tabular}{ | c | c | c | c | c |}
+      \hline
+      $\eta$ coverage & $p_T$ range (\GeVc) & efficiency (data) & efficiency (MC) & data/MC ratio \\ \hline %\hline
+%     0.0 $< |\eta| <$ 0.8 & 10 $< p_T <$  20 & 0.474 $\pm$ 0.009 & 0.591 $\pm$ 0.012 & 0.801 $\pm$ 0.022 \\ %\hline
+%     0.8 $< |\eta| <$ 1.4 &                  & 0.343 $\pm$ 0.008 & 0.477 $\pm$ 0.011 & 0.718 $\pm$ 0.024 \\ %\hline
+%     1.6 $< |\eta| <$ 2.0 &                  & 0.444 $\pm$ 0.014 & 0.489 $\pm$ 0.018 & 0.909 $\pm$ 0.044 \\ %\hline
+%     2.0 $< |\eta| <$ 2.5 &                  & 0.452 $\pm$ 0.015 & 0.541 $\pm$ 0.024 & 0.836 $\pm$ 0.046 \\ %\hline
+%& & & & \\                                                                         
+      0.0 $< |\eta| <$ 0.8 & 20 $< p_T <$  40 & 0.986 $\pm$ 0.001 & 0.988 $\pm$ 0.001 & 0.997 $\pm$ 0.001 \\ %\hline
+      0.8 $< |\eta| <$ 1.4 &                  & 0.936 $\pm$ 0.001 & 0.946 $\pm$ 0.001 & 0.990 $\pm$ 0.002 \\ %\hline
+      1.6 $< |\eta| <$ 2.0 &                  & 0.901 $\pm$ 0.002 & 0.905 $\pm$ 0.003 & 0.995 $\pm$ 0.004 \\ %\hline
+      2.0 $< |\eta| <$ 2.5 &                  & 0.944 $\pm$ 0.002 & 0.944 $\pm$ 0.002 & 1.000 $\pm$ 0.003 \\ %\hline
+ & & & & \\                                                                         
+      0.0 $< |\eta| <$ 0.8 & 40 $< p_T <$ 200 & 0.991 $\pm$ 0.001 & 0.994 $\pm$ 0.001 & 0.997 $\pm$ 0.000 \\ %\hline
+      0.8 $< |\eta| <$ 1.4 &                  & 0.976 $\pm$ 0.001 & 0.978 $\pm$ 0.001 & 0.998 $\pm$ 0.001 \\ %\hline
+      1.6 $< |\eta| <$ 2.0 &                  & 0.945 $\pm$ 0.002 & 0.946 $\pm$ 0.002 & 0.999 $\pm$ 0.002 \\ %\hline
+      2.0 $< |\eta| <$ 2.5 &                  & 0.962 $\pm$ 0.002 & 0.962 $\pm$ 0.002 & 1.000 $\pm$ 0.002 \\ \hline
+    \end{tabular}
+\end{center}
+\end{table}
+
+
+\begin{table}[h!]
+\caption{Working point loose to the HLT Ele17 leg tag-and-probe efficiencies and scale factors.}
+\label{elleg17SF}
+\begin{center}
+\begin{tabular}{ | c | c | c | c | c |}
+      \hline
+      $\eta$ coverage & $p_T$ range (\GeVc) & efficiency (data) & efficiency (MC) & data/MC ratio \\ \hline % \hline
+%     0.0 $ <|\eta| <$ 0.8 & 10 $ <p_T <$  20 & 0.955 $\pm$ 0.004 & 0.969 $\pm$ 0.004 & 0.985 $\pm$ 0.006 \\ % \hline
+%     0.8 $ <|\eta| <$ 1.4 &                  & 0.852 $\pm$ 0.006 & 0.867 $\pm$ 0.007 & 0.983 $\pm$ 0.011 \\ % \hline
+%     1.6 $ <|\eta| <$ 2.0 &                  & 0.839 $\pm$ 0.011 & 0.841 $\pm$ 0.013 & 0.997 $\pm$ 0.020 \\ % \hline
+%     2.0 $ <|\eta| <$ 2.5 &                  & 0.868 $\pm$ 0.010 & 0.889 $\pm$ 0.015 & 0.976 $\pm$ 0.020 \\ % \hline
+%& & & & \\                                                                       
+      0.0 $ <|\eta| <$ 0.8 & 20 $ <p_T <$  40 & 0.983 $\pm$ 0.001 & 0.984 $\pm$ 0.001 & 0.999 $\pm$ 0.001 \\ % \hline
+      0.8 $ <|\eta| <$ 1.4 &                  & 0.932 $\pm$ 0.001 & 0.940 $\pm$ 0.001 & 0.991 $\pm$ 0.002 \\ % \hline
+      1.6 $ <|\eta| <$ 2.0 &                  & 0.895 $\pm$ 0.002 & 0.898 $\pm$ 0.003 & 0.997 $\pm$ 0.004 \\ % \hline
+      2.0 $ <|\eta| <$ 2.5 &                  & 0.933 $\pm$ 0.002 & 0.935 $\pm$ 0.003 & 0.998 $\pm$ 0.003 \\ % \hline
+ & & & & \\                                                                       
+      0.0 $ <|\eta| <$ 0.8 & 40 $ <p_T <$ 200 & 0.989 $\pm$ 0.001 & 0.991 $\pm$ 0.001 & 0.998 $\pm$ 0.001 \\ % \hline
+      0.8 $ <|\eta| <$ 1.4 &                  & 0.972 $\pm$ 0.001 & 0.973 $\pm$ 0.001 & 0.999 $\pm$ 0.001 \\ % \hline
+      1.6 $ <|\eta| <$ 2.0 &                  & 0.938 $\pm$ 0.002 & 0.939 $\pm$ 0.002 & 0.999 $\pm$ 0.002 \\ % \hline
+      2.0 $ <|\eta| <$ 2.5 &                  & 0.951 $\pm$ 0.002 & 0.955 $\pm$ 0.002 & 0.996 $\pm$ 0.003 \\ \hline
+\end{tabular}
+\end{center}
+\end{table}
+
+\begin{table}[h!]
+\caption{Dimuon trigger efficiencies, calculated using the Muon POG official numbers, for two tight muons, both with $\pt > 20~\GeVc$, in four bins of pseudorapidity for each of the two muons.}
+\label{dimuoneff}
+\begin{center}
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline
+ muon $\eta$ & 0.0 $< |\eta| < $0.9  & 0.9 $< |\eta| < $ 1.2 &  1.2 $< |\eta| < $ 2.1 & 2.1 $< |\eta| < $ 2.4 \\ \hline
+ 0.0 $< |\eta| < $ 0.9 & 0.938 $\pm$ 0.011 & 0.880 $\pm$ 0.014 & 0.864 $\pm$ 0.012 & 0.880 $\pm$ 0.021 \\
+ 0.9 $< |\eta| < $ 1.2 & 0.880 $\pm$ 0.014 & 0.836 $\pm$ 0.021 & 0.824 $\pm$ 0.017 & 0.819 $\pm$ 0.047 \\ 
+ 1.2 $< |\eta| < $ 2.1 & 0.864 $\pm$ 0.012 & 0.824 $\pm$ 0.017 & 0.813 $\pm$ 0.010 & 0.804 $\pm$ 0.021 \\
+ 2.1 $< |\eta| < $ 2.4 & 0.880 $\pm$ 0.021 & 0.819 $\pm$ 0.047 & 0.804 $\pm$ 0.021 & 0.784 $\pm$ 0.063 \\ \hline
+\end{tabular}
+\end{center}
+\end{table}
+
+As a cross check, we have compared the trigger efficiencies calculated from data
+with the trigger efficiencies provided by the HLT trigger simulation. Table~\ref{tab:hltsimu} shows
+the trigger simulation efficiencies for the Z+jets and Higss signal (300~\GeVcc{}) simulated samples.
+%% Table~\ref{tab:hltratio} lists the ratio between the trigger efficiencies calculated from data and the 
+%% trigger simulation.
+The ratio between the trigger efficiencies calculated from data and the 
+trigger simulation, averaged over $\eta$, is 0.94, both for the
+Z+jets and Higss signal (300~\GeVcc{}) simulated samples. This discrepancy can
+be explained by the missing cut on the longitudinal distance between the two muons ($\Delta z$)
+in the muon trigger simulation. The Muon POG is recalculating the data/MC trigger efficiency scale factors
+to take this effect into account. It is important to note that we are applying to the MC the trigger
+efficiencies calculated from data, listed in table~\ref{dimuoneff}, hence this effect is taken into account.
+In any case, this small discrepancy would only be relevant for the signal,
+given the background normalization is constrained to the data in the $m_{jj}$ sideband region.
+
+We have performed the same study for electrons. The overall trigger effiencies calculated from data and
+from the trigger simulation, averaged over $\pt$ and $\eta$, agree within 1\%.
+
+% MUON
+
+\begin{table}[h!]
+\caption{Muon trigger efficiencies from trigger simulation for the Z+jets and Higss signal (300~\GeVcc{}) simulated samples.}
+\label{tab:hltsimu}
+\begin{center}
+\begin{tabular}{| c| c| c| c| c|| c| c| c| c|}
+\cline{2-9}
+\multicolumn{1}{c}{} & \multicolumn{4}{|c||}{Z+jets} & \multicolumn{4}{|c|}{Higgs signal, 300~\GeVcc{}} \\ \hline
+muon $\eta$ &$0-0.9$  &$0.9-1.2$        &$1.2-2.1$        &$2.1-2.4$ &$0-0.9$  &$0.9-1.2$        &$1.2-2.1$        &$2.1-2.4$\\ \hline
+$0-0.9$	       &0.97   &0.94   &0.93   &0.92   &0.97   &0.94   &0.94   &0.93\\
+$0.9-1.2$      &0.94   &0.91   &0.91   &0.89   &0.94   &0.91   &0.90   &0.91\\
+$1.2-2.1$      &0.93   &0.91   &0.90   &0.88   &0.93   &0.91   &0.91   &0.88\\
+$2.1-2.4$      &0.92   &0.88   &0.88   &0.85   &0.90   &0.89   &0.88   &0.97\\
+\hline
+\end{tabular}
+\end{center}
+\end{table}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+%% \begin{table}[h!]
+%% \caption{Ratio between the trigger efficiencies calculated from data (Table~\ref{dimuoneff}) and
+%% from the trigger simulation (Table~\ref{tab:hltsimu}) for the Z+jets and Higss signal (300~\GeVcc{}) simulated samples.}
+%% \label{tab:hltratio}
+%% \begin{center}
+%% \begin{tabular}{| c| c| c| c| c|| c| c| c| c|}
+%% \cline{2-9}
+%% \multicolumn{1}{c}{} & \multicolumn{4}{|c||}{Z+jets} & \multicolumn{4}{|c|}{Higgs signal, 300~\GeVcc{}} \\ \hline
+%% muon $\eta$ &$0-0.9$  &$0.9-1.2$        &$1.2-2.1$        &$2.1-2.4$ &$0-0.9$  &$0.9-1.2$        &$1.2-2.1$        &$2.1-2.4$\\ \hline
+%% $0-0.9$	       &0.97   &0.94   &0.93   &0.96  &0.97   &0.94   &0.92   &0.95 \\
+%% $0.9-1.2$      &0.94   &0.91   &0.90   &0.92  &0.94   &0.92   &0.91   &0.90 \\
+%% $1.2-2.1$      &0.93   &0.91   &0.90   &0.92  &0.93   &0.91   &0.90   &0.91 \\
+%% $2.1-2.4$      &0.95   &0.93   &0.91   &0.92  &0.97   &0.92   &0.91   &0.81 \\
+%% \hline
+%% \end{tabular}
+%% \end{center}
+%% \end{table}
+

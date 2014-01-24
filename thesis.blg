@@ -1,0 +1,103 @@
+This is BibTeX, Version 0.99d (TeX Live 2012/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: thesis.aux
+The style file: unsrt.bst
+A level-1 auxiliary file: front.aux
+A level-1 auxiliary file: StandardModel/StandardModel.aux
+A level-1 auxiliary file: Experiment/Experiment.aux
+A level-1 auxiliary file: Reconstruction/Reconstruction.aux
+A level-1 auxiliary file: Selection/Selection.aux
+A level-1 auxiliary file: Optimization/Optimization.aux
+A level-1 auxiliary file: Systematics/Systematics.aux
+A level-1 auxiliary file: Results/Results.aux
+A level-1 auxiliary file: Conclusion/Conclusion.aux
+A level-1 auxiliary file: Appendix.aux
+A level-1 auxiliary file: 3D/3D.aux
+A level-1 auxiliary file: bibliography.aux
+Database file #1: all.bib
+Warning--entry type for "Wiki:Guage_Theory" isn't style-file defined
+--line 115 of file all.bib
+Warning--entry type for "LHC-HCS" isn't style-file defined
+--line 1570 of file all.bib
+Warning--entry type for "Egede_Feynman_Higgs" isn't style-file defined
+--line 1717 of file all.bib
+Warning--entry type for "LHC_Higgs_Gallery" isn't style-file defined
+--line 1725 of file all.bib
+Warning--entry type for "CERN_complex" isn't style-file defined
+--line 1733 of file all.bib
+Warning--entry type for "cms_solenoid_magnet" isn't style-file defined
+--line 1837 of file all.bib
+Warning--entry type for "Pandolfi_thesis" isn't style-file defined
+--line 1968 of file all.bib
+Warning--entry type for "Cosa_thesis" isn't style-file defined
+--line 2004 of file all.bib
+Warning--empty journal in Ridolfi2001
+Warning--empty journal in ALEPH:2010aa
+Warning--empty author in CDFandD0:2011aa
+Warning--empty journal in CDFandD0:2011aa
+Warning--empty publisher in LHCDesignReport
+Warning--empty author in ATLAS_image
+Warning--empty journal in ATLAS_image
+Warning--empty author in CMS_image
+Warning--empty journal in CMS_image
+Warning--empty author in lhcb_image
+Warning--empty journal in lhcb_image
+Warning--empty author in ALICE_image
+Warning--empty journal in ALICE_image
+Warning--empty journal in lhc_lumi_plots
+Warning--empty journal in cms_lumi_plots
+Warning--empty publisher in Bayatyan:706847
+Warning--empty journal in Herwig
+Warning--empty institution in CMS-AN-2011-399
+Warning--empty institution in CMS-PAS-JME-10-010
+Warning--empty author in CMS-PAS-BTV-11-004
+Warning--empty author in CMS-PAS-HIG-12-024
+Warning--empty year in punzi
+Warning--empty author in CMS-AN-HIG-13-064
+Warning--empty institution in pileupsys
+Warning--empty institution in 4l
+Warning--empty institution in CMS-PAS-LUM-12-001
+Warning--empty note in HIG-11-027
+Warning--empty journal in HiggsLimitTWiki
+You've used 90 entries,
+            1791 wiz_defined-function locations,
+            934 strings with 15612 characters,
+and the built_in function-call counts, 15392 in all, are:
+= -- 1273
+> -- 623
+< -- 10
++ -- 260
+- -- 170
+* -- 884
+:= -- 2588
+add.period$ -- 256
+call.type$ -- 90
+change.case$ -- 85
+chr.to.int$ -- 0
+cite$ -- 118
+duplicate$ -- 751
+empty$ -- 1616
+format.name$ -- 170
+if$ -- 3376
+int.to.chr$ -- 0
+int.to.str$ -- 90
+missing$ -- 76
+newline$ -- 436
+num.names$ -- 80
+pop$ -- 245
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 298
+stack$ -- 0
+substring$ -- 631
+swap$ -- 93
+text.length$ -- 10
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 28
+while$ -- 123
+width$ -- 92
+write$ -- 919
+(There were 36 warnings)

@@ -1,0 +1,48 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{table*}[hb]
+\caption{ 
+Optimized selection requirements in the three $b$-tag categories.
+}
+\label{finalSelection_tab}
+\vspace*{\medskipamount}
+\begin{center}
+\small
+\begin{tabular}{|l|c|c|c|}
+\hline
+  & \multicolumn{3}{|c|}{ preselection }\\
+\hline
+ & 0 $b$-tag & 1 $b$-tag  & 2 $b$-tag \\
+\hline
+$b$-tag & none & JPL &  JPM\,\&\,JPL\\
+%\vspace{-0.2cm}
+Helicity LD &  $>0.5$ & $>0.5$ & $> 0.5$ \\
+%\vspace{-0.2cm}
+%Quark-Gluon LD &  $>0.10$ & -- & --  \\
+%\vspace{-0.2cm}
+pf MET significance &  <10 & <10 & $<10$  \\
+%\vspace{-0.2cm}
+\hline
+%${ m_{ZZ}}$  &  \multicolumn{3}{|c|}{ {\rm cut\&count~only}~$[0.94\times m_H, 1.10\times m_H]$}\\
+%\vspace{-0.2cm}
+${ m_{jj}}$  &  \multicolumn{3}{|c|}{[70,110] GeV} \\
+%\vspace{-0.2cm}
+${ m_{\ell\ell}}$  & \multicolumn{3}{|c|}{[75,105] GeV} \\
+%\vspace{-0.2cm}
+
+\hline
+${p_T(l^\pm)}$  & \multicolumn{3}{|c|}{$>20/40$ GeV}\\
+%\vspace{-0.2cm}
+${p_T(\rm jets)}$ & \multicolumn{3}{|c|}{$>30$ GeV} \\
+%\vspace{-0.2cm}
+${ |\eta|(\ell^\pm)}$ &  \multicolumn{3}{|c|}{$(\mathrm{e}^\pm) <2.5$, $(\mu^\pm) <2.4$} \\
+%\vspace{-0.2cm}
+${ |\eta|(\rm jets)}$ &  \multicolumn{3}{|c|}{$<2.4$} \\
+lepton quality  & \multicolumn{3}{|c|}{see Section~\ref{sec:leptonsel}}\\
+%\vspace{-0.2cm}
+jet quality  & \multicolumn{3}{|c|}{see Section~\ref{sec:jetsel}}\\
+%\vspace{-0.2cm}
+\hline
+\end{tabular}
+\end{center}
+\end{table*}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

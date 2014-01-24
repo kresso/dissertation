@@ -1,0 +1,330 @@
+\section{Event Selection}
+
+
+\begin{frame}{Analysis workflow}
+  \begin{center}
+  \includegraphics[width=0.6\textwidth]{images/analysis_strategy.eps}
+  \end{center}
+\end{frame}
+
+
+
+
+\begin{frame}{Signal MC Samples}
+\begin{columns}
+      \begin{column}{0.5\textwidth}
+\begin{center}
+\scriptsize
+%\footnotesize
+\begin{tabular}{|c|c|}
+\hline
+$M_H$ GeV & $\sigma\times$ Br($H \rightarrow ZZ \rightarrow 2l2q$) [pb] \\ \hline
+200  &  0.2566 \\ % \hline
+ 210  &  0.2538  \\ % \hline
+ 220  &  0.2416  \\ % \hline
+ 230  &  0.2278  \\ % \hline
+ 250  &  0.2022 \\ % \hline
+ 275  &  0.1751  \\ % \hline
+ 300  &  0.1563  \\ % \hline
+ 325  &  0.1478  \\ % \hline
+ 350  &  0.1482  \\         
+ 375  &  0.1360  \\       
+ 400  &  0.1111 \\ % \hline
+ 425  &  0.0914 \\ % \hline
+ 450  &  0.7311 \\ % \hline
+ 475  &  0.6000 \\ % \hline
+ 500  &  0.4719 \\ % \hline
+  525  &  0.0380 \\ % \hline
+  550  &  0.0305 \\ % \hline
+ 575  &  0.0250 \\ % \hline
+  600  &  0.0201 \\ \hline 
+ 
+\end{tabular}
+\end{center}
+
+\end{column}
+\begin{column}{0.5\textwidth}
+
+    \end{column}
+  \end{columns}
+\end{frame}
+
+
+
+
+
+
+\begin{frame}{Samples}
+%  \begin{itemize}
+%  \item
+%    Data is Double Electron and Double Muon datasets.
+%  \item
+%    Background Monte Carlo is primaraly Z+Jets make with the MADGRAPH.
+%  \item
+%    Other Backgrounds are TT, WW, WZ, ZZ with PYTHIA.
+%  \item
+%    The signal Monte Carlo samples are POWHEG.
+%  \end{itemize}
+
+\begin{center}
+
+Data is Double Electron and Double Muon datasets.\\
+\vspace{2em}
+Background\\
+\begin{tabular}{|c|c|c|}\hline
+  MC Sample & Generator & Percent of Final Region \\ \hline \hline
+  Z+Jets  & MADGRAPH & 80\% \\ \hline 
+    tt      & PYTHIA & 7\%  \\ \hline
+    ZZ      & PYTHIA & 11\% \\ \hline
+    WZ      & PYTHIA & 2\%  \\ \hline
+    WW      & PYTHIA & <1\% \\ \hline
+\end{tabular}
+\\
+\vspace{2em}
+The signal Monte Carlo samples are POWHEG.
+
+$m_{H} = $120 to 1000 GeV
+
+\end{center}
+
+\end{frame}
+
+
+
+\begin{frame}{Leptons}
+  We are using the official prescriptions from the POGs for both Lepton ID and Isolation.
+%\vspace{1em}
+\begin{columns}
+      \begin{column}{0.5\textwidth}
+        \begin{center}
+  {\bf Electrons}
+  \begin{itemize}
+    \footnotesize
+  \item
+    $p_{T}$ > 40/20 GeV
+  \item
+    $|\eta|$ < 2.5
+  \end{itemize}
+  \vspace{2em}
+
+  {\bf Muons}
+  \begin{itemize}
+    \footnotesize
+    %\scriptsize
+  \item
+    $p_{T}$ > 40/20 GeV
+  \item
+    $|\eta|$ < 2.4
+  \end{itemize}
+  \end{center}
+\end{column}
+      
+      \begin{column}{0.5\textwidth}
+        \includegraphics[width=0.8\textwidth]{images/preselection/el/mLL.eps}\\
+         \includegraphics[width=0.8\textwidth]{images/preselection/mu/mLL.eps}
+\end{column}
+\end{columns}
+\end{frame}
+
+
+
+
+\begin{frame}{Jets}
+  
+      \begin{itemize}
+      \item
+        AK5PF, L1FastJet+L2+L3  %no MVA ID applied
+      \item
+        p$_{T}$ > 30 GeV
+      \item
+        $|\eta|$ < 2.4
+      \end{itemize}
+
+  \includegraphics[width=0.5\textwidth]{images/preselection/el/mJJ.eps}
+  \includegraphics[width=0.5\textwidth]{images/preselection/mu/mJJ.eps}
+
+\end{frame}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\begin{frame}{$b$-tagging}
+  \begin{columns}
+    \begin{column}{0.4\textwidth}
+      \begin{itemize}
+        {\small
+        \item Using {\bf JP algorithm}
+          
+        \item
+          We are looking for heavy quarks (b,c)
+        \item
+          There are ``loose''(0.275) and ``medium''(0.545) working points that are defined by the b-tag group that we use to classify our events.
+        }
+      \end{itemize}
+      
+    \end{column}
+    
+    \begin{column}{0.6\textwidth}
+      \includegraphics[width=0.99\textwidth]{images/preselection/el/j0jp_log.eps}
+%images/JPJet_MuRun2012_LOG.eps}
+    \end{column}
+  \end{columns}
+ \begin{center}
+  \begin{tabular}{|c|c|}\hline
+    0 - tag  & Both Jets < Loose \\ \hline 
+    1 - tag  & > Loose and < Medium \\ \hline
+    2 - tag  & > Loose and > Medium \\ \hline
+  \end{tabular}
+  \end{center}
+\end{frame}
+
+\begin{frame}{Window Cuts}
+\begin{center}
+Previous values of the windows around the $m_{LL}$ and $m_{JJ}$ peaks were done by eye. We optimized these windows to maximize $\dfrac{S}{\sqrt{S+B}}$ for a wide range of Higgs masses.
+\includegraphics[width=0.33\textwidth]{images/zjj_s_sb_zero.eps}
+\includegraphics[width=0.33\textwidth]{images/zjj_s_sb_one.eps}
+\includegraphics[width=0.33\textwidth]{images/zjj_s_sb_two.eps}
+\end{center}
+\end{frame}
+
+\begin{frame}{Signal and Sideband Regions}
+  {\bf Study Regions}
+  \begin{itemize}
+  \item 
+   Signal Region is 76 < m$_{ll}$ < 106 GeV and 71 < m$_{jj}$ < 111 GeV
+  \item 
+    Also we are looking at the sidebands region, defined as 60< m$_{jj}$ <71 GeV || 111< m$_{jj}$ <130 GeV (i.e. outside signal window 75< mjj < 105 GeV).
+  \end{itemize}
+ % \includegraphics[width=0.5\textwidth]{images/zjjmass_ElRun2012.eps}
+ % \includegraphics[width=0.5\textwidth]{images/zjjmass_MuRun2012.eps}
+  \begin{center}
+    \includegraphics[width=0.6\textwidth]{images/mJJ_signal_sideband.eps}
+  \end{center}
+
+ % \begin{columns}
+ %   \begin{column}{0.4\textwidth}
+ %      \begin{block}{}
+ %       \begin{center}
+ %         All plots are either inclusive pre-selection or are in the sidebands.\\
+ %        \end{center}
+ %     \end{block}
+ %   \end{column}
+ %    \begin{column}{0.6\textwidth}
+ %     \includegraphics[width=0.9\textwidth]{images/zjjmass_MuRun2012_blind.eps}
+ %    \end{column}
+ % \end{columns}
+  
+\end{frame}
+
+%\begin{frame}{Data-MC plots Pretag}
+%  \begin{center}
+%    Electrons\\
+%    $\phi$ \hspace{7.5em} $\phi^{*}$ \hspace{7.5em} Helicity LD
+%    \\
+%  \includegraphics[width=0.33\textwidth]{images/phiRefit_ElRun2012.eps}
+%  \includegraphics[width=0.33\textwidth]{images/phiStarRefit_ElRun2012.eps}
+%  \includegraphics[width=0.33\textwidth]{images/HelyLDRefit_ElRun2012.eps}\\
+%  $cos\theta_{1}$ \hspace{7.5em} $cos\theta_{1}^{*}$ \hspace{7.5em} $cos\theta_{2}$
+%  \includegraphics[width=0.33\textwidth]{images/cosTheta1Refit_ElRun2012.eps}
+%  \includegraphics[width=0.33\textwidth]{images/cosTheta1StarRefit_ElRun2012.eps}
+%  \includegraphics[width=0.33\textwidth]{images/cosTheta2Refit_ElRun2012.eps}
+%  \end{center}
+%\end{frame}
+
+
+
+%\begin{frame}{Data-MC plots Pretag}
+%  \begin{center}
+%    Muons\\
+%    $\phi$ \hspace{7.5em} $\phi^{*}$ \hspace{7.5em} Helicity LD
+%    \\
+%  \includegraphics[width=0.33\textwidth]{images/phiRefit_MuRun2012.eps}
+%  \includegraphics[width=0.33\textwidth]{images/phiStarRefit_MuRun2012.eps}
+%  \includegraphics[width=0.33\textwidth]{images/HelyLDRefit_MuRun2012.eps}\\
+%  $cos\theta_{1}$ \hspace{7.5em} $cos\theta_{1}^{*}$ \hspace{7.5em} $cos\theta_{2}$
+%  \includegraphics[width=0.33\textwidth]{images/cosTheta1Refit_MuRun2012.eps}
+%  \includegraphics[width=0.33\textwidth]{images/cosTheta1StarRefit_MuRun2012.eps}
+%  \includegraphics[width=0.33\textwidth]{images/cosTheta2Refit_MuRun2012.eps}
+%  \end{center}
+%\end{frame}
+
+\begin{frame}{$m_{ZZ}$ plots - Side Band Region}
+  \begin{center}
+    Electrons\\
+    0-tag \hspace{7.5em} 1-tag \hspace{7.5em} 2-tag
+  \includegraphics[width=0.33\textwidth]{images/preselection/0/el/mZZ_sideband_log.eps}
+  \includegraphics[width=0.33\textwidth]{images/preselection/1/el/mZZ_sideband_log.eps}
+  \includegraphics[width=0.33\textwidth]{images/preselection/2/el/mZZ_sideband_log.eps}\\
+  Muons\\
+    0-tag \hspace{7.5em} 1-tag \hspace{7.5em} 2-tag
+  
+  \includegraphics[width=0.33\textwidth]{images/preselection/0/mu/mZZ_sideband_log.eps}
+  \includegraphics[width=0.33\textwidth]{images/preselection/1/mu/mZZ_sideband_log.eps}
+  \includegraphics[width=0.33\textwidth]{images/preselection/2/mu/mZZ_sideband_log.eps}
+  \end{center}
+\end{frame}
+
+
+\begin{frame}{Upper vs Lower Sideband}
+\begin{center}
+  We also have very similar performance between the upper and lower sidebands in the $m_{ZZ}$ distribution so we are able to use them together.
+  \includegraphics[width=0.5\textwidth]{images/sidebands/divide_el_2_0.eps}
+   \includegraphics[width=0.5\textwidth]{images/sidebands/divide_mu_2_0.eps}
+\end{center}
+\end{frame}
+
+%\begin{frame}{$m_{zz}$ Distribution Lineshape Reweighting 2012}
+%  \begin{itemize}
+%  \item
+%    We have the machinery running and are implementing the lineshape reweighting for the 2012 analysis
+%  \end{itemize}
+
+%\begin{center}
+%  \includegraphics[width=0.7\textwidth]{images/mh600_parton_mother.eps}
+%\end{center}
+%\end{frame}
+
+
+
+\begin{frame}{Background Estimation}
+  \scriptsize
+  \begin{itemize}
+  \item
+    We use the mjj sideband in data to get the normalization and a MC shape correction.
+
+ % \begin{block}{}
+ %   Number of background events in the signal region extrapolated from 
+ % the side band region using the $\alpha(m_{ZZ})$ factor (as a function
+ % of m$_{ZZ}$)
+ % \begin{equation}
+ %   N_{\rm bkg}(m_{ZZ})
+ %   =N_{\rm sb}(m_{ZZ})\times\frac{N^{\rm MC}_{\rm bkg}(m_{ZZ})}{N^{\rm MC}_{\rm sb}(m_{ZZ})}
+ %   =N_{\rm sb}(m_{ZZ})\times\alpha(m_{ZZ})
+ % \end{equation}
+ %  \end{block}
+\item
+  The fit is to a Fermi*CrystallBall function
+%  $\alpha$ is a flat factor while we wait for the exclusive samples
+\end{itemize}
+
+\begin{center}
+%0-tag \vspace{7.5em} 1-tag \vspace{7.5em} 2-tag\\
+    \includegraphics[width=0.3\textwidth]{images/fromDani/mZZ_sidebandsDATA_alpha_0btag_ALL_log.png}
+    \includegraphics[width=0.3\textwidth]{images/fromDani/mZZ_sidebandsDATA_alpha_1btag_ALL_log.png}
+    \includegraphics[width=0.3\textwidth]{images/fromDani/mZZ_sidebandsDATA_alpha_2btag_ALL_log.png}\\
+0-tag \hspace{10.5em} 1-tag \hspace{10.5em} 2-tag
+\end{center}
+
+\end{frame}

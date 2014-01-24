@@ -1,0 +1,40 @@
+\begin{table}[htpb]
+\caption{ 
+Background simulated samples of the Summer12 production used in the analysis.
+The equivalent luminosity of the processed events for each sample is 
+computed using the (N)NLO cross section in the $3^\mathrm{rd}$ column.
+}
+\label{table-bkg}
+\vspace*{\medskipamount}
+\begin{center}
+\small
+\begin{tabular}{|l|l|c|c|}
+\hline
+Process & dataset & $\sigma$ [pb]& luminosity [$\invfb$] \\
+\hline 
+ & & & \\
+$Z$+jets       & /DYJetsToLL\_M-50\_TuneZ2Star\_8TeV-madgraph-tarball/ & 3503.71 & 8.7 \\
+(inclusive)    & Summer12\_DR53X-PU\_S10\_START53\_V7A-v1/AODSIM & & \\
+ & & & \\
+$Z$+1 jet      & /DY1JetsToLL\_M-50\_TuneZ2Star\_8TeV-madgraph/ & 660.6 & 36.4\\
+(exclusive)    & Summer12\_DR53X-PU\_S10\_START53\_V7A-v1/AODSIM  & & \\
+$Z$+2 jet      & /DY2JetsToLL\_M-50\_TuneZ2Star\_8TeV-madgraph/ & 215.1 & 101.6 \\
+(exclusive)    & Summer12\_DR53X-PU\_S10\_START53\_V7A-v1/AODSIM  & & \\
+$Z$+3 jet      & /DY3JetsToLL\_M-50\_TuneZ2Star\_8TeV-madgraph/ & 65.79 & 167.4 \\
+(exclusive)    & Summer12\_DR53X-PU\_S10\_START53\_V7A-v1/AODSIM  & & \\
+$Z$+4 jet      & /DY4JetsToLL\_M-50\_TuneZ2Star\_8TeV-madgraph/ & 27.59 & 232.1 \\
+(exclusive)    & Summer12\_DR53X-PU\_S10\_START53\_V7A-v1/AODSIM  & & \\
+ & & & \\
+$\ttbar$ & /TTTo2L2Nu2B\_8TeV-powheg-pythia6/ & 23.38 & 461 \\
+         & Summer12\_DR53X-PU\_S10\_START53\_V7A-v1/AODSIM  & & \\
+$ZZ$ & /ZZ\_TuneZ2star\_8TeV\_pythia6\_tauola/ & 17.654 & 549 \\
+     & Summer12\_DR53X-PU\_S10\_START53\_V7A-v1/AODSIM  & & \\
+$WZ$ & /WZ\_TuneZ2star\_8TeV\_pythia6\_tauola/ & 22.88 & 424 \\
+     & Summer12\_DR53X-PU\_S10\_START53\_V7A-v1/AODSIM  & & \\
+$WW$ & /WW\_TuneZ2star\_8TeV\_pythia6\_tauola/ & 57.1097 & 168 \\
+     & Summer12\_DR53X-PU\_S10\_START53\_V7A-v1/AODSIM  & & \\
+ & & & \\
+\hline
+\end{tabular}
+\end{center}
+\end{table}

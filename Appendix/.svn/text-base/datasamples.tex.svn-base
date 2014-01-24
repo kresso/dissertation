@@ -1,0 +1,37 @@
+\begin{table*}[h]
+\caption{Data samples used in the analysis.}
+\label{table-data}
+\vspace*{\medskipamount}
+\begin{center}
+\small
+\begin{tabular}{|l|l|r|}
+\hline
+Channel & Dataset & Luminosity [pb$^{-1}$] \\
+\hline
+$2\mu2q$ & /DoubleMu/Run2012A-13Jul2012-v1/AOD & 808\\
+         & /DoubleMu/Run2012A-recover-06Aug2012-v1/AOD & 82\\
+         & /DoubleMu/Run2012B-13Jul2012-v4/AOD & 4429 \\
+         & /DoubleMu/Run2012C-24Aug2012-v1/AOD & 495 \\
+         & /DoubleMu/Run2012C-EcalRecover\_11Dec2012-v1/AOD & 134\\
+         & /DoubleMu/Run2012C-PromptReco-v2/AOD & 6394\\
+         & /DoubleMu/Run2012D-PromptReco-v1/AOD & 7274\\
+\hline 
+$2e2q$   & /DoubleElectron/Run2012A-13Jul2012-v1/AOD & 808\\
+         & /DoubleElectron/Run2012A-recover-06Aug2012-v1/AOD & 82\\
+         & /DoubleElectron/Run2012B-13Jul2012-v4/AOD & 4429\\
+         & /DoubleElectron/Run2012C-24Aug2012-v1/AOD & 495\\
+         & /DoubleElectron/Run2012C-EcalRecover\_11Dec2012-v1/AOD & 134\\
+         & /DoubleElectron/Run2012C-PromptReco-v2/AOD & 6394\\
+         & /DoubleElectron/Run2012D-PromptReco-v1/AOD & 7274\\
+\hline 
+$e\mu qq$& /MuEG/Run2012A-13Jul2012-v1/AOD & 808\\
+         & /MuEG/Run2012A-recover-06Aug2012-v1/AOD & 82\\
+         & /MuEG/Run2012B-13Jul2012-v4/AOD & 4429\\
+         & /MuEG/Run2012C-24Aug2012-v1/AOD & 495\\
+         & /MuEG/Run2012C-EcalRecover\_11Dec2012-v1/AOD & 134\\
+         & /MuEG/Run2012C-PromptReco-v2/AOD & 6394\\
+         & /MuEG/Run2012D-PromptReco-v1/AOD & 7274\\
+\hline
+\end{tabular}
+\end{center}
+\end{table*}

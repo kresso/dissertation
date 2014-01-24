@@ -1,0 +1,890 @@
+% $Header: /cvsroot/latex-beamer/latex-beamer/solutions/generic-talks/generic-ornate-15min-45min.en.tex,v 1.5 2007/01/28 20:48:23 tantau Exp $
+
+\documentclass{beamer}
+%\usecolortheme[RGB={205,173,0}]{structure} %Gold
+\usecolortheme[RGB={218, 165, 32}]{structure} %Golden Rod
+% This file is a solution template for:
+
+% - Giving a talk on some subject.
+% - The talk is between 15min and 45min long.
+% - Style is ornate.
+\usepackage{epstopdf} %put by hand to use .eps files with pdflatex
+%\usepackage{longtable}
+\usepackage{multirow}
+
+% Copyright 2004 by Till Tantau <tantau@users.sourceforge.net>.
+%
+% In principle, this file can be redistributed and/or modified under
+% the terms of the GNU Public License, version 2.
+%
+% However, this file is supposed to be a template to be modified
+% for your own needs. For this reason, if you use this file as a
+% template and not specifically distribute it as part of a another
+% package/program, I grant the extra permission to freely copy and
+% modify this file as you see fit and even to delete this copyright
+% notice. 
+
+
+\mode<presentation>
+{
+  %\usetheme{Singapore}
+  \usetheme{Madrid}
+  % or ...
+
+  \setbeamercovered{transparent}
+  % or whatever (possibly just delete it)
+}
+
+
+\usepackage[english]{babel}
+% or whatever
+
+\usepackage[latin1]{inputenc}
+% or whatever
+
+\usepackage{times}
+\usepackage[T1]{fontenc}
+% Or whatever. Note that the encoding and the font should match. If T1
+% does not look nice, try deleting the line with the fontenc.
+
+
+\title[H$\rightarrow$ZZ$\rightarrow$2l2q] % (optional, use only with long paper titles)
+%{H$\rightarrow$ZZ$\rightarrow$2l2q}
+{SEARCH FOR THE STANDARD MODEL HIGGS BOSON IN THE DECAY CHANNEL H$\rightarrow$ZZ$\rightarrow$2l2q AT CMS}
+
+%\subtitle
+%{Status Update} % (optional)
+\author[Matthew Kress] % (optional, use only with lots of authors)
+{Matthew Kress}
+%\\
+%\vspace{1em}
+%On behalf of the 2l2q team}
+% - Use the \inst{?} command only if the authors have different
+%   affiliation.
+
+\institute[Purdue University] % (optional, but mostly needed)
+%{
+%  
+%  Purdue University}
+% - Use the \inst command only if there are several affiliations.
+% - Keep it simple, no one is interested in your street address.
+
+\date[September 28, 2012] % (optional)
+{Preliminary Report%H$\rightarrow$ZZ Meeting
+\\
+December 4, 2012
+}
+
+\subject{Talks}
+% This is only inserted into the PDF information catalog. Can be left
+% out. 
+
+
+
+% If you have a file called "university-logo-filename.xxx", where xxx
+% is a graphic format that can be processed by latex or pdflatex,
+% resp., then you can add a logo as follows:
+
+%\pgfdeclareimage[height=0.5cm]{university-logo}{images/purdue_logo}
+%\logo{\pgfuseimage{university-logo}}
+
+
+
+% Delete this, if you do not want the table of contents to pop up at
+% the beginning of each subsection:
+
+% If you wish to uncover everything in a step-wise fashion, uncomment
+% the following command: 
+\AtBeginSection[]
+{
+  \begin{frame}<beamer>{Outline}
+    \tableofcontents[currentsection,currentsubsection]
+  \end{frame}
+}
+%\beamerdefaultoverlayspecification{<+->}
+
+
+\begin{document}
+
+\begin{frame}
+  \titlepage
+\end{frame}
+
+\begin{frame}{Outline}
+  \tableofcontents
+  % You might wish to add the option [pausesections]
+\end{frame}
+
+% Since this a solution template for a generic talk, very little can
+% be said about how it should be structured. However, the talk length
+% of between 15min and 45min and the theme suggest that you stick to
+% the following rules:  
+
+% - Exactly two or three sections (other than the summary).
+% - At *most* three subsections per section.
+% - Talk about 30s to 2min per frame. So there should be between about
+%   15 and 30 frames, all told.
+
+
+\begin{frame}{2l2q Team}
+  \begin{itemize}
+%  \item
+%    \emph{\color{red} Editors:} O.Gonz\'{a}lez L\'{o}pez (CIEMAT), M.U.Mozer (Wisconsin)
+%    \vspace{1em}
+    %\tiny
+    %\scriptsize
+    \footnotesize
+  \item
+    \emph{\color{red} WISCONSIN:} M.U.Mozer
+  \item
+    \emph{\color{red} CERN:} A.Bonato, P.Lenzi, M.Mannelli	
+  \item
+    \emph{\color{red} CIEMAT:} O.Gonz\'{a}lez L\'{o}pez, D.Dom\'{i}nguez V\'{a}zquez, P.Garc\'{i}a, J.Hern\'{a}ndez, E. Navarro
+  \item
+    \emph{\color{red} JHU:} A.Gritsan, S.Bolognesi, A.Withbeck, C.Martin, I.Anderson
+  \item
+    \emph{\color{red} U \& INFN-Napoli:} A.Decosa, F.Fabozzi, L.Lista
+  \item
+    \emph{\color{red} National Central U:} A.P.Singh, S.S.Yu
+  \item
+    \emph{\color{red} Panjab:} L.K.Saini
+  \item
+    \emph{\color{red} Purdue:} D.Bortoletto, M.Kress, M.Vidal
+  \item
+    \emph{\color{red} Rochester:} R.Covarelli, P.Goldenzweig, R.Demina, A.Garcia-Bellido
+  \item
+    \emph{\color{red} UAM:} G.Codispoti, J.Fern\'{a}ndez de Troc\'{o}niz
+  \item
+    \emph{\color{red} METU:} M.Yalvac
+  \item
+    \emph{\color{red} U \& INFN-Firenze:} A.Tropiano, V.Gori, V.Ciulli, E.Gallo
+
+    
+  \end{itemize}
+\end{frame}
+
+
+%\begin{frame}{2l2q Documentation}
+%    \begin{itemize}
+%      \item
+%        Analysis Twiki
+%        \begin{itemize}
+%        \item
+%          \tiny
+          %\scriptsize
+          %\footnotesize
+%          {\color{blue} \url{https://twiki.cern.ch/twiki/bin/viewauth/CMS/HiggsZZ2l2q2012Summer}}
+%        \end{itemize}
+%        \small
+%        \item
+%          Analysis note: AN-12/115
+%        \item
+%          CADI entry: HIG-12-024
+%    \end{itemize}
+%    \begin{center}
+%    \includegraphics[width=0.5\textwidth]{images/AN2012_115.pdf}
+
+%    \end{center}
+%\end{frame}
+
+
+%\section[Standard Model]{Standard Model}
+
+
+
+
+\section[Experimental Apparatus]{Experimental Apparatus}
+
+
+\section[Event Selection]{Event Selection}
+
+\begin{frame}{Analysis workflow}
+  \begin{center}
+  \includegraphics[width=1.0\textwidth]{images/workflow.eps}
+  \end{center}
+\end{frame}
+
+
+\begin{frame}{Samples}
+  
+  \begin{itemize}
+    \item
+      All Summer12 5\_2\_X signal samples are ready
+    \item
+      Still missing the DY3JetsToLL\_M-50 samples for the 5\_2\_X Z+Jets MC.
+  \end{itemize}
+  \begin{center}
+    Data
+    \\
+    { \tiny
+      \begin{tabular}{ | c | c |}
+        \hline
+        %Sample & Number of Events \\ \hline \hline
+        DoubleMu/Run2012A-PromptReco-v1/AOD & 709 $pb^{-1}$ \\ \hline
+        DoubleMu/Run2012B-PromptReco-v1/AOD & 3241 + 1163 $pb^{-1}$ \\ \hline
+        DoubleElectron/Run2012A-PromptReco-v1/AOD & 705 $pb^{-1}$ \\ \hline
+        DoubleElectron/Run2012B-PromptReco-v1/AOD & 3241 + 1163 $pb^{-1}$ \\ \hline
+      \end{tabular}
+    }
+\\
+    MC
+    { \tiny
+      \begin{tabular}{ | c | c |}
+          \hline
+          Sample & Number of Events \\ \hline \hline
+          /DYJetsToLL\_M-50\_TuneZ2Star\_8TeV-madgraph-tarball/Summer12-PU\_S7\_START52\_V9-v2/AODSIM & 30461028 \\ \hline
+          /TTJets\_TuneZ2star\_8TeV-madgraph-tauola/Summer12-PU\_S7\_START52\_V9-v1/AODSIM&	 6736135\\ \hline
+          /WW\_TuneZ2star\_8TeV\_pythia6\_tauola/Summer12-PU\_S7\_START50\_V15-v1/AODSIM	&	 10000431\\ \hline
+          /WZ\_TuneZ2star\_8TeV\_pythia6\_tauola/Summer12-PU\_S7\_START50\_V15-v1/AODSIM	&	 10000283\\ \hline
+          /ZZ\_TuneZ2star\_8TeV\_pythia6\_tauola/Summer12-PU\_S7\_START50\_V15-v1/AODSIM	&	 9799908\\ \hline
+          /GluGluToHToZZTo2L2Q\_M-[***]\_8TeV-powheg-pythia6/Summer12-PU\_S7\_START52\_V9-v1/AODSIM & \\ \hline
+
+        \end{tabular}
+       }
+\\
+{\tiny
+*** = [200, 210, 250, 275, 300, 325, 350, 400, 600]
+ }
+\\
+\vspace{1.5em}
+      \footnotesize
+      The list of all available samples can be found at: \footnotesize { \color{blue} \url{https://twiki.cern.ch/twiki/bin/view/CMS/HiggsZZ2l2q2012Skims}}
+  \end{center}
+\end{frame}
+
+
+
+\begin{frame}{Triggers}
+
+ % {\bf Triggers}
+  \begin{columns}
+    \begin{column}{0.4\textwidth}
+      \begin{itemize}
+      \item
+        \footnotesize Muons
+        \begin{itemize}
+          \scriptsize
+        \item
+          HLT\_Mu17\_Mu8
+        \item
+          HLT\_Mu17\_TkMu8
+        \end{itemize}
+      \end{itemize}
+    \end{column}
+    \begin{column}{0.3\textwidth}
+      \begin{center}
+        {\tiny Electron Leg 8 GeV WPLoose to HLT}
+        \includegraphics[width=0.99\textwidth]{images/ZJets_8.eps}
+      \end{center}
+    \end{column}
+    \begin{column}{0.3\textwidth}
+      \begin{center}
+      {\tiny Electron Leg 17 GeV WPLoose to HLT}
+      \includegraphics[width=0.99\textwidth]{images/ZJets_17.eps}
+      \end{center}
+    \end{column}
+  \end{columns}
+  
+  \begin{columns}
+    \begin{column}{1.0\textwidth}
+  \begin{itemize}
+  \item
+    \footnotesize  Electrons
+    \begin{itemize}
+      \tiny
+    \item
+      HLT\_Ele17\_CaloIdT\_CaloIsoVL\_TrkIdVL\_TrkIsoVL \_Ele8\_CaloIdT\_CaloIsoVL\_TrkIdVL\_TrkIsoVL
+    \end{itemize}
+  \item
+    \footnotesize EMu (for backround estimation and analysis checks)
+    \begin{itemize}
+      \scriptsize
+    \item
+      Mu8\_Ele17\_CaloIdT\_CaloIsoVL
+    \item
+      Mu17\_Ele8\_CaloIdT\_CaloIsoVL\_TrkIdVL\_TrkIsoVL
+    \end{itemize}
+  \end{itemize}
+  \end{column}
+    \begin{column}{0.0\textwidth}
+    \end{column}
+  \end{columns}
+
+\vspace{2em}
+
+We are using the POG provided scale factors for electrons and computing the WP to HLT ourselves. 
+
+
+
+\end{frame}
+
+
+
+
+\begin{frame}{Leptons}
+  We are using the official prescriptions from the POGs for both Lepton ID and Isolation.
+%\vspace{1em}
+\begin{columns}
+      \begin{column}{0.5\textwidth}
+        \begin{center}
+  {\bf Electrons}
+  \begin{itemize}
+    \footnotesize
+  \item
+    GSF Elecrons
+  \item
+    $p_{T}$ > 40/20 GeV, $|\eta|$ < 2.5
+  \item
+    Working Point Loose
+  \item
+    + Tight trigger cuts
+  \item
+    PU corrected ISO < 0.15
+  \end{itemize}
+  \vspace{3em}
+
+  {\bf Muons}
+  \begin{itemize}
+    \footnotesize
+    %\scriptsize
+  \item
+    reco::Muons
+  \item
+    $p_{T}$ > 40/20 GeV, $|\eta|$ < 2.4
+  \item
+    Tight Muon
+  \item
+    PU corrected ISO < 0.12
+  \end{itemize}
+  \end{center}
+\end{column}
+      
+      \begin{column}{0.5\textwidth}
+        \includegraphics[width=0.8\textwidth]{images/stdCandle_ElRun2012.eps}\\
+         \includegraphics[width=0.8\textwidth]{images/stdCandle_MuRun2012.eps}
+\end{column}
+\end{columns}
+\end{frame}
+
+
+
+
+\begin{frame}{Object Definitions - Jets}
+  \begin{columns}
+    \begin{column}{0.4\textwidth}
+      {\bf Jets}
+      \begin{itemize}
+      \item
+        AK5PF, L1FastJet+L2+L3  %no MVA ID applied
+      \item
+        p$_{T}$ > 30 GeV , $|\eta|$ < 2.4
+      \end{itemize}
+    \end{column}
+    
+    \begin{column}{0.6\textwidth}
+      \includegraphics[width=0.99\textwidth]{images/beta_MuRun2012.eps}
+    \end{column}
+  \end{columns}
+
+  {\bf Pile-up Rejection}
+  \begin{itemize}
+  \item
+    Using $\beta$ variable to remove candidates with PU-like jets 
+  \item
+    Cutting on $\beta \geq$~0.2
+  \item
+    Signal efficiency constant with \# of primary vertexes, acceptance for PU-induced background decreases
+  \end{itemize}
+\end{frame}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\begin{frame}{$b$-tagging}
+  \begin{columns}
+    \begin{column}{0.4\textwidth}
+      \begin{itemize}
+        {\small
+        \item Using {\bf JP algorithm}, ``loose'' and ``medium'' WPs, allowing migrations among the tagging categories when applying the SF to MC
+        \item Up to date using the latest calibrations available for the JP algorithm
+        }
+      \end{itemize}
+      
+    \end{column}
+    
+    \begin{column}{0.6\textwidth}
+      \includegraphics[width=0.99\textwidth]{images/JPJet_MuRun2012_LOG.eps}
+    \end{column}
+  \end{columns}
+  
+  \vspace{0.2cm}
+  \begin{center}
+  \footnotesize
+  Using the latest SF from the BTV POG (available also in the DB)
+  \vspace{2em}
+  \\
+  For more details, follow our analysis Twiki:
+  \\ \tiny
+  {\color{blue} \url{https://twiki.cern.ch/twiki/bin/view/CMS/HiggsZZ2l2q2012BtaggingJune2012}}
+
+  
+  \end{center}
+\end{frame}
+
+
+
+\begin{frame}{Blinding}
+
+  {\bf Study Regions}
+  \begin{itemize}
+  \item 
+    We are looking at m$_{ZZ}$ distribution after pre-selection (kinematic cuts and lepton ID) and before final selection on angular LD. 
+  \item 
+    Also we are looking at the sidebands region, defined as 60< m$_{jj}$ <75 GeV || 105< m$_{jj}$ <130 GeV (i.e. outside signal window 75< mjj < 105 GeV).
+  \end{itemize}
+  
+
+  \begin{columns}
+    \begin{column}{0.4\textwidth}
+      
+      \begin{block}{}
+        \begin{center}
+          All plots are either inclusive pre-selection or are in the sidebands.\\
+         % \vspace{.5em}
+         % Normalization is off by ~5\% for muons and ~10\% for electrons
+
+        \end{center}
+      \end{block}
+    \end{column}
+    
+    \begin{column}{0.6\textwidth}
+      \includegraphics[width=0.9\textwidth]{images/zjjmass_MuRun2012_blind.eps}
+      
+    \end{column}
+  \end{columns}
+  
+\end{frame}
+
+\begin{frame}{Data-MC plots Pretag}
+  \begin{center}
+    Electrons\\
+    $\phi$ \hspace{7.5em} $\phi^{*}$ \hspace{7.5em} Helicity LD
+    \\
+  \includegraphics[width=0.33\textwidth]{images/phiRefit_ElRun2012.eps}
+  \includegraphics[width=0.33\textwidth]{images/phiStarRefit_ElRun2012.eps}
+  \includegraphics[width=0.33\textwidth]{images/HelyLDRefit_ElRun2012.eps}\\
+  $cos\theta_{1}$ \hspace{7.5em} $cos\theta_{1}^{*}$ \hspace{7.5em} $cos\theta_{2}$
+  \includegraphics[width=0.33\textwidth]{images/cosTheta1Refit_ElRun2012.eps}
+  \includegraphics[width=0.33\textwidth]{images/cosTheta1StarRefit_ElRun2012.eps}
+  \includegraphics[width=0.33\textwidth]{images/cosTheta2Refit_ElRun2012.eps}
+  \end{center}
+\end{frame}
+
+
+
+\begin{frame}{Data-MC plots Pretag}
+  \begin{center}
+    Muons\\
+    $\phi$ \hspace{7.5em} $\phi^{*}$ \hspace{7.5em} Helicity LD
+    \\
+  \includegraphics[width=0.33\textwidth]{images/phiRefit_MuRun2012.eps}
+  \includegraphics[width=0.33\textwidth]{images/phiStarRefit_MuRun2012.eps}
+  \includegraphics[width=0.33\textwidth]{images/HelyLDRefit_MuRun2012.eps}\\
+  $cos\theta_{1}$ \hspace{7.5em} $cos\theta_{1}^{*}$ \hspace{7.5em} $cos\theta_{2}$
+  \includegraphics[width=0.33\textwidth]{images/cosTheta1Refit_MuRun2012.eps}
+  \includegraphics[width=0.33\textwidth]{images/cosTheta1StarRefit_MuRun2012.eps}
+  \includegraphics[width=0.33\textwidth]{images/cosTheta2Refit_MuRun2012.eps}
+  \end{center}
+\end{frame}
+
+\begin{frame}{Data-MC $m_{lljj}$ plots - Side Band Region}
+  \begin{center}
+    Electrons\\
+    0-tag \hspace{7.5em} 1-tag \hspace{7.5em} 2-tag
+  \includegraphics[width=0.33\textwidth]{images/lljjmass_0btagSB_ElRun2012_LOG.eps}
+  \includegraphics[width=0.33\textwidth]{images/lljjmass_1btagSB_ElRun2012_LOG.eps}
+  \includegraphics[width=0.33\textwidth]{images/lljjmass_2btagSB_ElRun2012_LOG.eps}\\
+  Muons\\
+    0-tag \hspace{7.5em} 1-tag \hspace{7.5em} 2-tag
+  
+  \includegraphics[width=0.33\textwidth]{images/lljjmass_0btagSB_MuRun2012_LOG.eps}
+  \includegraphics[width=0.33\textwidth]{images/lljjmass_1btagSB_MuRun2012_LOG.eps}
+  \includegraphics[width=0.33\textwidth]{images/lljjmass_2btagSB_MuRun2012_LOG.eps}
+  \end{center}
+\end{frame}
+
+\begin{frame}{$m_{zz}$ Distribution Lineshape Reweighting 2012}
+  \begin{itemize}
+  \item
+    We have the machinery running and are implementing the lineshape reweighting for the 2012 analysis
+  \end{itemize}
+
+\begin{center}
+  \includegraphics[width=0.7\textwidth]{images/mh600_parton_mother.eps}
+\end{center}
+\end{frame}
+
+
+
+\begin{frame}{Background Estimation}
+  \scriptsize
+  \begin{itemize}
+  \item
+    We use the mjj sideband in data to get the normalization and a MC shape correction.
+
+  \begin{block}{}
+    Number of background events in the signal region extrapolated from 
+  the side band region using the $\alpha(m_{ZZ})$ factor (as a function
+  of m$_{ZZ}$)
+  \begin{equation}
+    N_{\rm bkg}(m_{ZZ})
+    =N_{\rm sb}(m_{ZZ})\times\frac{N^{\rm MC}_{\rm bkg}(m_{ZZ})}{N^{\rm MC}_{\rm sb}(m_{ZZ})}
+    =N_{\rm sb}(m_{ZZ})\times\alpha(m_{ZZ})
+  \end{equation}
+   \end{block}
+\item
+  The fit is to a Fermi*CrystallBall function
+\item
+  $\alpha$ is a flat factor while we wait for the exclusive samples
+\end{itemize}
+
+\begin{center}
+%0-tag \vspace{7.5em} 1-tag \vspace{7.5em} 2-tag\\
+    \includegraphics[width=0.3\textwidth]{images/fromDani/mZZ_sidebandsDATA_alpha_0btag_ALL_log.png}
+    \includegraphics[width=0.3\textwidth]{images/fromDani/mZZ_sidebandsDATA_alpha_1btag_ALL_log.png}
+    \includegraphics[width=0.3\textwidth]{images/fromDani/mZZ_sidebandsDATA_alpha_2btag_ALL_log.png}\\
+0-tag \hspace{10.5em} 1-tag \hspace{10.5em} 2-tag
+\end{center}
+
+\end{frame}
+
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section[Systematic Uncertainties]{Systematic Uncertainties}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+
+
+
+
+
+%\begin{frame}{Background Estimation }
+%  More about signal region extrapolation -  (plots etc.)
+%\end{frame}
+\begin{frame}{Efficiency Plots}
+  \begin{center}
+    Electrons\\
+    \includegraphics[width=0.3\textwidth]{images/fromDani/SignalEfficiencyFits27Sept_Run2012_AB/effFit_ELE_0btag.png}
+    \includegraphics[width=0.3\textwidth]{images/fromDani/SignalEfficiencyFits27Sept_Run2012_AB/effFit_ELE_1btag.png}
+    \includegraphics[width=0.3\textwidth]{images/fromDani/SignalEfficiencyFits27Sept_Run2012_AB/effFit_ELE_2btag.png}\\
+    Muons\\
+    \includegraphics[width=0.3\textwidth]{images/fromDani/SignalEfficiencyFits27Sept_Run2012_AB/effFit_MU_0btag.png}
+    \includegraphics[width=0.3\textwidth]{images/fromDani/SignalEfficiencyFits27Sept_Run2012_AB/effFit_MU_1btag.png}
+    \includegraphics[width=0.3\textwidth]{images/fromDani/SignalEfficiencyFits27Sept_Run2012_AB/effFit_MU_2btag.png}
+\end{center}
+\end{frame}
+
+\begin{frame}{Systematics}
+
+
+\begin{columns}
+    \begin{column}{0.45\textwidth}
+ 
+{\small      
+{\bf Background systematics}
+\vspace{0.2em}
+
+      \begin{itemize}
+      \item Statistics in m$_{jj}$ sideband data
+      \item Statistics in MC used for $\alpha$ calculation
+      \item  Differences between MC generators
+        (\alert{no other Z+Jets MC samples for now.}) 
+      \end{itemize}
+}
+
+    \end{column}
+    
+    \begin{column}{0.55\textwidth}
+ {\small  
+{\bf New for 2012}
+      \begin{itemize}
+        \item PU reweighting uncertainty
+        \item Tag and Probe efficiency uncertainty
+        \item JES uncertainty
+        \item b-tagging uncertainty 
+      \end{itemize}
+}
+\vspace{0.5em}
+
+      {\tiny
+        \begin{tabular}{|c|c|c|c|}
+          \hline
+          source &   0 $b$-tag &   1 $b$-tag &   2 $b$-tag \\
+          \hline
+          % \vspace{-0.2cm}
+          \hline
+          muons  reco &  \multicolumn{3}{|c|}{2.7\%} \\
+          \hline
+          electrons reco &  \multicolumn{3}{|c|}{4.5\%} \\
+          \hline
+          jet reco &  \multicolumn{3}{|c|}{1\%--8\%(will update)} \\
+          \hline
+          pileup &  \multicolumn{3}{|c|}{1-2\%}  \\
+          \hline
+          $b$-tagging &  2-7\% & 3-5\% & 10-11\% \\
+          \hline
+          MET &  -- & -- & 3-4\% \\
+          \hline
+          production mechanism (PDF)&  \multicolumn{3}{|c|}{3\%} \\
+          \hline
+          production mechanism (VBF)&   \multicolumn{3}{|c|}{1\%}  \\
+          \hline
+          luminosity &  \multicolumn{3}{|c|}{5$\%$} \\
+          \hline
+          Higgs cross-section (for $R$) &  \multicolumn{3}{|c|}{13--18$\%$ }   \\
+          \hline
+        \end{tabular}
+      }
+      
+    \end{column}
+  \end{columns}
+
+
+\end{frame}
+
+
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section[Signal Region Optimization]{Signal Region Optimization}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section[Conclusion]{Conclusion}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+
+
+
+\begin{frame}{2012 Expected Limits}
+
+  \begin{itemize}
+  \item
+    This is the preliminary expected limit for 2012 with ICHEP data% (L = 5.1 $fb ^ {-1}$).
+\end{itemize}
+\begin{columns}
+    \begin{column}{0.5\textwidth}
+\begin{itemize}
+  \item
+    Includes the lineshape reweighting (not the most recent), but also includes the uncertainty on the higgs width at high mass that we were quoting last year.
+  \item
+    Release: CMSSW\_5\_2\_4
+  \item
+    TAG: V02-02-03
+\item
+  \emph{\color{red} Not The Final Limit}
+  \end{itemize}
+  \end{column}
+\begin{column}{0.5\textwidth}
+  \begin{center}
+    \includegraphics[width=0.99\textwidth]{images/fromDani/AsymCL_27Sept_Run2012AB/ASCL_8TeV_27Sept_oldLR_newtrees.png}
+  \end{center}
+
+\end{column}
+  \end{columns}
+
+\end{frame}
+
+
+%\begin{frame}{2012 Expected Limits}
+%More stuff in the about the limits and probably some comparison with the 2011 limits or something like that.
+%\end{frame}
+
+
+\begin{frame}{Status of 2011 Data Analysis}{$m_{zz}$ Distribution Lineshape Reweighting 2011}
+  \begin{columns}
+    \begin{column}{0.4\textwidth}
+      \scriptsize
+  \begin{itemize}
+  \item
+    We have the machinery running to implement the lineshape reweighting for the analysis
+  \end{itemize}
+\end{column}
+    
+    \begin{column}{0.55\textwidth}
+  \includegraphics[width=0.5\textwidth]{images/fromOscar/lineshapefit_reweight_mh600_0tags.pdf}
+  \includegraphics[width=0.5\textwidth]{images/fromOscar/lineshapefit_reweight_mh600_2tags.pdf}
+ \end{column}
+  \end{columns}
+
+  \begin{center}
+
+  \includegraphics[width=0.4\textwidth]{images/fromOscar/lineshapereweight_paramterization_mh600_0tags.pdf}
+  \includegraphics[width=0.4\textwidth]{images/fromOscar/lineshapereweight_paramterization_mh600_2tags.pdf}
+
+  \end{center}
+\end{frame}
+
+
+\begin{frame}{Conclusions}
+  \begin{center}
+  
+  Priorities
+\\
+\vspace{1em}
+\begin{tabular}{ |c|c|c|}
+  \hline
+              & 2011 & 2012 \\ \hline \hline
+< 200 GeV     &  Same as last Year & Work in Progress \\ \hline
+200 - 600 GeV &  Working on Reweight  & In Good Shape \\ \hline
+600 - 1 TeV   &  Low Priority & Work in Progress \\ \hline
+VBF           & None & Work in Progress \\ \hline
+
+\end{tabular}
+\end{center}
+\vspace{2em}
+\begin{itemize}
+  \item
+    We are going out for HCP
+  \item
+    Wanting Preapproval with ICHEP data.
+  \end{itemize}
+
+\end{frame}
+
+\begin{frame}
+\begin{center}
+\huge
+BACKUP
+\end{center}
+\end{frame}
+
+
+\begin{frame}
+  \frametitle{B-tagging Systematic Uncertainties}
+
+Calculated in final regions by shifting the error on the SF up and down.
+
+\vspace{0.2cm}
+\begin{center}
+{\tiny
+Electrons:
+
+\begin{tabular}{c|c|c|c|c|c|c}
+\hline
+\hline
+          & \multicolumn{2}{|c|}{0-tag} &  \multicolumn{2}{|c}{1-tag} &
+          \multicolumn{2}{|c}{2-tag} \\
+
+H$_{mass}$ & $\frac{SF_{Up}}{SF_{Central}}$  &
+$\frac{SF_{Down}}{SF_{Central}}$ & $\frac{SF_{Up}}{SF_{Central}}$   &
+$\frac{SF_{Down}}{SF_{Central}}$ & $\frac{SF_{Up}}{SF_{Central}}$   & $\frac{SF_{Down}}{SF_{Central}}$  \\
+\hline
+200    &  0.95 & 1.02 & 1.08 & 1.01 &1.08&0.87\\
+250    &  0.97 & 1.03 & 1.05 & 0.94 &1.06&0.96\\
+300    &  0.97 & 1.01 & 1.02 & 0.99 &1.11&0.91\\
+350    &  0.97 & 1.03 & 1.02 & 0.98 &1.09&0.92\\
+400    &  0.97 & 1.02 & 1.03 & 1.00 &1.08&0.91\\
+425    &  0.98 & 1.04 & 1.02 & 0.96 &1.08&0.94\\
+525    &  0.96 & 1.03 & 1.04 & 0.98 &1.07&0.91\\
+600    &  0.97 & 1.03 & 1.01 & 0.96 &1.09&0.91\\
+\hline
+\hline
+\end{tabular}
+
+\vspace{0.5cm}
+
+
+Muons:
+
+\begin{tabular}{c|c|c|c|c|c|c}
+\hline
+\hline
+          & \multicolumn{2}{|c|}{0-tag} &  \multicolumn{2}{|c}{1-tag} &
+          \multicolumn{2}{|c}{2-tag} \\
+
+H$_{mass}$ & $\frac{SF_{Up}}{SF_{Central}}$  &
+$\frac{SF_{Down}}{SF_{Central}}$ & $\frac{SF_{Up}}{SF_{Central}}$   &
+$\frac{SF_{Down}}{SF_{Central}}$ & $\frac{SF_{Up}}{SF_{Central}}$   & $\frac{SF_{Down}}{SF_{Central}}$  \\
+\hline
+200    &  0.96 & 1.03 & 1.04 & 1.00 &1.05&0.82\\
+250    &  0.97 & 1.03 & 1.01 & 0.99 &1.12&0.83\\
+300    &  0.98 & 1.03 & 1.01 & 0.98 &1.09&0.90\\
+350    &  0.97 & 1.02 & 1.00 & 0.98 &1.13&0.92\\
+400    &  0.97 & 1.03 & 1.02 & 1.01 &1.07&0.86\\
+425    &  0.98 & 1.03 & 1.01 & 0.99 &1.10&0.91\\
+525    &  0.97 & 1.03 & 1.01 & 0.97 &1.11&0.95\\
+600    &  0.97 & 1.02 & 1.04 & 1.01 &1.06&0.89\\
+\hline
+\hline
+\end{tabular}
+
+}
+\end{center}
+\end{frame}
+
+
+\begin{frame}{Normalization to Lumi}
+\begin{center}
+Normalization is off by ~5\% for muons and ~10\% for electrons
+\\
+
+\vspace{2em}
+
+Electrons \hspace{12em} Muons \vspace{3em}
+\includegraphics[width=0.5\textwidth]{images/zjjmass_ElRun2012_lumi.eps}
+\includegraphics[width=0.5\textwidth]{images/zjjmass_MuRun2012_lumi.eps}
+\end{center}
+\end{frame}
+
+
+
+\begin{frame}
+\includegraphics[width=0.33\textwidth]{images/fromDani/SidebandFits_27Sept_noalpha/mZZ_sidebandsDATA_alpha_0btag_ALL_log.png}
+\includegraphics[width=0.33\textwidth]{images/fromDani/SidebandFits_27Sept_noalpha/mZZ_sidebandsDATA_alpha_1btag_ALL_log.png}
+\includegraphics[width=0.33\textwidth]{images/fromDani/SidebandFits_27Sept_noalpha/mZZ_sidebandsDATA_alpha_2btag_ALL_log.png}\\
+\includegraphics[width=0.33\textwidth]{images/fromDani/SidebandFits_27Sept_noalpha/mZZ_sidebandsDATA_alpha_0btag_ALL.png}
+\includegraphics[width=0.33\textwidth]{images/fromDani/SidebandFits_27Sept_noalpha/mZZ_sidebandsDATA_alpha_1btag_ALL.png}
+\includegraphics[width=0.33\textwidth]{images/fromDani/SidebandFits_27Sept_noalpha/mZZ_sidebandsDATA_alpha_2btag_ALL.png}
+
+\end{frame}
+
+
+\end{document}
+
+

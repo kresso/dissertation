@@ -1,0 +1,63 @@
+% This file was created with JabRef 2.7b.
+% Encoding: UTF-8
+
+@ARTICLE{PDG2012,
+  author = {J. Beringer et al. (Particle Data Group)},
+  title = {2012 Review of Particle Physics},
+  journal = {Phys. Rev. D},
+  year = {2012},
+  volume = {86},
+  owner = {kress},
+  timestamp = {2012.07.23}
+}
+
+@ARTICLE{Glashow1961,
+  author = {Glashow, S.L.},
+  title = {{Partial Symmetries of Weak Interactions}},
+  journal = {Nucl.Phys.},
+  year = {1961},
+  volume = {22},
+  pages = {579-588},
+  __markedentry = {[kress:6]},
+  doi = {10.1016/0029-5582(61)90469-2},
+  owner = {kress},
+  slaccitation = {%%CITATION = NUPHA,22,579;%%},
+  timestamp = {2012.05.21}
+}
+
+@BOOK{Goossens:1994,
+  title = {The {\LaTeX} Companion},
+  publisher = {Addison-Wesley},
+  year = {1994},
+  author = {Michel Goossens and Frank Mittelbach and Alexander Samarin},
+  address = {Reading Massachusetts}
+}
+
+@BOOK{Kopka:1999,
+  title = {A Guide to {\LaTeX}, : Document Preparation for Beginners and Advanced
+	Users},
+  publisher = {Addison-Wesley},
+  year = {1999},
+  author = {Helmut Kopka and Patrick W. Daly},
+  address = {Reading Massachusetts},
+  edition = {Third}
+}
+
+@BOOK{Kopka:1995,
+  title = {A Guide to {\LaTeX} : Document Preparation for Beginners and Advanced
+	Users},
+  publisher = {Addison-Wesley},
+  year = {1995},
+  author = {Helmut Kopka and Patrick W. Daly},
+  address = {Reading Massachusetts},
+  edition = {Second}
+}
+
+@BOOK{Lamport:1994,
+  title = {{\LaTeX}: A Document Preparation System},
+  publisher = {Addison-Wesley},
+  year = {1994},
+  author = {Leslie Lamport},
+  address = {Reading Massachusetts}
+}
+

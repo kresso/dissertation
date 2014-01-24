@@ -1,0 +1,181 @@
+\section{Signal Region Optimization}
+
+\begin{frame}{Helicity and Production Angles}
+\begin{center}
+Final state kinematics completely determined by 5 angles.
+\includegraphics[width=0.6\textwidth]{images/plots/angles-HZZ2l2q}
+\\
+$ cos(\theta^*), cos(\theta_1), cos(\theta_2), \Phi, \Phi_1$
+\end{center}
+\end{frame}
+
+
+\begin{frame}{Electron Helicity and Production Angles}
+\begin{center}
+\includegraphics[width=0.33\textwidth]{images/preselection/0/el/costheta1.eps}
+\includegraphics[width=0.33\textwidth]{images/preselection/0/el/costheta2.eps}
+\includegraphics[width=0.33\textwidth]{images/preselection/0/el/costhetast.eps}
+\\
+\includegraphics[width=0.33\textwidth]{images/preselection/0/el/phi.eps}
+\includegraphics[width=0.33\textwidth]{images/preselection/0/el/phi1.eps}
+%\includegraphics[width=0.33\textwidth]{images/plots/HelyLDRefit_ElRun2012.png}
+\end{center}
+\end{frame}
+
+
+\begin{frame}{Muon Helicity and Production Angles}
+\begin{center}
+\includegraphics[width=0.33\textwidth]{images/preselection/0/mu/costheta1.eps}
+\includegraphics[width=0.33\textwidth]{images/preselection/0/mu/costheta2.eps}
+\includegraphics[width=0.33\textwidth]{images/preselection/0/mu/costhetast.eps}
+\\
+\includegraphics[width=0.33\textwidth]{images/preselection/0/mu/phi.eps}
+\includegraphics[width=0.33\textwidth]{images/preselection/0/mu/phi1.eps}
+
+\end{center}
+\end{frame}
+
+
+
+\begin{frame}{Signal Angular Distribution Fits}
+\begin{center}
+Example fits at for 500 GeV (475 - 550 GeV).
+\includegraphics[width=0.33\textwidth]{images/plots/sigPDF_CosTheta1proj_500.pdf}
+\includegraphics[width=0.33\textwidth]{images/plots/sigPDF_CosTheta2proj_500.pdf}
+\includegraphics[width=0.33\textwidth]{images/plots/sigPDF_CosThetaSproj_500.pdf}
+\\
+\includegraphics[width=0.33\textwidth]{images/plots/sigPDF_Phiproj_500.pdf}
+\includegraphics[width=0.33\textwidth]{images/plots/sigPDF_PhiStar1proj_500.pdf}
+
+%sigPDF_CosTheta1proj_500.pdf  sigPDF_CosTheta2proj_500.pdf  sigPDF_CosThetaSproj_500.pdf  sigPDF_Phiproj_500.pdf  sigPDF_PhiStar1proj_500.pdf
+
+\end{center}
+\end{frame}
+
+
+
+\begin{frame}{Helicity LD}
+\begin{center}
+$LD = \dfrac{P_{sig}}{P_{sig} + P_{bkg}}$
+\\
+%\vpace{1em}
+\includegraphics[width=0.5\textwidth]{images/preselection/el/helyLD.eps}
+\includegraphics[width=0.5\textwidth]{images/preselection/mu/helyLD.eps}
+\\
+
+We cut on 0.5 for all of the b-tag regions.
+%\vspace{2em}
+%\tiny
+%\begin{tabular}{|l|c|c|c|}
+%\hline
+% & 0 $b$-tag & 1 $b$-tag  & 2 $b$-tag \\
+%\hline
+%Helicity LD &  $>(0.55+0.00025\times m_{ZZ})$ & $>(0.302+0.000656\times m_{ZZ})$ & $> 0.5$ \\
+%\vspace{-0.2cm}
+%Quark-Gluon LD &  $>0.10$ & -- & --  \\
+%\vspace{-0.2cm}
+%\vspace{-0.2cm}
+%\hline
+%\end{tabular}
+\end{center}
+\end{frame}
+
+
+
+
+\begin{frame}{Neural Network with TMVA Package}
+\begin{center}
+\includegraphics[width=0.8\linewidth]{images/plots/NN/nn_network_architecture}
+\end{center}
+\end{frame}
+
+
+
+\begin{frame}{Neural Network Training and Testing}
+\begin{center}
+The trainings are done after preselection and additionally require at least one B-tagged Medium jet. (Trained on H 400 GeV)
+\includegraphics[width=0.7\linewidth]{images/plots/NN/MLP.eps}
+%\includegraphics[width=0.5\linewidth]{images/plots/NN/Likelihood_TCHEM.pdf}
+\end{center}
+\end{frame}
+
+\begin{frame}{MLP}
+\begin{center}
+\includegraphics[width=0.49\textwidth]{images/preselection/el/MLP.eps}
+\includegraphics[width=0.49\textwidth]{images/preselection/mu/MLP.eps}\\
+\end{center}
+\end{frame}
+
+
+\begin{frame}{MLP - In b-tag regions}
+\begin{center}
+Electrons (zero,one,two)\\
+\includegraphics[width=0.33\textwidth]{images/preselection/0/el/MLP.eps}
+\includegraphics[width=0.33\textwidth]{images/preselection/1/el/MLP.eps}
+\includegraphics[width=0.33\textwidth]{images/preselection/2/el/MLP.eps}\\
+Muons (zero,one,two)\\
+\includegraphics[width=0.33\textwidth]{images/preselection/0/mu/MLP.eps}
+\includegraphics[width=0.33\textwidth]{images/preselection/1/mu/MLP.eps}
+\includegraphics[width=0.33\textwidth]{images/preselection/2/mu/MLP.eps}\\
+\end{center}
+\end{frame}
+
+
+
+%\begin{frame}{MLP - Many Higgs Masses}
+%\begin{center}
+%Electrons (zero,one,two)\\
+%\includegraphics[width=0.33\textwidth]{images/mva_highmass/zero_MLP.eps}
+%\includegraphics[width=0.33\textwidth]{images/mva_highmass/one_MLP.eps}
+%\includegraphics[width=0.33\textwidth]{images/mva_highmass/two_MLP.eps}\\
+%Muons (zero,one,two)\\
+%\includegraphics[width=0.33\textwidth]{images/mva_highmass/zero_mu_MLP.eps}
+%\includegraphics[width=0.33\textwidth]{images/mva_highmass/one_mu_MLP.eps}
+%\includegraphics[width=0.33\textwidth]{images/mva_highmass/two_mu_MLP.eps}\\
+%\end{center}
+%\end{frame}
+
+
+
+
+\begin{frame}{MLP vs Helicity LD}
+\begin{center}
+The working point is the background rejection point that we currently achieve in the two tag region in our analysis.
+\includegraphics[width=0.7\linewidth]{images/plots/NN/pretag_ROC_wincut.pdf}
+\end{center}
+\end{frame}
+
+
+\begin{frame}{HelyLD Optimization}
+\begin{center}
+
+  \begin{columns}
+    \begin{column}{0.3\textwidth}
+      \begin{center}
+        We do an optimization for the cut on the HelyLD maximizing the Punzi equation $\dfrac{sig_{eff}}{0.98 + \sqrt{B}}$.
+      \end{center}
+    \end{column}
+    \begin{column}{0.7\textwidth}
+      \includegraphics[width=0.99\linewidth]{images/two_300.eps}
+    \end{column}
+  \end{columns}
+
+While this plot is for only one b-tag region and one mass we find 0.5 a very good number to cut on for all b-tag regions.
+\end{center}
+\end{frame}
+
+
+
+%\begin{frame}{MLP and HelyLD Data/MC Discrepancy}
+%\begin{center}
+%Both the HelyLD and the MLP don't agree in the background like regions between data and MC.
+%\includegraphics[width=0.7\textwidth]{images/preselection/0/el/costhetast.eps}
+%\end{center}
+%\end{frame}
+
+%\begin{frame}{Solution}
+%\begin{center}
+%This is a MC issue that can be fixed by cutting on |$cos(\theta^*)$| > 0.8 or by refitting MC to data.\\
+%\includegraphics[width=0.7\textwidth]{images/preselection/0/el/costhetast.eps}
+%\end{center}
+%\end{frame}

@@ -1,0 +1,83 @@
+
+
+The  standard tag-\&-probe method used to evaluate the lepton identification efficiencies
+from data requires the reconstruction of 
+the dilepton system with invariant mass in the range [60-120]~\GeVcc.  One of the
+leptons, called tag, is required to pass full selection criteria and to match the tighter
+leg of the trigger.
+The other lepton candidate, called probem is selected with criteria that depend on
+the efficiency being measured.
+The sample is divided into two exclusive subsamples depending on whether
+the probe lepton passes or fails the selection criteria currently under 
+investigation. Due to the presence of background events, 
+the signal yields are obtained with a fit to the invariant mass distribution of the
+dilepton system. The measured efficiency is calculated as a function of $p_T$ and $\eta$
+of the probe lepton from the relative yields
+of the signal in subsamples with passing or failing probes.
+Finally the data to MC scale factors are deduced by dividing the efficiencies
+in data to the ones obtained from MC using exactly same procedure.
+Scale factors are used instead of raw efficiencies in order to benefit from 
+partial cancellations of systematic uncertainites associated with the procedure.
+The total efficiency measurement is factorized into five sequential relative
+efficiency measurements: tracking, reconstruction, identification, isolation 
+and the total trigger efficiency, given by the product:
+\begin{equation*}
+\label{eq:efficiency}
+\epsilon_{lepton} = \epsilon_{tracking} \times \epsilon_{RECO/Tracking} \times \epsilon_{ID/RECO} \times \epsilon_{ISO/ID} \times \epsilon_{Trigger/ISO} 
+\end{equation*}
+
+Lepton identification requirements are given in Table~\ref{tab:electronid} for electrons,
+and in Table~\ref{tab:muonid} for muons. The data to simulation scale factors for these
+electron and muon identification requirements are listed in Table~\ref{eleSF}.
+
+\begin{table}[htb]
+\caption{Electron ID requirements for the Loose ID working point.}
+\label{tab:electronid}
+\vspace*{\medskipamount}
+\begin{center}
+\small
+\begin{tabular}{|l|l|l|}
+\hline
+Variable & Barrel cut & Endcap cut  \\
+\hline
+$\Delta \eta_{trk, supercluster}$ & $<0.007$ & $<0.009$ \\
+$\Delta \phi_{trk, supercluster}$ & $<0.15$ & $<0.1$ \\
+$\sigma_{i\eta, i\eta}$ & $<0.01$ & $<0.03$ \\
+$H/E$ & $<0.12$ & $<0.10$ \\
+$d_{0}$ (wrt primary vertex) & $< 0.2 \mm$ & $< 0.2 \mm$ \\
+$d_z$ (wrt primary vertex) & $< 2 \mm$ & $< 2 \mm$ \\
+$|1/E - 1/p|$ & $< 0.05$ & $<0.05$ \\
+$I_{PF, \,\, corr}/\pt$ & $< 0.15$ & $<0.15$ \\
+Missing hits & $\le 1$ & $\le 1$ \\
+Conversion vertex fit prob.& $< 10^{-6}$ & $< 10^{-6}$ \\
+\hline
+\end{tabular}
+\end{center}
+\end{table}
+
+\begin{table}[htb]
+\caption{Muon ID requirements for the Tight ID working point.}
+\label{tab:muonid}
+\vspace*{\medskipamount}
+\begin{center}
+\small
+\begin{tabular}{|l|l|}
+\hline
+Variable & Cut  \\
+\hline
+isGlobalMuon & True \\
+isPFMuon & True \\
+%isTrackerMuon & True \\
+$\chi^2 / ndof$ (global fit) & $<10$ \\
+Muon chamber hits in global fit & $>0$ \\
+Muon stations with muon segments & $>1$ \\
+$d_{xy}$ (from tracker, wrt primary vertex) & $< 2 \mm$  \\
+$d_z$ (from tracker, wrt primary vertex) & $< 5 \mm$  \\
+Valid pixel hits (tracker track) & $> 0$ \\
+Tracker layers with hits & $>5$ \\
+$I_{PF, \,\, corr}/\pt$ & $< 0.12$ \\
+\hline
+\end{tabular}
+\end{center}
+\end{table}
+

@@ -1,0 +1,2700 @@
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2013.6.27)  10 JAN 2014 16:56
+entering extended mode
+ \write18 enabled.
+ %&-line parsing enabled.
+**defense.tex
+(./defense.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, dumylang, nohyphenation, lo
+aded.
+(/usr/share/texmf/tex/latex/beamer/base/beamer.cls
+(/usr/share/texmf/tex/latex/beamer/base/beamerbasercs.sty
+Package: beamerbasercs 2010/06/12 (rcs-revision c3821710bb40)
+)
+Document Class: beamer 2010/06/21 development version 3.10 A class for typesett
+ing presentations (rcs-revision a6b1a8434d30)
+(/usr/share/texmf/tex/latex/beamer/base/beamerbasemodes.sty
+Package: beamerbasemodes 2010/05/01 (rcs-revision efa082c6111d)
+\beamer@tempbox=\box26
+\beamer@tempcount=\count79
+\c@beamerpauses=\count80
+
+(/usr/share/texmf/tex/latex/beamer/base/beamerbasedecode.sty
+Package: beamerbasedecode 2010/05/01 (rcs-revision efa082c6111d)
+\beamer@slideinframe=\count81
+\beamer@minimum=\count82
+)
+\beamer@commentbox=\box27
+\beamer@modecount=\count83
+)
+\headheight=\dimen102
+\headdp=\dimen103
+\footheight=\dimen104
+\sidebarheight=\dimen105
+\beamer@tempdim=\dimen106
+\beamer@finalheight=\dimen107
+\beamer@animht=\dimen108
+\beamer@animdp=\dimen109
+\beamer@animwd=\dimen110
+\beamer@leftmargin=\dimen111
+\beamer@rightmargin=\dimen112
+\beamer@leftsidebar=\dimen113
+\beamer@rightsidebar=\dimen114
+\beamer@boxsize=\dimen115
+\beamer@vboxoffset=\dimen116
+\beamer@descdefault=\dimen117
+\beamer@descriptionwidth=\dimen118
+\beamer@lastskip=\skip41
+\beamer@areabox=\box28
+\beamer@animcurrent=\box29
+\beamer@animshowbox=\box30
+\beamer@sectionbox=\box31
+\beamer@logobox=\box32
+\beamer@linebox=\box33
+\beamer@sectioncount=\count84
+\beamer@subsubsectionmax=\count85
+\beamer@subsectionmax=\count86
+\beamer@sectionmax=\count87
+\beamer@totalheads=\count88
+\beamer@headcounter=\count89
+\beamer@partstartpage=\count90
+\beamer@sectionstartpage=\count91
+\beamer@subsectionstartpage=\count92
+\beamer@animationtempa=\count93
+\beamer@animationtempb=\count94
+\beamer@xpos=\count95
+\beamer@ypos=\count96
+\beamer@showpartnumber=\count97
+\beamer@currentsubsection=\count98
+\beamer@coveringdepth=\count99
+\beamer@sectionadjust=\count100
+\beamer@tocsectionnumber=\count101
+
+(/usr/share/texmf/tex/latex/beamer/base/beamerbaseoptions.sty
+Package: beamerbaseoptions 2010/04/27 (rcs-revision 982469101dd6)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+))
+\beamer@paperwidth=\skip42
+\beamer@paperheight=\skip43
+
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count102
+\Gm@cntv=\count103
+\c@Gm@tempcnt=\count104
+\Gm@bindingoffset=\dimen119
+\Gm@wd@mp=\dimen120
+\Gm@odd@mp=\dimen121
+\Gm@even@mp=\dimen122
+\Gm@layoutwidth=\dimen123
+\Gm@layoutheight=\dimen124
+\Gm@layouthoffset=\dimen125
+\Gm@layoutvoffset=\dimen126
+\Gm@dimlist=\toks15
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+(/usr/share/texmf/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count105
+))
+\Gin@req@height=\dimen127
+\Gin@req@width=\dimen128
+)
+(/usr/share/texmf/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/share/texmf/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/share/texmf/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks16
+)
+(/usr/share/texmf/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box34
+
+(/usr/share/texlive/texmf-dist/tex/latex/ms/everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+(/usr/share/texmf/tex/generic/pgf/utilities/pgfrcs.code.tex
+Package: pgfrcs 2010/10/25 v2.10 (rcs-revision 1.24)
+))
+(/usr/share/texmf/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2010/06/30 v2.10 (rcs-revision 1.37)
+
+(/usr/share/texmf/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks17
+\pgfkeys@temptoks=\toks18
+
+(/usr/share/texmf/tex/generic/pgf/utilities/pgfkeysfiltered.code.tex
+\pgfkeys@tmptoks=\toks19
+))
+\pgf@x=\dimen129
+\pgf@y=\dimen130
+\pgf@xa=\dimen131
+\pgf@ya=\dimen132
+\pgf@xb=\dimen133
+\pgf@yb=\dimen134
+\pgf@xc=\dimen135
+\pgf@yc=\dimen136
+\w@pgf@writea=\write3
+\r@pgf@reada=\read1
+\c@pgf@counta=\count106
+\c@pgf@countb=\count107
+\c@pgf@countc=\count108
+\c@pgf@countd=\count109
+
+(/usr/share/texmf/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
+)
+Package pgfsys Info: Driver file for pgf: pgfsys-pdftex.def on input line 900.
+
+(/usr/share/texmf/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2009/05/22  (rcs-revision 1.26)
+
+(/usr/share/texmf/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2008/05/19  (rcs-revision 1.10)
+)))
+(/usr/share/texmf/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2008/07/18  (rcs-revision 1.7)
+\pgfsyssoftpath@smallbuffer@items=\count110
+\pgfsyssoftpath@bigbuffer@items=\count111
+)
+(/usr/share/texmf/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
+))
+(/usr/share/texmf/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2010/04/11 v2.10 (rcs-revision 1.7)
+
+(/usr/share/texmf/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathcalc.code.tex
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathutil.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen137
+\pgfmath@count=\count112
+\pgfmath@box=\box35
+\pgfmath@toks=\toks20
+\pgfmath@stack@operand=\toks21
+\pgfmath@stack@operation=\toks22
+)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.code.tex
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.random.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.base.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.round.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex)))
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count113
+))
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2010/04/09  (rcs-revision 1.20)
+\pgf@picminx=\dimen138
+\pgf@picmaxx=\dimen139
+\pgf@picminy=\dimen140
+\pgf@picmaxy=\dimen141
+\pgf@pathminx=\dimen142
+\pgf@pathmaxx=\dimen143
+\pgf@pathminy=\dimen144
+\pgf@pathmaxy=\dimen145
+\pgf@xx=\dimen146
+\pgf@xy=\dimen147
+\pgf@yx=\dimen148
+\pgf@yy=\dimen149
+\pgf@zx=\dimen150
+\pgf@zy=\dimen151
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2010/08/03  (rcs-revision 1.24)
+\pgf@path@lastx=\dimen152
+\pgf@path@lasty=\dimen153
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2008/04/22  (rcs-revision 1.12)
+\pgf@shorten@end@additional=\dimen154
+\pgf@shorten@start@additional=\dimen155
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2010/09/08  (rcs-revision 1.34)
+\pgfpic=\box36
+\pgf@hbox=\box37
+\pgf@layerbox@main=\box38
+\pgf@picture@serial@count=\count114
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2008/04/22  (rcs-revision 1.9)
+\pgflinewidth=\dimen156
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2009/06/10  (rcs-revision 1.11)
+\pgf@pt@x=\dimen157
+\pgf@pt@y=\dimen158
+\pgf@pt@temp=\dimen159
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2008/10/09  (rcs-revision 1.8)
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2008/04/23  (rcs-revision 1.11)
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2008/11/23  (rcs-revision 1.13)
+\pgf@max=\dimen160
+\pgf@sys@shading@range@num=\count115
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2010/03/25  (rcs-revision 1.16)
+
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2010/09/01  (rcs-revision 1.17)
+\pgfexternal@startupbox=\box39
+))
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2010/08/27  (rcs-revision 1.2)
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2008/01/17  (rcs-revision 1.2)
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2009/07/02  (rcs-revision 1.3)
+)))
+(/usr/share/texmf/tex/latex/pgf/utilities/xxcolor.sty
+Package: xxcolor 2003/10/24 ver 0.1
+\XC@nummixins=\count116
+\XC@countmixins=\count117
+)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2012/05/13 v6.82q Hypertext links for LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2012/05/28 v1.13 Bundle oberdiek, subset hyperref (HO)
+
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2012/05/28 v1.13 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2012/05/28 v1.13 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package hobsub Info: Skipping package `ifvtex' (already loaded).
+Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
+)
+Package: bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2012/05/28 v1.2 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+)
+\@linkdim=\dimen161
+\Hy@linkcounter=\count118
+\Hy@pagecounter=\count119
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2012/05/13 v6.82q Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count120
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `bookmarks' set `true' on input line 3941.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 3941.
+Package hyperref Info: Option `implicit' set `false' on input line 3941.
+Package hyperref Info: Hyper figures OFF on input line 4062.
+Package hyperref Info: Link nesting OFF on input line 4067.
+Package hyperref Info: Hyper index ON on input line 4070.
+Package hyperref Info: Plain pages OFF on input line 4077.
+Package hyperref Info: Backreferencing OFF on input line 4082.
+Package hyperref Info: Implicit mode OFF; no redefinition of LaTeX internals.
+Package hyperref Info: Bookmarks ON on input line 4300.
+\c@Hy@tempcnt=\count121
+
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4653.
+\Fld@menulength=\count122
+\Field@Width=\dimen162
+\Fld@charsize=\dimen163
+Package hyperref Info: Hyper figures OFF on input line 5773.
+Package hyperref Info: Link nesting OFF on input line 5778.
+Package hyperref Info: Hyper index ON on input line 5781.
+Package hyperref Info: backreferencing OFF on input line 5788.
+Package hyperref Info: Link coloring OFF on input line 5793.
+Package hyperref Info: Link coloring with OCG OFF on input line 5798.
+Package hyperref Info: PDF/A mode OFF on input line 5803.
+LaTeX Info: Redefining \ref on input line 5843.
+LaTeX Info: Redefining \pageref on input line 5847.
+\Hy@abspage=\count123
+
+
+Package hyperref Message: Stopped early.
+
+)
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2012/05/13 v6.82q Hyperref driver for pdfTeX
+\Fld@listcount=\count124
+\c@bookmark@seq@number=\count125
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+))
+(/usr/share/texmf/tex/latex/beamer/base/beamerbaserequires.sty
+Package: beamerbaserequires 2010/05/01  (rcs-revision efa082c6111d)
+
+(/usr/share/texmf/tex/latex/beamer/base/beamerbasecompatibility.sty
+Package: beamerbasecompatibility 2010/07/12  (rcs-revision 6648c3177e4e)
+)
+(/usr/share/texmf/tex/latex/beamer/base/beamerbasefont.sty
+Package: beamerbasefont 2010/05/10  (rcs-revision cd36e8a33c6b)
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2009/06/22 v3.00
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
+\@emptytoks=\toks23
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+)))
+(/usr/share/texmf/tex/latex/beamer/base/beamerbasetranslator.sty
+Package: beamerbasetranslator 2010/06/11  (rcs-revision 85fd1cc7fc42)
+
+(/usr/share/texmf/tex/latex/beamer/base/translator/translator.sty
+Package: translator 2010/06/12 ver 1.10
+
+(/usr/share/texmf/tex/latex/beamer/base/translator/translator-language-mappings
+.tex))) (/usr/share/texmf/tex/latex/beamer/base/beamerbasemisc.sty
+Package: beamerbasemisc 2010/06/06  (rcs-revision bff0a9294b45)
+)
+(/usr/share/texmf/tex/latex/beamer/base/beamerbasetwoscreens.sty
+Package: beamerbasetwoscreens 2010/05/01  (rcs-revision efa082c6111d)
+)
+(/usr/share/texmf/tex/latex/beamer/base/beamerbaseoverlay.sty
+Package: beamerbaseoverlay 2010/05/07  (rcs-revision 5584dad462a9)
+\beamer@argscount=\count126
+\beamer@lastskipcover=\skip44
+\beamer@trivlistdepth=\count127
+)
+(/usr/share/texmf/tex/latex/beamer/base/beamerbasetitle.sty
+Package: beamerbasetitle 2010/06/12  (rcs-revision 717e481ca47a)
+)
+(/usr/share/texmf/tex/latex/beamer/base/beamerbasesection.sty
+Package: beamerbasesection 2010/06/17  (rcs-revision e0d9401bb743)
+\c@lecture=\count128
+\c@part=\count129
+\c@section=\count130
+\c@subsection=\count131
+\c@subsubsection=\count132
+)
+(/usr/share/texmf/tex/latex/beamer/base/beamerbaseframe.sty
+Package: beamerbaseframe 2010/06/06  (rcs-revision bff0a9294b45)
+\beamer@framebox=\box40
+\beamer@frametitlebox=\box41
+\beamer@zoombox=\box42
+\beamer@zoomcount=\count133
+\beamer@zoomframecount=\count134
+\beamer@frametextheight=\dimen164
+\c@subsectionslide=\count135
+\beamer@frametopskip=\skip45
+\beamer@framebottomskip=\skip46
+\beamer@frametopskipautobreak=\skip47
+\beamer@framebottomskipautobreak=\skip48
+\beamer@envbody=\toks24
+\c@framenumber=\count136
+)
+(/usr/share/texmf/tex/latex/beamer/base/beamerbaseverbatim.sty
+Package: beamerbaseverbatim 2010/05/01  (rcs-revision efa082c6111d)
+\beamer@verbatimfileout=\write4
+)
+(/usr/share/texmf/tex/latex/beamer/base/beamerbaseframesize.sty
+Package: beamerbaseframesize 2010/06/27  (rcs-revision 6baa2d92e6f1)
+\beamer@splitbox=\box43
+\beamer@autobreakcount=\count137
+\beamer@autobreaklastheight=\dimen165
+\beamer@frametitletoks=\toks25
+\beamer@framesubtitletoks=\toks26
+)
+(/usr/share/texmf/tex/latex/beamer/base/beamerbaseframecomponents.sty
+Package: beamerbaseframecomponents 2010/07/12  (rcs-revision 09e82992d9b1)
+\beamer@footins=\box44
+)
+(/usr/share/texmf/tex/latex/beamer/base/beamerbasecolor.sty
+Package: beamerbasecolor 2010/06/06  (rcs-revision d1a9b48be06d)
+)
+(/usr/share/texmf/tex/latex/beamer/base/beamerbasenotes.sty
+Package: beamerbasenotes 2010/05/01  (rcs-revision efa082c6111d)
+\beamer@frameboxcopy=\box45
+)
+(/usr/share/texmf/tex/latex/beamer/base/beamerbasetoc.sty
+Package: beamerbasetoc 2010/06/11  (rcs-revision 242ecaa6783b)
+)
+(/usr/share/texmf/tex/latex/beamer/base/beamerbasetemplates.sty
+Package: beamerbasetemplates 2010/05/01  (rcs-revision efa082c6111d)
+\beamer@sbttoks=\toks27
+
+(/usr/share/texmf/tex/latex/beamer/base/beamerbaseauxtemplates.sty
+Package: beamerbaseauxtemplates 2010/05/01  (rcs-revision efa082c6111d)
+
+(/usr/share/texmf/tex/latex/beamer/base/beamerbaseboxes.sty
+Package: beamerbaseboxes 2010/05/01  (rcs-revision efa082c6111d)
+\bmb@box=\box46
+\bmb@colorbox=\box47
+\bmb@boxshadow=\box48
+\bmb@boxshadowball=\box49
+\bmb@boxshadowballlarge=\box50
+\bmb@temp=\dimen166
+\bmb@dima=\dimen167
+\bmb@dimb=\dimen168
+\bmb@prevheight=\dimen169
+)
+\beamer@blockheadheight=\dimen170
+))
+(/usr/share/texmf/tex/latex/beamer/base/beamerbaselocalstructure.sty
+Package: beamerbaselocalstructure 2010/06/01  (rcs-revision 81f9e33f7cc2)
+
+(/usr/share/texlive/texmf-dist/tex/latex/tools/enumerate.sty
+Package: enumerate 1999/03/05 v3.00 enumerate extensions (DPC)
+\@enLab=\toks28
+)
+\c@figure=\count138
+\c@table=\count139
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+)
+(/usr/share/texmf/tex/latex/beamer/base/beamerbasenavigation.sty
+Package: beamerbasenavigation 2010/05/01  (rcs-revision efa082c6111d)
+)
+(/usr/share/texmf/tex/latex/beamer/base/beamerbasetheorems.sty
+Package: beamerbasetheorems 2010/06/06  (rcs-revision 7e7cc5e53e9d)
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip51
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks29
+\ex@=\dimen171
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen172
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count140
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count141
+\leftroot@=\count142
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count143
+\DOTSCASE@=\count144
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box51
+\strutbox@=\box52
+\big@size=\dimen173
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count145
+\c@MaxMatrixCols=\count146
+\dotsspace@=\muskip11
+\c@parentequation=\count147
+\dspbrk@lvl=\count148
+\tag@help=\toks30
+\row@=\count149
+\column@=\count150
+\maxfields@=\count151
+\andhelp@=\toks31
+\eqnshift@=\dimen174
+\alignsep@=\dimen175
+\tagshift@=\dimen176
+\tagwidth@=\dimen177
+\totwidth@=\dimen178
+\lineht@=\dimen179
+\@envbody=\toks32
+\multlinegap=\skip52
+\multlinetaggap=\skip53
+\mathdisplay@stack=\toks33
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2009/07/02 v2.20.1
+\thm@style=\toks34
+\thm@bodyfont=\toks35
+\thm@headfont=\toks36
+\thm@notefont=\toks37
+\thm@headpunct=\toks38
+\thm@preskip=\skip54
+\thm@postskip=\skip55
+\thm@headsep=\skip56
+\dth@everypar=\toks39
+)
+\c@theorem=\count152
+)
+(/usr/share/texmf/tex/latex/beamer/base/beamerbasethemes.sty
+Package: beamerbasethemes 2010/05/01  (rcs-revision efa082c6111d)
+))
+(/usr/share/texmf/tex/latex/beamer/base/themes/theme/beamerthemedefault.sty
+Package: beamerthemedefault 2010/06/17  (rcs-revision d02a7cf4d8ae)
+
+(/usr/share/texmf/tex/latex/beamer/base/themes/font/beamerfontthemedefault.sty
+Package: beamerfontthemedefault 2010/06/17  (rcs-revision d02a7cf4d8ae)
+)
+(/usr/share/texmf/tex/latex/beamer/base/themes/color/beamercolorthemedefault.st
+y
+Package: beamercolorthemedefault 2010/06/17  (rcs-revision d02a7cf4d8ae)
+)
+(/usr/share/texmf/tex/latex/beamer/base/themes/inner/beamerinnerthemedefault.st
+y
+Package: beamerinnerthemedefault 2010/06/17  (rcs-revision d02a7cf4d8ae)
+\beamer@dima=\dimen180
+\beamer@dimb=\dimen181
+)
+(/usr/share/texmf/tex/latex/beamer/base/themes/outer/beamerouterthemedefault.st
+y
+Package: beamerouterthemedefault 2010/06/17  (rcs-revision d02a7cf4d8ae)
+)))
+(/usr/share/texmf/tex/latex/beamer/base/themes/color/beamercolorthemestructure.
+sty
+Package: beamercolorthemestructure 2010/06/17  (rcs-revision d02a7cf4d8ae)
+) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf.sty
+Package: epstopdf 2010/02/09 v2.5 Conversion with epstopdf on the fly (HO)
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+)
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+)))
+(/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty
+\bigstrutjot=\dimen182
+)
+(./hepparticles.sty
+Package: hepparticles 2005/02/22 HEP particle typesetting (v1.4)
+
+(/usr/share/texlive/texmf-dist/tex/latex/maybemath/maybemath.sty
+Package: maybemath 2005/2/22
+
+(/usr/share/texlive/texmf-dist/tex/latex/tools/bm.sty
+Package: bm 2004/02/26 v1.1c Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup6
+\symboldletters=\mathgroup7
+\symboldsymbols=\mathgroup8
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 138.
+LaTeX Info: Redefining \bm on input line 204.
+))) (./heppennames.sty
+Package: heppennames 2009/03/11 Elementary Particle Naming Scheme (version 1.5)
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2009/10/20 v1.13 Space after command names (DPC,MH)
+)
+LaTeX Info: Redefining \PgD on input line 418.
+)
+(./ptdr-definitions.tex)
+(/usr/share/texmf/tex/latex/beamer/base/themes/theme/beamerthemeMadrid.sty
+Package: beamerthemeMadrid 2010/06/17  (rcs-revision d02a7cf4d8ae)
+
+(/usr/share/texmf/tex/latex/beamer/base/themes/color/beamercolorthemewhale.sty
+Package: beamercolorthemewhale 2010/06/17  (rcs-revision d02a7cf4d8ae)
+)
+(/usr/share/texmf/tex/latex/beamer/base/themes/color/beamercolorthemeorchid.sty
+Package: beamercolorthemeorchid 2010/06/17  (rcs-revision d02a7cf4d8ae)
+)
+(/usr/share/texmf/tex/latex/beamer/base/themes/inner/beamerinnerthemerounded.st
+y
+Package: beamerinnerthemerounded 2010/06/17  (rcs-revision d02a7cf4d8ae)
+)
+(/usr/share/texmf/tex/latex/beamer/base/themes/outer/beamerouterthemeinfolines.
+sty
+Package: beamerouterthemeinfolines 2010/07/10  (rcs-revision 445340293dde)
+)) (/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2008/07/08 v3.8m The Babel package
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/english.ldf
+Language: english 2005/03/30 v3.3o English support from the babel system
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2008/07/08 v3.8m Babel common definitions
+LaTeX Info: Redefining \textlatin on input line 82.
+\babel@savecnt=\count153
+\U@D=\dimen183
+)
+\l@british = a dialect from \language\l@english 
+\l@UKenglish = a dialect from \language\l@english 
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+))
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2008/03/30 v1.1d Input encoding file
+\inpenc@prehook=\toks40
+\inpenc@posthook=\toks41
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/latin1.def
+File: latin1.def 2008/03/30 v1.1d Input encoding file
+))
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/times.sty
+Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
+))
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 133.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\rightarrow' on input line 133.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 133.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 133.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\rightarrow' on input line 133.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 133.
+
+(./defense.aux (./experiment.aux) (./event_selection.aux) (./optimization.aux)
+(./systematics.aux) (./conclusion.aux) (./backupslides.aux))
+\openout1 = `defense.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 133.
+LaTeX Font Info:    ... okay on input line 133.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 133.
+LaTeX Font Info:    ... okay on input line 133.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 133.
+LaTeX Font Info:    ... okay on input line 133.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 133.
+LaTeX Font Info:    ... okay on input line 133.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 133.
+LaTeX Font Info:    ... okay on input line 133.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 133.
+LaTeX Font Info:    ... okay on input line 133.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 133.
+LaTeX Font Info:    ... okay on input line 133.
+LaTeX Font Info:    Try loading font information for T1+phv on input line 133.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1phv.fd
+File: t1phv.fd 2001/06/04 scalable font definitions for T1/phv.
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: includehead includefoot 
+* h-part:(L,W,R)=(10.95003pt, 342.2953pt, 10.95003pt)
+* v-part:(T,H,B)=(0.0pt, 273.14662pt, 0.0pt)
+* \paperwidth=364.19536pt
+* \paperheight=273.14662pt
+* \textwidth=342.2953pt
+* \textheight=244.6939pt
+* \oddsidemargin=-61.31996pt
+* \evensidemargin=-61.31996pt
+* \topmargin=-72.26999pt
+* \headheight=14.22636pt
+* \headsep=0.0pt
+* \topskip=11.0pt
+* \footskip=14.22636pt
+* \marginparwidth=4.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count154
+\scratchdimen=\dimen184
+\scratchbox=\box53
+\nofMPsegments=\count155
+\nofMParguments=\count156
+\everyMPshowfont=\toks42
+\MPscratchCnt=\count157
+\MPscratchDim=\dimen185
+\MPnumerator=\count158
+\makeMPintoPDFobject=\count159
+\everyMPtoPDFconversion=\toks43
+) ABD: EveryShipout initializing macros
+\AtBeginShipoutBox=\box54
+Package hyperref Info: Link coloring OFF on input line 133.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2010/04/30 v2.40 Cross-referencing by name of section
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count160
+)
+LaTeX Info: Redefining \ref on input line 133.
+LaTeX Info: Redefining \pageref on input line 133.
+LaTeX Info: Redefining \nameref on input line 133.
+
+(./defense.out) (./defense.out)
+\@outlinefile=\write5
+\openout5 = `defense.out'.
+
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 133.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 133.
+\symnumbers=\mathgroup9
+\sympureletters=\mathgroup10
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
+(Font)                  OT1/cmss/m/n --> T1/ptm/m/n on input line 133.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 133.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 133.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> T1/phv/m/n on input line 133.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> T1/phv/m/n on input line 133.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 133.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> T1/phv/m/it on input line 133.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> T1/phv/m/it on input line 133.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 133.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> T1/pcr/m/n on input line 133.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> T1/pcr/m/n on input line 133.
+LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
+(Font)                  T1/phv/m/n --> T1/phv/bx/n on input line 133.
+LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
+(Font)                  T1/phv/m/it --> T1/phv/bx/it on input line 133.
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
+(Font)                  OT1/cmss/bx/n --> T1/ptm/bx/n on input line 133.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  T1/phv/bx/n --> T1/phv/bx/n on input line 133.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  T1/phv/m/n --> T1/phv/bx/n on input line 133.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  T1/phv/m/it --> T1/phv/bx/it on input line 133.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  T1/pcr/m/n --> T1/pcr/bx/n on input line 133.
+
+(/usr/share/texmf/tex/latex/beamer/base/translator/dicts/translator-basic-dicti
+onary/translator-basic-dictionary-English.dict
+Dictionary: translator-basic-dictionary, Language: English 
+)
+(/usr/share/texmf/tex/latex/beamer/base/translator/dicts/translator-bibliograph
+y-dictionary/translator-bibliography-dictionary-English.dict
+Dictionary: translator-bibliography-dictionary, Language: English 
+)
+(/usr/share/texmf/tex/latex/beamer/base/translator/dicts/translator-environment
+-dictionary/translator-environment-dictionary-English.dict
+Dictionary: translator-environment-dictionary, Language: English 
+)
+(/usr/share/texmf/tex/latex/beamer/base/translator/dicts/translator-months-dict
+ionary/translator-months-dictionary-English.dict
+Dictionary: translator-months-dictionary, Language: English 
+)
+(/usr/share/texmf/tex/latex/beamer/base/translator/dicts/translator-numbers-dic
+tionary/translator-numbers-dictionary-English.dict
+Dictionary: translator-numbers-dictionary, Language: English 
+)
+(/usr/share/texmf/tex/latex/beamer/base/translator/dicts/translator-theorem-dic
+tionary/translator-theorem-dictionary-English.dict
+Dictionary: translator-theorem-dictionary, Language: English 
+) (./defense.nav)
+LaTeX Font Info:    Try loading font information for U+msa on input line 133.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 133.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+)
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <6> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 133.
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <5> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 133.
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <14.4> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 137.
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 137.
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <7> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 137.
+ [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./defense.toc) [2
+
+]
+\openout2 = `experiment.aux'.
+
+ (./experiment.tex
+(./defense.toc) [3
+
+
+] [4
+
+]
+<images/standard_model_particles.jpg, id=168, 702.625pt x 627.34375pt>
+File: images/standard_model_particles.jpg Graphic file (type jpg)
+
+<use images/standard_model_particles.jpg>
+Package pdftex.def Info: images/standard_model_particles.jpg used on input line
+ 37.
+(pdftex.def)             Requested size: 171.14764pt x 152.80553pt.
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10.95> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 37.
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <8> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 37.
+ [5
+
+ <./images/standard_model_particles.jpg>] <images/lhc-sim-600x209.jpg, id=197, 
+602.25pt x 209.78375pt>
+File: images/lhc-sim-600x209.jpg Graphic file (type jpg)
+
+<use images/lhc-sim-600x209.jpg>
+Package pdftex.def Info: images/lhc-sim-600x209.jpg used on input line 124.
+(pdftex.def)             Requested size: 338.87422pt x 118.04466pt.
+ [6
+
+ <./images/lhc-sim-600x209.jpg>]
+<images/lhc_schematic.jpg, id=224, 245.2362pt x 172.4844pt>
+File: images/lhc_schematic.jpg Graphic file (type jpg)
+
+<use images/lhc_schematic.jpg>
+Package pdftex.def Info: images/lhc_schematic.jpg used on input line 144.
+(pdftex.def)             Requested size: 167.72658pt x 117.96686pt.
+ [7
+
+ <./images/lhc_schematic.jpg>]
+<images/lhc_enviroment.png, id=253, 647.41875pt x 454.69875pt>
+File: images/lhc_enviroment.png Graphic file (type png)
+
+<use images/lhc_enviroment.png>
+Package pdftex.def Info: images/lhc_enviroment.png used on input line 152.
+(pdftex.def)             Requested size: 304.64261pt x 213.9582pt.
+ [8
+
+ <./images/lhc_enviroment.png>]
+<images/2010_lhc_luminocity.png, id=280, 1660.2025pt x 1660.2025pt>
+File: images/2010_lhc_luminocity.png Graphic file (type png)
+
+<use images/2010_lhc_luminocity.png>
+Package pdftex.def Info: images/2010_lhc_luminocity.png used on input line 161.
+
+(pdftex.def)             Requested size: 112.95807pt x 112.95813pt.
+
+<images/2011_lhc_luminocity.png, id=281, 361.35pt x 361.35pt>
+File: images/2011_lhc_luminocity.png Graphic file (type png)
+
+<use images/2011_lhc_luminocity.png>
+Package pdftex.def Info: images/2011_lhc_luminocity.png used on input line 161.
+
+(pdftex.def)             Requested size: 112.95807pt x 112.95468pt.
+
+<images/2012_lhc_luminocity.png, id=283, 361.35pt x 361.35pt>
+File: images/2012_lhc_luminocity.png Graphic file (type png)
+
+<use images/2012_lhc_luminocity.png>
+Package pdftex.def Info: images/2012_lhc_luminocity.png used on input line 161.
+
+(pdftex.def)             Requested size: 112.95807pt x 112.95468pt.
+ [9
+
+ <./images/2010_lhc_luminocity.png (PNG copy)> <./images/2011_lhc_luminocity.pn
+g> <./images/2012_lhc_luminocity.png>]
+<images/CMScollaborationPoster.png, id=312, 808.01875pt x 422.57875pt>
+File: images/CMScollaborationPoster.png Graphic file (type png)
+
+<use images/CMScollaborationPoster.png>
+Package pdftex.def Info: images/CMScollaborationPoster.png used on input line 1
+67.
+(pdftex.def)             Requested size: 338.87422pt x 177.22394pt.
+ [10
+
+ <./images/CMScollaborationPoster.png>] <images/CMS_Slice.png, id=340, 995.72pt
+ x 507.8975pt>
+File: images/CMS_Slice.png Graphic file (type png)
+
+<use images/CMS_Slice.png>
+Package pdftex.def Info: images/CMS_Slice.png used on input line 174.
+(pdftex.def)             Requested size: 338.87422pt x 172.85336pt.
+ [11
+
+ <./images/CMS_Slice.png>]
+<images/DetectorGlossary.png, id=369, 770.64836pt x 406.51875pt>
+File: images/DetectorGlossary.png Graphic file (type png)
+
+<use images/DetectorGlossary.png>
+Package pdftex.def Info: images/DetectorGlossary.png used on input line 180.
+(pdftex.def)             Requested size: 338.87422pt x 178.75714pt.
+ [12
+
+ <./images/DetectorGlossary.png>] [13
+
+]
+<images/lep2limit.jpg, id=424, 451.6875pt x 450.68375pt>
+File: images/lep2limit.jpg Graphic file (type jpg)
+
+<use images/lep2limit.jpg>
+Package pdftex.def Info: images/lep2limit.jpg used on input line 216.
+(pdftex.def)             Requested size: 118.09229pt x 117.82831pt.
+Package epstopdf Info: Source file: <images/tevsmlimits_feb2013.eps>
+(epstopdf)                    date: 2013-11-09 12:12:20
+(epstopdf)                    size: 49576 bytes
+(epstopdf)             Output file: <images/tevsmlimits_feb2013-eps-converted-t
+o.pdf>
+(epstopdf)                    date: 2013-11-09 12:13:33
+(epstopdf)                    size: 10076 bytes
+(epstopdf)             Command: <epstopdf --outfile=images/tevsmlimits_feb2013-
+eps-converted-to.pdf images/tevsmlimits_feb2013.eps>
+(epstopdf)             \includegraphics on input line 216.
+Package epstopdf Info: Output file is already uptodate.
+
+<images/tevsmlimits_feb2013-eps-converted-to.pdf, id=425, 557.08125pt x 424.586
+24pt>
+File: images/tevsmlimits_feb2013-eps-converted-to.pdf Graphic file (type pdf)
+ <use images/tevsmlimits_feb2013-eps-converted-to.pdf>
+Package pdftex.def Info: images/tevsmlimits_feb2013-eps-converted-to.pdf used o
+n input line 216.
+(pdftex.def)             Requested size: 135.20547pt x 103.04301pt.
+
+Overfull \vbox (5.07018pt too high) detected at line 216
+ []
+
+[14
+
+ <./images/lep2limit.jpg> <./images/tevsmlimits_feb2013-eps-converted-to.pdf>] 
+<images/higgs_production_feynman.png, id=463, 300.12125pt x 575.14874pt>
+File: images/higgs_production_feynman.png Graphic file (type png)
+
+<use images/higgs_production_feynman.png>
+Package pdftex.def Info: images/higgs_production_feynman.png used on input line
+ 232.
+(pdftex.def)             Requested size: 118.60803pt x 227.29974pt.
+
+<images/higgs_production_lhc.png, id=464, 711.65875pt x 513.92pt>
+File: images/higgs_production_lhc.png Graphic file (type png)
+
+<use images/higgs_production_lhc.png>
+Package pdftex.def Info: images/higgs_production_lhc.png used on input line 232
+.
+(pdftex.def)             Requested size: 220.26617pt x 159.0626pt.
+
+Overfull \vbox (10.4986pt too high) detected at line 232
+ []
+
+[15
+
+ <./images/higgs_production_feynman.png> <./images/higgs_production_lhc.png>] <
+images/branching_ratio.png, id=492, 653.44125pt x 620.3175pt>
+File: images/branching_ratio.png Graphic file (type png)
+
+<use images/branching_ratio.png>
+Package pdftex.def Info: images/branching_ratio.png used on input line 266.
+(pdftex.def)             Requested size: 169.4371pt x 160.84334pt.
+ [16
+
+ <./images/branching_ratio.png>]
+LaTeX Font Info:    Try loading font information for T1+ptm on input line 317.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1ptm.fd
+File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
+)
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <9> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 317.
+ [17
+
+]
+<images/h_zz_2l2q.png, id=553, 287.69019pt x 286.30038pt>
+File: images/h_zz_2l2q.png Graphic file (type png)
+
+<use images/h_zz_2l2q.png>
+Package pdftex.def Info: images/h_zz_2l2q.png used on input line 359.
+(pdftex.def)             Requested size: 101.66328pt x 101.17209pt.
+
+Overfull \vbox (3.21564pt too high) detected at line 359
+ []
+
+[18
+
+ <./images/h_zz_2l2q.png>]
+<images/calojets.pdf, id=582, 308.5929pt x 445.18318pt>
+File: images/calojets.pdf Graphic file (type pdf)
+
+<use images/calojets.pdf>
+Package pdftex.def Info: images/calojets.pdf used on input line 398.
+(pdftex.def)             Requested size: 135.5476pt x 195.54836pt.
+
+Overfull \vbox (13.42041pt too high) detected at line 398
+ []
+
+[19
+
+ <./images/calojets.pdf>] <images/pf1.pdf, id=618, 280.6485pt x 412.4208pt>
+File: images/pf1.pdf Graphic file (type pdf)
+
+<use images/pf1.pdf>
+Package pdftex.def Info: images/pf1.pdf used on input line 416.
+(pdftex.def)             Requested size: 135.5476pt x 199.19316pt.
+
+Overfull \vbox (3.46521pt too high) detected at line 416
+ []
+
+[20
+
+ <./images/pf1.pdf>] <images/pf2.pdf, id=667, 280.6485pt x 412.4208pt>
+File: images/pf2.pdf Graphic file (type pdf)
+
+<use images/pf2.pdf>
+Package pdftex.def Info: images/pf2.pdf used on input line 438.
+(pdftex.def)             Requested size: 135.5476pt x 199.19316pt.
+
+Overfull \vbox (3.46521pt too high) detected at line 438
+ []
+
+[21
+
+ <./images/pf2.pdf>] <images/pf3.pdf, id=710, 280.6485pt x 412.4208pt>
+File: images/pf3.pdf Graphic file (type pdf)
+
+<use images/pf3.pdf>
+Package pdftex.def Info: images/pf3.pdf used on input line 461.
+(pdftex.def)             Requested size: 135.5476pt x 199.19316pt.
+
+Overfull \vbox (3.46521pt too high) detected at line 461
+ []
+
+[22
+
+ <./images/pf3.pdf>] <images/pf4.pdf, id=749, 280.6485pt x 412.4208pt>
+File: images/pf4.pdf Graphic file (type pdf)
+
+<use images/pf4.pdf>
+Package pdftex.def Info: images/pf4.pdf used on input line 484.
+(pdftex.def)             Requested size: 135.5476pt x 199.19316pt.
+
+Overfull \vbox (3.46521pt too high) detected at line 484
+ []
+
+[23
+
+ <./images/pf4.pdf>])
+\openout2 = `event_selection.aux'.
+
+ (./event_selection.tex (./defense.toc) [24
+
+
+
+] [25
+
+]
+[26
+
+]
+Overfull \hbox (7.60342pt too wide) in paragraph at lines 123--123
+[][]  
+ []
+
+[27
+
+] [28
+
+]
+Package epstopdf Info: Source file: <images/analysis_strategy.eps>
+(epstopdf)                    date: 2013-12-30 13:18:38
+(epstopdf)                    size: 70920 bytes
+(epstopdf)             Output file: <images/analysis_strategy-eps-converted-to.
+pdf>
+(epstopdf)                    date: 2013-12-30 13:18:45
+(epstopdf)                    size: 31398 bytes
+(epstopdf)             Command: <epstopdf --outfile=images/analysis_strategy-ep
+s-converted-to.pdf images/analysis_strategy.eps>
+(epstopdf)             \includegraphics on input line 136.
+Package epstopdf Info: Output file is already uptodate.
+
+<images/analysis_strategy-eps-converted-to.pdf, id=922, 578.16pt x 616.3025pt>
+File: images/analysis_strategy-eps-converted-to.pdf Graphic file (type pdf)
+
+<use images/analysis_strategy-eps-converted-to.pdf>
+Package pdftex.def Info: images/analysis_strategy-eps-converted-to.pdf used on 
+input line 136.
+(pdftex.def)             Requested size: 205.37926pt x 218.92528pt.
+
+Overfull \vbox (1.12413pt too high) detected at line 136
+ []
+
+[29
+
+ <./images/analysis_strategy-eps-converted-to.pdf>]
+LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <8> not available
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 216.
+LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <9> not available
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 216.
+ [30
+
+]
+Package epstopdf Info: Source file: <images/preselection/el/mJJ.eps>
+(epstopdf)                    date: 2013-12-30 08:43:37
+(epstopdf)                    size: 31896 bytes
+(epstopdf)             Output file: <images/preselection/el/mJJ-eps-converted-t
+o.pdf>
+(epstopdf)                    date: 2013-12-30 08:48:43
+(epstopdf)                    size: 16871 bytes
+(epstopdf)             Command: <epstopdf --outfile=images/preselection/el/mJJ-
+eps-converted-to.pdf images/preselection/el/mJJ.eps>
+(epstopdf)             \includegraphics on input line 228.
+Package epstopdf Info: Output file is already uptodate.
+
+<images/preselection/el/mJJ-eps-converted-to.pdf, id=979, 569.12625pt x 385.44p
+t>
+File: images/preselection/el/mJJ-eps-converted-to.pdf Graphic file (type pdf)
+ <use images/preselection/el/mJJ-eps-converted-to.pdf>
+Package pdftex.def Info: images/preselection/el/mJJ-eps-converted-to.pdf used o
+n input line 228.
+(pdftex.def)             Requested size: 171.14764pt x 115.9093pt.
+Package epstopdf Info: Source file: <images/test_zjj_s_sb_zero.eps>
+(epstopdf)                    date: 2014-01-06 10:31:40
+(epstopdf)                    size: 22022 bytes
+(epstopdf)             Output file: <images/test_zjj_s_sb_zero-eps-converted-to
+.pdf>
+(epstopdf)                    date: 2014-01-06 10:31:43
+(epstopdf)                    size: 8054 bytes
+(epstopdf)             Command: <epstopdf --outfile=images/test_zjj_s_sb_zero-e
+ps-converted-to.pdf images/test_zjj_s_sb_zero.eps>
+(epstopdf)             \includegraphics on input line 228.
+Package epstopdf Info: Output file is already uptodate.
+
+<images/test_zjj_s_sb_zero-eps-converted-to.pdf, id=980, 361.35pt x 252.945pt>
+File: images/test_zjj_s_sb_zero-eps-converted-to.pdf Graphic file (type pdf)
+
+<use images/test_zjj_s_sb_zero-eps-converted-to.pdf>
+Package pdftex.def Info: images/test_zjj_s_sb_zero-eps-converted-to.pdf used on
+ input line 228.
+(pdftex.def)             Requested size: 171.14764pt x 119.80275pt.
+ [31
+
+ <./images/preselection/el/mJJ-eps-converted-to.pdf> <./images/test_zjj_s_sb_ze
+ro-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <images/mLL_signal_sideband.eps>
+(epstopdf)                    date: 2014-01-06 10:50:05
+(epstopdf)                    size: 1310716 bytes
+(epstopdf)             Output file: <images/mLL_signal_sideband-eps-converted-t
+o.pdf>
+(epstopdf)                    date: 2014-01-06 10:50:28
+(epstopdf)                    size: 109063 bytes
+(epstopdf)             Command: <epstopdf --outfile=images/mLL_signal_sideband-
+eps-converted-to.pdf images/mLL_signal_sideband.eps>
+(epstopdf)             \includegraphics on input line 278.
+Package epstopdf Info: Output file is already uptodate.
+
+<images/mLL_signal_sideband-eps-converted-to.pdf, id=1021, 570.13pt x 386.44376
+pt>
+File: images/mLL_signal_sideband-eps-converted-to.pdf Graphic file (type pdf)
+ <use images/mLL_signal_sideband-eps-converted-to.pdf>
+Package pdftex.def Info: images/mLL_signal_sideband-eps-converted-to.pdf used o
+n input line 278.
+(pdftex.def)             Requested size: 135.5476pt x 91.87569pt.
+Package epstopdf Info: Source file: <images/mJJ_signal_sideband.eps>
+(epstopdf)                    date: 2013-11-02 19:23:32
+(epstopdf)                    size: 1375774 bytes
+(epstopdf)             Output file: <images/mJJ_signal_sideband-eps-converted-t
+o.pdf>
+(epstopdf)                    date: 2013-11-02 19:25:01
+(epstopdf)                    size: 81239 bytes
+(epstopdf)             Command: <epstopdf --outfile=images/mJJ_signal_sideband-
+eps-converted-to.pdf images/mJJ_signal_sideband.eps>
+(epstopdf)             \includegraphics on input line 278.
+Package epstopdf Info: Output file is already uptodate.
+
+<images/mJJ_signal_sideband-eps-converted-to.pdf, id=1022, 570.13pt x 386.44376
+pt>
+File: images/mJJ_signal_sideband-eps-converted-to.pdf Graphic file (type pdf)
+ <use images/mJJ_signal_sideband-eps-converted-to.pdf>
+Package pdftex.def Info: images/mJJ_signal_sideband-eps-converted-to.pdf used o
+n input line 278.
+(pdftex.def)             Requested size: 135.5476pt x 91.87569pt.
+ [32
+
+ <./images/mLL_signal_sideband-eps-converted-to.pdf> <./images/mJJ_signal_sideb
+and-eps-converted-to.pdf>] <images/plots/angles-HZZ2l2q.pdf, id=1056, 614.295pt
+ x 471.7625pt>
+File: images/plots/angles-HZZ2l2q.pdf Graphic file (type pdf)
+
+<use images/plots/angles-HZZ2l2q.pdf>
+Package pdftex.def Info: images/plots/angles-HZZ2l2q.pdf used on input line 300
+.
+(pdftex.def)             Requested size: 205.37926pt x 157.72647pt.
+ [33
+
+ <./images/plots/angles-HZZ2l2q.pdf>]
+Package epstopdf Info: Source file: <images/preselection/el/costheta1.eps>
+(epstopdf)                    date: 2013-12-30 08:43:37
+(epstopdf)                    size: 35736 bytes
+(epstopdf)             Output file: <images/preselection/el/costheta1-eps-conve
+rted-to.pdf>
+(epstopdf)                    date: 2014-01-06 13:00:34
+(epstopdf)                    size: 19881 bytes
+(epstopdf)             Command: <epstopdf --outfile=images/preselection/el/cost
+heta1-eps-converted-to.pdf images/preselection/el/costheta1.eps>
+(epstopdf)             \includegraphics on input line 313.
+Package epstopdf Info: Output file is already uptodate.
+
+<images/preselection/el/costheta1-eps-converted-to.pdf, id=1085, 569.12625pt x 
+385.44pt>
+File: images/preselection/el/costheta1-eps-converted-to.pdf Graphic file (type 
+pdf)
+ <use images/preselection/el/costheta1-eps-converted-to.pdf>
+Package pdftex.def Info: images/preselection/el/costheta1-eps-converted-to.pdf 
+used on input line 313.
+(pdftex.def)             Requested size: 112.95807pt x 76.49849pt.
+Package epstopdf Info: Source file: <images/preselection/el/costheta2.eps>
+(epstopdf)                    date: 2013-12-30 08:43:37
+(epstopdf)                    size: 35911 bytes
+(epstopdf)             Output file: <images/preselection/el/costheta2-eps-conve
+rted-to.pdf>
+(epstopdf)                    date: 2014-01-06 13:00:34
+(epstopdf)                    size: 19782 bytes
+(epstopdf)             Command: <epstopdf --outfile=images/preselection/el/cost
+heta2-eps-converted-to.pdf images/preselection/el/costheta2.eps>
+(epstopdf)             \includegraphics on input line 313.
+Package epstopdf Info: Output file is already uptodate.
+
+<images/preselection/el/costheta2-eps-converted-to.pdf, id=1086, 569.12625pt x 
+385.44pt>
+File: images/preselection/el/costheta2-eps-converted-to.pdf Graphic file (type 
+pdf)
+ <use images/preselection/el/costheta2-eps-converted-to.pdf>
+Package pdftex.def Info: images/preselection/el/costheta2-eps-converted-to.pdf 
+used on input line 313.
+(pdftex.def)             Requested size: 112.95807pt x 76.49849pt.
+Package epstopdf Info: Source file: <images/preselection/el/costhetast.eps>
+(epstopdf)                    date: 2013-12-30 08:43:37
+(epstopdf)                    size: 29179 bytes
+(epstopdf)             Output file: <images/preselection/el/costhetast-eps-conv
+erted-to.pdf>
+(epstopdf)                    date: 2013-12-30 08:48:51
+(epstopdf)                    size: 18239 bytes
+(epstopdf)             Command: <epstopdf --outfile=images/preselection/el/cost
+hetast-eps-converted-to.pdf images/preselection/el/costhetast.eps>
+(epstopdf)             \includegraphics on input line 313.
+Package epstopdf Info: Output file is already uptodate.
+
+<images/preselection/el/costhetast-eps-converted-to.pdf, id=1087, 569.12625pt x
+ 385.44pt>
+File: images/preselection/el/costhetast-eps-converted-to.pdf Graphic file (type
+ pdf)
+ <use images/preselection/el/costhetast-eps-converted-to.pdf>
+Package pdftex.def Info: images/preselection/el/costhetast-eps-converted-to.pdf
+ used on input line 313.
+(pdftex.def)             Requested size: 112.95807pt x 76.49849pt.
+Package epstopdf Info: Source file: <images/preselection/el/phi.eps>
+(epstopdf)                    date: 2013-12-30 08:43:37
+(epstopdf)                    size: 35586 bytes
+(epstopdf)             Output file: <images/preselection/el/phi-eps-converted-t
+o.pdf>
+(epstopdf)                    date: 2014-01-06 13:00:56
+(epstopdf)                    size: 19326 bytes
+(epstopdf)             Command: <epstopdf --outfile=images/preselection/el/phi-
+eps-converted-to.pdf images/preselection/el/phi.eps>
+(epstopdf)             \includegraphics on input line 313.
+Package epstopdf Info: Output file is already uptodate.
+
+<images/preselection/el/phi-eps-converted-to.pdf, id=1088, 569.12625pt x 385.44
+pt>
+File: images/preselection/el/phi-eps-converted-to.pdf Graphic file (type pdf)
+ <use images/preselection/el/phi-eps-converted-to.pdf>
+Package pdftex.def Info: images/preselection/el/phi-eps-converted-to.pdf used o
+n input line 313.
+(pdftex.def)             Requested size: 112.95807pt x 76.49849pt.
+Package epstopdf Info: Source file: <images/preselection/el/phi1.eps>
+(epstopdf)                    date: 2013-12-30 08:43:37
+(epstopdf)                    size: 35014 bytes
+(epstopdf)             Output file: <images/preselection/el/phi1-eps-converted-
+to.pdf>
+(epstopdf)                    date: 2014-01-06 13:00:57
+(epstopdf)                    size: 19093 bytes
+(epstopdf)             Command: <epstopdf --outfile=images/preselection/el/phi1
+-eps-converted-to.pdf images/preselection/el/phi1.eps>
+(epstopdf)             \includegraphics on input line 313.
+Package epstopdf Info: Output file is already uptodate.
+
+<images/preselection/el/phi1-eps-converted-to.pdf, id=1089, 569.12625pt x 385.4
+4pt>
+File: images/preselection/el/phi1-eps-converted-to.pdf Graphic file (type pdf)
+ <use images/preselection/el/phi1-eps-converted-to.pdf>
+Package pdftex.def Info: images/preselection/el/phi1-eps-converted-to.pdf used 
+on input line 313.
+(pdftex.def)             Requested size: 112.95807pt x 76.49849pt.
+ [34
+
+ <./images/preselection/el/costheta1-eps-converted-to.pdf> <./images/preselecti
+on/el/costheta2-eps-converted-to.pdf> <./images/preselection/el/costhetast-eps-
+converted-to.pdf> <./images/preselection/el/phi-eps-converted-to.pdf> <./images
+/preselection/el/phi1-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <images/preselection/mu/costheta1.eps>
+(epstopdf)                    date: 2013-12-30 08:44:08
+(epstopdf)                    size: 35910 bytes
+(epstopdf)             Output file: <images/preselection/mu/costheta1-eps-conve
+rted-to.pdf>
+(epstopdf)                    date: 2014-01-06 13:00:57
+(epstopdf)                    size: 19947 bytes
+(epstopdf)             Command: <epstopdf --outfile=images/preselection/mu/cost
+heta1-eps-converted-to.pdf images/preselection/mu/costheta1.eps>
+(epstopdf)             \includegraphics on input line 326.
+Package epstopdf Info: Output file is already uptodate.
+
+<images/preselection/mu/costheta1-eps-converted-to.pdf, id=1176, 569.12625pt x 
+385.44pt>
+File: images/preselection/mu/costheta1-eps-converted-to.pdf Graphic file (type 
+pdf)
+ <use images/preselection/mu/costheta1-eps-converted-to.pdf>
+Package pdftex.def Info: images/preselection/mu/costheta1-eps-converted-to.pdf 
+used on input line 326.
+(pdftex.def)             Requested size: 112.95807pt x 76.49849pt.
+Package epstopdf Info: Source file: <images/preselection/mu/costheta2.eps>
+(epstopdf)                    date: 2013-12-30 08:44:08
+(epstopdf)                    size: 35736 bytes
+(epstopdf)             Output file: <images/preselection/mu/costheta2-eps-conve
+rted-to.pdf>
+(epstopdf)                    date: 2014-01-06 13:00:57
+(epstopdf)                    size: 19876 bytes
+(epstopdf)             Command: <epstopdf --outfile=images/preselection/mu/cost
+heta2-eps-converted-to.pdf images/preselection/mu/costheta2.eps>
+(epstopdf)             \includegraphics on input line 326.
+Package epstopdf Info: Output file is already uptodate.
+
+<images/preselection/mu/costheta2-eps-converted-to.pdf, id=1177, 569.12625pt x 
+385.44pt>
+File: images/preselection/mu/costheta2-eps-converted-to.pdf Graphic file (type 
+pdf)
+ <use images/preselection/mu/costheta2-eps-converted-to.pdf>
+Package pdftex.def Info: images/preselection/mu/costheta2-eps-converted-to.pdf 
+used on input line 326.
+(pdftex.def)             Requested size: 112.95807pt x 76.49849pt.
+Package epstopdf Info: Source file: <images/preselection/mu/costhetast.eps>
+(epstopdf)                    date: 2013-12-30 08:44:08
+(epstopdf)                    size: 28970 bytes
+(epstopdf)             Output file: <images/preselection/mu/costhetast-eps-conv
+erted-to.pdf>
+(epstopdf)                    date: 2013-12-30 08:48:51
+(epstopdf)                    size: 18368 bytes
+(epstopdf)             Command: <epstopdf --outfile=images/preselection/mu/cost
+hetast-eps-converted-to.pdf images/preselection/mu/costhetast.eps>
+(epstopdf)             \includegraphics on input line 326.
+Package epstopdf Info: Output file is already uptodate.
+
+<images/preselection/mu/costhetast-eps-converted-to.pdf, id=1178, 569.12625pt x
+ 385.44pt>
+File: images/preselection/mu/costhetast-eps-converted-to.pdf Graphic file (type
+ pdf)
+ <use images/preselection/mu/costhetast-eps-converted-to.pdf>
+Package pdftex.def Info: images/preselection/mu/costhetast-eps-converted-to.pdf
+ used on input line 326.
+(pdftex.def)             Requested size: 112.95807pt x 76.49849pt.
+Package epstopdf Info: Source file: <images/preselection/mu/phi.eps>
+(epstopdf)                    date: 2013-12-30 08:44:08
+(epstopdf)                    size: 35493 bytes
+(epstopdf)             Output file: <images/preselection/mu/phi-eps-converted-t
+o.pdf>
+(epstopdf)                    date: 2014-01-06 13:00:57
+(epstopdf)                    size: 19450 bytes
+(epstopdf)             Command: <epstopdf --outfile=images/preselection/mu/phi-
+eps-converted-to.pdf images/preselection/mu/phi.eps>
+(epstopdf)             \includegraphics on input line 326.
+Package epstopdf Info: Output file is already uptodate.
+
+<images/preselection/mu/phi-eps-converted-to.pdf, id=1179, 569.12625pt x 385.44
+pt>
+File: images/preselection/mu/phi-eps-converted-to.pdf Graphic file (type pdf)
+ <use images/preselection/mu/phi-eps-converted-to.pdf>
+Package pdftex.def Info: images/preselection/mu/phi-eps-converted-to.pdf used o
+n input line 326.
+(pdftex.def)             Requested size: 112.95807pt x 76.49849pt.
+Package epstopdf Info: Source file: <images/preselection/mu/phi1.eps>
+(epstopdf)                    date: 2013-12-30 08:44:08
+(epstopdf)                    size: 34579 bytes
+(epstopdf)             Output file: <images/preselection/mu/phi1-eps-converted-
+to.pdf>
+(epstopdf)                    date: 2014-01-06 13:00:58
+(epstopdf)                    size: 19292 bytes
+(epstopdf)             Command: <epstopdf --outfile=images/preselection/mu/phi1
+-eps-converted-to.pdf images/preselection/mu/phi1.eps>
+(epstopdf)             \includegraphics on input line 326.
+Package epstopdf Info: Output file is already uptodate.
+
+<images/preselection/mu/phi1-eps-converted-to.pdf, id=1180, 569.12625pt x 385.4
+4pt>
+File: images/preselection/mu/phi1-eps-converted-to.pdf Graphic file (type pdf)
+ <use images/preselection/mu/phi1-eps-converted-to.pdf>
+Package pdftex.def Info: images/preselection/mu/phi1-eps-converted-to.pdf used 
+on input line 326.
+(pdftex.def)             Requested size: 112.95807pt x 76.49849pt.
+ [35
+
+ <./images/preselection/mu/costheta1-eps-converted-to.pdf> <./images/preselecti
+on/mu/costheta2-eps-converted-to.pdf> <./images/preselection/mu/costhetast-eps-
+converted-to.pdf> <./images/preselection/mu/phi-eps-converted-to.pdf> <./images
+/preselection/mu/phi1-eps-converted-to.pdf>]
+<images/plots/sigPDF_CosTheta1proj_500.pdf, id=1268, 569.12625pt x 408.52625pt>
+File: images/plots/sigPDF_CosTheta1proj_500.pdf Graphic file (type pdf)
+<use images/plots/sigPDF_CosTheta1proj_500.pdf>
+Package pdftex.def Info: images/plots/sigPDF_CosTheta1proj_500.pdf used on inpu
+t line 343.
+(pdftex.def)             Requested size: 112.95807pt x 81.08043pt.
+
+<images/plots/sigPDF_CosTheta2proj_500.pdf, id=1269, 569.12625pt x 408.52625pt>
+File: images/plots/sigPDF_CosTheta2proj_500.pdf Graphic file (type pdf)
+<use images/plots/sigPDF_CosTheta2proj_500.pdf>
+Package pdftex.def Info: images/plots/sigPDF_CosTheta2proj_500.pdf used on inpu
+t line 343.
+(pdftex.def)             Requested size: 112.95807pt x 81.08043pt.
+
+<images/plots/sigPDF_CosThetaSproj_500.pdf, id=1270, 569.12625pt x 408.52625pt>
+File: images/plots/sigPDF_CosThetaSproj_500.pdf Graphic file (type pdf)
+<use images/plots/sigPDF_CosThetaSproj_500.pdf>
+Package pdftex.def Info: images/plots/sigPDF_CosThetaSproj_500.pdf used on inpu
+t line 343.
+(pdftex.def)             Requested size: 112.95807pt x 81.08043pt.
+
+<images/plots/sigPDF_Phiproj_500.pdf, id=1271, 569.12625pt x 408.52625pt>
+File: images/plots/sigPDF_Phiproj_500.pdf Graphic file (type pdf)
+
+<use images/plots/sigPDF_Phiproj_500.pdf>
+Package pdftex.def Info: images/plots/sigPDF_Phiproj_500.pdf used on input line
+ 343.
+(pdftex.def)             Requested size: 112.95807pt x 81.08043pt.
+
+<images/plots/sigPDF_PhiStar1proj_500.pdf, id=1272, 569.12625pt x 408.52625pt>
+File: images/plots/sigPDF_PhiStar1proj_500.pdf Graphic file (type pdf)
+
+<use images/plots/sigPDF_PhiStar1proj_500.pdf>
+Package pdftex.def Info: images/plots/sigPDF_PhiStar1proj_500.pdf used on input
+ line 343.
+(pdftex.def)             Requested size: 112.95807pt x 81.08043pt.
+ [36
+
+ <./images/plots/sigPDF_CosTheta1proj_500.pdf> <./images/plots/sigPDF_CosTheta2
+proj_500.pdf> <./images/plots/sigPDF_CosThetaSproj_500.pdf> <./images/plots/sig
+PDF_Phiproj_500.pdf> <./images/plots/sigPDF_PhiStar1proj_500.pdf>]
+Package epstopdf Info: Source file: <images/preselection/el/helyLD.eps>
+(epstopdf)                    date: 2013-12-30 08:43:37
+(epstopdf)                    size: 35593 bytes
+(epstopdf)             Output file: <images/preselection/el/helyLD-eps-converte
+d-to.pdf>
+(epstopdf)                    date: 2013-12-30 08:48:48
+(epstopdf)                    size: 18388 bytes
+(epstopdf)             Command: <epstopdf --outfile=images/preselection/el/hely
+LD-eps-converted-to.pdf images/preselection/el/helyLD.eps>
+(epstopdf)             \includegraphics on input line 356.
+Package epstopdf Info: Output file is already uptodate.
+
+<images/preselection/el/helyLD-eps-converted-to.pdf, id=1329, 569.12625pt x 385
+.44pt>
+File: images/preselection/el/helyLD-eps-converted-to.pdf Graphic file (type pdf
+)
+ <use images/preselection/el/helyLD-eps-converted-to.pdf>
+Package pdftex.def Info: images/preselection/el/helyLD-eps-converted-to.pdf use
+d on input line 356.
+(pdftex.def)             Requested size: 171.14764pt x 115.9093pt.
+Package epstopdf Info: Source file: <images/preselection/mu/helyLD.eps>
+(epstopdf)                    date: 2013-12-30 08:44:08
+(epstopdf)                    size: 34910 bytes
+(epstopdf)             Output file: <images/preselection/mu/helyLD-eps-converte
+d-to.pdf>
+(epstopdf)                    date: 2013-12-30 08:48:48
+(epstopdf)                    size: 19299 bytes
+(epstopdf)             Command: <epstopdf --outfile=images/preselection/mu/hely
+LD-eps-converted-to.pdf images/preselection/mu/helyLD.eps>
+(epstopdf)             \includegraphics on input line 356.
+Package epstopdf Info: Output file is already uptodate.
+
+<images/preselection/mu/helyLD-eps-converted-to.pdf, id=1330, 569.12625pt x 385
+.44pt>
+File: images/preselection/mu/helyLD-eps-converted-to.pdf Graphic file (type pdf
+)
+ <use images/preselection/mu/helyLD-eps-converted-to.pdf>
+Package pdftex.def Info: images/preselection/mu/helyLD-eps-converted-to.pdf use
+d on input line 356.
+(pdftex.def)             Requested size: 171.14764pt x 115.9093pt.
+ [37
+
+ <./images/preselection/el/helyLD-eps-converted-to.pdf> <./images/preselection/
+mu/helyLD-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <images/hely_optimization.eps>
+(epstopdf)                    date: 2014-01-06 13:15:56
+(epstopdf)                    size: 21664 bytes
+(epstopdf)             Output file: <images/hely_optimization-eps-converted-to.
+pdf>
+(epstopdf)                    date: 2014-01-06 13:15:59
+(epstopdf)                    size: 8295 bytes
+(epstopdf)             Command: <epstopdf --outfile=images/hely_optimization-ep
+s-converted-to.pdf images/hely_optimization.eps>
+(epstopdf)             \includegraphics on input line 377.
+Package epstopdf Info: Output file is already uptodate.
+
+<images/hely_optimization-eps-converted-to.pdf, id=1378, 361.35pt x 252.945pt>
+File: images/hely_optimization-eps-converted-to.pdf Graphic file (type pdf)
+
+<use images/hely_optimization-eps-converted-to.pdf>
+Package pdftex.def Info: images/hely_optimization-eps-converted-to.pdf used on 
+input line 377.
+(pdftex.def)             Requested size: 237.21092pt x 166.04878pt.
+ [38
+
+ <./images/hely_optimization-eps-converted-to.pdf>] [39
+
+]
+LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <10> not available
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 434.
+Package epstopdf Info: Source file: <images/preselection/el/j0jp_log.eps>
+(epstopdf)                    date: 2013-12-30 08:43:37
+(epstopdf)                    size: 36465 bytes
+(epstopdf)             Output file: <images/preselection/el/j0jp_log-eps-conver
+ted-to.pdf>
+(epstopdf)                    date: 2013-12-30 08:48:44
+(epstopdf)                    size: 17785 bytes
+(epstopdf)             Command: <epstopdf --outfile=images/preselection/el/j0jp
+_log-eps-converted-to.pdf images/preselection/el/j0jp_log.eps>
+(epstopdf)             \includegraphics on input line 434.
+Package epstopdf Info: Output file is already uptodate.
+
+<images/preselection/el/j0jp_log-eps-converted-to.pdf, id=1437, 569.12625pt x 3
+85.44pt>
+File: images/preselection/el/j0jp_log-eps-converted-to.pdf Graphic file (type p
+df)
+ <use images/preselection/el/j0jp_log-eps-converted-to.pdf>
+Package pdftex.def Info: images/preselection/el/j0jp_log-eps-converted-to.pdf u
+sed on input line 434.
+(pdftex.def)             Requested size: 203.32658pt x 137.70554pt.
+ [40
+
+ <./images/preselection/el/j0jp_log-eps-converted-to.pdf>] [41
+
+]
+Package epstopdf Info: Source file: <images/final/0/el/mZZ_signal_log.eps>
+(epstopdf)                    date: 2013-12-30 09:14:17
+(epstopdf)                    size: 21366 bytes
+(epstopdf)             Output file: <images/final/0/el/mZZ_signal_log-eps-conve
+rted-to.pdf>
+(epstopdf)                    date: 2013-12-30 09:19:38
+(epstopdf)                    size: 13598 bytes
+(epstopdf)             Command: <epstopdf --outfile=images/final/0/el/mZZ_signa
+l_log-eps-converted-to.pdf images/final/0/el/mZZ_signal_log.eps>
+(epstopdf)             \includegraphics on input line 451.
+Package epstopdf Info: Output file is already uptodate.
+
+<images/final/0/el/mZZ_signal_log-eps-converted-to.pdf, id=1496, 569.12625pt x 
+385.44pt>
+File: images/final/0/el/mZZ_signal_log-eps-converted-to.pdf Graphic file (type 
+pdf)
+ <use images/final/0/el/mZZ_signal_log-eps-converted-to.pdf>
+Package pdftex.def Info: images/final/0/el/mZZ_signal_log-eps-converted-to.pdf 
+used on input line 451.
+(pdftex.def)             Requested size: 112.95807pt x 76.49849pt.
+Package epstopdf Info: Source file: <images/final/1/el/mZZ_signal_log.eps>
+(epstopdf)                    date: 2013-12-30 09:15:00
+(epstopdf)                    size: 22251 bytes
+(epstopdf)             Output file: <images/final/1/el/mZZ_signal_log-eps-conve
+rted-to.pdf>
+(epstopdf)                    date: 2013-12-30 09:19:39
+(epstopdf)                    size: 13534 bytes
+(epstopdf)             Command: <epstopdf --outfile=images/final/1/el/mZZ_signa
+l_log-eps-converted-to.pdf images/final/1/el/mZZ_signal_log.eps>
+(epstopdf)             \includegraphics on input line 451.
+Package epstopdf Info: Output file is already uptodate.
+
+<images/final/1/el/mZZ_signal_log-eps-converted-to.pdf, id=1497, 569.12625pt x 
+385.44pt>
+File: images/final/1/el/mZZ_signal_log-eps-converted-to.pdf Graphic file (type 
+pdf)
+ <use images/final/1/el/mZZ_signal_log-eps-converted-to.pdf>
+Package pdftex.def Info: images/final/1/el/mZZ_signal_log-eps-converted-to.pdf 
+used on input line 451.
+(pdftex.def)             Requested size: 112.95807pt x 76.49849pt.
+Package epstopdf Info: Source file: <images/final/2/el/mZZ_signal_log.eps>
+(epstopdf)                    date: 2013-12-30 09:15:42
+(epstopdf)                    size: 22324 bytes
+(epstopdf)             Output file: <images/final/2/el/mZZ_signal_log-eps-conve
+rted-to.pdf>
+(epstopdf)                    date: 2013-12-30 09:19:39
+(epstopdf)                    size: 13065 bytes
+(epstopdf)             Command: <epstopdf --outfile=images/final/2/el/mZZ_signa
+l_log-eps-converted-to.pdf images/final/2/el/mZZ_signal_log.eps>
+(epstopdf)             \includegraphics on input line 451.
+Package epstopdf Info: Output file is already uptodate.
+
+<images/final/2/el/mZZ_signal_log-eps-converted-to.pdf, id=1498, 569.12625pt x 
+385.44pt>
+File: images/final/2/el/mZZ_signal_log-eps-converted-to.pdf Graphic file (type 
+pdf)
+ <use images/final/2/el/mZZ_signal_log-eps-converted-to.pdf>
+Package pdftex.def Info: images/final/2/el/mZZ_signal_log-eps-converted-to.pdf 
+used on input line 451.
+(pdftex.def)             Requested size: 112.95807pt x 76.49849pt.
+Package epstopdf Info: Source file: <images/final/0/mu/mZZ_signal_log.eps>
+(epstopdf)                    date: 2013-12-30 09:16:28
+(epstopdf)                    size: 21308 bytes
+(epstopdf)             Output file: <images/final/0/mu/mZZ_signal_log-eps-conve
+rted-to.pdf>
+(epstopdf)                    date: 2013-12-30 09:19:39
+(epstopdf)                    size: 14677 bytes
+(epstopdf)             Command: <epstopdf --outfile=images/final/0/mu/mZZ_signa
+l_log-eps-converted-to.pdf images/final/0/mu/mZZ_signal_log.eps>
+(epstopdf)             \includegraphics on input line 451.
+Package epstopdf Info: Output file is already uptodate.
+
+<images/final/0/mu/mZZ_signal_log-eps-converted-to.pdf, id=1499, 569.12625pt x 
+385.44pt>
+File: images/final/0/mu/mZZ_signal_log-eps-converted-to.pdf Graphic file (type 
+pdf)
+ <use images/final/0/mu/mZZ_signal_log-eps-converted-to.pdf>
+Package pdftex.def Info: images/final/0/mu/mZZ_signal_log-eps-converted-to.pdf 
+used on input line 451.
+(pdftex.def)             Requested size: 112.95807pt x 76.49849pt.
+Package epstopdf Info: Source file: <images/final/1/mu/mZZ_signal_log.eps>
+(epstopdf)                    date: 2013-12-30 09:17:12
+(epstopdf)                    size: 22621 bytes
+(epstopdf)             Output file: <images/final/1/mu/mZZ_signal_log-eps-conve
+rted-to.pdf>
+(epstopdf)                    date: 2013-12-30 09:19:39
+(epstopdf)                    size: 14856 bytes
+(epstopdf)             Command: <epstopdf --outfile=images/final/1/mu/mZZ_signa
+l_log-eps-converted-to.pdf images/final/1/mu/mZZ_signal_log.eps>
+(epstopdf)             \includegraphics on input line 451.
+Package epstopdf Info: Output file is already uptodate.
+
+<images/final/1/mu/mZZ_signal_log-eps-converted-to.pdf, id=1500, 569.12625pt x 
+385.44pt>
+File: images/final/1/mu/mZZ_signal_log-eps-converted-to.pdf Graphic file (type 
+pdf)
+ <use images/final/1/mu/mZZ_signal_log-eps-converted-to.pdf>
+Package pdftex.def Info: images/final/1/mu/mZZ_signal_log-eps-converted-to.pdf 
+used on input line 451.
+(pdftex.def)             Requested size: 112.95807pt x 76.49849pt.
+Package epstopdf Info: Source file: <images/final/2/mu/mZZ_signal_log.eps>
+(epstopdf)                    date: 2013-12-30 09:17:54
+(epstopdf)                    size: 22295 bytes
+(epstopdf)             Output file: <images/final/2/mu/mZZ_signal_log-eps-conve
+rted-to.pdf>
+(epstopdf)                    date: 2013-12-30 11:39:42
+(epstopdf)                    size: 14325 bytes
+(epstopdf)             Command: <epstopdf --outfile=images/final/2/mu/mZZ_signa
+l_log-eps-converted-to.pdf images/final/2/mu/mZZ_signal_log.eps>
+(epstopdf)             \includegraphics on input line 451.
+Package epstopdf Info: Output file is already uptodate.
+
+<images/final/2/mu/mZZ_signal_log-eps-converted-to.pdf, id=1501, 569.12625pt x 
+385.44pt>
+File: images/final/2/mu/mZZ_signal_log-eps-converted-to.pdf Graphic file (type 
+pdf)
+ <use images/final/2/mu/mZZ_signal_log-eps-converted-to.pdf>
+Package pdftex.def Info: images/final/2/mu/mZZ_signal_log-eps-converted-to.pdf 
+used on input line 451.
+(pdftex.def)             Requested size: 112.95807pt x 76.49849pt.
+ [42
+
+ <./images/final/0/el/mZZ_signal_log-eps-converted-to.pdf> <./images/final/1/el
+/mZZ_signal_log-eps-converted-to.pdf> <./images/final/2/el/mZZ_signal_log-eps-c
+onverted-to.pdf> <./images/final/0/mu/mZZ_signal_log-eps-converted-to.pdf> <./i
+mages/final/1/mu/mZZ_signal_log-eps-converted-to.pdf> <./images/final/2/mu/mZZ_
+signal_log-eps-converted-to.pdf>])
+\openout2 = `optimization.aux'.
+
+ (./optimization.tex)
+\openout2 = `systematics.aux'.
+
+ (./systematics.tex
+(./defense.toc) [43
+
+
+
+
+
+]
+<images/plots/NN/nn_network_architecture.pdf, id=1622, 569.12625pt x 355.3275pt
+>
+File: images/plots/NN/nn_network_architecture.pdf Graphic file (type pdf)
+ <use images/plots/NN/nn_network_architecture.pdf>
+Package pdftex.def Info: images/plots/NN/nn_network_architecture.pdf used on in
+put line 8.
+(pdftex.def)             Requested size: 273.83728pt x 170.97273pt.
+ [44
+
+ <./images/plots/NN/nn_network_architecture.pdf>]
+Package epstopdf Info: Source file: <images/plots/NN/MLP.eps>
+(epstopdf)                    date: 2013-11-06 16:11:27
+(epstopdf)                    size: 21618 bytes
+(epstopdf)             Output file: <images/plots/NN/MLP-eps-converted-to.pdf>
+(epstopdf)                    date: 2013-11-06 16:11:52
+(epstopdf)                    size: 20885 bytes
+(epstopdf)             Command: <epstopdf --outfile=images/plots/NN/MLP-eps-con
+verted-to.pdf images/plots/NN/MLP.eps>
+(epstopdf)             \includegraphics on input line 16.
+Package epstopdf Info: Output file is already uptodate.
+
+<images/plots/NN/MLP-eps-converted-to.pdf, id=1653, 569.12625pt x 421.575pt>
+File: images/plots/NN/MLP-eps-converted-to.pdf Graphic file (type pdf)
+
+<use images/plots/NN/MLP-eps-converted-to.pdf>
+Package pdftex.def Info: images/plots/NN/MLP-eps-converted-to.pdf used on input
+ line 16.
+(pdftex.def)             Requested size: 239.60567pt x 177.48485pt.
+ [45
+
+ <./images/plots/NN/MLP-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <images/preselection/0/el/MLP.eps>
+(epstopdf)                    date: 2013-12-30 08:44:57
+(epstopdf)                    size: 27017 bytes
+(epstopdf)             Output file: <images/preselection/0/el/MLP-eps-converted
+-to.pdf>
+(epstopdf)                    date: 2013-12-30 08:48:49
+(epstopdf)                    size: 15631 bytes
+(epstopdf)             Command: <epstopdf --outfile=images/preselection/0/el/ML
+P-eps-converted-to.pdf images/preselection/0/el/MLP.eps>
+(epstopdf)             \includegraphics on input line 36.
+Package epstopdf Info: Output file is already uptodate.
+
+<images/preselection/0/el/MLP-eps-converted-to.pdf, id=1688, 569.12625pt x 385.
+44pt>
+File: images/preselection/0/el/MLP-eps-converted-to.pdf Graphic file (type pdf)
+
+ <use images/preselection/0/el/MLP-eps-converted-to.pdf>
+Package pdftex.def Info: images/preselection/0/el/MLP-eps-converted-to.pdf used
+ on input line 36.
+(pdftex.def)             Requested size: 112.95807pt x 76.49849pt.
+Package epstopdf Info: Source file: <images/preselection/1/el/MLP.eps>
+(epstopdf)                    date: 2013-12-30 08:45:41
+(epstopdf)                    size: 31797 bytes
+(epstopdf)             Output file: <images/preselection/1/el/MLP-eps-converted
+-to.pdf>
+(epstopdf)                    date: 2013-12-30 08:48:49
+(epstopdf)                    size: 16963 bytes
+(epstopdf)             Command: <epstopdf --outfile=images/preselection/1/el/ML
+P-eps-converted-to.pdf images/preselection/1/el/MLP.eps>
+(epstopdf)             \includegraphics on input line 36.
+Package epstopdf Info: Output file is already uptodate.
+
+<images/preselection/1/el/MLP-eps-converted-to.pdf, id=1689, 569.12625pt x 385.
+44pt>
+File: images/preselection/1/el/MLP-eps-converted-to.pdf Graphic file (type pdf)
+
+ <use images/preselection/1/el/MLP-eps-converted-to.pdf>
+Package pdftex.def Info: images/preselection/1/el/MLP-eps-converted-to.pdf used
+ on input line 36.
+(pdftex.def)             Requested size: 112.95807pt x 76.49849pt.
+Package epstopdf Info: Source file: <images/preselection/2/el/MLP.eps>
+(epstopdf)                    date: 2013-12-30 08:46:23
+(epstopdf)                    size: 32274 bytes
+(epstopdf)             Output file: <images/preselection/2/el/MLP-eps-converted
+-to.pdf>
+(epstopdf)                    date: 2013-12-30 08:48:50
+(epstopdf)                    size: 17094 bytes
+(epstopdf)             Command: <epstopdf --outfile=images/preselection/2/el/ML
+P-eps-converted-to.pdf images/preselection/2/el/MLP.eps>
+(epstopdf)             \includegraphics on input line 36.
+Package epstopdf Info: Output file is already uptodate.
+
+<images/preselection/2/el/MLP-eps-converted-to.pdf, id=1690, 569.12625pt x 385.
+44pt>
+File: images/preselection/2/el/MLP-eps-converted-to.pdf Graphic file (type pdf)
+
+ <use images/preselection/2/el/MLP-eps-converted-to.pdf>
+Package pdftex.def Info: images/preselection/2/el/MLP-eps-converted-to.pdf used
+ on input line 36.
+(pdftex.def)             Requested size: 112.95807pt x 76.49849pt.
+Package epstopdf Info: Source file: <images/preselection/0/mu/MLP.eps>
+(epstopdf)                    date: 2013-12-30 08:47:13
+(epstopdf)                    size: 27330 bytes
+(epstopdf)             Output file: <images/preselection/0/mu/MLP-eps-converted
+-to.pdf>
+(epstopdf)                    date: 2013-12-30 08:48:50
+(epstopdf)                    size: 16767 bytes
+(epstopdf)             Command: <epstopdf --outfile=images/preselection/0/mu/ML
+P-eps-converted-to.pdf images/preselection/0/mu/MLP.eps>
+(epstopdf)             \includegraphics on input line 36.
+Package epstopdf Info: Output file is already uptodate.
+
+<images/preselection/0/mu/MLP-eps-converted-to.pdf, id=1691, 569.12625pt x 385.
+44pt>
+File: images/preselection/0/mu/MLP-eps-converted-to.pdf Graphic file (type pdf)
+
+ <use images/preselection/0/mu/MLP-eps-converted-to.pdf>
+Package pdftex.def Info: images/preselection/0/mu/MLP-eps-converted-to.pdf used
+ on input line 36.
+(pdftex.def)             Requested size: 112.95807pt x 76.49849pt.
+Package epstopdf Info: Source file: <images/preselection/1/mu/MLP.eps>
+(epstopdf)                    date: 2013-12-30 08:47:58
+(epstopdf)                    size: 31961 bytes
+(epstopdf)             Output file: <images/preselection/1/mu/MLP-eps-converted
+-to.pdf>
+(epstopdf)                    date: 2013-12-30 08:48:50
+(epstopdf)                    size: 18176 bytes
+(epstopdf)             Command: <epstopdf --outfile=images/preselection/1/mu/ML
+P-eps-converted-to.pdf images/preselection/1/mu/MLP.eps>
+(epstopdf)             \includegraphics on input line 36.
+Package epstopdf Info: Output file is already uptodate.
+
+<images/preselection/1/mu/MLP-eps-converted-to.pdf, id=1692, 569.12625pt x 385.
+44pt>
+File: images/preselection/1/mu/MLP-eps-converted-to.pdf Graphic file (type pdf)
+
+ <use images/preselection/1/mu/MLP-eps-converted-to.pdf>
+Package pdftex.def Info: images/preselection/1/mu/MLP-eps-converted-to.pdf used
+ on input line 36.
+(pdftex.def)             Requested size: 112.95807pt x 76.49849pt.
+Package epstopdf Info: Source file: <images/preselection/2/mu/MLP.eps>
+(epstopdf)                    date: 2013-12-30 08:48:41
+(epstopdf)                    size: 32679 bytes
+(epstopdf)             Output file: <images/preselection/2/mu/MLP-eps-converted
+-to.pdf>
+(epstopdf)                    date: 2013-12-30 08:48:50
+(epstopdf)                    size: 18360 bytes
+(epstopdf)             Command: <epstopdf --outfile=images/preselection/2/mu/ML
+P-eps-converted-to.pdf images/preselection/2/mu/MLP.eps>
+(epstopdf)             \includegraphics on input line 36.
+Package epstopdf Info: Output file is already uptodate.
+
+<images/preselection/2/mu/MLP-eps-converted-to.pdf, id=1693, 569.12625pt x 385.
+44pt>
+File: images/preselection/2/mu/MLP-eps-converted-to.pdf Graphic file (type pdf)
+
+ <use images/preselection/2/mu/MLP-eps-converted-to.pdf>
+Package pdftex.def Info: images/preselection/2/mu/MLP-eps-converted-to.pdf used
+ on input line 36.
+(pdftex.def)             Requested size: 112.95807pt x 76.49849pt.
+ [46
+
+ <./images/preselection/0/el/MLP-eps-converted-to.pdf> <./images/preselection/1
+/el/MLP-eps-converted-to.pdf> <./images/preselection/2/el/MLP-eps-converted-to.
+pdf> <./images/preselection/0/mu/MLP-eps-converted-to.pdf> <./images/preselecti
+on/1/mu/MLP-eps-converted-to.pdf> <./images/preselection/2/mu/MLP-eps-converted
+-to.pdf>]
+<images/plots/NN/pretag_ROC_wincut.pdf, id=1781, 252.945pt x 176.66pt>
+File: images/plots/NN/pretag_ROC_wincut.pdf Graphic file (type pdf)
+
+<use images/plots/NN/pretag_ROC_wincut.pdf>
+Package pdftex.def Info: images/plots/NN/pretag_ROC_wincut.pdf used on input li
+ne 56.
+(pdftex.def)             Requested size: 239.60567pt x 167.34622pt.
+ [47
+
+ <./images/plots/NN/pretag_ROC_wincut.pdf>]
+Package epstopdf Info: Source file: <images/preselection/0/el/mZZ_sideband_log.
+eps>
+(epstopdf)                    date: 2013-12-30 08:44:57
+(epstopdf)                    size: 23640 bytes
+(epstopdf)             Output file: <images/preselection/0/el/mZZ_sideband_log-
+eps-converted-to.pdf>
+(epstopdf)                    date: 2013-12-30 08:48:44
+(epstopdf)                    size: 14780 bytes
+(epstopdf)             Command: <epstopdf --outfile=images/preselection/0/el/mZ
+Z_sideband_log-eps-converted-to.pdf images/preselection/0/el/mZZ_sideband_log.e
+ps>
+(epstopdf)             \includegraphics on input line 80.
+Package epstopdf Info: Output file is already uptodate.
+
+<images/preselection/0/el/mZZ_sideband_log-eps-converted-to.pdf, id=1813, 569.1
+2625pt x 385.44pt>
+File: images/preselection/0/el/mZZ_sideband_log-eps-converted-to.pdf Graphic fi
+le (type pdf)
+
+<use images/preselection/0/el/mZZ_sideband_log-eps-converted-to.pdf>
+Package pdftex.def Info: images/preselection/0/el/mZZ_sideband_log-eps-converte
+d-to.pdf used on input line 80.
+(pdftex.def)             Requested size: 112.95807pt x 76.49849pt.
+Package epstopdf Info: Source file: <images/preselection/1/el/mZZ_sideband_log.
+eps>
+(epstopdf)                    date: 2013-12-30 08:45:42
+(epstopdf)                    size: 24477 bytes
+(epstopdf)             Output file: <images/preselection/1/el/mZZ_sideband_log-
+eps-converted-to.pdf>
+(epstopdf)                    date: 2013-12-30 08:48:44
+(epstopdf)                    size: 14766 bytes
+(epstopdf)             Command: <epstopdf --outfile=images/preselection/1/el/mZ
+Z_sideband_log-eps-converted-to.pdf images/preselection/1/el/mZZ_sideband_log.e
+ps>
+(epstopdf)             \includegraphics on input line 80.
+Package epstopdf Info: Output file is already uptodate.
+
+<images/preselection/1/el/mZZ_sideband_log-eps-converted-to.pdf, id=1814, 569.1
+2625pt x 385.44pt>
+File: images/preselection/1/el/mZZ_sideband_log-eps-converted-to.pdf Graphic fi
+le (type pdf)
+
+<use images/preselection/1/el/mZZ_sideband_log-eps-converted-to.pdf>
+Package pdftex.def Info: images/preselection/1/el/mZZ_sideband_log-eps-converte
+d-to.pdf used on input line 80.
+(pdftex.def)             Requested size: 112.95807pt x 76.49849pt.
+Package epstopdf Info: Source file: <images/preselection/2/el/mZZ_sideband_log.
+eps>
+(epstopdf)                    date: 2013-12-30 08:46:23
+(epstopdf)                    size: 23013 bytes
+(epstopdf)             Output file: <images/preselection/2/el/mZZ_sideband_log-
+eps-converted-to.pdf>
+(epstopdf)                    date: 2013-12-30 08:48:44
+(epstopdf)                    size: 13708 bytes
+(epstopdf)             Command: <epstopdf --outfile=images/preselection/2/el/mZ
+Z_sideband_log-eps-converted-to.pdf images/preselection/2/el/mZZ_sideband_log.e
+ps>
+(epstopdf)             \includegraphics on input line 80.
+Package epstopdf Info: Output file is already uptodate.
+
+<images/preselection/2/el/mZZ_sideband_log-eps-converted-to.pdf, id=1815, 569.1
+2625pt x 385.44pt>
+File: images/preselection/2/el/mZZ_sideband_log-eps-converted-to.pdf Graphic fi
+le (type pdf)
+
+<use images/preselection/2/el/mZZ_sideband_log-eps-converted-to.pdf>
+Package pdftex.def Info: images/preselection/2/el/mZZ_sideband_log-eps-converte
+d-to.pdf used on input line 80.
+(pdftex.def)             Requested size: 112.95807pt x 76.49849pt.
+Package epstopdf Info: Source file: <images/preselection/0/mu/mZZ_sideband_log.
+eps>
+(epstopdf)                    date: 2013-12-30 08:47:13
+(epstopdf)                    size: 23630 bytes
+(epstopdf)             Output file: <images/preselection/0/mu/mZZ_sideband_log-
+eps-converted-to.pdf>
+(epstopdf)                    date: 2013-12-30 08:48:45
+(epstopdf)                    size: 15918 bytes
+(epstopdf)             Command: <epstopdf --outfile=images/preselection/0/mu/mZ
+Z_sideband_log-eps-converted-to.pdf images/preselection/0/mu/mZZ_sideband_log.e
+ps>
+(epstopdf)             \includegraphics on input line 80.
+Package epstopdf Info: Output file is already uptodate.
+
+<images/preselection/0/mu/mZZ_sideband_log-eps-converted-to.pdf, id=1816, 569.1
+2625pt x 385.44pt>
+File: images/preselection/0/mu/mZZ_sideband_log-eps-converted-to.pdf Graphic fi
+le (type pdf)
+
+<use images/preselection/0/mu/mZZ_sideband_log-eps-converted-to.pdf>
+Package pdftex.def Info: images/preselection/0/mu/mZZ_sideband_log-eps-converte
+d-to.pdf used on input line 80.
+(pdftex.def)             Requested size: 112.95807pt x 76.49849pt.
+Package epstopdf Info: Source file: <images/preselection/1/mu/mZZ_sideband_log.
+eps>
+(epstopdf)                    date: 2013-12-30 08:47:58
+(epstopdf)                    size: 24997 bytes
+(epstopdf)             Output file: <images/preselection/1/mu/mZZ_sideband_log-
+eps-converted-to.pdf>
+(epstopdf)                    date: 2013-12-30 08:48:45
+(epstopdf)                    size: 16120 bytes
+(epstopdf)             Command: <epstopdf --outfile=images/preselection/1/mu/mZ
+Z_sideband_log-eps-converted-to.pdf images/preselection/1/mu/mZZ_sideband_log.e
+ps>
+(epstopdf)             \includegraphics on input line 80.
+Package epstopdf Info: Output file is already uptodate.
+
+<images/preselection/1/mu/mZZ_sideband_log-eps-converted-to.pdf, id=1817, 569.1
+2625pt x 385.44pt>
+File: images/preselection/1/mu/mZZ_sideband_log-eps-converted-to.pdf Graphic fi
+le (type pdf)
+
+<use images/preselection/1/mu/mZZ_sideband_log-eps-converted-to.pdf>
+Package pdftex.def Info: images/preselection/1/mu/mZZ_sideband_log-eps-converte
+d-to.pdf used on input line 80.
+(pdftex.def)             Requested size: 112.95807pt x 76.49849pt.
+Package epstopdf Info: Source file: <images/preselection/2/mu/mZZ_sideband_log.
+eps>
+(epstopdf)                    date: 2013-12-30 08:48:41
+(epstopdf)                    size: 23521 bytes
+(epstopdf)             Output file: <images/preselection/2/mu/mZZ_sideband_log-
+eps-converted-to.pdf>
+(epstopdf)                    date: 2013-12-30 08:48:45
+(epstopdf)                    size: 14814 bytes
+(epstopdf)             Command: <epstopdf --outfile=images/preselection/2/mu/mZ
+Z_sideband_log-eps-converted-to.pdf images/preselection/2/mu/mZZ_sideband_log.e
+ps>
+(epstopdf)             \includegraphics on input line 80.
+Package epstopdf Info: Output file is already uptodate.
+
+<images/preselection/2/mu/mZZ_sideband_log-eps-converted-to.pdf, id=1818, 569.1
+2625pt x 385.44pt>
+File: images/preselection/2/mu/mZZ_sideband_log-eps-converted-to.pdf Graphic fi
+le (type pdf)
+
+<use images/preselection/2/mu/mZZ_sideband_log-eps-converted-to.pdf>
+Package pdftex.def Info: images/preselection/2/mu/mZZ_sideband_log-eps-converte
+d-to.pdf used on input line 80.
+(pdftex.def)             Requested size: 112.95807pt x 76.49849pt.
+ [48
+
+ <./images/preselection/0/el/mZZ_sideband_log-eps-converted-to.pdf> <./images/p
+reselection/1/el/mZZ_sideband_log-eps-converted-to.pdf> <./images/preselection/
+2/el/mZZ_sideband_log-eps-converted-to.pdf> <./images/preselection/0/mu/mZZ_sid
+eband_log-eps-converted-to.pdf> <./images/preselection/1/mu/mZZ_sideband_log-ep
+s-converted-to.pdf> <./images/preselection/2/mu/mZZ_sideband_log-eps-converted-
+to.pdf>]
+Package epstopdf Info: Source file: <images/sidebands/divide_el_2_0.eps>
+(epstopdf)                    date: 2013-11-06 16:41:25
+(epstopdf)                    size: 13188 bytes
+(epstopdf)             Output file: <images/sidebands/divide_el_2_0-eps-convert
+ed-to.pdf>
+(epstopdf)                    date: 2013-11-06 16:41:50
+(epstopdf)                    size: 14373 bytes
+(epstopdf)             Command: <epstopdf --outfile=images/sidebands/divide_el_
+2_0-eps-converted-to.pdf images/sidebands/divide_el_2_0.eps>
+(epstopdf)             \includegraphics on input line 89.
+Package epstopdf Info: Output file is already uptodate.
+
+<images/sidebands/divide_el_2_0-eps-converted-to.pdf, id=1906, 569.12625pt x 38
+5.44pt>
+File: images/sidebands/divide_el_2_0-eps-converted-to.pdf Graphic file (type pd
+f)
+ <use images/sidebands/divide_el_2_0-eps-converted-to.pdf>
+Package pdftex.def Info: images/sidebands/divide_el_2_0-eps-converted-to.pdf us
+ed on input line 89.
+(pdftex.def)             Requested size: 171.14764pt x 115.9093pt.
+Package epstopdf Info: Source file: <images/sidebands/divide_mu_2_0.eps>
+(epstopdf)                    date: 2013-11-06 16:41:39
+(epstopdf)                    size: 11720 bytes
+(epstopdf)             Output file: <images/sidebands/divide_mu_2_0-eps-convert
+ed-to.pdf>
+(epstopdf)                    date: 2013-11-06 16:41:50
+(epstopdf)                    size: 13816 bytes
+(epstopdf)             Command: <epstopdf --outfile=images/sidebands/divide_mu_
+2_0-eps-converted-to.pdf images/sidebands/divide_mu_2_0.eps>
+(epstopdf)             \includegraphics on input line 89.
+Package epstopdf Info: Output file is already uptodate.
+
+<images/sidebands/divide_mu_2_0-eps-converted-to.pdf, id=1907, 569.12625pt x 38
+5.44pt>
+File: images/sidebands/divide_mu_2_0-eps-converted-to.pdf Graphic file (type pd
+f)
+ <use images/sidebands/divide_mu_2_0-eps-converted-to.pdf>
+Package pdftex.def Info: images/sidebands/divide_mu_2_0-eps-converted-to.pdf us
+ed on input line 89.
+(pdftex.def)             Requested size: 171.14764pt x 115.9093pt.
+ [49
+
+ <./images/sidebands/divide_el_2_0-eps-converted-to.pdf> <./images/sidebands/di
+vide_mu_2_0-eps-converted-to.pdf>]
+<images/fromDani/mZZ_sidebandsDATA_alpha_0btag_ALL_log.png, id=1951, 598.235pt 
+x 574.145pt>
+File: images/fromDani/mZZ_sidebandsDATA_alpha_0btag_ALL_log.png Graphic file (t
+ype png)
+ <use images/fromDani/mZZ_sidebandsDATA_alpha_0btag_ALL_log.png>
+Package pdftex.def Info: images/fromDani/mZZ_sidebandsDATA_alpha_0btag_ALL_log.
+png used on input line 120.
+(pdftex.def)             Requested size: 102.68962pt x 98.54951pt.
+
+<images/fromDani/mZZ_sidebandsDATA_alpha_1btag_ALL_log.png, id=1952, 598.235pt 
+x 574.145pt>
+File: images/fromDani/mZZ_sidebandsDATA_alpha_1btag_ALL_log.png Graphic file (t
+ype png)
+ <use images/fromDani/mZZ_sidebandsDATA_alpha_1btag_ALL_log.png>
+Package pdftex.def Info: images/fromDani/mZZ_sidebandsDATA_alpha_1btag_ALL_log.
+png used on input line 120.
+(pdftex.def)             Requested size: 102.68962pt x 98.54951pt.
+
+<images/fromDani/mZZ_sidebandsDATA_alpha_2btag_ALL_log.png, id=1953, 598.235pt 
+x 574.145pt>
+File: images/fromDani/mZZ_sidebandsDATA_alpha_2btag_ALL_log.png Graphic file (t
+ype png)
+ <use images/fromDani/mZZ_sidebandsDATA_alpha_2btag_ALL_log.png>
+Package pdftex.def Info: images/fromDani/mZZ_sidebandsDATA_alpha_2btag_ALL_log.
+png used on input line 120.
+(pdftex.def)             Requested size: 102.68962pt x 98.54951pt.
+
+[50
+
+ <./images/fromDani/mZZ_sidebandsDATA_alpha_0btag_ALL_log.png> <./images/fromDa
+ni/mZZ_sidebandsDATA_alpha_1btag_ALL_log.png> <./images/fromDani/mZZ_sidebandsD
+ATA_alpha_2btag_ALL_log.png>]
+Package epstopdf Info: Source file: <images/SC_fit.eps>
+(epstopdf)                    date: 2013-09-05 13:19:58
+(epstopdf)                    size: 70786 bytes
+(epstopdf)             Output file: <images/SC_fit-eps-converted-to.pdf>
+(epstopdf)                    date: 2013-09-05 13:19:58
+(epstopdf)                    size: 42468 bytes
+(epstopdf)             Command: <epstopdf --outfile=images/SC_fit-eps-converted
+-to.pdf images/SC_fit.eps>
+(epstopdf)             \includegraphics on input line 157.
+Package epstopdf Info: Output file is already uptodate.
+
+<images/SC_fit-eps-converted-to.pdf, id=1980, 569.12625pt x 385.44pt>
+File: images/SC_fit-eps-converted-to.pdf Graphic file (type pdf)
+
+<use images/SC_fit-eps-converted-to.pdf>
+Package pdftex.def Info: images/SC_fit-eps-converted-to.pdf used on input line 
+157.
+(pdftex.def)             Requested size: 167.72658pt x 113.59206pt.
+ [51
+
+ <./images/SC_fit-eps-converted-to.pdf>] [52
+
+]
+Overfull \hbox (4.84229pt too wide) in paragraph at lines 336--336
+ [] 
+ []
+
+[53
+
+] (./defense.toc) [54
+
+]
+<images/8TeV_limit.pdf, id=2099, 569.12625pt x 546.04pt>
+File: images/8TeV_limit.pdf Graphic file (type pdf)
+
+<use images/8TeV_limit.pdf>
+Package pdftex.def Info: images/8TeV_limit.pdf used on input line 357.
+(pdftex.def)             Requested size: 205.37926pt x 197.04916pt.
+ [55
+
+ <./images/8TeV_limit.pdf, page is rotated 90 degrees>] <images/limit_observed_
+0-btag_ee.pdf, id=2171, 569.12625pt x 546.04pt>
+File: images/limit_observed_0-btag_ee.pdf Graphic file (type pdf)
+
+<use images/limit_observed_0-btag_ee.pdf>
+Package pdftex.def Info: images/limit_observed_0-btag_ee.pdf used on input line
+ 368.
+(pdftex.def)             Requested size: 112.95807pt x 108.37286pt.
+
+<images/limit_observed_1-btag_ee.pdf, id=2172, 569.12625pt x 546.04pt>
+File: images/limit_observed_1-btag_ee.pdf Graphic file (type pdf)
+
+<use images/limit_observed_1-btag_ee.pdf>
+Package pdftex.def Info: images/limit_observed_1-btag_ee.pdf used on input line
+ 368.
+(pdftex.def)             Requested size: 112.95807pt x 108.37286pt.
+
+<images/limit_observed_2-btag_ee.pdf, id=2173, 569.12625pt x 546.04pt>
+File: images/limit_observed_2-btag_ee.pdf Graphic file (type pdf)
+
+<use images/limit_observed_2-btag_ee.pdf>
+Package pdftex.def Info: images/limit_observed_2-btag_ee.pdf used on input line
+ 368.
+(pdftex.def)             Requested size: 112.95807pt x 108.37286pt.
+
+<images/limit_observed_0-btag_mm.pdf, id=2174, 569.12625pt x 546.04pt>
+File: images/limit_observed_0-btag_mm.pdf Graphic file (type pdf)
+
+<use images/limit_observed_0-btag_mm.pdf>
+Package pdftex.def Info: images/limit_observed_0-btag_mm.pdf used on input line
+ 368.
+(pdftex.def)             Requested size: 112.95807pt x 108.37286pt.
+
+<images/limit_observed_1-btag_mm.pdf, id=2175, 569.12625pt x 546.04pt>
+File: images/limit_observed_1-btag_mm.pdf Graphic file (type pdf)
+
+<use images/limit_observed_1-btag_mm.pdf>
+Package pdftex.def Info: images/limit_observed_1-btag_mm.pdf used on input line
+ 368.
+(pdftex.def)             Requested size: 112.95807pt x 108.37286pt.
+
+<images/limit_observed_2-btag_mm.pdf, id=2176, 569.12625pt x 546.04pt>
+File: images/limit_observed_2-btag_mm.pdf Graphic file (type pdf)
+
+<use images/limit_observed_2-btag_mm.pdf>
+Package pdftex.def Info: images/limit_observed_2-btag_mm.pdf used on input line
+ 368.
+(pdftex.def)             Requested size: 112.95807pt x 108.37286pt.
+ [56
+
+ <./images/limit_observed_0-btag_ee.pdf, page is rotated 90 degrees> <./images/
+limit_observed_1-btag_ee.pdf, page is rotated 90 degrees> <./images/limit_obser
+ved_2-btag_ee.pdf, page is rotated 90 degrees> <./images/limit_observed_0-btag_
+mm.pdf, page is rotated 90 degrees> <./images/limit_observed_1-btag_mm.pdf, pag
+e is rotated 90 degrees> <./images/limit_observed_2-btag_mm.pdf, page is rotate
+d 90 degrees>]
+File: images/8TeV_limit.pdf Graphic file (type pdf)
+
+<use images/8TeV_limit.pdf>
+Package pdftex.def Info: images/8TeV_limit.pdf used on input line 399.
+(pdftex.def)             Requested size: 171.14764pt x 164.20486pt.
+
+<images/MVA_limit.pdf, id=2461, 569.12625pt x 546.04pt>
+File: images/MVA_limit.pdf Graphic file (type pdf)
+
+<use images/MVA_limit.pdf>
+Package pdftex.def Info: images/MVA_limit.pdf used on input line 399.
+(pdftex.def)             Requested size: 171.14764pt x 164.20486pt.
+ [57
+
+ <./images/MVA_limit.pdf, page is rotated 90 degrees>]
+<images/limit_observed_all-btag_combi.pdf, id=2530, 569.12625pt x 546.04pt>
+File: images/limit_observed_all-btag_combi.pdf Graphic file (type pdf)
+
+<use images/limit_observed_all-btag_combi.pdf>
+Package pdftex.def Info: images/limit_observed_all-btag_combi.pdf used on input
+ line 412.
+(pdftex.def)             Requested size: 205.37926pt x 197.04916pt.
+ [58
+
+ <./images/limit_observed_all-btag_combi.pdf, page is rotated 90 degrees>])
+\openout2 = `conclusion.aux'.
+
+ (./conclusion.tex (./defense.toc) [59
+
+
+
+] [60
+
+])
+\openout2 = `backupslides.aux'.
+
+ (./backupslides.tex [61
+
+
+
+] [62
+
+] [63
+
+] [64
+
+]
+Package epstopdf Info: Source file: <images/preselection/el/mLL.eps>
+(epstopdf)                    date: 2013-12-30 08:43:37
+(epstopdf)                    size: 27361 bytes
+(epstopdf)             Output file: <images/preselection/el/mLL-eps-converted-t
+o.pdf>
+(epstopdf)                    date: 2013-12-30 08:48:43
+(epstopdf)                    size: 16312 bytes
+(epstopdf)             Command: <epstopdf --outfile=images/preselection/el/mLL-
+eps-converted-to.pdf images/preselection/el/mLL.eps>
+(epstopdf)             \includegraphics on input line 80.
+Package epstopdf Info: Output file is already uptodate.
+
+<images/preselection/el/mLL-eps-converted-to.pdf, id=2766, 569.12625pt x 385.44
+pt>
+File: images/preselection/el/mLL-eps-converted-to.pdf Graphic file (type pdf)
+ <use images/preselection/el/mLL-eps-converted-to.pdf>
+Package pdftex.def Info: images/preselection/el/mLL-eps-converted-to.pdf used o
+n input line 80.
+(pdftex.def)             Requested size: 160.8792pt x 108.95757pt.
+Package epstopdf Info: Source file: <images/preselection/mu/mLL.eps>
+(epstopdf)                    date: 2013-12-30 08:44:08
+(epstopdf)                    size: 25739 bytes
+(epstopdf)             Output file: <images/preselection/mu/mLL-eps-converted-t
+o.pdf>
+(epstopdf)                    date: 2013-12-30 08:48:43
+(epstopdf)                    size: 17053 bytes
+(epstopdf)             Command: <epstopdf --outfile=images/preselection/mu/mLL-
+eps-converted-to.pdf images/preselection/mu/mLL.eps>
+(epstopdf)             \includegraphics on input line 80.
+Package epstopdf Info: Output file is already uptodate.
+
+<images/preselection/mu/mLL-eps-converted-to.pdf, id=2767, 569.12625pt x 385.44
+pt>
+File: images/preselection/mu/mLL-eps-converted-to.pdf Graphic file (type pdf)
+ <use images/preselection/mu/mLL-eps-converted-to.pdf>
+Package pdftex.def Info: images/preselection/mu/mLL-eps-converted-to.pdf used o
+n input line 80.
+(pdftex.def)             Requested size: 160.8792pt x 108.95757pt.
+Package epstopdf Info: Source file: <images/preselection/el/mJJ.eps>
+(epstopdf)                    date: 2013-12-30 08:43:37
+(epstopdf)                    size: 31896 bytes
+(epstopdf)             Output file: <images/preselection/el/mJJ-eps-converted-t
+o.pdf>
+(epstopdf)                    date: 2013-12-30 08:48:43
+(epstopdf)                    size: 16871 bytes
+(epstopdf)             Command: <epstopdf --outfile=images/preselection/el/mJJ-
+eps-converted-to.pdf images/preselection/el/mJJ.eps>
+(epstopdf)             \includegraphics on input line 80.
+Package epstopdf Info: Output file is already uptodate.
+File: images/preselection/el/mJJ-eps-converted-to.pdf Graphic file (type pdf)
+
+<use images/preselection/el/mJJ-eps-converted-to.pdf>
+Package pdftex.def Info: images/preselection/el/mJJ-eps-converted-to.pdf used o
+n input line 80.
+(pdftex.def)             Requested size: 160.8792pt x 108.95757pt.
+Package epstopdf Info: Source file: <images/preselection/mu/mJJ.eps>
+(epstopdf)                    date: 2013-12-30 08:44:08
+(epstopdf)                    size: 32470 bytes
+(epstopdf)             Output file: <images/preselection/mu/mJJ-eps-converted-t
+o.pdf>
+(epstopdf)                    date: 2013-12-30 08:48:43
+(epstopdf)                    size: 18247 bytes
+(epstopdf)             Command: <epstopdf --outfile=images/preselection/mu/mJJ-
+eps-converted-to.pdf images/preselection/mu/mJJ.eps>
+(epstopdf)             \includegraphics on input line 80.
+Package epstopdf Info: Output file is already uptodate.
+
+<images/preselection/mu/mJJ-eps-converted-to.pdf, id=2768, 569.12625pt x 385.44
+pt>
+File: images/preselection/mu/mJJ-eps-converted-to.pdf Graphic file (type pdf)
+ <use images/preselection/mu/mJJ-eps-converted-to.pdf>
+Package pdftex.def Info: images/preselection/mu/mJJ-eps-converted-to.pdf used o
+n input line 80.
+(pdftex.def)             Requested size: 160.8792pt x 108.95757pt.
+
+Overfull \vbox (1.11398pt too high) detected at line 80
+ []
+
+[65
+
+ <./images/preselection/el/mLL-eps-converted-to.pdf> <./images/preselection/mu/
+mLL-eps-converted-to.pdf> <./images/preselection/mu/mJJ-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <images/preselection/el/helyLD.eps>
+(epstopdf)                    date: 2013-12-30 08:43:37
+(epstopdf)                    size: 35593 bytes
+(epstopdf)             Output file: <images/preselection/el/helyLD-eps-converte
+d-to.pdf>
+(epstopdf)                    date: 2013-12-30 08:48:48
+(epstopdf)                    size: 18388 bytes
+(epstopdf)             Command: <epstopdf --outfile=images/preselection/el/hely
+LD-eps-converted-to.pdf images/preselection/el/helyLD.eps>
+(epstopdf)             \includegraphics on input line 96.
+Package epstopdf Info: Output file is already uptodate.
+File: images/preselection/el/helyLD-eps-converted-to.pdf Graphic file (type pdf
+)
+ <use images/preselection/el/helyLD-eps-converted-to.pdf>
+Package pdftex.def Info: images/preselection/el/helyLD-eps-converted-to.pdf use
+d on input line 96.
+(pdftex.def)             Requested size: 136.91603pt x 92.7251pt.
+Package epstopdf Info: Source file: <images/preselection/el/MLP.eps>
+(epstopdf)                    date: 2013-12-30 08:43:37
+(epstopdf)                    size: 28557 bytes
+(epstopdf)             Output file: <images/preselection/el/MLP-eps-converted-t
+o.pdf>
+(epstopdf)                    date: 2013-12-30 08:48:49
+(epstopdf)                    size: 16034 bytes
+(epstopdf)             Command: <epstopdf --outfile=images/preselection/el/MLP-
+eps-converted-to.pdf images/preselection/el/MLP.eps>
+(epstopdf)             \includegraphics on input line 96.
+Package epstopdf Info: Output file is already uptodate.
+
+<images/preselection/el/MLP-eps-converted-to.pdf, id=2828, 569.12625pt x 385.44
+pt>
+File: images/preselection/el/MLP-eps-converted-to.pdf Graphic file (type pdf)
+ <use images/preselection/el/MLP-eps-converted-to.pdf>
+Package pdftex.def Info: images/preselection/el/MLP-eps-converted-to.pdf used o
+n input line 96.
+(pdftex.def)             Requested size: 136.91603pt x 92.7251pt.
+Package epstopdf Info: Source file: <images/preselection/el/costhetast.eps>
+(epstopdf)                    date: 2013-12-30 08:43:37
+(epstopdf)                    size: 29179 bytes
+(epstopdf)             Output file: <images/preselection/el/costhetast-eps-conv
+erted-to.pdf>
+(epstopdf)                    date: 2013-12-30 08:48:51
+(epstopdf)                    size: 18239 bytes
+(epstopdf)             Command: <epstopdf --outfile=images/preselection/el/cost
+hetast-eps-converted-to.pdf images/preselection/el/costhetast.eps>
+(epstopdf)             \includegraphics on input line 96.
+Package epstopdf Info: Output file is already uptodate.
+File: images/preselection/el/costhetast-eps-converted-to.pdf Graphic file (type
+ pdf)
+
+<use images/preselection/el/costhetast-eps-converted-to.pdf>
+Package pdftex.def Info: images/preselection/el/costhetast-eps-converted-to.pdf
+ used on input line 96.
+(pdftex.def)             Requested size: 136.91603pt x 92.7251pt.
+Package epstopdf Info: Source file: <images/preselection/mu/costhetast.eps>
+(epstopdf)                    date: 2013-12-30 08:44:08
+(epstopdf)                    size: 28970 bytes
+(epstopdf)             Output file: <images/preselection/mu/costhetast-eps-conv
+erted-to.pdf>
+(epstopdf)                    date: 2013-12-30 08:48:51
+(epstopdf)                    size: 18368 bytes
+(epstopdf)             Command: <epstopdf --outfile=images/preselection/mu/cost
+hetast-eps-converted-to.pdf images/preselection/mu/costhetast.eps>
+(epstopdf)             \includegraphics on input line 96.
+Package epstopdf Info: Output file is already uptodate.
+File: images/preselection/mu/costhetast-eps-converted-to.pdf Graphic file (type
+ pdf)
+
+<use images/preselection/mu/costhetast-eps-converted-to.pdf>
+Package pdftex.def Info: images/preselection/mu/costhetast-eps-converted-to.pdf
+ used on input line 96.
+(pdftex.def)             Requested size: 136.91603pt x 92.7251pt.
+
+Overfull \vbox (9.67348pt too high) detected at line 96
+ []
+
+[66
+
+ <./images/preselection/el/MLP-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <images/costhetast_cut/el/helyLD.eps>
+(epstopdf)                    date: 2013-11-07 10:15:11
+(epstopdf)                    size: 33970 bytes
+(epstopdf)             Output file: <images/costhetast_cut/el/helyLD-eps-conver
+ted-to.pdf>
+(epstopdf)                    date: 2013-11-07 10:20:50
+(epstopdf)                    size: 18046 bytes
+(epstopdf)             Command: <epstopdf --outfile=images/costhetast_cut/el/he
+lyLD-eps-converted-to.pdf images/costhetast_cut/el/helyLD.eps>
+(epstopdf)             \includegraphics on input line 106.
+Package epstopdf Info: Output file is already uptodate.
+
+<images/costhetast_cut/el/helyLD-eps-converted-to.pdf, id=2863, 569.12625pt x 3
+85.44pt>
+File: images/costhetast_cut/el/helyLD-eps-converted-to.pdf Graphic file (type p
+df)
+ <use images/costhetast_cut/el/helyLD-eps-converted-to.pdf>
+Package pdftex.def Info: images/costhetast_cut/el/helyLD-eps-converted-to.pdf u
+sed on input line 106.
+(pdftex.def)             Requested size: 136.91603pt x 92.7251pt.
+Package epstopdf Info: Source file: <images/costhetast_cut/el/MLP.eps>
+(epstopdf)                    date: 2013-11-07 10:15:11
+(epstopdf)                    size: 28569 bytes
+(epstopdf)             Output file: <images/costhetast_cut/el/MLP-eps-converted
+-to.pdf>
+(epstopdf)                    date: 2013-11-07 10:20:51
+(epstopdf)                    size: 16155 bytes
+(epstopdf)             Command: <epstopdf --outfile=images/costhetast_cut/el/ML
+P-eps-converted-to.pdf images/costhetast_cut/el/MLP.eps>
+(epstopdf)             \includegraphics on input line 106.
+Package epstopdf Info: Output file is already uptodate.
+
+<images/costhetast_cut/el/MLP-eps-converted-to.pdf, id=2864, 569.12625pt x 385.
+44pt>
+File: images/costhetast_cut/el/MLP-eps-converted-to.pdf Graphic file (type pdf)
+
+ <use images/costhetast_cut/el/MLP-eps-converted-to.pdf>
+Package pdftex.def Info: images/costhetast_cut/el/MLP-eps-converted-to.pdf used
+ on input line 106.
+(pdftex.def)             Requested size: 136.91603pt x 92.7251pt.
+Package epstopdf Info: Source file: <images/costhetast_cut/el/costhetast.eps>
+(epstopdf)                    date: 2013-11-07 10:15:11
+(epstopdf)                    size: 30440 bytes
+(epstopdf)             Output file: <images/costhetast_cut/el/costhetast-eps-co
+nverted-to.pdf>
+(epstopdf)                    date: 2013-11-07 10:20:51
+(epstopdf)                    size: 18212 bytes
+(epstopdf)             Command: <epstopdf --outfile=images/costhetast_cut/el/co
+sthetast-eps-converted-to.pdf images/costhetast_cut/el/costhetast.eps>
+(epstopdf)             \includegraphics on input line 106.
+Package epstopdf Info: Output file is already uptodate.
+
+<images/costhetast_cut/el/costhetast-eps-converted-to.pdf, id=2865, 569.12625pt
+ x 385.44pt>
+File: images/costhetast_cut/el/costhetast-eps-converted-to.pdf Graphic file (ty
+pe pdf)
+ <use images/costhetast_cut/el/costhetast-eps-converted-to.pdf>
+Package pdftex.def Info: images/costhetast_cut/el/costhetast-eps-converted-to.p
+df used on input line 106.
+(pdftex.def)             Requested size: 136.91603pt x 92.7251pt.
+Package epstopdf Info: Source file: <images/costhetast_cut/mu/costhetast.eps>
+(epstopdf)                    date: 2013-11-07 10:15:55
+(epstopdf)                    size: 27938 bytes
+(epstopdf)             Output file: <images/costhetast_cut/mu/costhetast-eps-co
+nverted-to.pdf>
+(epstopdf)                    date: 2013-11-07 10:20:51
+(epstopdf)                    size: 17671 bytes
+(epstopdf)             Command: <epstopdf --outfile=images/costhetast_cut/mu/co
+sthetast-eps-converted-to.pdf images/costhetast_cut/mu/costhetast.eps>
+(epstopdf)             \includegraphics on input line 106.
+Package epstopdf Info: Output file is already uptodate.
+
+<images/costhetast_cut/mu/costhetast-eps-converted-to.pdf, id=2866, 569.12625pt
+ x 385.44pt>
+File: images/costhetast_cut/mu/costhetast-eps-converted-to.pdf Graphic file (ty
+pe pdf)
+ <use images/costhetast_cut/mu/costhetast-eps-converted-to.pdf>
+Package pdftex.def Info: images/costhetast_cut/mu/costhetast-eps-converted-to.p
+df used on input line 106.
+(pdftex.def)             Requested size: 136.91603pt x 92.7251pt.
+
+[67
+
+ <./images/costhetast_cut/el/helyLD-eps-converted-to.pdf> <./images/costhetast_
+cut/el/MLP-eps-converted-to.pdf> <./images/costhetast_cut/el/costhetast-eps-con
+verted-to.pdf> <./images/costhetast_cut/mu/costhetast-eps-converted-to.pdf>]
+<images/plots/ASCL_7TEV_unblided_new230_new_xsec.png, id=2934, 899.36pt x 875.2
+7pt>
+File: images/plots/ASCL_7TEV_unblided_new230_new_xsec.png Graphic file (type pn
+g)
+ <use images/plots/ASCL_7TEV_unblided_new230_new_xsec.png>
+Package pdftex.def Info: images/plots/ASCL_7TEV_unblided_new230_new_xsec.png us
+ed on input line 118.
+(pdftex.def)             Requested size: 171.14764pt x 166.55678pt.
+ [68
+
+ <./images/plots/ASCL_7TEV_unblided_new230_new_xsec.png>]
+File: images/8TeV_limit.pdf Graphic file (type pdf)
+ <use images/8TeV_limit.pdf>
+Package pdftex.def Info: images/8TeV_limit.pdf used on input line 149.
+(pdftex.def)             Requested size: 171.14764pt x 164.20486pt.
+
+<images/cutcount.png, id=2960, 899.36pt x 875.27pt>
+File: images/cutcount.png Graphic file (type png)
+ <use images/cutcount.png>
+Package pdftex.def Info: images/cutcount.png used on input line 149.
+(pdftex.def)             Requested size: 171.14764pt x 166.55678pt.
+
+[69
+
+ <./images/cutcount.png>])
+\tf@nav=\write6
+\openout6 = `defense.nav'.
+
+\tf@toc=\write7
+\openout7 = `defense.toc'.
+
+\tf@snm=\write8
+\openout8 = `defense.snm'.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 233.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 233.
+ (./defense.aux (./experiment.aux)
+(./event_selection.aux) (./optimization.aux) (./systematics.aux)
+(./conclusion.aux) (./backupslides.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 233.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 233.
+Package rerunfilecheck Info: File `defense.out' has not changed.
+(rerunfilecheck)             Checksum: 53C0E80C3810FE6A5955B6A79074AC9A;269.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 233.
+ ) 
+Here is how much of TeX's memory you used:
+ 18217 strings out of 495059
+ 329671 string characters out of 3182030
+ 399638 words of memory out of 3000000
+ 20636 multiletter control sequences out of 15000+200000
+ 100491 words of font info for 134 fonts, out of 3000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 49i,33n,68p,453b,915s stack positions out of 5000i,500n,10000p,200000b,50000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmmi9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmss8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cms
+y10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb
+></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/
+share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/share/t
+exlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf
+-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/
+type1/urw/helvetic/uhvro8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/t
+imes/utmr8a.pfb>
+Output written on defense.pdf (69 pages, 4964995 bytes).
+PDF statistics:
+ 3072 PDF objects out of 3580 (max. 8388607)
+ 2484 compressed objects within 25 object streams
+ 145 named destinations out of 1000 (max. 500000)
+ 575 words of extra memory for PDF output out of 10000 (max. 10000000)
+

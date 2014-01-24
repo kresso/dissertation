@@ -1,0 +1,59 @@
+% \begin{table}[h!]
+% \caption{Expected and observed yields with 5.2~\fbinv{} of data. The expected background is composed of $\text{p}_{T}$-weighted simulated Z+jets, data-driven top+X and diboson MC.}
+% \label{tab:ICHEPyieldsEEMM}
+% \vspace*{\medskipamount}
+% \centering
+% \begin{tabular}{|c|c|c|c|c|c|c|} \cline{2-7}
+%     \multicolumn{1}{c|}{} & \multicolumn{2}{c|}{0 btag}      & \multicolumn{2}{c|}{1 btag} & \multicolumn{2}{c|}{2 btag} \\\cline{2-7}
+%     \multicolumn{1}{c|}{} & $\mu^+\mu^-jj$ & $e^+e^-jj$   &  $\mu^+\mu^-jj$ &  $e^+e^-jj$ &  $\mu^+\mu^-jj$ &  $e^+e^-jj$ \\\hline
+%     expected background & 5658 & 5143 & 1971 & 1784 & 190 & 156 \\
+%     observed data       & 5818 & 4972 & 1825 & 1675 & 193 & 172 \\ \hline
+%     $\MH~(\GeVcc)$ & \multicolumn{6}{c|}{signal expectation}    \\ \hline
+%             250         & 31.5 & 28.6 & 15.8 & 14.5 & 5.1 & 4.8 \\
+%             300         & 33.7 & 29.9 & 18.0 & 15.3 & 6.6 & 5.6 \\
+%             400         & 32.6 & 28.5 & 18.2 & 16.1 & 7.3 & 6.4 \\
+%             500         & 15.3 & 13.8 &  8.9 &  7.9 & 3.7 & 3.3 \\
+%             600         &  5.7 &  5.4 &  3.5 &  3.1 & 1.4 & 1.3 \\ \hline
+% \end{tabular}
+% \end{table}
+
+% \begin{table}[h!]
+% \caption{Same as Table 1 but joining electrons and muons together.}
+% \label{table:ICHEPyieldsLL}
+% \vspace*{\medskipamount}
+% \centering
+% \begin{tabular}{|c|c|c|c|} \hline
+%      ICHEP data   & 0 btag    &  1 btag & 2 btag \\\hline
+%     expected background   &9877 & 3523 & 322 \\
+%     observed data &9995 & 3215 & 343 \\\hline
+%     $\MH~(\GeVcc)$ & \multicolumn{3}{c|}{signal expectation} \\\hline
+%     250  &59.3 & 30.3 & 9.9 \\
+%     300  &63.5 & 33.3 & 12.1 \\
+%     400  &60.8 & 34.2 & 13.6 \\
+%     500  &29.1 & 16.8 & 7.0 \\
+%     600  &11.3 &  9.9 & 2.7 \\\hline
+% \end{tabular}
+% \end{table}
+
+\begin{table}[h!]
+\caption{
+Expected and observed yields with 19.6 $\text{fb}^{-1}$ of data.
+The expected background is composed of $\text{p}_{T}$-weighted simulated Z+jets, data-driven top+X and diboson MC.
+The background is normalized to the data in the $m_{jj}$ sideband.}
+\label{tab:seleccion}
+\vspace*{\medskipamount}
+\centering
+\begin{tabular}{|c|c|c|c|c|c|c|} \cline{2-7}
+    \multicolumn{1}{c|}{} & \multicolumn{2}{c|}{0 btag} & \multicolumn{2}{c|}{1 btag} & \multicolumn{2}{c|}{2 btag} \\ \cline{2-7}
+    \multicolumn{1}{c|}{} & $\MM jj$ & $\EE jj$  &  $\MM jj$ &  $\EE jj$ &  $\MM jj$ &  $\EE jj$ \\ \hline
+%%                         mm-0b   ee-0b   mm-1b   ee-1b    mm-2b   ee-2b
+    expected background  & 14809 & 13490 &  5478 &  4786 &    525 &    440 \\
+    observed data        & 14697 & 13312 &  5458 &  4819 &    522 &    461 \\ \hline
+    $\MH~(\GeVcc)$ & \multicolumn{6}{c|}{signal expectation}               \\ \hline
+            250          & 110.6 & 100.8 &  55.8 &  51.1 &   18.4 &   16.9 \\
+            300          & 124.4 & 112.3 &  66.6 &  57.0 &   24.5 &   21.0 \\
+            400          & 121.9 & 107.2 &  68.2 &  60.4 &   27.4 &   24.1 \\
+            500          &  57.0 &  52.1 &  33.4 &  29.9 &   13.8 &   12.3 \\
+            600          &  21.7 &  19.7 &  13.2 &  11.9 &    5.4 &    4.9 \\ \hline
+\end{tabular}
+\end{table}

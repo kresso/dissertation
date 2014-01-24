@@ -1,0 +1,30 @@
+\begin{table}[htpb]
+\caption{ 
+The signal samples, $\Htollqq$ ($\ell = \mathrm{e}, \mu, \tau$),
+simulated with POWHEG are
+\textit{/GluGluToHToZZTo2L2Q\_M-xyz\_8TeV-powheg-pythia6/Summer12\_DR53X-PU\_S10\_START53\_V7A-v1/AODSIM },
+where $xyz$ is the Higgs boson mass hypothesis, $\MH$. The cross section times branching fraction for each $\MH$
+value is listed in pb.}
+\label{table-mcsignal}
+\vspace*{\medskipamount}
+\begin{center}
+\small
+\begin{tabular}{|c|c|c|c|c|}
+\cline{1-2} \cline{4-5}
+$\MH$ ($\GeVcc$) & $\sigma\times$ Br($\Htollqq$) [pb] &&
+$\MH$ ($\GeVcc$) & $\sigma\times$ Br($\Htollqq$) [pb] \\
+\cline{1-2} \cline{4-5}
+ 200  &  0.2566 && 400  &  0.1111 \\ % \hline
+ 210  &  0.2538 && 425  &  0.0914 \\ % \hline
+ 220  &  0.2416 && 450  &  0.7311 \\ % \hline
+ 230  &  0.2278 && 475  &  0.6000 \\ % \hline
+ 250  &  0.2022 && 500  &  0.4719 \\ % \hline
+ 275  &  0.1751 && 525  &  0.0380 \\ % \hline
+ 300  &  0.1563 && 550  &  0.0305 \\ % \hline
+ 325  &  0.1478 && 575  &  0.0250 \\ % \hline
+ 350  &  0.1482 && 600  &  0.0201 \\         
+ 375  &  0.1360 &&      &         \\         
+\cline{1-2} \cline{4-5}
+\end{tabular}
+\end{center}
+\end{table}

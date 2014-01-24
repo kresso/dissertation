@@ -1,0 +1,50 @@
+
+Tables~\ref{table:windowYields0tag},~\ref{table:windowYields1tag}, and~\ref{table:windowYields2tag}, list 
+the numbers of signal and background events expected for 19.6 $\text{fb}^{-1}$
+in the mass range $[\MH -6\%, \MH+10\%]$ in the three btag categories, separately for the $\MM jj$
+and $\EE jj$ channels (denoted $\mu\mu$ and ee, respectively).
+
+\begin{table}[h!]
+\caption{Expected yields in the 0-btag category.}
+\label{table:windowYields0tag}
+\centering
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|} \hline
+    $\MH~(\GeVcc)$   & \multicolumn{2}{c|}{signal}      & \multicolumn{2}{c|}{Z+jets} & \multicolumn{2}{c|}{e$\mu$ data} & \multicolumn{2}{c|}{diboson} & \multicolumn{2}{c|}{total background} \\ \cline{2-11}
+                 & $\mu\mu$ & ee &  $\mu\mu$ &  ee &  $\mu\mu$ &  ee &  $\mu\mu$ &  ee & $\mu\mu$ & ee \\\hline
+    250  &  90.0 & 80.4 & 6160.5 & 5312.2 &24 & 19  &201.7 & 175.6 &6386.3 & 5506.7 \\
+    300  &  90.0 & 80.6 & 3334.3 & 2800.3 & 11 & 9  &121.1 & 106.6 &3466.6 & 2915.7 \\
+    400  &  82.6 & 73.5 & 1254.4 & 1065.9 & 1 & 0   & 55.9 & 49.3 & 1310.9 & 1115.6 \\
+    500 &33.4 & 30.2 &429.0 & 381.9 &1 & 1  &23.9 & 20.4 &454.0 & 403.2 \\
+    600&11.9 & 10.5 &179.3 & 152.3 &0 & 0  &11.3 & 10.8 &190.6 & 163.2 \\\hline
+\end{tabular}
+\end{table}
+
+\begin{table}[h!]
+\caption{Expected yields in the 1-btag category.}
+\label{table:windowYields1tag}
+\centering
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|} \hline
+    $\MH~(\GeVcc)$   & \multicolumn{2}{c|}{signal}      & \multicolumn{2}{c|}{Z+jets} & \multicolumn{2}{c|}{e$\mu$ data} & \multicolumn{2}{c|}{diboson} & \multicolumn{2}{c|}{total background} \\ \cline{2-11}
+                 & $\mu\mu$ & ee &  $\mu\mu$ &  ee &  $\mu\mu$ &  ee &  $\mu\mu$ &  ee & $\mu\mu$ & ee \\\hline
+    250 & 44.7 & 40.1 &2124.7 & 1779.0 &87 & 68  &89.7 & 74.2 &2301.2 & 1921.4 \\
+    300 & 46.8 & 40.8 &1174.5 & 987.0 &33.0 & 25  &60.8 & 49.1 &1268.3 & 1062.1 \\
+    400&45.0 & 40.8 &459.8 & 406.7 &6 & 5  &26.9 & 24.1 &492.9 & 435.7 \\
+    500&18.9 & 17.0 &181.1 & 155.8 &1 & 0  &13.9 & 10.1 &195.5 & 166.3 \\
+    600 & 7.0 & 6.4 &80.9 & 61.4  &0 & 0  &6.5 & 5.5 &87.4 & 66.9 \\\hline
+\end{tabular}
+\end{table}
+
+\begin{table}[h!]
+\caption{Expected yields in the 2-btag category.}
+\label{table:windowYields2tag}
+\centering
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|} \hline
+    $\MH~(\GeVcc)$   & \multicolumn{2}{c|}{signal}      & \multicolumn{2}{c|}{Z+jets} & \multicolumn{2}{c|}{e$\mu$ data} & \multicolumn{2}{c|}{diboson} & \multicolumn{2}{c|}{total background} \\ \cline{2-11}
+                 & $\mu\mu$ & ee &  $\mu\mu$ &  ee &  $\mu\mu$ &  ee &  $\mu\mu$ &  ee & $\mu\mu$ & ee \\\hline
+    250&15.6 & 14.8 &180.9 & 138.6 &42 & 33  &18.7 & 16.4 &241.7 & 188.0 \\
+    300&18.5 & 16.0 &91.2 & 70.9 &28 & 22  &12.2 & 11.7 &131.4 & 104.6 \\
+    400&19.8 & 16.8 &32.2 & 24.6 &1 & 0  &7.0 & 5.3 &39.7 & 30.4 \\
+    500&8.2 & 7.5 &9.6 & 8.9 &0 & 0  &2.7 & 2.5 &12.3 & 11.4 \\
+    600&3.0 & 2.8 &5.6 & 4.5 &0 & 0  &1.7 & 1.5 &7.3 & 6.0 \\\hline
+\end{tabular}
+\end{table}
