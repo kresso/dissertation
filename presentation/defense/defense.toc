@@ -1,7 +1,7 @@
 \beamer@endinputifotherversion {3.10pt}
 \select@language {english}
 \beamer@sectionintoc {1}{LHC Search for Higgs Boson}{3}{0}{1}
-\beamer@sectionintoc {2}{Event Selection}{24}{0}{2}
-\beamer@sectionintoc {3}{Cross Check and Statistical Analysis}{43}{0}{3}
-\beamer@sectionintoc {4}{Results}{54}{0}{4}
-\beamer@sectionintoc {5}{Conclusion}{59}{0}{5}
+\beamer@sectionintoc {2}{Event Selection}{21}{0}{2}
+\beamer@sectionintoc {3}{Cross Check and Statistical Analysis}{40}{0}{3}
+\beamer@sectionintoc {4}{Results}{51}{0}{4}
+\beamer@sectionintoc {5}{Conclusion}{56}{0}{5}

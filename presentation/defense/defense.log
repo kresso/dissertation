@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2013.6.27)  10 JAN 2014 16:56
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2013.6.29)  28 JAN 2014 15:06
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -963,867 +963,1022 @@ LaTeX Font Info:    Font shape `T1/phv/m/it' in size <7> not available
 (./defense.toc) [3
 
 
-] [4
-
 ]
-<images/standard_model_particles.jpg, id=168, 702.625pt x 627.34375pt>
+<images/standard_model_particles.jpg, id=142, 702.625pt x 627.34375pt>
 File: images/standard_model_particles.jpg Graphic file (type jpg)
 
 <use images/standard_model_particles.jpg>
 Package pdftex.def Info: images/standard_model_particles.jpg used on input line
- 37.
-(pdftex.def)             Requested size: 171.14764pt x 152.80553pt.
+ 30.
+(pdftex.def)             Requested size: 162.58974pt x 145.16669pt.
+LaTeX Font Info:    Try loading font information for T1+pcr on input line 30.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1pcr.fd
+File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
+)
+LaTeX Font Info:    Calculating math sizes for size <2.84544> on input line 30.
+
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <2.84544> not available
+(Font)              size <5> substituted on input line 30.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <1.99179> not available
+(Font)              size <5> substituted on input line 30.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <1.42271> not available
+(Font)              size <5> substituted on input line 30.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <2.84544> not available
+(Font)              size <5> substituted on input line 30.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <1.99179> not available
+(Font)              size <5> substituted on input line 30.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <1.42271> not available
+(Font)              size <5> substituted on input line 30.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <2.84544> not available
+(Font)              size <5> substituted on input line 30.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <1.99179> not available
+(Font)              size <5> substituted on input line 30.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <1.42271> not available
+(Font)              size <5> substituted on input line 30.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <2.84544> not available
+(Font)              size <5> substituted on input line 30.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <1.99179> not available
+(Font)              size <5> substituted on input line 30.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <1.42271> not available
+(Font)              size <5> substituted on input line 30.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/b/it' in size <2.84544> not available
+(Font)              size <5> substituted on input line 30.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/b/it' in size <1.99179> not available
+(Font)              size <5> substituted on input line 30.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/b/it' in size <1.42271> not available
+(Font)              size <5> substituted on input line 30.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/b/n' in size <2.84544> not available
+(Font)              size <5> substituted on input line 30.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/b/n' in size <1.99179> not available
+(Font)              size <5> substituted on input line 30.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/b/n' in size <1.42271> not available
+(Font)              size <5> substituted on input line 30.
+
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <2.84544> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 30.
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <1.99179> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 30.
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <1.42271> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 30.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10.95> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 37.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 30.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <8> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 37.
- [5
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 30.
 
- <./images/standard_model_particles.jpg>] <images/lhc-sim-600x209.jpg, id=197, 
-602.25pt x 209.78375pt>
-File: images/lhc-sim-600x209.jpg Graphic file (type jpg)
+Overfull \vbox (7.1155pt too high) detected at line 30
+ []
 
-<use images/lhc-sim-600x209.jpg>
-Package pdftex.def Info: images/lhc-sim-600x209.jpg used on input line 124.
-(pdftex.def)             Requested size: 338.87422pt x 118.04466pt.
- [6
+[4
 
- <./images/lhc-sim-600x209.jpg>]
-<images/lhc_schematic.jpg, id=224, 245.2362pt x 172.4844pt>
-File: images/lhc_schematic.jpg Graphic file (type jpg)
-
-<use images/lhc_schematic.jpg>
-Package pdftex.def Info: images/lhc_schematic.jpg used on input line 144.
-(pdftex.def)             Requested size: 167.72658pt x 117.96686pt.
- [7
-
- <./images/lhc_schematic.jpg>]
-<images/lhc_enviroment.png, id=253, 647.41875pt x 454.69875pt>
-File: images/lhc_enviroment.png Graphic file (type png)
-
-<use images/lhc_enviroment.png>
-Package pdftex.def Info: images/lhc_enviroment.png used on input line 152.
-(pdftex.def)             Requested size: 304.64261pt x 213.9582pt.
- [8
-
- <./images/lhc_enviroment.png>]
-<images/2010_lhc_luminocity.png, id=280, 1660.2025pt x 1660.2025pt>
-File: images/2010_lhc_luminocity.png Graphic file (type png)
-
-<use images/2010_lhc_luminocity.png>
-Package pdftex.def Info: images/2010_lhc_luminocity.png used on input line 161.
-
-(pdftex.def)             Requested size: 112.95807pt x 112.95813pt.
-
-<images/2011_lhc_luminocity.png, id=281, 361.35pt x 361.35pt>
-File: images/2011_lhc_luminocity.png Graphic file (type png)
-
-<use images/2011_lhc_luminocity.png>
-Package pdftex.def Info: images/2011_lhc_luminocity.png used on input line 161.
-
-(pdftex.def)             Requested size: 112.95807pt x 112.95468pt.
-
-<images/2012_lhc_luminocity.png, id=283, 361.35pt x 361.35pt>
-File: images/2012_lhc_luminocity.png Graphic file (type png)
-
-<use images/2012_lhc_luminocity.png>
-Package pdftex.def Info: images/2012_lhc_luminocity.png used on input line 161.
-
-(pdftex.def)             Requested size: 112.95807pt x 112.95468pt.
- [9
-
- <./images/2010_lhc_luminocity.png (PNG copy)> <./images/2011_lhc_luminocity.pn
-g> <./images/2012_lhc_luminocity.png>]
-<images/CMScollaborationPoster.png, id=312, 808.01875pt x 422.57875pt>
-File: images/CMScollaborationPoster.png Graphic file (type png)
-
-<use images/CMScollaborationPoster.png>
-Package pdftex.def Info: images/CMScollaborationPoster.png used on input line 1
-67.
-(pdftex.def)             Requested size: 338.87422pt x 177.22394pt.
- [10
-
- <./images/CMScollaborationPoster.png>] <images/CMS_Slice.png, id=340, 995.72pt
- x 507.8975pt>
-File: images/CMS_Slice.png Graphic file (type png)
-
-<use images/CMS_Slice.png>
-Package pdftex.def Info: images/CMS_Slice.png used on input line 174.
-(pdftex.def)             Requested size: 338.87422pt x 172.85336pt.
- [11
-
- <./images/CMS_Slice.png>]
-<images/DetectorGlossary.png, id=369, 770.64836pt x 406.51875pt>
-File: images/DetectorGlossary.png Graphic file (type png)
-
-<use images/DetectorGlossary.png>
-Package pdftex.def Info: images/DetectorGlossary.png used on input line 180.
-(pdftex.def)             Requested size: 338.87422pt x 178.75714pt.
- [12
-
- <./images/DetectorGlossary.png>] [13
-
-]
-<images/lep2limit.jpg, id=424, 451.6875pt x 450.68375pt>
+ <./images/standard_model_particles.jpg>]
+<images/lep2limit.jpg, id=173, 451.6875pt x 450.68375pt>
 File: images/lep2limit.jpg Graphic file (type jpg)
 
 <use images/lep2limit.jpg>
-Package pdftex.def Info: images/lep2limit.jpg used on input line 216.
-(pdftex.def)             Requested size: 118.09229pt x 117.82831pt.
+Package pdftex.def Info: images/lep2limit.jpg used on input line 61.
+(pdftex.def)             Requested size: 111.24492pt x 110.99269pt.
 Package epstopdf Info: Source file: <images/tevsmlimits_feb2013.eps>
-(epstopdf)                    date: 2013-11-09 12:12:20
+(epstopdf)                    date: 2014-01-28 09:58:03
 (epstopdf)                    size: 49576 bytes
 (epstopdf)             Output file: <images/tevsmlimits_feb2013-eps-converted-t
 o.pdf>
-(epstopdf)                    date: 2013-11-09 12:13:33
+(epstopdf)                    date: 2014-01-28 09:58:03
 (epstopdf)                    size: 10076 bytes
 (epstopdf)             Command: <epstopdf --outfile=images/tevsmlimits_feb2013-
 eps-converted-to.pdf images/tevsmlimits_feb2013.eps>
-(epstopdf)             \includegraphics on input line 216.
+(epstopdf)             \includegraphics on input line 61.
 Package epstopdf Info: Output file is already uptodate.
 
-<images/tevsmlimits_feb2013-eps-converted-to.pdf, id=425, 557.08125pt x 424.586
+<images/tevsmlimits_feb2013-eps-converted-to.pdf, id=174, 557.08125pt x 424.586
 24pt>
 File: images/tevsmlimits_feb2013-eps-converted-to.pdf Graphic file (type pdf)
  <use images/tevsmlimits_feb2013-eps-converted-to.pdf>
 Package pdftex.def Info: images/tevsmlimits_feb2013-eps-converted-to.pdf used o
-n input line 216.
-(pdftex.def)             Requested size: 135.20547pt x 103.04301pt.
+n input line 61.
+(pdftex.def)             Requested size: 128.36073pt x 97.8277pt.
 
-Overfull \vbox (5.07018pt too high) detected at line 216
+Overfull \vbox (7.05742pt too high) detected at line 61
  []
 
-[14
+[5
 
  <./images/lep2limit.jpg> <./images/tevsmlimits_feb2013-eps-converted-to.pdf>] 
-<images/higgs_production_feynman.png, id=463, 300.12125pt x 575.14874pt>
+[6
+
+] <images/cern-acc.png, id=241, 309.3156pt x 471.6822pt>
+File: images/cern-acc.png Graphic file (type png)
+
+<use images/cern-acc.png>
+Package pdftex.def Info: images/cern-acc.png used on input line 214.
+(pdftex.def)             Requested size: 135.20547pt x 206.17332pt.
+ <images/HKrT0L.png, id=244, 608.2725pt x 652.4375pt>
+File: images/HKrT0L.png Graphic file (type png)
+
+<use images/HKrT0L.png>
+Package pdftex.def Info: images/HKrT0L.png used on input line 214.
+(pdftex.def)             Requested size: 152.32129pt x 163.37776pt.
+
+Overfull \vbox (0.97217pt too high) detected at line 214
+ []
+
+[7
+
+ <./images/cern-acc.png> <./images/HKrT0L.png (PNG copy)>]
+<images/int_lumi_cumulative_pp_2.pdf, id=275, 578.16pt x 433.62pt>
+File: images/int_lumi_cumulative_pp_2.pdf Graphic file (type pdf)
+
+<use images/int_lumi_cumulative_pp_2.pdf>
+Package pdftex.def Info: images/int_lumi_cumulative_pp_2.pdf used on input line
+ 247.
+(pdftex.def)             Requested size: 145.47653pt x 109.10608pt.
+
+<images/int_lumi_per_day_cumulative_pp_2012.pdf, id=276, 578.16pt x 433.62pt>
+File: images/int_lumi_per_day_cumulative_pp_2012.pdf Graphic file (type pdf)
+
+<use images/int_lumi_per_day_cumulative_pp_2012.pdf>
+Package pdftex.def Info: images/int_lumi_per_day_cumulative_pp_2012.pdf used on
+ input line 247.
+(pdftex.def)             Requested size: 145.47653pt x 109.10608pt.
+
+<images/pileup_pp_2012.pdf, id=277, 578.16pt x 433.62pt>
+File: images/pileup_pp_2012.pdf Graphic file (type pdf)
+
+<use images/pileup_pp_2012.pdf>
+Package pdftex.def Info: images/pileup_pp_2012.pdf used on input line 247.
+(pdftex.def)             Requested size: 145.47653pt x 109.10608pt.
+ [8
+
+ <./images/int_lumi_cumulative_pp_2.pdf> <./images/int_lumi_per_day_cumulative_
+pp_2012.pdf> <./images/pileup_pp_2012.pdf>]
+<images/cms_120918_03.png, id=501, 3189.9175pt x 2253.41875pt>
+File: images/cms_120918_03.png Graphic file (type png)
+
+<use images/cms_120918_03.png>
+Package pdftex.def Info: images/cms_120918_03.png used on input line 256.
+(pdftex.def)             Requested size: 290.9531pt x 205.5153pt.
+
+Overfull \vbox (2.31415pt too high) detected at line 256
+ []
+
+[9
+
+ <./images/cms_120918_03.png>]
+<images/CMS_Slice.png, id=530, 995.72pt x 507.8975pt>
+File: images/CMS_Slice.png Graphic file (type png)
+
+<use images/CMS_Slice.png>
+Package pdftex.def Info: images/CMS_Slice.png used on input line 263.
+(pdftex.def)             Requested size: 338.87422pt x 172.85336pt.
+ [10
+
+ <./images/CMS_Slice.png>]
+<images/DetectorGlossary.png, id=559, 770.64836pt x 406.51875pt>
+File: images/DetectorGlossary.png Graphic file (type png)
+
+<use images/DetectorGlossary.png>
+Package pdftex.def Info: images/DetectorGlossary.png used on input line 269.
+(pdftex.def)             Requested size: 338.87422pt x 178.75714pt.
+ [11
+
+ <./images/DetectorGlossary.png>]
+<images/higgs_production_feynman.png, id=587, 300.12125pt x 575.14874pt>
 File: images/higgs_production_feynman.png Graphic file (type png)
 
 <use images/higgs_production_feynman.png>
 Package pdftex.def Info: images/higgs_production_feynman.png used on input line
- 232.
+ 288.
 (pdftex.def)             Requested size: 118.60803pt x 227.29974pt.
 
-<images/higgs_production_lhc.png, id=464, 711.65875pt x 513.92pt>
+<images/higgs_production_lhc.png, id=588, 711.65875pt x 513.92pt>
 File: images/higgs_production_lhc.png Graphic file (type png)
 
 <use images/higgs_production_lhc.png>
-Package pdftex.def Info: images/higgs_production_lhc.png used on input line 232
+Package pdftex.def Info: images/higgs_production_lhc.png used on input line 288
 .
 (pdftex.def)             Requested size: 220.26617pt x 159.0626pt.
 
-Overfull \vbox (10.4986pt too high) detected at line 232
+Overfull \vbox (10.4986pt too high) detected at line 288
  []
 
-[15
+[12
 
  <./images/higgs_production_feynman.png> <./images/higgs_production_lhc.png>] <
-images/branching_ratio.png, id=492, 653.44125pt x 620.3175pt>
+images/branching_ratio.png, id=615, 653.44125pt x 620.3175pt>
 File: images/branching_ratio.png Graphic file (type png)
 
 <use images/branching_ratio.png>
-Package pdftex.def Info: images/branching_ratio.png used on input line 266.
+Package pdftex.def Info: images/branching_ratio.png used on input line 322.
 (pdftex.def)             Requested size: 169.4371pt x 160.84334pt.
- [16
+ [13
 
  <./images/branching_ratio.png>]
-LaTeX Font Info:    Try loading font information for T1+ptm on input line 317.
+LaTeX Font Info:    Try loading font information for T1+ptm on input line 373.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1ptm.fd
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 )
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <9> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 317.
- [17
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 373.
+ [14
 
 ]
-<images/h_zz_2l2q.png, id=553, 287.69019pt x 286.30038pt>
+<images/h_zz_2l2q.png, id=678, 287.69019pt x 286.30038pt>
 File: images/h_zz_2l2q.png Graphic file (type png)
 
 <use images/h_zz_2l2q.png>
-Package pdftex.def Info: images/h_zz_2l2q.png used on input line 359.
+Package pdftex.def Info: images/h_zz_2l2q.png used on input line 415.
 (pdftex.def)             Requested size: 101.66328pt x 101.17209pt.
 
-Overfull \vbox (3.21564pt too high) detected at line 359
+Overfull \vbox (3.21564pt too high) detected at line 415
+ []
+
+[15
+
+ <./images/h_zz_2l2q.png>]
+<images/calojets.pdf, id=707, 308.5929pt x 445.18318pt>
+File: images/calojets.pdf Graphic file (type pdf)
+
+<use images/calojets.pdf>
+Package pdftex.def Info: images/calojets.pdf used on input line 454.
+(pdftex.def)             Requested size: 135.5476pt x 195.54836pt.
+
+Overfull \vbox (13.42041pt too high) detected at line 454
+ []
+
+[16
+
+ <./images/calojets.pdf>] <images/pf1.pdf, id=741, 280.6485pt x 412.4208pt>
+File: images/pf1.pdf Graphic file (type pdf)
+
+<use images/pf1.pdf>
+Package pdftex.def Info: images/pf1.pdf used on input line 472.
+(pdftex.def)             Requested size: 135.5476pt x 199.19316pt.
+
+Overfull \vbox (3.46521pt too high) detected at line 472
+ []
+
+[17
+
+ <./images/pf1.pdf>] <images/pf2.pdf, id=791, 280.6485pt x 412.4208pt>
+File: images/pf2.pdf Graphic file (type pdf)
+
+<use images/pf2.pdf>
+Package pdftex.def Info: images/pf2.pdf used on input line 494.
+(pdftex.def)             Requested size: 135.5476pt x 199.19316pt.
+
+Overfull \vbox (3.46521pt too high) detected at line 494
  []
 
 [18
 
- <./images/h_zz_2l2q.png>]
-<images/calojets.pdf, id=582, 308.5929pt x 445.18318pt>
-File: images/calojets.pdf Graphic file (type pdf)
+ <./images/pf2.pdf>] <images/pf3.pdf, id=835, 280.6485pt x 412.4208pt>
+File: images/pf3.pdf Graphic file (type pdf)
 
-<use images/calojets.pdf>
-Package pdftex.def Info: images/calojets.pdf used on input line 398.
-(pdftex.def)             Requested size: 135.5476pt x 195.54836pt.
+<use images/pf3.pdf>
+Package pdftex.def Info: images/pf3.pdf used on input line 517.
+(pdftex.def)             Requested size: 135.5476pt x 199.19316pt.
 
-Overfull \vbox (13.42041pt too high) detected at line 398
+Overfull \vbox (3.46521pt too high) detected at line 517
  []
 
 [19
 
- <./images/calojets.pdf>] <images/pf1.pdf, id=618, 280.6485pt x 412.4208pt>
-File: images/pf1.pdf Graphic file (type pdf)
+ <./images/pf3.pdf>] <images/pf4.pdf, id=874, 280.6485pt x 412.4208pt>
+File: images/pf4.pdf Graphic file (type pdf)
 
-<use images/pf1.pdf>
-Package pdftex.def Info: images/pf1.pdf used on input line 416.
+<use images/pf4.pdf>
+Package pdftex.def Info: images/pf4.pdf used on input line 540.
 (pdftex.def)             Requested size: 135.5476pt x 199.19316pt.
 
-Overfull \vbox (3.46521pt too high) detected at line 416
+Overfull \vbox (3.46521pt too high) detected at line 540
  []
 
 [20
 
- <./images/pf1.pdf>] <images/pf2.pdf, id=667, 280.6485pt x 412.4208pt>
-File: images/pf2.pdf Graphic file (type pdf)
-
-<use images/pf2.pdf>
-Package pdftex.def Info: images/pf2.pdf used on input line 438.
-(pdftex.def)             Requested size: 135.5476pt x 199.19316pt.
-
-Overfull \vbox (3.46521pt too high) detected at line 438
- []
-
-[21
-
- <./images/pf2.pdf>] <images/pf3.pdf, id=710, 280.6485pt x 412.4208pt>
-File: images/pf3.pdf Graphic file (type pdf)
-
-<use images/pf3.pdf>
-Package pdftex.def Info: images/pf3.pdf used on input line 461.
-(pdftex.def)             Requested size: 135.5476pt x 199.19316pt.
-
-Overfull \vbox (3.46521pt too high) detected at line 461
- []
-
-[22
-
- <./images/pf3.pdf>] <images/pf4.pdf, id=749, 280.6485pt x 412.4208pt>
-File: images/pf4.pdf Graphic file (type pdf)
-
-<use images/pf4.pdf>
-Package pdftex.def Info: images/pf4.pdf used on input line 484.
-(pdftex.def)             Requested size: 135.5476pt x 199.19316pt.
-
-Overfull \vbox (3.46521pt too high) detected at line 484
- []
-
-[23
-
  <./images/pf4.pdf>])
 \openout2 = `event_selection.aux'.
 
- (./event_selection.tex (./defense.toc) [24
+ (./event_selection.tex (./defense.toc) [21
 
 
 
-] [25
+] [22
 
 ]
-[26
+[23
 
 ]
 Overfull \hbox (7.60342pt too wide) in paragraph at lines 123--123
 [][]  
  []
 
-[27
+[24
 
-] [28
+] <images/beta.png, id=1020, 598.235pt x 574.145pt>
+File: images/beta.png Graphic file (type png)
+ <use images/beta.png>
+Package pdftex.def Info: images/beta.png used on input line 149.
+(pdftex.def)             Requested size: 152.32129pt x 146.1904pt.
 
-]
+<images/JetConeAll-1024x778.png, id=1021, 1027.84pt x 780.9175pt>
+File: images/JetConeAll-1024x778.png Graphic file (type png)
+
+<use images/JetConeAll-1024x778.png>
+Package pdftex.def Info: images/JetConeAll-1024x778.png used on input line 149.
+
+(pdftex.def)             Requested size: 169.4371pt x 128.72667pt.
+ [25
+
+ <./images/beta.png> <./images/JetConeAll-1024x778.png>]
 Package epstopdf Info: Source file: <images/analysis_strategy.eps>
-(epstopdf)                    date: 2013-12-30 13:18:38
+(epstopdf)                    date: 2014-01-28 09:58:02
 (epstopdf)                    size: 70920 bytes
 (epstopdf)             Output file: <images/analysis_strategy-eps-converted-to.
 pdf>
-(epstopdf)                    date: 2013-12-30 13:18:45
+(epstopdf)                    date: 2014-01-28 09:58:02
 (epstopdf)                    size: 31398 bytes
 (epstopdf)             Command: <epstopdf --outfile=images/analysis_strategy-ep
 s-converted-to.pdf images/analysis_strategy.eps>
-(epstopdf)             \includegraphics on input line 136.
+(epstopdf)             \includegraphics on input line 155.
 Package epstopdf Info: Output file is already uptodate.
 
-<images/analysis_strategy-eps-converted-to.pdf, id=922, 578.16pt x 616.3025pt>
+<images/analysis_strategy-eps-converted-to.pdf, id=1052, 578.16pt x 616.3025pt>
 File: images/analysis_strategy-eps-converted-to.pdf Graphic file (type pdf)
-
 <use images/analysis_strategy-eps-converted-to.pdf>
 Package pdftex.def Info: images/analysis_strategy-eps-converted-to.pdf used on 
-input line 136.
+input line 155.
 (pdftex.def)             Requested size: 205.37926pt x 218.92528pt.
 
-Overfull \vbox (1.12413pt too high) detected at line 136
+Overfull \vbox (1.12413pt too high) detected at line 155
  []
 
-[29
+[26
 
  <./images/analysis_strategy-eps-converted-to.pdf>]
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <8> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 216.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 235.
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <9> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 216.
- [30
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 235.
+ [27
 
 ]
 Package epstopdf Info: Source file: <images/preselection/el/mJJ.eps>
-(epstopdf)                    date: 2013-12-30 08:43:37
+(epstopdf)                    date: 2014-01-28 09:58:03
 (epstopdf)                    size: 31896 bytes
 (epstopdf)             Output file: <images/preselection/el/mJJ-eps-converted-t
 o.pdf>
-(epstopdf)                    date: 2013-12-30 08:48:43
+(epstopdf)                    date: 2014-01-28 09:58:03
 (epstopdf)                    size: 16871 bytes
 (epstopdf)             Command: <epstopdf --outfile=images/preselection/el/mJJ-
 eps-converted-to.pdf images/preselection/el/mJJ.eps>
-(epstopdf)             \includegraphics on input line 228.
+(epstopdf)             \includegraphics on input line 247.
 Package epstopdf Info: Output file is already uptodate.
 
-<images/preselection/el/mJJ-eps-converted-to.pdf, id=979, 569.12625pt x 385.44p
-t>
+<images/preselection/el/mJJ-eps-converted-to.pdf, id=1109, 569.12625pt x 385.44
+pt>
 File: images/preselection/el/mJJ-eps-converted-to.pdf Graphic file (type pdf)
  <use images/preselection/el/mJJ-eps-converted-to.pdf>
 Package pdftex.def Info: images/preselection/el/mJJ-eps-converted-to.pdf used o
-n input line 228.
+n input line 247.
 (pdftex.def)             Requested size: 171.14764pt x 115.9093pt.
 Package epstopdf Info: Source file: <images/test_zjj_s_sb_zero.eps>
-(epstopdf)                    date: 2014-01-06 10:31:40
+(epstopdf)                    date: 2014-01-28 09:58:03
 (epstopdf)                    size: 22022 bytes
 (epstopdf)             Output file: <images/test_zjj_s_sb_zero-eps-converted-to
 .pdf>
-(epstopdf)                    date: 2014-01-06 10:31:43
+(epstopdf)                    date: 2014-01-28 09:58:03
 (epstopdf)                    size: 8054 bytes
 (epstopdf)             Command: <epstopdf --outfile=images/test_zjj_s_sb_zero-e
 ps-converted-to.pdf images/test_zjj_s_sb_zero.eps>
-(epstopdf)             \includegraphics on input line 228.
+(epstopdf)             \includegraphics on input line 247.
 Package epstopdf Info: Output file is already uptodate.
 
-<images/test_zjj_s_sb_zero-eps-converted-to.pdf, id=980, 361.35pt x 252.945pt>
+<images/test_zjj_s_sb_zero-eps-converted-to.pdf, id=1110, 361.35pt x 252.945pt>
 File: images/test_zjj_s_sb_zero-eps-converted-to.pdf Graphic file (type pdf)
-
 <use images/test_zjj_s_sb_zero-eps-converted-to.pdf>
 Package pdftex.def Info: images/test_zjj_s_sb_zero-eps-converted-to.pdf used on
- input line 228.
+ input line 247.
 (pdftex.def)             Requested size: 171.14764pt x 119.80275pt.
- [31
+ [28
 
  <./images/preselection/el/mJJ-eps-converted-to.pdf> <./images/test_zjj_s_sb_ze
 ro-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <images/mLL_signal_sideband.eps>
-(epstopdf)                    date: 2014-01-06 10:50:05
+(epstopdf)                    date: 2014-01-28 09:58:02
 (epstopdf)                    size: 1310716 bytes
 (epstopdf)             Output file: <images/mLL_signal_sideband-eps-converted-t
 o.pdf>
-(epstopdf)                    date: 2014-01-06 10:50:28
+(epstopdf)                    date: 2014-01-28 09:58:02
 (epstopdf)                    size: 109063 bytes
 (epstopdf)             Command: <epstopdf --outfile=images/mLL_signal_sideband-
 eps-converted-to.pdf images/mLL_signal_sideband.eps>
-(epstopdf)             \includegraphics on input line 278.
+(epstopdf)             \includegraphics on input line 297.
 Package epstopdf Info: Output file is already uptodate.
 
-<images/mLL_signal_sideband-eps-converted-to.pdf, id=1021, 570.13pt x 386.44376
+<images/mLL_signal_sideband-eps-converted-to.pdf, id=1150, 570.13pt x 386.44376
 pt>
 File: images/mLL_signal_sideband-eps-converted-to.pdf Graphic file (type pdf)
  <use images/mLL_signal_sideband-eps-converted-to.pdf>
 Package pdftex.def Info: images/mLL_signal_sideband-eps-converted-to.pdf used o
-n input line 278.
+n input line 297.
 (pdftex.def)             Requested size: 135.5476pt x 91.87569pt.
 Package epstopdf Info: Source file: <images/mJJ_signal_sideband.eps>
-(epstopdf)                    date: 2013-11-02 19:23:32
+(epstopdf)                    date: 2014-01-28 09:58:02
 (epstopdf)                    size: 1375774 bytes
 (epstopdf)             Output file: <images/mJJ_signal_sideband-eps-converted-t
 o.pdf>
-(epstopdf)                    date: 2013-11-02 19:25:01
+(epstopdf)                    date: 2014-01-28 09:58:02
 (epstopdf)                    size: 81239 bytes
 (epstopdf)             Command: <epstopdf --outfile=images/mJJ_signal_sideband-
 eps-converted-to.pdf images/mJJ_signal_sideband.eps>
-(epstopdf)             \includegraphics on input line 278.
+(epstopdf)             \includegraphics on input line 297.
 Package epstopdf Info: Output file is already uptodate.
 
-<images/mJJ_signal_sideband-eps-converted-to.pdf, id=1022, 570.13pt x 386.44376
+<images/mJJ_signal_sideband-eps-converted-to.pdf, id=1151, 570.13pt x 386.44376
 pt>
 File: images/mJJ_signal_sideband-eps-converted-to.pdf Graphic file (type pdf)
  <use images/mJJ_signal_sideband-eps-converted-to.pdf>
 Package pdftex.def Info: images/mJJ_signal_sideband-eps-converted-to.pdf used o
-n input line 278.
+n input line 297.
 (pdftex.def)             Requested size: 135.5476pt x 91.87569pt.
- [32
+ [29
 
  <./images/mLL_signal_sideband-eps-converted-to.pdf> <./images/mJJ_signal_sideb
-and-eps-converted-to.pdf>] <images/plots/angles-HZZ2l2q.pdf, id=1056, 614.295pt
+and-eps-converted-to.pdf>] <images/plots/angles-HZZ2l2q.pdf, id=1184, 614.295pt
  x 471.7625pt>
 File: images/plots/angles-HZZ2l2q.pdf Graphic file (type pdf)
 
 <use images/plots/angles-HZZ2l2q.pdf>
-Package pdftex.def Info: images/plots/angles-HZZ2l2q.pdf used on input line 300
+Package pdftex.def Info: images/plots/angles-HZZ2l2q.pdf used on input line 319
 .
 (pdftex.def)             Requested size: 205.37926pt x 157.72647pt.
- [33
+ [30
 
  <./images/plots/angles-HZZ2l2q.pdf>]
 Package epstopdf Info: Source file: <images/preselection/el/costheta1.eps>
-(epstopdf)                    date: 2013-12-30 08:43:37
+(epstopdf)                    date: 2014-01-28 09:58:03
 (epstopdf)                    size: 35736 bytes
 (epstopdf)             Output file: <images/preselection/el/costheta1-eps-conve
 rted-to.pdf>
-(epstopdf)                    date: 2014-01-06 13:00:34
+(epstopdf)                    date: 2014-01-28 09:58:03
 (epstopdf)                    size: 19881 bytes
 (epstopdf)             Command: <epstopdf --outfile=images/preselection/el/cost
 heta1-eps-converted-to.pdf images/preselection/el/costheta1.eps>
-(epstopdf)             \includegraphics on input line 313.
+(epstopdf)             \includegraphics on input line 332.
 Package epstopdf Info: Output file is already uptodate.
 
-<images/preselection/el/costheta1-eps-converted-to.pdf, id=1085, 569.12625pt x 
+<images/preselection/el/costheta1-eps-converted-to.pdf, id=1213, 569.12625pt x 
 385.44pt>
 File: images/preselection/el/costheta1-eps-converted-to.pdf Graphic file (type 
 pdf)
  <use images/preselection/el/costheta1-eps-converted-to.pdf>
 Package pdftex.def Info: images/preselection/el/costheta1-eps-converted-to.pdf 
-used on input line 313.
+used on input line 332.
 (pdftex.def)             Requested size: 112.95807pt x 76.49849pt.
 Package epstopdf Info: Source file: <images/preselection/el/costheta2.eps>
-(epstopdf)                    date: 2013-12-30 08:43:37
+(epstopdf)                    date: 2014-01-28 09:58:03
 (epstopdf)                    size: 35911 bytes
 (epstopdf)             Output file: <images/preselection/el/costheta2-eps-conve
 rted-to.pdf>
-(epstopdf)                    date: 2014-01-06 13:00:34
+(epstopdf)                    date: 2014-01-28 09:58:03
 (epstopdf)                    size: 19782 bytes
 (epstopdf)             Command: <epstopdf --outfile=images/preselection/el/cost
 heta2-eps-converted-to.pdf images/preselection/el/costheta2.eps>
-(epstopdf)             \includegraphics on input line 313.
+(epstopdf)             \includegraphics on input line 332.
 Package epstopdf Info: Output file is already uptodate.
 
-<images/preselection/el/costheta2-eps-converted-to.pdf, id=1086, 569.12625pt x 
+<images/preselection/el/costheta2-eps-converted-to.pdf, id=1214, 569.12625pt x 
 385.44pt>
 File: images/preselection/el/costheta2-eps-converted-to.pdf Graphic file (type 
 pdf)
  <use images/preselection/el/costheta2-eps-converted-to.pdf>
 Package pdftex.def Info: images/preselection/el/costheta2-eps-converted-to.pdf 
-used on input line 313.
+used on input line 332.
 (pdftex.def)             Requested size: 112.95807pt x 76.49849pt.
 Package epstopdf Info: Source file: <images/preselection/el/costhetast.eps>
-(epstopdf)                    date: 2013-12-30 08:43:37
+(epstopdf)                    date: 2014-01-28 09:58:03
 (epstopdf)                    size: 29179 bytes
 (epstopdf)             Output file: <images/preselection/el/costhetast-eps-conv
 erted-to.pdf>
-(epstopdf)                    date: 2013-12-30 08:48:51
+(epstopdf)                    date: 2014-01-28 09:58:03
 (epstopdf)                    size: 18239 bytes
 (epstopdf)             Command: <epstopdf --outfile=images/preselection/el/cost
 hetast-eps-converted-to.pdf images/preselection/el/costhetast.eps>
-(epstopdf)             \includegraphics on input line 313.
+(epstopdf)             \includegraphics on input line 332.
 Package epstopdf Info: Output file is already uptodate.
 
-<images/preselection/el/costhetast-eps-converted-to.pdf, id=1087, 569.12625pt x
+<images/preselection/el/costhetast-eps-converted-to.pdf, id=1215, 569.12625pt x
  385.44pt>
 File: images/preselection/el/costhetast-eps-converted-to.pdf Graphic file (type
  pdf)
  <use images/preselection/el/costhetast-eps-converted-to.pdf>
 Package pdftex.def Info: images/preselection/el/costhetast-eps-converted-to.pdf
- used on input line 313.
+ used on input line 332.
 (pdftex.def)             Requested size: 112.95807pt x 76.49849pt.
 Package epstopdf Info: Source file: <images/preselection/el/phi.eps>
-(epstopdf)                    date: 2013-12-30 08:43:37
+(epstopdf)                    date: 2014-01-28 09:58:03
 (epstopdf)                    size: 35586 bytes
 (epstopdf)             Output file: <images/preselection/el/phi-eps-converted-t
 o.pdf>
-(epstopdf)                    date: 2014-01-06 13:00:56
+(epstopdf)                    date: 2014-01-28 09:58:03
 (epstopdf)                    size: 19326 bytes
 (epstopdf)             Command: <epstopdf --outfile=images/preselection/el/phi-
 eps-converted-to.pdf images/preselection/el/phi.eps>
-(epstopdf)             \includegraphics on input line 313.
+(epstopdf)             \includegraphics on input line 332.
 Package epstopdf Info: Output file is already uptodate.
 
-<images/preselection/el/phi-eps-converted-to.pdf, id=1088, 569.12625pt x 385.44
+<images/preselection/el/phi-eps-converted-to.pdf, id=1216, 569.12625pt x 385.44
 pt>
 File: images/preselection/el/phi-eps-converted-to.pdf Graphic file (type pdf)
  <use images/preselection/el/phi-eps-converted-to.pdf>
 Package pdftex.def Info: images/preselection/el/phi-eps-converted-to.pdf used o
-n input line 313.
+n input line 332.
 (pdftex.def)             Requested size: 112.95807pt x 76.49849pt.
 Package epstopdf Info: Source file: <images/preselection/el/phi1.eps>
-(epstopdf)                    date: 2013-12-30 08:43:37
+(epstopdf)                    date: 2014-01-28 09:58:03
 (epstopdf)                    size: 35014 bytes
 (epstopdf)             Output file: <images/preselection/el/phi1-eps-converted-
 to.pdf>
-(epstopdf)                    date: 2014-01-06 13:00:57
+(epstopdf)                    date: 2014-01-28 09:58:03
 (epstopdf)                    size: 19093 bytes
 (epstopdf)             Command: <epstopdf --outfile=images/preselection/el/phi1
 -eps-converted-to.pdf images/preselection/el/phi1.eps>
-(epstopdf)             \includegraphics on input line 313.
+(epstopdf)             \includegraphics on input line 332.
 Package epstopdf Info: Output file is already uptodate.
 
-<images/preselection/el/phi1-eps-converted-to.pdf, id=1089, 569.12625pt x 385.4
+<images/preselection/el/phi1-eps-converted-to.pdf, id=1217, 569.12625pt x 385.4
 4pt>
 File: images/preselection/el/phi1-eps-converted-to.pdf Graphic file (type pdf)
  <use images/preselection/el/phi1-eps-converted-to.pdf>
 Package pdftex.def Info: images/preselection/el/phi1-eps-converted-to.pdf used 
-on input line 313.
+on input line 332.
 (pdftex.def)             Requested size: 112.95807pt x 76.49849pt.
- [34
+ [31
 
  <./images/preselection/el/costheta1-eps-converted-to.pdf> <./images/preselecti
 on/el/costheta2-eps-converted-to.pdf> <./images/preselection/el/costhetast-eps-
 converted-to.pdf> <./images/preselection/el/phi-eps-converted-to.pdf> <./images
 /preselection/el/phi1-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <images/preselection/mu/costheta1.eps>
-(epstopdf)                    date: 2013-12-30 08:44:08
+(epstopdf)                    date: 2014-01-28 09:58:03
 (epstopdf)                    size: 35910 bytes
 (epstopdf)             Output file: <images/preselection/mu/costheta1-eps-conve
 rted-to.pdf>
-(epstopdf)                    date: 2014-01-06 13:00:57
+(epstopdf)                    date: 2014-01-28 09:58:03
 (epstopdf)                    size: 19947 bytes
 (epstopdf)             Command: <epstopdf --outfile=images/preselection/mu/cost
 heta1-eps-converted-to.pdf images/preselection/mu/costheta1.eps>
-(epstopdf)             \includegraphics on input line 326.
+(epstopdf)             \includegraphics on input line 345.
 Package epstopdf Info: Output file is already uptodate.
 
-<images/preselection/mu/costheta1-eps-converted-to.pdf, id=1176, 569.12625pt x 
+<images/preselection/mu/costheta1-eps-converted-to.pdf, id=1306, 569.12625pt x 
 385.44pt>
 File: images/preselection/mu/costheta1-eps-converted-to.pdf Graphic file (type 
 pdf)
  <use images/preselection/mu/costheta1-eps-converted-to.pdf>
 Package pdftex.def Info: images/preselection/mu/costheta1-eps-converted-to.pdf 
-used on input line 326.
+used on input line 345.
 (pdftex.def)             Requested size: 112.95807pt x 76.49849pt.
 Package epstopdf Info: Source file: <images/preselection/mu/costheta2.eps>
-(epstopdf)                    date: 2013-12-30 08:44:08
+(epstopdf)                    date: 2014-01-28 09:58:03
 (epstopdf)                    size: 35736 bytes
 (epstopdf)             Output file: <images/preselection/mu/costheta2-eps-conve
 rted-to.pdf>
-(epstopdf)                    date: 2014-01-06 13:00:57
+(epstopdf)                    date: 2014-01-28 09:58:03
 (epstopdf)                    size: 19876 bytes
 (epstopdf)             Command: <epstopdf --outfile=images/preselection/mu/cost
 heta2-eps-converted-to.pdf images/preselection/mu/costheta2.eps>
-(epstopdf)             \includegraphics on input line 326.
+(epstopdf)             \includegraphics on input line 345.
 Package epstopdf Info: Output file is already uptodate.
 
-<images/preselection/mu/costheta2-eps-converted-to.pdf, id=1177, 569.12625pt x 
+<images/preselection/mu/costheta2-eps-converted-to.pdf, id=1307, 569.12625pt x 
 385.44pt>
 File: images/preselection/mu/costheta2-eps-converted-to.pdf Graphic file (type 
 pdf)
  <use images/preselection/mu/costheta2-eps-converted-to.pdf>
 Package pdftex.def Info: images/preselection/mu/costheta2-eps-converted-to.pdf 
-used on input line 326.
+used on input line 345.
 (pdftex.def)             Requested size: 112.95807pt x 76.49849pt.
 Package epstopdf Info: Source file: <images/preselection/mu/costhetast.eps>
-(epstopdf)                    date: 2013-12-30 08:44:08
+(epstopdf)                    date: 2014-01-28 09:58:03
 (epstopdf)                    size: 28970 bytes
 (epstopdf)             Output file: <images/preselection/mu/costhetast-eps-conv
 erted-to.pdf>
-(epstopdf)                    date: 2013-12-30 08:48:51
+(epstopdf)                    date: 2014-01-28 09:58:03
 (epstopdf)                    size: 18368 bytes
 (epstopdf)             Command: <epstopdf --outfile=images/preselection/mu/cost
 hetast-eps-converted-to.pdf images/preselection/mu/costhetast.eps>
-(epstopdf)             \includegraphics on input line 326.
+(epstopdf)             \includegraphics on input line 345.
 Package epstopdf Info: Output file is already uptodate.
 
-<images/preselection/mu/costhetast-eps-converted-to.pdf, id=1178, 569.12625pt x
+<images/preselection/mu/costhetast-eps-converted-to.pdf, id=1308, 569.12625pt x
  385.44pt>
 File: images/preselection/mu/costhetast-eps-converted-to.pdf Graphic file (type
  pdf)
  <use images/preselection/mu/costhetast-eps-converted-to.pdf>
 Package pdftex.def Info: images/preselection/mu/costhetast-eps-converted-to.pdf
- used on input line 326.
+ used on input line 345.
 (pdftex.def)             Requested size: 112.95807pt x 76.49849pt.
 Package epstopdf Info: Source file: <images/preselection/mu/phi.eps>
-(epstopdf)                    date: 2013-12-30 08:44:08
+(epstopdf)                    date: 2014-01-28 09:58:03
 (epstopdf)                    size: 35493 bytes
 (epstopdf)             Output file: <images/preselection/mu/phi-eps-converted-t
 o.pdf>
-(epstopdf)                    date: 2014-01-06 13:00:57
+(epstopdf)                    date: 2014-01-28 09:58:03
 (epstopdf)                    size: 19450 bytes
 (epstopdf)             Command: <epstopdf --outfile=images/preselection/mu/phi-
 eps-converted-to.pdf images/preselection/mu/phi.eps>
-(epstopdf)             \includegraphics on input line 326.
+(epstopdf)             \includegraphics on input line 345.
 Package epstopdf Info: Output file is already uptodate.
 
-<images/preselection/mu/phi-eps-converted-to.pdf, id=1179, 569.12625pt x 385.44
+<images/preselection/mu/phi-eps-converted-to.pdf, id=1309, 569.12625pt x 385.44
 pt>
 File: images/preselection/mu/phi-eps-converted-to.pdf Graphic file (type pdf)
  <use images/preselection/mu/phi-eps-converted-to.pdf>
 Package pdftex.def Info: images/preselection/mu/phi-eps-converted-to.pdf used o
-n input line 326.
+n input line 345.
 (pdftex.def)             Requested size: 112.95807pt x 76.49849pt.
 Package epstopdf Info: Source file: <images/preselection/mu/phi1.eps>
-(epstopdf)                    date: 2013-12-30 08:44:08
+(epstopdf)                    date: 2014-01-28 09:58:03
 (epstopdf)                    size: 34579 bytes
 (epstopdf)             Output file: <images/preselection/mu/phi1-eps-converted-
 to.pdf>
-(epstopdf)                    date: 2014-01-06 13:00:58
+(epstopdf)                    date: 2014-01-28 09:58:03
 (epstopdf)                    size: 19292 bytes
 (epstopdf)             Command: <epstopdf --outfile=images/preselection/mu/phi1
 -eps-converted-to.pdf images/preselection/mu/phi1.eps>
-(epstopdf)             \includegraphics on input line 326.
+(epstopdf)             \includegraphics on input line 345.
 Package epstopdf Info: Output file is already uptodate.
 
-<images/preselection/mu/phi1-eps-converted-to.pdf, id=1180, 569.12625pt x 385.4
+<images/preselection/mu/phi1-eps-converted-to.pdf, id=1310, 569.12625pt x 385.4
 4pt>
 File: images/preselection/mu/phi1-eps-converted-to.pdf Graphic file (type pdf)
  <use images/preselection/mu/phi1-eps-converted-to.pdf>
 Package pdftex.def Info: images/preselection/mu/phi1-eps-converted-to.pdf used 
-on input line 326.
+on input line 345.
 (pdftex.def)             Requested size: 112.95807pt x 76.49849pt.
- [35
+ [32
 
  <./images/preselection/mu/costheta1-eps-converted-to.pdf> <./images/preselecti
 on/mu/costheta2-eps-converted-to.pdf> <./images/preselection/mu/costhetast-eps-
 converted-to.pdf> <./images/preselection/mu/phi-eps-converted-to.pdf> <./images
 /preselection/mu/phi1-eps-converted-to.pdf>]
-<images/plots/sigPDF_CosTheta1proj_500.pdf, id=1268, 569.12625pt x 408.52625pt>
+<images/plots/sigPDF_CosTheta1proj_500.pdf, id=1398, 569.12625pt x 408.52625pt>
 File: images/plots/sigPDF_CosTheta1proj_500.pdf Graphic file (type pdf)
 <use images/plots/sigPDF_CosTheta1proj_500.pdf>
 Package pdftex.def Info: images/plots/sigPDF_CosTheta1proj_500.pdf used on inpu
-t line 343.
+t line 362.
 (pdftex.def)             Requested size: 112.95807pt x 81.08043pt.
 
-<images/plots/sigPDF_CosTheta2proj_500.pdf, id=1269, 569.12625pt x 408.52625pt>
+<images/plots/sigPDF_CosTheta2proj_500.pdf, id=1399, 569.12625pt x 408.52625pt>
 File: images/plots/sigPDF_CosTheta2proj_500.pdf Graphic file (type pdf)
 <use images/plots/sigPDF_CosTheta2proj_500.pdf>
 Package pdftex.def Info: images/plots/sigPDF_CosTheta2proj_500.pdf used on inpu
-t line 343.
+t line 362.
 (pdftex.def)             Requested size: 112.95807pt x 81.08043pt.
 
-<images/plots/sigPDF_CosThetaSproj_500.pdf, id=1270, 569.12625pt x 408.52625pt>
+<images/plots/sigPDF_CosThetaSproj_500.pdf, id=1400, 569.12625pt x 408.52625pt>
 File: images/plots/sigPDF_CosThetaSproj_500.pdf Graphic file (type pdf)
 <use images/plots/sigPDF_CosThetaSproj_500.pdf>
 Package pdftex.def Info: images/plots/sigPDF_CosThetaSproj_500.pdf used on inpu
-t line 343.
+t line 362.
 (pdftex.def)             Requested size: 112.95807pt x 81.08043pt.
 
-<images/plots/sigPDF_Phiproj_500.pdf, id=1271, 569.12625pt x 408.52625pt>
+<images/plots/sigPDF_Phiproj_500.pdf, id=1401, 569.12625pt x 408.52625pt>
 File: images/plots/sigPDF_Phiproj_500.pdf Graphic file (type pdf)
 
 <use images/plots/sigPDF_Phiproj_500.pdf>
 Package pdftex.def Info: images/plots/sigPDF_Phiproj_500.pdf used on input line
- 343.
+ 362.
 (pdftex.def)             Requested size: 112.95807pt x 81.08043pt.
 
-<images/plots/sigPDF_PhiStar1proj_500.pdf, id=1272, 569.12625pt x 408.52625pt>
+<images/plots/sigPDF_PhiStar1proj_500.pdf, id=1402, 569.12625pt x 408.52625pt>
 File: images/plots/sigPDF_PhiStar1proj_500.pdf Graphic file (type pdf)
 
 <use images/plots/sigPDF_PhiStar1proj_500.pdf>
 Package pdftex.def Info: images/plots/sigPDF_PhiStar1proj_500.pdf used on input
- line 343.
+ line 362.
 (pdftex.def)             Requested size: 112.95807pt x 81.08043pt.
- [36
+ [33
 
  <./images/plots/sigPDF_CosTheta1proj_500.pdf> <./images/plots/sigPDF_CosTheta2
 proj_500.pdf> <./images/plots/sigPDF_CosThetaSproj_500.pdf> <./images/plots/sig
 PDF_Phiproj_500.pdf> <./images/plots/sigPDF_PhiStar1proj_500.pdf>]
 Package epstopdf Info: Source file: <images/preselection/el/helyLD.eps>
-(epstopdf)                    date: 2013-12-30 08:43:37
+(epstopdf)                    date: 2014-01-28 09:58:03
 (epstopdf)                    size: 35593 bytes
 (epstopdf)             Output file: <images/preselection/el/helyLD-eps-converte
 d-to.pdf>
-(epstopdf)                    date: 2013-12-30 08:48:48
+(epstopdf)                    date: 2014-01-28 09:58:03
 (epstopdf)                    size: 18388 bytes
 (epstopdf)             Command: <epstopdf --outfile=images/preselection/el/hely
 LD-eps-converted-to.pdf images/preselection/el/helyLD.eps>
-(epstopdf)             \includegraphics on input line 356.
+(epstopdf)             \includegraphics on input line 375.
 Package epstopdf Info: Output file is already uptodate.
 
-<images/preselection/el/helyLD-eps-converted-to.pdf, id=1329, 569.12625pt x 385
+<images/preselection/el/helyLD-eps-converted-to.pdf, id=1458, 569.12625pt x 385
 .44pt>
 File: images/preselection/el/helyLD-eps-converted-to.pdf Graphic file (type pdf
 )
  <use images/preselection/el/helyLD-eps-converted-to.pdf>
 Package pdftex.def Info: images/preselection/el/helyLD-eps-converted-to.pdf use
-d on input line 356.
+d on input line 375.
 (pdftex.def)             Requested size: 171.14764pt x 115.9093pt.
 Package epstopdf Info: Source file: <images/preselection/mu/helyLD.eps>
-(epstopdf)                    date: 2013-12-30 08:44:08
+(epstopdf)                    date: 2014-01-28 09:58:03
 (epstopdf)                    size: 34910 bytes
 (epstopdf)             Output file: <images/preselection/mu/helyLD-eps-converte
 d-to.pdf>
-(epstopdf)                    date: 2013-12-30 08:48:48
+(epstopdf)                    date: 2014-01-28 09:58:03
 (epstopdf)                    size: 19299 bytes
 (epstopdf)             Command: <epstopdf --outfile=images/preselection/mu/hely
 LD-eps-converted-to.pdf images/preselection/mu/helyLD.eps>
-(epstopdf)             \includegraphics on input line 356.
+(epstopdf)             \includegraphics on input line 375.
 Package epstopdf Info: Output file is already uptodate.
 
-<images/preselection/mu/helyLD-eps-converted-to.pdf, id=1330, 569.12625pt x 385
+<images/preselection/mu/helyLD-eps-converted-to.pdf, id=1459, 569.12625pt x 385
 .44pt>
 File: images/preselection/mu/helyLD-eps-converted-to.pdf Graphic file (type pdf
 )
  <use images/preselection/mu/helyLD-eps-converted-to.pdf>
 Package pdftex.def Info: images/preselection/mu/helyLD-eps-converted-to.pdf use
-d on input line 356.
+d on input line 375.
 (pdftex.def)             Requested size: 171.14764pt x 115.9093pt.
- [37
+ [34
 
  <./images/preselection/el/helyLD-eps-converted-to.pdf> <./images/preselection/
 mu/helyLD-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <images/hely_optimization.eps>
-(epstopdf)                    date: 2014-01-06 13:15:56
+(epstopdf)                    date: 2014-01-28 09:58:02
 (epstopdf)                    size: 21664 bytes
 (epstopdf)             Output file: <images/hely_optimization-eps-converted-to.
 pdf>
-(epstopdf)                    date: 2014-01-06 13:15:59
+(epstopdf)                    date: 2014-01-28 09:58:02
 (epstopdf)                    size: 8295 bytes
 (epstopdf)             Command: <epstopdf --outfile=images/hely_optimization-ep
 s-converted-to.pdf images/hely_optimization.eps>
-(epstopdf)             \includegraphics on input line 377.
+(epstopdf)             \includegraphics on input line 396.
 Package epstopdf Info: Output file is already uptodate.
 
-<images/hely_optimization-eps-converted-to.pdf, id=1378, 361.35pt x 252.945pt>
+<images/hely_optimization-eps-converted-to.pdf, id=1507, 361.35pt x 252.945pt>
 File: images/hely_optimization-eps-converted-to.pdf Graphic file (type pdf)
 
 <use images/hely_optimization-eps-converted-to.pdf>
 Package pdftex.def Info: images/hely_optimization-eps-converted-to.pdf used on 
-input line 377.
+input line 396.
 (pdftex.def)             Requested size: 237.21092pt x 166.04878pt.
- [38
+ [35
 
- <./images/hely_optimization-eps-converted-to.pdf>] [39
+ <./images/hely_optimization-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <images/preselection/2/el/METsignif.eps>
+(epstopdf)                    date: 2014-01-28 09:58:02
+(epstopdf)                    size: 36048 bytes
+(epstopdf)             Output file: <images/preselection/2/el/METsignif-eps-con
+verted-to.pdf>
+(epstopdf)                    date: 2014-01-28 09:58:02
+(epstopdf)                    size: 17944 bytes
+(epstopdf)             Command: <epstopdf --outfile=images/preselection/2/el/ME
+Tsignif-eps-converted-to.pdf images/preselection/2/el/METsignif.eps>
+(epstopdf)             \includegraphics on input line 419.
+Package epstopdf Info: Output file is already uptodate.
 
-]
+<images/preselection/2/el/METsignif-eps-converted-to.pdf, id=1539, 569.12625pt 
+x 385.44pt>
+File: images/preselection/2/el/METsignif-eps-converted-to.pdf Graphic file (typ
+e pdf)
+ <use images/preselection/2/el/METsignif-eps-converted-to.pdf>
+Package pdftex.def Info: images/preselection/2/el/METsignif-eps-converted-to.pd
+f used on input line 419.
+(pdftex.def)             Requested size: 171.14764pt x 115.9093pt.
+Package epstopdf Info: Source file: <images/preselection/2/mu/METsignif.eps>
+(epstopdf)                    date: 2014-01-28 09:58:02
+(epstopdf)                    size: 34000 bytes
+(epstopdf)             Output file: <images/preselection/2/mu/METsignif-eps-con
+verted-to.pdf>
+(epstopdf)                    date: 2014-01-28 09:58:02
+(epstopdf)                    size: 18466 bytes
+(epstopdf)             Command: <epstopdf --outfile=images/preselection/2/mu/ME
+Tsignif-eps-converted-to.pdf images/preselection/2/mu/METsignif.eps>
+(epstopdf)             \includegraphics on input line 419.
+Package epstopdf Info: Output file is already uptodate.
+
+<images/preselection/2/mu/METsignif-eps-converted-to.pdf, id=1540, 569.12625pt 
+x 385.44pt>
+File: images/preselection/2/mu/METsignif-eps-converted-to.pdf Graphic file (typ
+e pdf)
+ <use images/preselection/2/mu/METsignif-eps-converted-to.pdf>
+Package pdftex.def Info: images/preselection/2/mu/METsignif-eps-converted-to.pd
+f used on input line 419.
+(pdftex.def)             Requested size: 171.14764pt x 115.9093pt.
+
+[36
+
+ <./images/preselection/2/el/METsignif-eps-converted-to.pdf> <./images/preselec
+tion/2/mu/METsignif-eps-converted-to.pdf>]
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <10> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 434.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 465.
 Package epstopdf Info: Source file: <images/preselection/el/j0jp_log.eps>
-(epstopdf)                    date: 2013-12-30 08:43:37
+(epstopdf)                    date: 2014-01-28 09:58:03
 (epstopdf)                    size: 36465 bytes
 (epstopdf)             Output file: <images/preselection/el/j0jp_log-eps-conver
 ted-to.pdf>
-(epstopdf)                    date: 2013-12-30 08:48:44
+(epstopdf)                    date: 2014-01-28 09:58:03
 (epstopdf)                    size: 17785 bytes
 (epstopdf)             Command: <epstopdf --outfile=images/preselection/el/j0jp
 _log-eps-converted-to.pdf images/preselection/el/j0jp_log.eps>
-(epstopdf)             \includegraphics on input line 434.
+(epstopdf)             \includegraphics on input line 465.
 Package epstopdf Info: Output file is already uptodate.
 
-<images/preselection/el/j0jp_log-eps-converted-to.pdf, id=1437, 569.12625pt x 3
+<images/preselection/el/j0jp_log-eps-converted-to.pdf, id=1588, 569.12625pt x 3
 85.44pt>
 File: images/preselection/el/j0jp_log-eps-converted-to.pdf Graphic file (type p
 df)
  <use images/preselection/el/j0jp_log-eps-converted-to.pdf>
 Package pdftex.def Info: images/preselection/el/j0jp_log-eps-converted-to.pdf u
-sed on input line 434.
+sed on input line 465.
 (pdftex.def)             Requested size: 203.32658pt x 137.70554pt.
- [40
+ [37
 
- <./images/preselection/el/j0jp_log-eps-converted-to.pdf>] [41
+ <./images/preselection/el/j0jp_log-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <images/final_cand.eps>
+(epstopdf)                    date: 2014-01-28 14:58:59
+(epstopdf)                    size: 63226 bytes
+(epstopdf)             Output file: <images/final_cand-eps-converted-to.pdf>
+(epstopdf)                    date: 2014-01-28 14:59:32
+(epstopdf)                    size: 24473 bytes
+(epstopdf)             Command: <epstopdf --outfile=images/final_cand-eps-conve
+rted-to.pdf images/final_cand.eps>
+(epstopdf)             \includegraphics on input line 481.
+Package epstopdf Info: Output file is already uptodate.
 
-]
+<images/final_cand-eps-converted-to.pdf, id=1625, 1030.85126pt x 309.155pt>
+File: images/final_cand-eps-converted-to.pdf Graphic file (type pdf)
+
+<use images/final_cand-eps-converted-to.pdf>
+Package pdftex.def Info: images/final_cand-eps-converted-to.pdf used on input l
+ine 481.
+(pdftex.def)             Requested size: 338.87422pt x 101.6252pt.
+ [38
+
+ <./images/final_cand-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <images/final/0/el/mZZ_signal_log.eps>
-(epstopdf)                    date: 2013-12-30 09:14:17
+(epstopdf)                    date: 2014-01-28 09:58:02
 (epstopdf)                    size: 21366 bytes
 (epstopdf)             Output file: <images/final/0/el/mZZ_signal_log-eps-conve
 rted-to.pdf>
-(epstopdf)                    date: 2013-12-30 09:19:38
+(epstopdf)                    date: 2014-01-28 09:58:02
 (epstopdf)                    size: 13598 bytes
 (epstopdf)             Command: <epstopdf --outfile=images/final/0/el/mZZ_signa
 l_log-eps-converted-to.pdf images/final/0/el/mZZ_signal_log.eps>
-(epstopdf)             \includegraphics on input line 451.
+(epstopdf)             \includegraphics on input line 497.
 Package epstopdf Info: Output file is already uptodate.
 
-<images/final/0/el/mZZ_signal_log-eps-converted-to.pdf, id=1496, 569.12625pt x 
+<images/final/0/el/mZZ_signal_log-eps-converted-to.pdf, id=1655, 569.12625pt x 
 385.44pt>
 File: images/final/0/el/mZZ_signal_log-eps-converted-to.pdf Graphic file (type 
 pdf)
  <use images/final/0/el/mZZ_signal_log-eps-converted-to.pdf>
 Package pdftex.def Info: images/final/0/el/mZZ_signal_log-eps-converted-to.pdf 
-used on input line 451.
+used on input line 497.
 (pdftex.def)             Requested size: 112.95807pt x 76.49849pt.
 Package epstopdf Info: Source file: <images/final/1/el/mZZ_signal_log.eps>
-(epstopdf)                    date: 2013-12-30 09:15:00
+(epstopdf)                    date: 2014-01-28 09:58:02
 (epstopdf)                    size: 22251 bytes
 (epstopdf)             Output file: <images/final/1/el/mZZ_signal_log-eps-conve
 rted-to.pdf>
-(epstopdf)                    date: 2013-12-30 09:19:39
+(epstopdf)                    date: 2014-01-28 09:58:02
 (epstopdf)                    size: 13534 bytes
 (epstopdf)             Command: <epstopdf --outfile=images/final/1/el/mZZ_signa
 l_log-eps-converted-to.pdf images/final/1/el/mZZ_signal_log.eps>
-(epstopdf)             \includegraphics on input line 451.
+(epstopdf)             \includegraphics on input line 497.
 Package epstopdf Info: Output file is already uptodate.
 
-<images/final/1/el/mZZ_signal_log-eps-converted-to.pdf, id=1497, 569.12625pt x 
+<images/final/1/el/mZZ_signal_log-eps-converted-to.pdf, id=1656, 569.12625pt x 
 385.44pt>
 File: images/final/1/el/mZZ_signal_log-eps-converted-to.pdf Graphic file (type 
 pdf)
  <use images/final/1/el/mZZ_signal_log-eps-converted-to.pdf>
 Package pdftex.def Info: images/final/1/el/mZZ_signal_log-eps-converted-to.pdf 
-used on input line 451.
+used on input line 497.
 (pdftex.def)             Requested size: 112.95807pt x 76.49849pt.
 Package epstopdf Info: Source file: <images/final/2/el/mZZ_signal_log.eps>
-(epstopdf)                    date: 2013-12-30 09:15:42
+(epstopdf)                    date: 2014-01-28 09:58:02
 (epstopdf)                    size: 22324 bytes
 (epstopdf)             Output file: <images/final/2/el/mZZ_signal_log-eps-conve
 rted-to.pdf>
-(epstopdf)                    date: 2013-12-30 09:19:39
+(epstopdf)                    date: 2014-01-28 09:58:02
 (epstopdf)                    size: 13065 bytes
 (epstopdf)             Command: <epstopdf --outfile=images/final/2/el/mZZ_signa
 l_log-eps-converted-to.pdf images/final/2/el/mZZ_signal_log.eps>
-(epstopdf)             \includegraphics on input line 451.
+(epstopdf)             \includegraphics on input line 497.
 Package epstopdf Info: Output file is already uptodate.
 
-<images/final/2/el/mZZ_signal_log-eps-converted-to.pdf, id=1498, 569.12625pt x 
+<images/final/2/el/mZZ_signal_log-eps-converted-to.pdf, id=1657, 569.12625pt x 
 385.44pt>
 File: images/final/2/el/mZZ_signal_log-eps-converted-to.pdf Graphic file (type 
 pdf)
  <use images/final/2/el/mZZ_signal_log-eps-converted-to.pdf>
 Package pdftex.def Info: images/final/2/el/mZZ_signal_log-eps-converted-to.pdf 
-used on input line 451.
+used on input line 497.
 (pdftex.def)             Requested size: 112.95807pt x 76.49849pt.
 Package epstopdf Info: Source file: <images/final/0/mu/mZZ_signal_log.eps>
-(epstopdf)                    date: 2013-12-30 09:16:28
+(epstopdf)                    date: 2014-01-28 09:58:02
 (epstopdf)                    size: 21308 bytes
 (epstopdf)             Output file: <images/final/0/mu/mZZ_signal_log-eps-conve
 rted-to.pdf>
-(epstopdf)                    date: 2013-12-30 09:19:39
+(epstopdf)                    date: 2014-01-28 09:58:02
 (epstopdf)                    size: 14677 bytes
 (epstopdf)             Command: <epstopdf --outfile=images/final/0/mu/mZZ_signa
 l_log-eps-converted-to.pdf images/final/0/mu/mZZ_signal_log.eps>
-(epstopdf)             \includegraphics on input line 451.
+(epstopdf)             \includegraphics on input line 497.
 Package epstopdf Info: Output file is already uptodate.
 
-<images/final/0/mu/mZZ_signal_log-eps-converted-to.pdf, id=1499, 569.12625pt x 
+<images/final/0/mu/mZZ_signal_log-eps-converted-to.pdf, id=1658, 569.12625pt x 
 385.44pt>
 File: images/final/0/mu/mZZ_signal_log-eps-converted-to.pdf Graphic file (type 
 pdf)
  <use images/final/0/mu/mZZ_signal_log-eps-converted-to.pdf>
 Package pdftex.def Info: images/final/0/mu/mZZ_signal_log-eps-converted-to.pdf 
-used on input line 451.
+used on input line 497.
 (pdftex.def)             Requested size: 112.95807pt x 76.49849pt.
 Package epstopdf Info: Source file: <images/final/1/mu/mZZ_signal_log.eps>
-(epstopdf)                    date: 2013-12-30 09:17:12
+(epstopdf)                    date: 2014-01-28 09:58:02
 (epstopdf)                    size: 22621 bytes
 (epstopdf)             Output file: <images/final/1/mu/mZZ_signal_log-eps-conve
 rted-to.pdf>
-(epstopdf)                    date: 2013-12-30 09:19:39
+(epstopdf)                    date: 2014-01-28 09:58:02
 (epstopdf)                    size: 14856 bytes
 (epstopdf)             Command: <epstopdf --outfile=images/final/1/mu/mZZ_signa
 l_log-eps-converted-to.pdf images/final/1/mu/mZZ_signal_log.eps>
-(epstopdf)             \includegraphics on input line 451.
+(epstopdf)             \includegraphics on input line 497.
 Package epstopdf Info: Output file is already uptodate.
 
-<images/final/1/mu/mZZ_signal_log-eps-converted-to.pdf, id=1500, 569.12625pt x 
+<images/final/1/mu/mZZ_signal_log-eps-converted-to.pdf, id=1659, 569.12625pt x 
 385.44pt>
 File: images/final/1/mu/mZZ_signal_log-eps-converted-to.pdf Graphic file (type 
 pdf)
  <use images/final/1/mu/mZZ_signal_log-eps-converted-to.pdf>
 Package pdftex.def Info: images/final/1/mu/mZZ_signal_log-eps-converted-to.pdf 
-used on input line 451.
+used on input line 497.
 (pdftex.def)             Requested size: 112.95807pt x 76.49849pt.
 Package epstopdf Info: Source file: <images/final/2/mu/mZZ_signal_log.eps>
-(epstopdf)                    date: 2013-12-30 09:17:54
+(epstopdf)                    date: 2014-01-28 09:58:02
 (epstopdf)                    size: 22295 bytes
 (epstopdf)             Output file: <images/final/2/mu/mZZ_signal_log-eps-conve
 rted-to.pdf>
-(epstopdf)                    date: 2013-12-30 11:39:42
+(epstopdf)                    date: 2014-01-28 09:58:02
 (epstopdf)                    size: 14325 bytes
 (epstopdf)             Command: <epstopdf --outfile=images/final/2/mu/mZZ_signa
 l_log-eps-converted-to.pdf images/final/2/mu/mZZ_signal_log.eps>
-(epstopdf)             \includegraphics on input line 451.
+(epstopdf)             \includegraphics on input line 497.
 Package epstopdf Info: Output file is already uptodate.
 
-<images/final/2/mu/mZZ_signal_log-eps-converted-to.pdf, id=1501, 569.12625pt x 
+<images/final/2/mu/mZZ_signal_log-eps-converted-to.pdf, id=1660, 569.12625pt x 
 385.44pt>
 File: images/final/2/mu/mZZ_signal_log-eps-converted-to.pdf Graphic file (type 
 pdf)
  <use images/final/2/mu/mZZ_signal_log-eps-converted-to.pdf>
 Package pdftex.def Info: images/final/2/mu/mZZ_signal_log-eps-converted-to.pdf 
-used on input line 451.
+used on input line 497.
 (pdftex.def)             Requested size: 112.95807pt x 76.49849pt.
- [42
+ [39
 
  <./images/final/0/el/mZZ_signal_log-eps-converted-to.pdf> <./images/final/1/el
 /mZZ_signal_log-eps-converted-to.pdf> <./images/final/2/el/mZZ_signal_log-eps-c
@@ -1836,57 +1991,57 @@ signal_log-eps-converted-to.pdf>])
 \openout2 = `systematics.aux'.
 
  (./systematics.tex
-(./defense.toc) [43
+(./defense.toc) [40
 
 
 
 
 
 ]
-<images/plots/NN/nn_network_architecture.pdf, id=1622, 569.12625pt x 355.3275pt
+<images/plots/NN/nn_network_architecture.pdf, id=1779, 569.12625pt x 355.3275pt
 >
 File: images/plots/NN/nn_network_architecture.pdf Graphic file (type pdf)
  <use images/plots/NN/nn_network_architecture.pdf>
 Package pdftex.def Info: images/plots/NN/nn_network_architecture.pdf used on in
 put line 8.
 (pdftex.def)             Requested size: 273.83728pt x 170.97273pt.
- [44
+ [41
 
  <./images/plots/NN/nn_network_architecture.pdf>]
 Package epstopdf Info: Source file: <images/plots/NN/MLP.eps>
-(epstopdf)                    date: 2013-11-06 16:11:27
+(epstopdf)                    date: 2014-01-28 09:58:02
 (epstopdf)                    size: 21618 bytes
 (epstopdf)             Output file: <images/plots/NN/MLP-eps-converted-to.pdf>
-(epstopdf)                    date: 2013-11-06 16:11:52
+(epstopdf)                    date: 2014-01-28 09:58:02
 (epstopdf)                    size: 20885 bytes
 (epstopdf)             Command: <epstopdf --outfile=images/plots/NN/MLP-eps-con
 verted-to.pdf images/plots/NN/MLP.eps>
 (epstopdf)             \includegraphics on input line 16.
 Package epstopdf Info: Output file is already uptodate.
 
-<images/plots/NN/MLP-eps-converted-to.pdf, id=1653, 569.12625pt x 421.575pt>
+<images/plots/NN/MLP-eps-converted-to.pdf, id=1809, 569.12625pt x 421.575pt>
 File: images/plots/NN/MLP-eps-converted-to.pdf Graphic file (type pdf)
 
 <use images/plots/NN/MLP-eps-converted-to.pdf>
 Package pdftex.def Info: images/plots/NN/MLP-eps-converted-to.pdf used on input
  line 16.
 (pdftex.def)             Requested size: 239.60567pt x 177.48485pt.
- [45
+ [42
 
  <./images/plots/NN/MLP-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <images/preselection/0/el/MLP.eps>
-(epstopdf)                    date: 2013-12-30 08:44:57
+(epstopdf)                    date: 2014-01-28 09:58:02
 (epstopdf)                    size: 27017 bytes
 (epstopdf)             Output file: <images/preselection/0/el/MLP-eps-converted
 -to.pdf>
-(epstopdf)                    date: 2013-12-30 08:48:49
+(epstopdf)                    date: 2014-01-28 09:58:02
 (epstopdf)                    size: 15631 bytes
 (epstopdf)             Command: <epstopdf --outfile=images/preselection/0/el/ML
 P-eps-converted-to.pdf images/preselection/0/el/MLP.eps>
 (epstopdf)             \includegraphics on input line 36.
 Package epstopdf Info: Output file is already uptodate.
 
-<images/preselection/0/el/MLP-eps-converted-to.pdf, id=1688, 569.12625pt x 385.
+<images/preselection/0/el/MLP-eps-converted-to.pdf, id=1845, 569.12625pt x 385.
 44pt>
 File: images/preselection/0/el/MLP-eps-converted-to.pdf Graphic file (type pdf)
 
@@ -1895,18 +2050,18 @@ Package pdftex.def Info: images/preselection/0/el/MLP-eps-converted-to.pdf used
  on input line 36.
 (pdftex.def)             Requested size: 112.95807pt x 76.49849pt.
 Package epstopdf Info: Source file: <images/preselection/1/el/MLP.eps>
-(epstopdf)                    date: 2013-12-30 08:45:41
+(epstopdf)                    date: 2014-01-28 09:58:02
 (epstopdf)                    size: 31797 bytes
 (epstopdf)             Output file: <images/preselection/1/el/MLP-eps-converted
 -to.pdf>
-(epstopdf)                    date: 2013-12-30 08:48:49
+(epstopdf)                    date: 2014-01-28 09:58:02
 (epstopdf)                    size: 16963 bytes
 (epstopdf)             Command: <epstopdf --outfile=images/preselection/1/el/ML
 P-eps-converted-to.pdf images/preselection/1/el/MLP.eps>
 (epstopdf)             \includegraphics on input line 36.
 Package epstopdf Info: Output file is already uptodate.
 
-<images/preselection/1/el/MLP-eps-converted-to.pdf, id=1689, 569.12625pt x 385.
+<images/preselection/1/el/MLP-eps-converted-to.pdf, id=1846, 569.12625pt x 385.
 44pt>
 File: images/preselection/1/el/MLP-eps-converted-to.pdf Graphic file (type pdf)
 
@@ -1915,18 +2070,18 @@ Package pdftex.def Info: images/preselection/1/el/MLP-eps-converted-to.pdf used
  on input line 36.
 (pdftex.def)             Requested size: 112.95807pt x 76.49849pt.
 Package epstopdf Info: Source file: <images/preselection/2/el/MLP.eps>
-(epstopdf)                    date: 2013-12-30 08:46:23
+(epstopdf)                    date: 2014-01-28 09:58:02
 (epstopdf)                    size: 32274 bytes
 (epstopdf)             Output file: <images/preselection/2/el/MLP-eps-converted
 -to.pdf>
-(epstopdf)                    date: 2013-12-30 08:48:50
+(epstopdf)                    date: 2014-01-28 09:58:02
 (epstopdf)                    size: 17094 bytes
 (epstopdf)             Command: <epstopdf --outfile=images/preselection/2/el/ML
 P-eps-converted-to.pdf images/preselection/2/el/MLP.eps>
 (epstopdf)             \includegraphics on input line 36.
 Package epstopdf Info: Output file is already uptodate.
 
-<images/preselection/2/el/MLP-eps-converted-to.pdf, id=1690, 569.12625pt x 385.
+<images/preselection/2/el/MLP-eps-converted-to.pdf, id=1847, 569.12625pt x 385.
 44pt>
 File: images/preselection/2/el/MLP-eps-converted-to.pdf Graphic file (type pdf)
 
@@ -1935,18 +2090,18 @@ Package pdftex.def Info: images/preselection/2/el/MLP-eps-converted-to.pdf used
  on input line 36.
 (pdftex.def)             Requested size: 112.95807pt x 76.49849pt.
 Package epstopdf Info: Source file: <images/preselection/0/mu/MLP.eps>
-(epstopdf)                    date: 2013-12-30 08:47:13
+(epstopdf)                    date: 2014-01-28 09:58:02
 (epstopdf)                    size: 27330 bytes
 (epstopdf)             Output file: <images/preselection/0/mu/MLP-eps-converted
 -to.pdf>
-(epstopdf)                    date: 2013-12-30 08:48:50
+(epstopdf)                    date: 2014-01-28 09:58:02
 (epstopdf)                    size: 16767 bytes
 (epstopdf)             Command: <epstopdf --outfile=images/preselection/0/mu/ML
 P-eps-converted-to.pdf images/preselection/0/mu/MLP.eps>
 (epstopdf)             \includegraphics on input line 36.
 Package epstopdf Info: Output file is already uptodate.
 
-<images/preselection/0/mu/MLP-eps-converted-to.pdf, id=1691, 569.12625pt x 385.
+<images/preselection/0/mu/MLP-eps-converted-to.pdf, id=1848, 569.12625pt x 385.
 44pt>
 File: images/preselection/0/mu/MLP-eps-converted-to.pdf Graphic file (type pdf)
 
@@ -1955,18 +2110,18 @@ Package pdftex.def Info: images/preselection/0/mu/MLP-eps-converted-to.pdf used
  on input line 36.
 (pdftex.def)             Requested size: 112.95807pt x 76.49849pt.
 Package epstopdf Info: Source file: <images/preselection/1/mu/MLP.eps>
-(epstopdf)                    date: 2013-12-30 08:47:58
+(epstopdf)                    date: 2014-01-28 09:58:02
 (epstopdf)                    size: 31961 bytes
 (epstopdf)             Output file: <images/preselection/1/mu/MLP-eps-converted
 -to.pdf>
-(epstopdf)                    date: 2013-12-30 08:48:50
+(epstopdf)                    date: 2014-01-28 09:58:02
 (epstopdf)                    size: 18176 bytes
 (epstopdf)             Command: <epstopdf --outfile=images/preselection/1/mu/ML
 P-eps-converted-to.pdf images/preselection/1/mu/MLP.eps>
 (epstopdf)             \includegraphics on input line 36.
 Package epstopdf Info: Output file is already uptodate.
 
-<images/preselection/1/mu/MLP-eps-converted-to.pdf, id=1692, 569.12625pt x 385.
+<images/preselection/1/mu/MLP-eps-converted-to.pdf, id=1849, 569.12625pt x 385.
 44pt>
 File: images/preselection/1/mu/MLP-eps-converted-to.pdf Graphic file (type pdf)
 
@@ -1975,18 +2130,18 @@ Package pdftex.def Info: images/preselection/1/mu/MLP-eps-converted-to.pdf used
  on input line 36.
 (pdftex.def)             Requested size: 112.95807pt x 76.49849pt.
 Package epstopdf Info: Source file: <images/preselection/2/mu/MLP.eps>
-(epstopdf)                    date: 2013-12-30 08:48:41
+(epstopdf)                    date: 2014-01-28 09:58:02
 (epstopdf)                    size: 32679 bytes
 (epstopdf)             Output file: <images/preselection/2/mu/MLP-eps-converted
 -to.pdf>
-(epstopdf)                    date: 2013-12-30 08:48:50
+(epstopdf)                    date: 2014-01-28 09:58:02
 (epstopdf)                    size: 18360 bytes
 (epstopdf)             Command: <epstopdf --outfile=images/preselection/2/mu/ML
 P-eps-converted-to.pdf images/preselection/2/mu/MLP.eps>
 (epstopdf)             \includegraphics on input line 36.
 Package epstopdf Info: Output file is already uptodate.
 
-<images/preselection/2/mu/MLP-eps-converted-to.pdf, id=1693, 569.12625pt x 385.
+<images/preselection/2/mu/MLP-eps-converted-to.pdf, id=1850, 569.12625pt x 385.
 44pt>
 File: images/preselection/2/mu/MLP-eps-converted-to.pdf Graphic file (type pdf)
 
@@ -1994,30 +2149,30 @@ File: images/preselection/2/mu/MLP-eps-converted-to.pdf Graphic file (type pdf)
 Package pdftex.def Info: images/preselection/2/mu/MLP-eps-converted-to.pdf used
  on input line 36.
 (pdftex.def)             Requested size: 112.95807pt x 76.49849pt.
- [46
+ [43
 
  <./images/preselection/0/el/MLP-eps-converted-to.pdf> <./images/preselection/1
 /el/MLP-eps-converted-to.pdf> <./images/preselection/2/el/MLP-eps-converted-to.
 pdf> <./images/preselection/0/mu/MLP-eps-converted-to.pdf> <./images/preselecti
 on/1/mu/MLP-eps-converted-to.pdf> <./images/preselection/2/mu/MLP-eps-converted
 -to.pdf>]
-<images/plots/NN/pretag_ROC_wincut.pdf, id=1781, 252.945pt x 176.66pt>
+<images/plots/NN/pretag_ROC_wincut.pdf, id=1938, 252.945pt x 176.66pt>
 File: images/plots/NN/pretag_ROC_wincut.pdf Graphic file (type pdf)
 
 <use images/plots/NN/pretag_ROC_wincut.pdf>
 Package pdftex.def Info: images/plots/NN/pretag_ROC_wincut.pdf used on input li
 ne 56.
 (pdftex.def)             Requested size: 239.60567pt x 167.34622pt.
- [47
+ [44
 
  <./images/plots/NN/pretag_ROC_wincut.pdf>]
 Package epstopdf Info: Source file: <images/preselection/0/el/mZZ_sideband_log.
 eps>
-(epstopdf)                    date: 2013-12-30 08:44:57
+(epstopdf)                    date: 2014-01-28 09:58:02
 (epstopdf)                    size: 23640 bytes
 (epstopdf)             Output file: <images/preselection/0/el/mZZ_sideband_log-
 eps-converted-to.pdf>
-(epstopdf)                    date: 2013-12-30 08:48:44
+(epstopdf)                    date: 2014-01-28 09:58:02
 (epstopdf)                    size: 14780 bytes
 (epstopdf)             Command: <epstopdf --outfile=images/preselection/0/el/mZ
 Z_sideband_log-eps-converted-to.pdf images/preselection/0/el/mZZ_sideband_log.e
@@ -2025,7 +2180,7 @@ ps>
 (epstopdf)             \includegraphics on input line 80.
 Package epstopdf Info: Output file is already uptodate.
 
-<images/preselection/0/el/mZZ_sideband_log-eps-converted-to.pdf, id=1813, 569.1
+<images/preselection/0/el/mZZ_sideband_log-eps-converted-to.pdf, id=1971, 569.1
 2625pt x 385.44pt>
 File: images/preselection/0/el/mZZ_sideband_log-eps-converted-to.pdf Graphic fi
 le (type pdf)
@@ -2036,11 +2191,11 @@ d-to.pdf used on input line 80.
 (pdftex.def)             Requested size: 112.95807pt x 76.49849pt.
 Package epstopdf Info: Source file: <images/preselection/1/el/mZZ_sideband_log.
 eps>
-(epstopdf)                    date: 2013-12-30 08:45:42
+(epstopdf)                    date: 2014-01-28 09:58:02
 (epstopdf)                    size: 24477 bytes
 (epstopdf)             Output file: <images/preselection/1/el/mZZ_sideband_log-
 eps-converted-to.pdf>
-(epstopdf)                    date: 2013-12-30 08:48:44
+(epstopdf)                    date: 2014-01-28 09:58:02
 (epstopdf)                    size: 14766 bytes
 (epstopdf)             Command: <epstopdf --outfile=images/preselection/1/el/mZ
 Z_sideband_log-eps-converted-to.pdf images/preselection/1/el/mZZ_sideband_log.e
@@ -2048,7 +2203,7 @@ ps>
 (epstopdf)             \includegraphics on input line 80.
 Package epstopdf Info: Output file is already uptodate.
 
-<images/preselection/1/el/mZZ_sideband_log-eps-converted-to.pdf, id=1814, 569.1
+<images/preselection/1/el/mZZ_sideband_log-eps-converted-to.pdf, id=1972, 569.1
 2625pt x 385.44pt>
 File: images/preselection/1/el/mZZ_sideband_log-eps-converted-to.pdf Graphic fi
 le (type pdf)
@@ -2059,11 +2214,11 @@ d-to.pdf used on input line 80.
 (pdftex.def)             Requested size: 112.95807pt x 76.49849pt.
 Package epstopdf Info: Source file: <images/preselection/2/el/mZZ_sideband_log.
 eps>
-(epstopdf)                    date: 2013-12-30 08:46:23
+(epstopdf)                    date: 2014-01-28 09:58:02
 (epstopdf)                    size: 23013 bytes
 (epstopdf)             Output file: <images/preselection/2/el/mZZ_sideband_log-
 eps-converted-to.pdf>
-(epstopdf)                    date: 2013-12-30 08:48:44
+(epstopdf)                    date: 2014-01-28 09:58:02
 (epstopdf)                    size: 13708 bytes
 (epstopdf)             Command: <epstopdf --outfile=images/preselection/2/el/mZ
 Z_sideband_log-eps-converted-to.pdf images/preselection/2/el/mZZ_sideband_log.e
@@ -2071,7 +2226,7 @@ ps>
 (epstopdf)             \includegraphics on input line 80.
 Package epstopdf Info: Output file is already uptodate.
 
-<images/preselection/2/el/mZZ_sideband_log-eps-converted-to.pdf, id=1815, 569.1
+<images/preselection/2/el/mZZ_sideband_log-eps-converted-to.pdf, id=1973, 569.1
 2625pt x 385.44pt>
 File: images/preselection/2/el/mZZ_sideband_log-eps-converted-to.pdf Graphic fi
 le (type pdf)
@@ -2082,11 +2237,11 @@ d-to.pdf used on input line 80.
 (pdftex.def)             Requested size: 112.95807pt x 76.49849pt.
 Package epstopdf Info: Source file: <images/preselection/0/mu/mZZ_sideband_log.
 eps>
-(epstopdf)                    date: 2013-12-30 08:47:13
+(epstopdf)                    date: 2014-01-28 09:58:02
 (epstopdf)                    size: 23630 bytes
 (epstopdf)             Output file: <images/preselection/0/mu/mZZ_sideband_log-
 eps-converted-to.pdf>
-(epstopdf)                    date: 2013-12-30 08:48:45
+(epstopdf)                    date: 2014-01-28 09:58:02
 (epstopdf)                    size: 15918 bytes
 (epstopdf)             Command: <epstopdf --outfile=images/preselection/0/mu/mZ
 Z_sideband_log-eps-converted-to.pdf images/preselection/0/mu/mZZ_sideband_log.e
@@ -2094,7 +2249,7 @@ ps>
 (epstopdf)             \includegraphics on input line 80.
 Package epstopdf Info: Output file is already uptodate.
 
-<images/preselection/0/mu/mZZ_sideband_log-eps-converted-to.pdf, id=1816, 569.1
+<images/preselection/0/mu/mZZ_sideband_log-eps-converted-to.pdf, id=1974, 569.1
 2625pt x 385.44pt>
 File: images/preselection/0/mu/mZZ_sideband_log-eps-converted-to.pdf Graphic fi
 le (type pdf)
@@ -2105,11 +2260,11 @@ d-to.pdf used on input line 80.
 (pdftex.def)             Requested size: 112.95807pt x 76.49849pt.
 Package epstopdf Info: Source file: <images/preselection/1/mu/mZZ_sideband_log.
 eps>
-(epstopdf)                    date: 2013-12-30 08:47:58
+(epstopdf)                    date: 2014-01-28 09:58:02
 (epstopdf)                    size: 24997 bytes
 (epstopdf)             Output file: <images/preselection/1/mu/mZZ_sideband_log-
 eps-converted-to.pdf>
-(epstopdf)                    date: 2013-12-30 08:48:45
+(epstopdf)                    date: 2014-01-28 09:58:02
 (epstopdf)                    size: 16120 bytes
 (epstopdf)             Command: <epstopdf --outfile=images/preselection/1/mu/mZ
 Z_sideband_log-eps-converted-to.pdf images/preselection/1/mu/mZZ_sideband_log.e
@@ -2117,7 +2272,7 @@ ps>
 (epstopdf)             \includegraphics on input line 80.
 Package epstopdf Info: Output file is already uptodate.
 
-<images/preselection/1/mu/mZZ_sideband_log-eps-converted-to.pdf, id=1817, 569.1
+<images/preselection/1/mu/mZZ_sideband_log-eps-converted-to.pdf, id=1975, 569.1
 2625pt x 385.44pt>
 File: images/preselection/1/mu/mZZ_sideband_log-eps-converted-to.pdf Graphic fi
 le (type pdf)
@@ -2128,11 +2283,11 @@ d-to.pdf used on input line 80.
 (pdftex.def)             Requested size: 112.95807pt x 76.49849pt.
 Package epstopdf Info: Source file: <images/preselection/2/mu/mZZ_sideband_log.
 eps>
-(epstopdf)                    date: 2013-12-30 08:48:41
+(epstopdf)                    date: 2014-01-28 09:58:03
 (epstopdf)                    size: 23521 bytes
 (epstopdf)             Output file: <images/preselection/2/mu/mZZ_sideband_log-
 eps-converted-to.pdf>
-(epstopdf)                    date: 2013-12-30 08:48:45
+(epstopdf)                    date: 2014-01-28 09:58:03
 (epstopdf)                    size: 14814 bytes
 (epstopdf)             Command: <epstopdf --outfile=images/preselection/2/mu/mZ
 Z_sideband_log-eps-converted-to.pdf images/preselection/2/mu/mZZ_sideband_log.e
@@ -2140,7 +2295,7 @@ ps>
 (epstopdf)             \includegraphics on input line 80.
 Package epstopdf Info: Output file is already uptodate.
 
-<images/preselection/2/mu/mZZ_sideband_log-eps-converted-to.pdf, id=1818, 569.1
+<images/preselection/2/mu/mZZ_sideband_log-eps-converted-to.pdf, id=1976, 569.1
 2625pt x 385.44pt>
 File: images/preselection/2/mu/mZZ_sideband_log-eps-converted-to.pdf Graphic fi
 le (type pdf)
@@ -2149,7 +2304,7 @@ le (type pdf)
 Package pdftex.def Info: images/preselection/2/mu/mZZ_sideband_log-eps-converte
 d-to.pdf used on input line 80.
 (pdftex.def)             Requested size: 112.95807pt x 76.49849pt.
- [48
+ [45
 
  <./images/preselection/0/el/mZZ_sideband_log-eps-converted-to.pdf> <./images/p
 reselection/1/el/mZZ_sideband_log-eps-converted-to.pdf> <./images/preselection/
@@ -2158,18 +2313,18 @@ eband_log-eps-converted-to.pdf> <./images/preselection/1/mu/mZZ_sideband_log-ep
 s-converted-to.pdf> <./images/preselection/2/mu/mZZ_sideband_log-eps-converted-
 to.pdf>]
 Package epstopdf Info: Source file: <images/sidebands/divide_el_2_0.eps>
-(epstopdf)                    date: 2013-11-06 16:41:25
+(epstopdf)                    date: 2014-01-28 09:58:03
 (epstopdf)                    size: 13188 bytes
 (epstopdf)             Output file: <images/sidebands/divide_el_2_0-eps-convert
 ed-to.pdf>
-(epstopdf)                    date: 2013-11-06 16:41:50
+(epstopdf)                    date: 2014-01-28 09:58:03
 (epstopdf)                    size: 14373 bytes
 (epstopdf)             Command: <epstopdf --outfile=images/sidebands/divide_el_
 2_0-eps-converted-to.pdf images/sidebands/divide_el_2_0.eps>
 (epstopdf)             \includegraphics on input line 89.
 Package epstopdf Info: Output file is already uptodate.
 
-<images/sidebands/divide_el_2_0-eps-converted-to.pdf, id=1906, 569.12625pt x 38
+<images/sidebands/divide_el_2_0-eps-converted-to.pdf, id=2063, 569.12625pt x 38
 5.44pt>
 File: images/sidebands/divide_el_2_0-eps-converted-to.pdf Graphic file (type pd
 f)
@@ -2178,18 +2333,18 @@ Package pdftex.def Info: images/sidebands/divide_el_2_0-eps-converted-to.pdf us
 ed on input line 89.
 (pdftex.def)             Requested size: 171.14764pt x 115.9093pt.
 Package epstopdf Info: Source file: <images/sidebands/divide_mu_2_0.eps>
-(epstopdf)                    date: 2013-11-06 16:41:39
+(epstopdf)                    date: 2014-01-28 09:58:03
 (epstopdf)                    size: 11720 bytes
 (epstopdf)             Output file: <images/sidebands/divide_mu_2_0-eps-convert
 ed-to.pdf>
-(epstopdf)                    date: 2013-11-06 16:41:50
+(epstopdf)                    date: 2014-01-28 09:58:03
 (epstopdf)                    size: 13816 bytes
 (epstopdf)             Command: <epstopdf --outfile=images/sidebands/divide_mu_
 2_0-eps-converted-to.pdf images/sidebands/divide_mu_2_0.eps>
 (epstopdf)             \includegraphics on input line 89.
 Package epstopdf Info: Output file is already uptodate.
 
-<images/sidebands/divide_mu_2_0-eps-converted-to.pdf, id=1907, 569.12625pt x 38
+<images/sidebands/divide_mu_2_0-eps-converted-to.pdf, id=2064, 569.12625pt x 38
 5.44pt>
 File: images/sidebands/divide_mu_2_0-eps-converted-to.pdf Graphic file (type pd
 f)
@@ -2197,11 +2352,11 @@ f)
 Package pdftex.def Info: images/sidebands/divide_mu_2_0-eps-converted-to.pdf us
 ed on input line 89.
 (pdftex.def)             Requested size: 171.14764pt x 115.9093pt.
- [49
+ [46
 
  <./images/sidebands/divide_el_2_0-eps-converted-to.pdf> <./images/sidebands/di
 vide_mu_2_0-eps-converted-to.pdf>]
-<images/fromDani/mZZ_sidebandsDATA_alpha_0btag_ALL_log.png, id=1951, 598.235pt 
+<images/fromDani/mZZ_sidebandsDATA_alpha_0btag_ALL_log.png, id=2108, 598.235pt 
 x 574.145pt>
 File: images/fromDani/mZZ_sidebandsDATA_alpha_0btag_ALL_log.png Graphic file (t
 ype png)
@@ -2210,7 +2365,7 @@ Package pdftex.def Info: images/fromDani/mZZ_sidebandsDATA_alpha_0btag_ALL_log.
 png used on input line 120.
 (pdftex.def)             Requested size: 102.68962pt x 98.54951pt.
 
-<images/fromDani/mZZ_sidebandsDATA_alpha_1btag_ALL_log.png, id=1952, 598.235pt 
+<images/fromDani/mZZ_sidebandsDATA_alpha_1btag_ALL_log.png, id=2109, 598.235pt 
 x 574.145pt>
 File: images/fromDani/mZZ_sidebandsDATA_alpha_1btag_ALL_log.png Graphic file (t
 ype png)
@@ -2219,7 +2374,7 @@ Package pdftex.def Info: images/fromDani/mZZ_sidebandsDATA_alpha_1btag_ALL_log.
 png used on input line 120.
 (pdftex.def)             Requested size: 102.68962pt x 98.54951pt.
 
-<images/fromDani/mZZ_sidebandsDATA_alpha_2btag_ALL_log.png, id=1953, 598.235pt 
+<images/fromDani/mZZ_sidebandsDATA_alpha_2btag_ALL_log.png, id=2110, 598.235pt 
 x 574.145pt>
 File: images/fromDani/mZZ_sidebandsDATA_alpha_2btag_ALL_log.png Graphic file (t
 ype png)
@@ -2228,53 +2383,53 @@ Package pdftex.def Info: images/fromDani/mZZ_sidebandsDATA_alpha_2btag_ALL_log.
 png used on input line 120.
 (pdftex.def)             Requested size: 102.68962pt x 98.54951pt.
 
-[50
+[47
 
  <./images/fromDani/mZZ_sidebandsDATA_alpha_0btag_ALL_log.png> <./images/fromDa
 ni/mZZ_sidebandsDATA_alpha_1btag_ALL_log.png> <./images/fromDani/mZZ_sidebandsD
 ATA_alpha_2btag_ALL_log.png>]
 Package epstopdf Info: Source file: <images/SC_fit.eps>
-(epstopdf)                    date: 2013-09-05 13:19:58
+(epstopdf)                    date: 2014-01-28 09:58:02
 (epstopdf)                    size: 70786 bytes
 (epstopdf)             Output file: <images/SC_fit-eps-converted-to.pdf>
-(epstopdf)                    date: 2013-09-05 13:19:58
+(epstopdf)                    date: 2014-01-28 09:58:02
 (epstopdf)                    size: 42468 bytes
 (epstopdf)             Command: <epstopdf --outfile=images/SC_fit-eps-converted
 -to.pdf images/SC_fit.eps>
 (epstopdf)             \includegraphics on input line 157.
 Package epstopdf Info: Output file is already uptodate.
 
-<images/SC_fit-eps-converted-to.pdf, id=1980, 569.12625pt x 385.44pt>
+<images/SC_fit-eps-converted-to.pdf, id=2137, 569.12625pt x 385.44pt>
 File: images/SC_fit-eps-converted-to.pdf Graphic file (type pdf)
 
 <use images/SC_fit-eps-converted-to.pdf>
 Package pdftex.def Info: images/SC_fit-eps-converted-to.pdf used on input line 
 157.
 (pdftex.def)             Requested size: 167.72658pt x 113.59206pt.
- [51
+ [48
 
- <./images/SC_fit-eps-converted-to.pdf>] [52
+ <./images/SC_fit-eps-converted-to.pdf>] [49
 
 ]
 Overfull \hbox (4.84229pt too wide) in paragraph at lines 336--336
  [] 
  []
 
-[53
+[50
 
-] (./defense.toc) [54
+] (./defense.toc) [51
 
 ]
-<images/8TeV_limit.pdf, id=2099, 569.12625pt x 546.04pt>
+<images/8TeV_limit.pdf, id=2256, 569.12625pt x 546.04pt>
 File: images/8TeV_limit.pdf Graphic file (type pdf)
 
 <use images/8TeV_limit.pdf>
 Package pdftex.def Info: images/8TeV_limit.pdf used on input line 357.
 (pdftex.def)             Requested size: 205.37926pt x 197.04916pt.
- [55
+ [52
 
  <./images/8TeV_limit.pdf, page is rotated 90 degrees>] <images/limit_observed_
-0-btag_ee.pdf, id=2171, 569.12625pt x 546.04pt>
+0-btag_ee.pdf, id=2326, 569.12625pt x 546.04pt>
 File: images/limit_observed_0-btag_ee.pdf Graphic file (type pdf)
 
 <use images/limit_observed_0-btag_ee.pdf>
@@ -2282,7 +2437,7 @@ Package pdftex.def Info: images/limit_observed_0-btag_ee.pdf used on input line
  368.
 (pdftex.def)             Requested size: 112.95807pt x 108.37286pt.
 
-<images/limit_observed_1-btag_ee.pdf, id=2172, 569.12625pt x 546.04pt>
+<images/limit_observed_1-btag_ee.pdf, id=2327, 569.12625pt x 546.04pt>
 File: images/limit_observed_1-btag_ee.pdf Graphic file (type pdf)
 
 <use images/limit_observed_1-btag_ee.pdf>
@@ -2290,7 +2445,7 @@ Package pdftex.def Info: images/limit_observed_1-btag_ee.pdf used on input line
  368.
 (pdftex.def)             Requested size: 112.95807pt x 108.37286pt.
 
-<images/limit_observed_2-btag_ee.pdf, id=2173, 569.12625pt x 546.04pt>
+<images/limit_observed_2-btag_ee.pdf, id=2328, 569.12625pt x 546.04pt>
 File: images/limit_observed_2-btag_ee.pdf Graphic file (type pdf)
 
 <use images/limit_observed_2-btag_ee.pdf>
@@ -2298,7 +2453,7 @@ Package pdftex.def Info: images/limit_observed_2-btag_ee.pdf used on input line
  368.
 (pdftex.def)             Requested size: 112.95807pt x 108.37286pt.
 
-<images/limit_observed_0-btag_mm.pdf, id=2174, 569.12625pt x 546.04pt>
+<images/limit_observed_0-btag_mm.pdf, id=2329, 569.12625pt x 546.04pt>
 File: images/limit_observed_0-btag_mm.pdf Graphic file (type pdf)
 
 <use images/limit_observed_0-btag_mm.pdf>
@@ -2306,7 +2461,7 @@ Package pdftex.def Info: images/limit_observed_0-btag_mm.pdf used on input line
  368.
 (pdftex.def)             Requested size: 112.95807pt x 108.37286pt.
 
-<images/limit_observed_1-btag_mm.pdf, id=2175, 569.12625pt x 546.04pt>
+<images/limit_observed_1-btag_mm.pdf, id=2330, 569.12625pt x 546.04pt>
 File: images/limit_observed_1-btag_mm.pdf Graphic file (type pdf)
 
 <use images/limit_observed_1-btag_mm.pdf>
@@ -2314,14 +2469,14 @@ Package pdftex.def Info: images/limit_observed_1-btag_mm.pdf used on input line
  368.
 (pdftex.def)             Requested size: 112.95807pt x 108.37286pt.
 
-<images/limit_observed_2-btag_mm.pdf, id=2176, 569.12625pt x 546.04pt>
+<images/limit_observed_2-btag_mm.pdf, id=2331, 569.12625pt x 546.04pt>
 File: images/limit_observed_2-btag_mm.pdf Graphic file (type pdf)
 
 <use images/limit_observed_2-btag_mm.pdf>
 Package pdftex.def Info: images/limit_observed_2-btag_mm.pdf used on input line
  368.
 (pdftex.def)             Requested size: 112.95807pt x 108.37286pt.
- [56
+ [53
 
  <./images/limit_observed_0-btag_ee.pdf, page is rotated 90 degrees> <./images/
 limit_observed_1-btag_ee.pdf, page is rotated 90 degrees> <./images/limit_obser
@@ -2335,60 +2490,60 @@ File: images/8TeV_limit.pdf Graphic file (type pdf)
 Package pdftex.def Info: images/8TeV_limit.pdf used on input line 399.
 (pdftex.def)             Requested size: 171.14764pt x 164.20486pt.
 
-<images/MVA_limit.pdf, id=2461, 569.12625pt x 546.04pt>
+<images/MVA_limit.pdf, id=2618, 569.12625pt x 546.04pt>
 File: images/MVA_limit.pdf Graphic file (type pdf)
 
 <use images/MVA_limit.pdf>
 Package pdftex.def Info: images/MVA_limit.pdf used on input line 399.
 (pdftex.def)             Requested size: 171.14764pt x 164.20486pt.
- [57
+ [54
 
  <./images/MVA_limit.pdf, page is rotated 90 degrees>]
-<images/limit_observed_all-btag_combi.pdf, id=2530, 569.12625pt x 546.04pt>
+<images/limit_observed_all-btag_combi.pdf, id=2687, 569.12625pt x 546.04pt>
 File: images/limit_observed_all-btag_combi.pdf Graphic file (type pdf)
 
 <use images/limit_observed_all-btag_combi.pdf>
 Package pdftex.def Info: images/limit_observed_all-btag_combi.pdf used on input
  line 412.
 (pdftex.def)             Requested size: 205.37926pt x 197.04916pt.
- [58
+ [55
 
  <./images/limit_observed_all-btag_combi.pdf, page is rotated 90 degrees>])
 \openout2 = `conclusion.aux'.
 
- (./conclusion.tex (./defense.toc) [59
+ (./conclusion.tex (./defense.toc) [56
 
 
 
-] [60
+] [57
 
 ])
 \openout2 = `backupslides.aux'.
 
- (./backupslides.tex [61
+ (./backupslides.tex [58
 
 
 
-] [62
+] [59
 
-] [63
+] [60
 
-] [64
+] [61
 
 ]
 Package epstopdf Info: Source file: <images/preselection/el/mLL.eps>
-(epstopdf)                    date: 2013-12-30 08:43:37
+(epstopdf)                    date: 2014-01-28 09:58:03
 (epstopdf)                    size: 27361 bytes
 (epstopdf)             Output file: <images/preselection/el/mLL-eps-converted-t
 o.pdf>
-(epstopdf)                    date: 2013-12-30 08:48:43
+(epstopdf)                    date: 2014-01-28 09:58:03
 (epstopdf)                    size: 16312 bytes
 (epstopdf)             Command: <epstopdf --outfile=images/preselection/el/mLL-
 eps-converted-to.pdf images/preselection/el/mLL.eps>
 (epstopdf)             \includegraphics on input line 80.
 Package epstopdf Info: Output file is already uptodate.
 
-<images/preselection/el/mLL-eps-converted-to.pdf, id=2766, 569.12625pt x 385.44
+<images/preselection/el/mLL-eps-converted-to.pdf, id=2923, 569.12625pt x 385.44
 pt>
 File: images/preselection/el/mLL-eps-converted-to.pdf Graphic file (type pdf)
  <use images/preselection/el/mLL-eps-converted-to.pdf>
@@ -2396,18 +2551,18 @@ Package pdftex.def Info: images/preselection/el/mLL-eps-converted-to.pdf used o
 n input line 80.
 (pdftex.def)             Requested size: 160.8792pt x 108.95757pt.
 Package epstopdf Info: Source file: <images/preselection/mu/mLL.eps>
-(epstopdf)                    date: 2013-12-30 08:44:08
+(epstopdf)                    date: 2014-01-28 09:58:03
 (epstopdf)                    size: 25739 bytes
 (epstopdf)             Output file: <images/preselection/mu/mLL-eps-converted-t
 o.pdf>
-(epstopdf)                    date: 2013-12-30 08:48:43
+(epstopdf)                    date: 2014-01-28 09:58:03
 (epstopdf)                    size: 17053 bytes
 (epstopdf)             Command: <epstopdf --outfile=images/preselection/mu/mLL-
 eps-converted-to.pdf images/preselection/mu/mLL.eps>
 (epstopdf)             \includegraphics on input line 80.
 Package epstopdf Info: Output file is already uptodate.
 
-<images/preselection/mu/mLL-eps-converted-to.pdf, id=2767, 569.12625pt x 385.44
+<images/preselection/mu/mLL-eps-converted-to.pdf, id=2924, 569.12625pt x 385.44
 pt>
 File: images/preselection/mu/mLL-eps-converted-to.pdf Graphic file (type pdf)
  <use images/preselection/mu/mLL-eps-converted-to.pdf>
@@ -2415,11 +2570,11 @@ Package pdftex.def Info: images/preselection/mu/mLL-eps-converted-to.pdf used o
 n input line 80.
 (pdftex.def)             Requested size: 160.8792pt x 108.95757pt.
 Package epstopdf Info: Source file: <images/preselection/el/mJJ.eps>
-(epstopdf)                    date: 2013-12-30 08:43:37
+(epstopdf)                    date: 2014-01-28 09:58:03
 (epstopdf)                    size: 31896 bytes
 (epstopdf)             Output file: <images/preselection/el/mJJ-eps-converted-t
 o.pdf>
-(epstopdf)                    date: 2013-12-30 08:48:43
+(epstopdf)                    date: 2014-01-28 09:58:03
 (epstopdf)                    size: 16871 bytes
 (epstopdf)             Command: <epstopdf --outfile=images/preselection/el/mJJ-
 eps-converted-to.pdf images/preselection/el/mJJ.eps>
@@ -2432,18 +2587,18 @@ Package pdftex.def Info: images/preselection/el/mJJ-eps-converted-to.pdf used o
 n input line 80.
 (pdftex.def)             Requested size: 160.8792pt x 108.95757pt.
 Package epstopdf Info: Source file: <images/preselection/mu/mJJ.eps>
-(epstopdf)                    date: 2013-12-30 08:44:08
+(epstopdf)                    date: 2014-01-28 09:58:03
 (epstopdf)                    size: 32470 bytes
 (epstopdf)             Output file: <images/preselection/mu/mJJ-eps-converted-t
 o.pdf>
-(epstopdf)                    date: 2013-12-30 08:48:43
+(epstopdf)                    date: 2014-01-28 09:58:03
 (epstopdf)                    size: 18247 bytes
 (epstopdf)             Command: <epstopdf --outfile=images/preselection/mu/mJJ-
 eps-converted-to.pdf images/preselection/mu/mJJ.eps>
 (epstopdf)             \includegraphics on input line 80.
 Package epstopdf Info: Output file is already uptodate.
 
-<images/preselection/mu/mJJ-eps-converted-to.pdf, id=2768, 569.12625pt x 385.44
+<images/preselection/mu/mJJ-eps-converted-to.pdf, id=2925, 569.12625pt x 385.44
 pt>
 File: images/preselection/mu/mJJ-eps-converted-to.pdf Graphic file (type pdf)
  <use images/preselection/mu/mJJ-eps-converted-to.pdf>
@@ -2454,16 +2609,16 @@ n input line 80.
 Overfull \vbox (1.11398pt too high) detected at line 80
  []
 
-[65
+[62
 
  <./images/preselection/el/mLL-eps-converted-to.pdf> <./images/preselection/mu/
 mLL-eps-converted-to.pdf> <./images/preselection/mu/mJJ-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <images/preselection/el/helyLD.eps>
-(epstopdf)                    date: 2013-12-30 08:43:37
+(epstopdf)                    date: 2014-01-28 09:58:03
 (epstopdf)                    size: 35593 bytes
 (epstopdf)             Output file: <images/preselection/el/helyLD-eps-converte
 d-to.pdf>
-(epstopdf)                    date: 2013-12-30 08:48:48
+(epstopdf)                    date: 2014-01-28 09:58:03
 (epstopdf)                    size: 18388 bytes
 (epstopdf)             Command: <epstopdf --outfile=images/preselection/el/hely
 LD-eps-converted-to.pdf images/preselection/el/helyLD.eps>
@@ -2476,18 +2631,18 @@ Package pdftex.def Info: images/preselection/el/helyLD-eps-converted-to.pdf use
 d on input line 96.
 (pdftex.def)             Requested size: 136.91603pt x 92.7251pt.
 Package epstopdf Info: Source file: <images/preselection/el/MLP.eps>
-(epstopdf)                    date: 2013-12-30 08:43:37
+(epstopdf)                    date: 2014-01-28 09:58:03
 (epstopdf)                    size: 28557 bytes
 (epstopdf)             Output file: <images/preselection/el/MLP-eps-converted-t
 o.pdf>
-(epstopdf)                    date: 2013-12-30 08:48:49
+(epstopdf)                    date: 2014-01-28 09:58:03
 (epstopdf)                    size: 16034 bytes
 (epstopdf)             Command: <epstopdf --outfile=images/preselection/el/MLP-
 eps-converted-to.pdf images/preselection/el/MLP.eps>
 (epstopdf)             \includegraphics on input line 96.
 Package epstopdf Info: Output file is already uptodate.
 
-<images/preselection/el/MLP-eps-converted-to.pdf, id=2828, 569.12625pt x 385.44
+<images/preselection/el/MLP-eps-converted-to.pdf, id=2985, 569.12625pt x 385.44
 pt>
 File: images/preselection/el/MLP-eps-converted-to.pdf Graphic file (type pdf)
  <use images/preselection/el/MLP-eps-converted-to.pdf>
@@ -2495,11 +2650,11 @@ Package pdftex.def Info: images/preselection/el/MLP-eps-converted-to.pdf used o
 n input line 96.
 (pdftex.def)             Requested size: 136.91603pt x 92.7251pt.
 Package epstopdf Info: Source file: <images/preselection/el/costhetast.eps>
-(epstopdf)                    date: 2013-12-30 08:43:37
+(epstopdf)                    date: 2014-01-28 09:58:03
 (epstopdf)                    size: 29179 bytes
 (epstopdf)             Output file: <images/preselection/el/costhetast-eps-conv
 erted-to.pdf>
-(epstopdf)                    date: 2013-12-30 08:48:51
+(epstopdf)                    date: 2014-01-28 09:58:03
 (epstopdf)                    size: 18239 bytes
 (epstopdf)             Command: <epstopdf --outfile=images/preselection/el/cost
 hetast-eps-converted-to.pdf images/preselection/el/costhetast.eps>
@@ -2513,11 +2668,11 @@ Package pdftex.def Info: images/preselection/el/costhetast-eps-converted-to.pdf
  used on input line 96.
 (pdftex.def)             Requested size: 136.91603pt x 92.7251pt.
 Package epstopdf Info: Source file: <images/preselection/mu/costhetast.eps>
-(epstopdf)                    date: 2013-12-30 08:44:08
+(epstopdf)                    date: 2014-01-28 09:58:03
 (epstopdf)                    size: 28970 bytes
 (epstopdf)             Output file: <images/preselection/mu/costhetast-eps-conv
 erted-to.pdf>
-(epstopdf)                    date: 2013-12-30 08:48:51
+(epstopdf)                    date: 2014-01-28 09:58:03
 (epstopdf)                    size: 18368 bytes
 (epstopdf)             Command: <epstopdf --outfile=images/preselection/mu/cost
 hetast-eps-converted-to.pdf images/preselection/mu/costhetast.eps>
@@ -2534,22 +2689,22 @@ Package pdftex.def Info: images/preselection/mu/costhetast-eps-converted-to.pdf
 Overfull \vbox (9.67348pt too high) detected at line 96
  []
 
-[66
+[63
 
  <./images/preselection/el/MLP-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <images/costhetast_cut/el/helyLD.eps>
-(epstopdf)                    date: 2013-11-07 10:15:11
+(epstopdf)                    date: 2014-01-28 09:58:02
 (epstopdf)                    size: 33970 bytes
 (epstopdf)             Output file: <images/costhetast_cut/el/helyLD-eps-conver
 ted-to.pdf>
-(epstopdf)                    date: 2013-11-07 10:20:50
+(epstopdf)                    date: 2014-01-28 09:58:02
 (epstopdf)                    size: 18046 bytes
 (epstopdf)             Command: <epstopdf --outfile=images/costhetast_cut/el/he
 lyLD-eps-converted-to.pdf images/costhetast_cut/el/helyLD.eps>
 (epstopdf)             \includegraphics on input line 106.
 Package epstopdf Info: Output file is already uptodate.
 
-<images/costhetast_cut/el/helyLD-eps-converted-to.pdf, id=2863, 569.12625pt x 3
+<images/costhetast_cut/el/helyLD-eps-converted-to.pdf, id=3020, 569.12625pt x 3
 85.44pt>
 File: images/costhetast_cut/el/helyLD-eps-converted-to.pdf Graphic file (type p
 df)
@@ -2558,18 +2713,18 @@ Package pdftex.def Info: images/costhetast_cut/el/helyLD-eps-converted-to.pdf u
 sed on input line 106.
 (pdftex.def)             Requested size: 136.91603pt x 92.7251pt.
 Package epstopdf Info: Source file: <images/costhetast_cut/el/MLP.eps>
-(epstopdf)                    date: 2013-11-07 10:15:11
+(epstopdf)                    date: 2014-01-28 09:58:02
 (epstopdf)                    size: 28569 bytes
 (epstopdf)             Output file: <images/costhetast_cut/el/MLP-eps-converted
 -to.pdf>
-(epstopdf)                    date: 2013-11-07 10:20:51
+(epstopdf)                    date: 2014-01-28 09:58:02
 (epstopdf)                    size: 16155 bytes
 (epstopdf)             Command: <epstopdf --outfile=images/costhetast_cut/el/ML
 P-eps-converted-to.pdf images/costhetast_cut/el/MLP.eps>
 (epstopdf)             \includegraphics on input line 106.
 Package epstopdf Info: Output file is already uptodate.
 
-<images/costhetast_cut/el/MLP-eps-converted-to.pdf, id=2864, 569.12625pt x 385.
+<images/costhetast_cut/el/MLP-eps-converted-to.pdf, id=3021, 569.12625pt x 385.
 44pt>
 File: images/costhetast_cut/el/MLP-eps-converted-to.pdf Graphic file (type pdf)
 
@@ -2578,18 +2733,18 @@ Package pdftex.def Info: images/costhetast_cut/el/MLP-eps-converted-to.pdf used
  on input line 106.
 (pdftex.def)             Requested size: 136.91603pt x 92.7251pt.
 Package epstopdf Info: Source file: <images/costhetast_cut/el/costhetast.eps>
-(epstopdf)                    date: 2013-11-07 10:15:11
+(epstopdf)                    date: 2014-01-28 09:58:02
 (epstopdf)                    size: 30440 bytes
 (epstopdf)             Output file: <images/costhetast_cut/el/costhetast-eps-co
 nverted-to.pdf>
-(epstopdf)                    date: 2013-11-07 10:20:51
+(epstopdf)                    date: 2014-01-28 09:58:02
 (epstopdf)                    size: 18212 bytes
 (epstopdf)             Command: <epstopdf --outfile=images/costhetast_cut/el/co
 sthetast-eps-converted-to.pdf images/costhetast_cut/el/costhetast.eps>
 (epstopdf)             \includegraphics on input line 106.
 Package epstopdf Info: Output file is already uptodate.
 
-<images/costhetast_cut/el/costhetast-eps-converted-to.pdf, id=2865, 569.12625pt
+<images/costhetast_cut/el/costhetast-eps-converted-to.pdf, id=3022, 569.12625pt
  x 385.44pt>
 File: images/costhetast_cut/el/costhetast-eps-converted-to.pdf Graphic file (ty
 pe pdf)
@@ -2598,18 +2753,18 @@ Package pdftex.def Info: images/costhetast_cut/el/costhetast-eps-converted-to.p
 df used on input line 106.
 (pdftex.def)             Requested size: 136.91603pt x 92.7251pt.
 Package epstopdf Info: Source file: <images/costhetast_cut/mu/costhetast.eps>
-(epstopdf)                    date: 2013-11-07 10:15:55
+(epstopdf)                    date: 2014-01-28 09:58:02
 (epstopdf)                    size: 27938 bytes
 (epstopdf)             Output file: <images/costhetast_cut/mu/costhetast-eps-co
 nverted-to.pdf>
-(epstopdf)                    date: 2013-11-07 10:20:51
+(epstopdf)                    date: 2014-01-28 09:58:02
 (epstopdf)                    size: 17671 bytes
 (epstopdf)             Command: <epstopdf --outfile=images/costhetast_cut/mu/co
 sthetast-eps-converted-to.pdf images/costhetast_cut/mu/costhetast.eps>
 (epstopdf)             \includegraphics on input line 106.
 Package epstopdf Info: Output file is already uptodate.
 
-<images/costhetast_cut/mu/costhetast-eps-converted-to.pdf, id=2866, 569.12625pt
+<images/costhetast_cut/mu/costhetast-eps-converted-to.pdf, id=3023, 569.12625pt
  x 385.44pt>
 File: images/costhetast_cut/mu/costhetast-eps-converted-to.pdf Graphic file (ty
 pe pdf)
@@ -2618,12 +2773,12 @@ Package pdftex.def Info: images/costhetast_cut/mu/costhetast-eps-converted-to.p
 df used on input line 106.
 (pdftex.def)             Requested size: 136.91603pt x 92.7251pt.
 
-[67
+[64
 
  <./images/costhetast_cut/el/helyLD-eps-converted-to.pdf> <./images/costhetast_
 cut/el/MLP-eps-converted-to.pdf> <./images/costhetast_cut/el/costhetast-eps-con
 verted-to.pdf> <./images/costhetast_cut/mu/costhetast-eps-converted-to.pdf>]
-<images/plots/ASCL_7TEV_unblided_new230_new_xsec.png, id=2934, 899.36pt x 875.2
+<images/plots/ASCL_7TEV_unblided_new230_new_xsec.png, id=3091, 899.36pt x 875.2
 7pt>
 File: images/plots/ASCL_7TEV_unblided_new230_new_xsec.png Graphic file (type pn
 g)
@@ -2631,7 +2786,7 @@ g)
 Package pdftex.def Info: images/plots/ASCL_7TEV_unblided_new230_new_xsec.png us
 ed on input line 118.
 (pdftex.def)             Requested size: 171.14764pt x 166.55678pt.
- [68
+ [65
 
  <./images/plots/ASCL_7TEV_unblided_new230_new_xsec.png>]
 File: images/8TeV_limit.pdf Graphic file (type pdf)
@@ -2639,13 +2794,13 @@ File: images/8TeV_limit.pdf Graphic file (type pdf)
 Package pdftex.def Info: images/8TeV_limit.pdf used on input line 149.
 (pdftex.def)             Requested size: 171.14764pt x 164.20486pt.
 
-<images/cutcount.png, id=2960, 899.36pt x 875.27pt>
+<images/cutcount.png, id=3117, 899.36pt x 875.27pt>
 File: images/cutcount.png Graphic file (type png)
  <use images/cutcount.png>
 Package pdftex.def Info: images/cutcount.png used on input line 149.
 (pdftex.def)             Requested size: 171.14764pt x 166.55678pt.
 
-[69
+[66
 
  <./images/cutcount.png>])
 \tf@nav=\write6
@@ -2666,35 +2821,43 @@ Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 233.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 233.
 Package rerunfilecheck Info: File `defense.out' has not changed.
 (rerunfilecheck)             Checksum: 53C0E80C3810FE6A5955B6A79074AC9A;269.
+
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 3.57729pt have occurred.
+
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 233.
  ) 
 Here is how much of TeX's memory you used:
- 18217 strings out of 495059
- 329671 string characters out of 3182030
- 399638 words of memory out of 3000000
- 20636 multiletter control sequences out of 15000+200000
- 100491 words of font info for 134 fonts, out of 3000000 for 9000
+ 18314 strings out of 495059
+ 332056 string characters out of 3182030
+ 399587 words of memory out of 3000000
+ 20731 multiletter control sequences out of 15000+200000
+ 119738 words of font info for 155 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
  49i,33n,68p,453b,915s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
-e/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/
-fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/t
-ype1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
-blic/amsfonts/cm/cmmi9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/am
-sfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
-/cm/cmss8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cms
-y10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb
-></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/
-share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/share/t
-exlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf
--dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/
-type1/urw/helvetic/uhvro8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/t
-imes/utmr8a.pfb>
-Output written on defense.pdf (69 pages, 4964995 bytes).
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmmi9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+ss8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb
+></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr
+/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/share/
+texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/share/texlive
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/share/texlive/texmf-dist/fo
+nts/type1/urw/courier/ucrr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw
+/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uh
+vr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb></
+usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
+Output written on defense.pdf (66 pages, 8926106 bytes).
 PDF statistics:
- 3072 PDF objects out of 3580 (max. 8388607)
- 2484 compressed objects within 25 object streams
- 145 named destinations out of 1000 (max. 500000)
- 575 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 3238 PDF objects out of 3580 (max. 8388607)
+ 2572 compressed objects within 26 object streams
+ 139 named destinations out of 1000 (max. 500000)
+ 601 words of extra memory for PDF output out of 10000 (max. 10000000)
 

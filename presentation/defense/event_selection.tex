@@ -125,8 +125,27 @@ $2e2q$   & /DoubleElectron/Run2012A-13Jul2012-v1/AOD & 808\\
 
 
 
-\begin{frame}{PileUp}
-beta and delta r stuff
+\begin{frame}{PileUp and Isolation}
+\begin{columns}
+\begin{column}{0.5\textwidth}
+\begin{center}
+$\beta = \dfrac{\sum_{P_T\ CJP\ from\ Vertex}}{\sum_{P_T\ all\ CJP}}$\\
+\footnotesize
+ where CJP is charged jet particles.
+\includegraphics[width=0.89\textwidth]{images/beta.png}\\
+Jets originating from pile-up interactions are removed by cutting on $\beta$ > 0.2.
+\end{center}
+\end{column}
+\begin{column}{0.5\textwidth}
+\begin{center}
+{\footnotesize We also require that our objects are isolated by cutting on a cone around the primary vertex with radius:}\\
+$\Delta R = \sqrt{\Delta \phi^2 + \Delta \eta^2} > 0.5$
+\includegraphics[width=0.99\textwidth]{images/JetConeAll-1024x778.png}\\
+{\fontsize{.1cm}{.001em}\selectfont Source: \url{http://www.quantumdiaries.org/2011/06/01/anatomy-of-a-jet-in-cms/}}
+%∆R = ∆φ2 + ∆η 2 > 0.5
+\end{center}
+\end{column}
+\end{columns}
 \end{frame}
 
 \begin{frame}{Analysis workflow}
@@ -383,8 +402,20 @@ We cut on 0.5 which is within 5\% of the optimal value for all Higgs mass values
 
 
 
-\begin{frame}{MET}
+\begin{frame}{Missing Transverse Energy}
+\footnotesize
+Our signal shouldn't have any Missing Transverse Energy ($E_T^{miss}$, MET) from neutrinos.
+MET significance is a measure of how likely the MET we see is real(not from detector effects).\\
+\begin{block}{}
+\begin{center}
+$MET\ Significance = 2ln\lambda(MET) = 2ln \dfrac{L(MET_{true} = MET_{measured})}{L(MET_{true} = 0)}$
+\end{center}
+\end{block}
 
+This is particularly useful to suppress the $\Pqt \Paqt$ background in the 2-tag region, but we apply a cut on MET significance > 10 to all categories.  
+\\
+\includegraphics[width=0.5\linewidth]{images/preselection/2/el/METsignif.eps}
+\includegraphics[width=0.5\linewidth]{images/preselection/2/mu/METsignif.eps}
 \end{frame}
 
 
@@ -435,9 +466,24 @@ We cut on 0.5 which is within 5\% of the optimal value for all Higgs mass values
 
 
 \begin{frame}{Best Higgs Candidate}
-
-
+\footnotesize
+When there are multiple candidates in the same event we apply a string of logic to select which is the candidate that we are going to keep.\\
+\vspace{1em}
+\includegraphics[width=0.99\textwidth]{images/final_cand.eps}\\
+\vspace{1em}
+\begin{center}
+$\Delta Z = |M_{\Plp \Plm} - m_Z| + |M_{JJ} - m_Z|$\\
+$m_Z$ is the nominal mass of the Z boson\\
+$\Delta Z 1 .. Z n$ is the candidates sorted by $\Delta Z$ smallest to largest.\\
+\end{center}
+\vspace{1em}
+When all candidates are sorted we keep the candidate that is to the furthest left on the diagram.
 \end{frame}
+
+
+
+
+
 
 \begin{frame}{Final Region m$_{ZZ}$ Plots}
 \begin{center}
