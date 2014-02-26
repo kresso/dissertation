@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2013.6.27)  19 FEB 2014 18:45
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2013.6.27)  26 FEB 2014 17:08
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -867,7 +867,7 @@ Chapter 3.
 
 
 ]
-Overfull \hbox (9.55966pt too wide) in paragraph at lines 21--23
+Overfull \hbox (9.55966pt too wide) in paragraph at lines 17--19
 []\OT1/cmr/m/n/12 Narrow elec-trons. In this in-ter-me-di-ate class, elec-trons
  have a large bremsstrahlung
  []
@@ -876,7 +876,7 @@ Overfull \hbox (9.55966pt too wide) in paragraph at lines 21--23
 File: Reconstruction/muon_Pandolfi.pdf Graphic file (type pdf)
 
 <use Reconstruction/muon_Pandolfi.pdf>
-Package pdftex.def Info: Reconstruction/muon_Pandolfi.pdf used on input line 36
+Package pdftex.def Info: Reconstruction/muon_Pandolfi.pdf used on input line 33
 .
 (pdftex.def)             Requested size: 299.19885pt x 173.42708pt.
  [39 <./Reconstruction/muon_Pandolfi.pdf>] [40]
@@ -891,7 +891,7 @@ kt-R1-ghosted4root-eps-converted-to.pdf>
 (epstopdf)             Command: <epstopdf --outfile=Reconstruction/herwig-parto
 n-level-ev-antikt-R1-ghosted4root-eps-converted-to.pdf Reconstruction/herwig-pa
 rton-level-ev-antikt-R1-ghosted4root.eps>
-(epstopdf)             \includegraphics on input line 76.
+(epstopdf)             \includegraphics on input line 73.
 Package epstopdf Info: Output file is already uptodate.
 
 <Reconstruction/herwig-parton-level-ev-antikt-R1-ghosted4root-eps-converted-to.
@@ -902,7 +902,7 @@ d-to.pdf Graphic file (type pdf)
 <use Reconstruction/herwig-parton-level-ev-antikt-R1-ghosted4root-eps-converted
 -to.pdf>
 Package pdftex.def Info: Reconstruction/herwig-parton-level-ev-antikt-R1-ghoste
-d4root-eps-converted-to.pdf used on input line 76.
+d4root-eps-converted-to.pdf used on input line 73.
 (pdftex.def)             Requested size: 342.55688pt x 248.3214pt.
  [41 <./Reconstruction/herwig-parton-level-ev-antikt-R1-ghosted4root-eps-conver
 ted-to.pdf>]
@@ -911,7 +911,7 @@ File: Reconstruction/Pandolfi_jetenergy.pdf Graphic file (type pdf)
 
 <use Reconstruction/Pandolfi_jetenergy.pdf>
 Package pdftex.def Info: Reconstruction/Pandolfi_jetenergy.pdf used on input li
-ne 94.
+ne 91.
 (pdftex.def)             Requested size: 429.28616pt x 198.97765pt.
  [42 <./Reconstruction/Pandolfi_jetenergy.pdf>]
 <Reconstruction/Figure_008-a-rotated90.pdf, id=614, 569.12527pt x 385.439pt>
@@ -919,7 +919,7 @@ File: Reconstruction/Figure_008-a-rotated90.pdf Graphic file (type pdf)
 
 <use Reconstruction/Figure_008-a-rotated90.pdf>
 Package pdftex.def Info: Reconstruction/Figure_008-a-rotated90.pdf used on inpu
-t line 117.
+t line 114.
 (pdftex.def)             Requested size: 342.55688pt x 232.00623pt.
 
 <Reconstruction/Figure_008-b-rotated90.pdf, id=615, 569.12527pt x 385.439pt>
@@ -927,7 +927,7 @@ File: Reconstruction/Figure_008-b-rotated90.pdf Graphic file (type pdf)
 
 <use Reconstruction/Figure_008-b-rotated90.pdf>
 Package pdftex.def Info: Reconstruction/Figure_008-b-rotated90.pdf used on inpu
-t line 118.
+t line 115.
 (pdftex.def)             Requested size: 212.47617pt x 143.8982pt.
 
 <Reconstruction/Figure_008-c-rotated90.pdf, id=616, 569.12527pt x 385.439pt>
@@ -935,32 +935,32 @@ File: Reconstruction/Figure_008-c-rotated90.pdf Graphic file (type pdf)
 
 <use Reconstruction/Figure_008-c-rotated90.pdf>
 Package pdftex.def Info: Reconstruction/Figure_008-c-rotated90.pdf used on inpu
-t line 119.
+t line 116.
 (pdftex.def)             Requested size: 212.47617pt x 143.8982pt.
- [43]
-<Reconstruction/Figure_009-a-rotated90.pdf, id=621, 569.12527pt x 385.439pt>
+
+<Reconstruction/Figure_009-a-rotated90.pdf, id=617, 569.12527pt x 385.439pt>
 File: Reconstruction/Figure_009-a-rotated90.pdf Graphic file (type pdf)
 
 <use Reconstruction/Figure_009-a-rotated90.pdf>
 Package pdftex.def Info: Reconstruction/Figure_009-a-rotated90.pdf used on inpu
-t line 128.
+t line 125.
 (pdftex.def)             Requested size: 212.47617pt x 143.8982pt.
 
-<Reconstruction/Figure_009-b-rotated90.pdf, id=622, 569.12527pt x 385.439pt>
+<Reconstruction/Figure_009-b-rotated90.pdf, id=618, 569.12527pt x 385.439pt>
 File: Reconstruction/Figure_009-b-rotated90.pdf Graphic file (type pdf)
 
 <use Reconstruction/Figure_009-b-rotated90.pdf>
 Package pdftex.def Info: Reconstruction/Figure_009-b-rotated90.pdf used on inpu
-t line 129.
+t line 126.
 (pdftex.def)             Requested size: 212.47617pt x 143.8982pt.
-) [44 <./Reconstruction/Figure_008-a-rotated90.pdf> <./Reconstruction/Figure_00
-8-b-rotated90.pdf> <./Reconstruction/Figure_008-c-rotated90.pdf>] [45 <./Recons
-truction/Figure_009-a-rotated90.pdf> <./Reconstruction/Figure_009-b-rotated90.p
-df>]
+) [43] [44 <./Reconstruction/Figure_008-a-rotated90.pdf> <./Reconstruction/Figu
+re_008-b-rotated90.pdf> <./Reconstruction/Figure_008-c-rotated90.pdf>] [45 <./R
+econstruction/Figure_009-a-rotated90.pdf> <./Reconstruction/Figure_009-b-rotate
+d90.pdf>]
 \openout2 = `Selection/Selection.aux'.
 
- (./Selection/Selection.tex
-[46
+
+(./Selection/Selection.tex [46
 
 
 
@@ -3306,7 +3306,7 @@ Package pdftex.def Info: plots/data_pileup.pdf used on input line 340.
  [95]
 Overfull \hbox (8.41443pt too wide) in paragraph at lines 351--352
 \OT1/cmr/m/n/12 by eval-u-at-ing the se-lec-tion ef-fi-ciency for the PDF sets:
- cteq66 [75], MSTW2008NLO [76]
+ cteq66 [76], MSTW2008NLO [77]
  []
 
 
@@ -4783,23 +4783,23 @@ n Re-port.
 Missing character: There is no Ã in font cmr12!
 Missing character: There is no ¡ in font cmr12!
  [154]
-Underfull \hbox (badness 2080) in paragraph at lines 361--364
+Underfull \hbox (badness 2080) in paragraph at lines 367--370
 []\OT1/cmr/m/n/12 et al. A. Hoecher.  TMVA - Toolkit for Mul-ti-vari-ate Data A
 nal-y-sis.
  []
 
 [155]
-Underfull \hbox (badness 10000) in paragraph at lines 446--451
+Underfull \hbox (badness 10000) in paragraph at lines 452--457
 []\OT1/cmr/m/n/12 CMS Higgs Com-bi-na-tion Group.  Doc-u-men-ta-tion of
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 446--451
+Underfull \hbox (badness 10000) in paragraph at lines 452--457
 \OT1/cmr/m/n/12 the RooStats-based statis-tics tools for Higgs PAG.
  []
 
 
-Overfull \hbox (21.19475pt too wide) in paragraph at lines 446--451
+Overfull \hbox (21.19475pt too wide) in paragraph at lines 452--457
 \OT1/cmr/m/n/12 https://twiki.cern.ch/twiki/bin/view/CMS/SWGuideHiggsAnalysisCo
 mbinedLimit,
  []
@@ -4818,10 +4818,10 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 5986 strings out of 495059
- 114326 string characters out of 3182030
- 157004 words of memory out of 3000000
- 8713 multiletter control sequences out of 15000+200000
+ 5987 strings out of 495059
+ 114338 string characters out of 3182030
+ 157008 words of memory out of 3000000
+ 8714 multiletter control sequences out of 15000+200000
  22773 words of font info for 83 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
  52i,38n,62p,1470b,442s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -4845,7 +4845,7 @@ nts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texlive/texmf-dist/fonts/ty
 pe1/public/amsfonts/cm/cmtt10.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
 blic/amsfonts/cm/cmtt12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
 msfonts/cm/cmtt8.pfb>
-Output written on thesis.pdf (177 pages, 11558852 bytes).
+Output written on thesis.pdf (177 pages, 11558954 bytes).
 PDF statistics:
  3548 PDF objects out of 3580 (max. 8388607)
  2090 compressed objects within 21 object streams

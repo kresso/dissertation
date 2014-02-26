@@ -233,6 +233,12 @@ Stephanie Baffioni, Claude Charlot, Federico Ferri, David Futyan, Paolo
 \newblock Electron reconstruction in cms.
 \newblock Technical Report CMS-NOTE-2006-040, CERN, Geneva, Feb 2006.
 
+\bibitem{GSF_at_CMS}
+et~Al. Adam~Wolfgang.
+\newblock {Reconstruction of Electrons with the Gaussian-Sum Filter in the CMS
+  Tracker at the LHC}.
+\newblock {\em CMS-NOTE-2005-001}, 2005.
+
 \bibitem{Pandolfi_thesis}
 Francesco Pandolfi.
 \newblock {Search for the Standard Model Higgs Boson in the H to ZZ to llqq

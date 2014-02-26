@@ -107,7 +107,7 @@ As one of the two general purpose detectors at the LHC, the Compact Muon Solenoi
 \end{itemize}
 
 
-  The main parts of the CMS detector include the 3.8 T superconducting solenoid, muon system, electromagnetic calorimeter, and the tracking system \cite{CMSExperiment}.  The CMS has a number of cylindrical layers which are perpendicular to the beam axis (these are referred to as the barrel), and at both ends there are detector disks which are orthogonal to the beam axis (referred to as the end-caps). A more detailed picture of the detector can be found in Figures~\ref{fig:CMScolaborationPoster} and~\ref{fig:CMS_Slice}.  Figure~\ref{fig:CMS_luminosity} shows the collection efficiency of the CMS detector for 2010 to 2012~\cite{cms_lumi_plots}.
+  The main parts of the CMS detector include the 3.8 T superconducting solenoid, muon system, electromagnetic calorimeter, and the tracking system \cite{CMSExperiment}.  The CMS experiment has a number of cylindrical layers which are perpendicular to the beam axis (these are referred to as the barrel), and at both ends there are detector disks which are orthogonal to the beam axis (referred to as the end-caps). A more detailed picture of the detector can be found in Figures~\ref{fig:CMScolaborationPoster} and~\ref{fig:CMS_Slice}.  Figure~\ref{fig:CMS_luminosity} shows the data collection efficiency of the CMS detector for 2010 to 2012~\cite{cms_lumi_plots}.
 
 
 
@@ -152,7 +152,7 @@ When a particle is massless $E_T=p_T$.  Similarly, for the energies considered t
 
 \subsubsection{Magnet}
 
-To gain the resolution needed for the muon system the bending power of the detector must be immense.  One way to archive this goal is to use a solenoid.  The magnet in CMS is a 13 m long superconducting cylindrical Niobium-Titanium coil.  This coil has a diameter of 5.9 m with a uniform magnetic field of 3.8 T at it's center.  The magnetic flux is returned by a double duty iron yoke support structure~\cite{Magnet_CMS}. This magnet can be seen in Figure~\ref{fig:CMS_solenoid_magnet}~\cite{cms_solenoid_magnet}.
+To gain the resolution needed for the muon system a large bending power of the detector is needed.  One way to archive this goal is to use a solenoid.  The magnet in CMS is a 13 m long superconducting cylindrical Niobium-Titanium coil.  This coil has a diameter of 5.9 m with a uniform magnetic field of 3.8 T at it's center.  The magnetic flux is returned by a double duty iron yoke support structure~\cite{Magnet_CMS}. This magnet can be seen in Figure~\ref{fig:CMS_solenoid_magnet}~\cite{cms_solenoid_magnet}.
 
 \begin{figure}[htb]
 \centering
@@ -163,11 +163,11 @@ To gain the resolution needed for the muon system the bending power of the detec
 
 
 \subsubsection{Tracker}
-The tracker is the detector system that is closest to the primary interaction.  Its primary goal is to reconstruct the tracks of charged particles with extremely high precision both in position and momentum. The goal is greater than 95\% for electrons and muons and greater than 90\% for jets. It is also able to identify both the primary and secondary vertices.  Vertices are defined as the origin that a group of tracks share together. All these must be achieved in the extreme radioactivity that is created by the LHC collisions~\cite{cms_trakcer_project}.
+The tracker is the detector system that is closest to the primary interaction.  Its primary goal is to reconstruct the tracks of charged particles with extremely high precision both in position and momentum. The goal is greater than 95\% for electrons and muons and greater than 90\% for jets. It is also able to identify both the primary and secondary vertices.  Vertices are defined as the origin that a group of tracks share together. All these must be achieved in the extreme environment that is created by the LHC collisions~\cite{cms_trakcer_project}.
 
 The previous requirements facilitated the choice of using a large silicon tracker~\cite{cms_trakcer_project}.  The tracker has three regions that are built differently because of the change in particle flux.  The closest region is the PIXEL detector where the particle flux is at a maximum.
 %is about $10^7/s$.
-In the intermediate regions the flux has dropped sufficiently to be able to use silicon micro-strips.  The outer region again has lower radiation which allows larger cell size silicon micro-strips to be used.  This layout of the tracker can be seen in Figure~\ref{fig:CMS_tacker}~\cite{2010JInst...5.6007S}.
+In the intermediate regions the flux has dropped sufficiently to be able to use silicon micro-strips.  In the outer region again the particle flux is even lower which allows larger cell size silicon micro-strips to be used.  This layout of the tracker can be seen in Figure~\ref{fig:CMS_tacker}~\cite{2010JInst...5.6007S}.
 
 \begin{figure}[htb]
 \centering
@@ -187,12 +187,12 @@ The lead tungstate crystals have a number of important features as listed below:
   \item
     Very fast light emission (5 ns for primary and 15 ns for secondary) since LHC bunch crossings are 25 ns.
     \item
-      Radiation hard at a level to allow several years of high luminosity operation.
+      Radiation hard at a level to allow several decades of high luminosity operation.
     \item
       Excellent position tracking because of the small shower containment. 
 \end{itemize}
 
-One downside is that the there is a low light yield so photo detectors with a high gain must be used.  Figure~\ref{fig:CMS_ecal_quadrant}~\cite{ECAL_report} shows a longitudinal cross section of the ECAL. Any dead areas where there is not detection significantly degrades the total energy measurement and hurts the missing transverse energy (MET) calculations. Figure~\ref{fig:CMS_ecal_crack} shows the gap which was designed to minimize these problems~\cite{ECAL_report}.  This area is excluded for certain measurements in the analysis for electrons in this over lap region for ($1.4442 < |\eta| < 1.566$).
+One downside is that light yield is low and therefore photo detectors with a high gain must be used.  Figure~\ref{fig:CMS_ecal_quadrant}~\cite{ECAL_report} shows a longitudinal cross section of the ECAL. Any dead areas where there is not detection significantly degrades the total energy measurement and hurts the missing transverse energy (MET) calculations. Figure~\ref{fig:CMS_ecal_crack} shows the gap which was designed to minimize these problems~\cite{ECAL_report}. The overlap region $1.4442 < |\eta| < 1.566$ is excluded for certain measurements in the analysis for electrons.
 
 \begin{figure}[htb]
 \centering
@@ -222,7 +222,7 @@ The hadronic calorimeter~\cite{HCAL_report} detects quarks, gluons, and neutrino
 
 At the high luminosity achieved at the LHC, there is the drawback that several of the interactions overlap in the same bunch crossing. Also there is overlap from different bunch crossing because of the limited speed of the detector response and data read-out.  These effects are known as pile-up.  In addition to pile-up difficulties there is an extreme amount of data produced from the collisions at CMS. With a luminosity of $10^{34}cm^{-2}s^{-1}$ there is roughly $10^9$ interactions per second.  With the typical event size of 1 MB all collisions cannot be recorded and with the majority of interactions not interesting for the CMS physics program, there needs to be a way to choose which events to record.  This is done with the triggering system to reduce the recorded rate to approximately 100 Hz. There are technical difficulties in the handling, processing, and storing of this data. These difficulties make the real time selection and recording of important events (the Trigger) very important~\cite{Bayatyan:706847}.
 
-The CMS Trigger has two levels.  The Level 1 (L1) trigger is a hardware trigger.  The full data is stored in the pipelines for processing while waiting for the trigger decision.  If the L1 accepts the decision then the data is moved to the software based High Level Trigger (HLT).  The HLT reduces the output rate to around 100 Hz. The HLT software has a set of algorithms which give complete freedom to deciding which data to access.  To free up processing there are three virtual trigger levels.  The first only uses the muon and calorimeter data, the second adds the pixel seeds, and the final step uses the full event information.
+The CMS Trigger has two levels.  The Level 1 (L1) trigger is a hardware trigger.  The full data is stored in the pipelines for processing while waiting for the trigger decision.  If the L1 accepts the decision then the data is moved to the software based High Level Trigger (HLT).  The HLT reduces the output rate to around 100 Hz. The HLT software has a set of algorithms which give complete freedom to deciding which data to access.  To free up processing there are three virtual trigger levels.  The first only uses the muon and calorimeter data, the second adds the pixel seeds, and the final step uses the full event information. Both L1 and HLT triggers have changed as the LHC environment changed during the luminosity increases.
 
 The Level 1 Trigger is used to choose hard scattering from procecess like Higgs decays, $WW$ scattering, supersymmetry, and more.  This system is based on custom electronics.  It uses the identification of photons, electrons, muons, jets, and MET. A diagram of the L1 trigger system is shown in Figure~\ref{fig:l1triggeroverview}~\cite{Bayatyan:706847}. The physics requirements for the L1 trigger are as follows:~\cite{Bayatyan:706847}
 \begin{itemize}
