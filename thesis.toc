@@ -31,15 +31,15 @@
 \contentsline {subsection}{\numberline {4.1.1}Simulated Events}{48}
 \contentsline {section}{\numberline {4.2}Pile-Up}{48}
 \contentsline {section}{\numberline {4.3}Preselection}{49}
-\contentsline {subsection}{\numberline {4.3.1}Lepton Selection}{50}
-\contentsline {subsection}{\numberline {4.3.2}Jet Selection}{52}
+\contentsline {subsection}{\numberline {4.3.1}Lepton Selection}{51}
+\contentsline {subsection}{\numberline {4.3.2}Jet Selection}{53}
 \contentsline {subsection}{\numberline {4.3.3}B-tagging of jets}{55}
 \contentsline {subsection}{\numberline {4.3.4}Higgs candidates}{57}
 \contentsline {chapter}{\numberline {5}Signal Optimization}{59}
 \contentsline {section}{\numberline {5.1}Tagging Classification}{59}
 \contentsline {section}{\numberline {5.2}Helicity Likelihood}{61}
-\contentsline {subsection}{\numberline {5.2.1}Angular Discriminant}{64}
-\contentsline {section}{\numberline {5.3}Signal Optimization Based on Helicity Neural Network}{71}
+\contentsline {subsection}{\numberline {5.2.1}Angular Discriminant}{67}
+\contentsline {section}{\numberline {5.3}Signal Optimization Based on Helicity Neural Network}{70}
 \contentsline {subsection}{\numberline {5.3.1}Neural Network Architecture}{73}
 \contentsline {subsection}{\numberline {5.3.2}Helicity Neural Network}{74}
 \contentsline {subsection}{\numberline {5.3.3}Extended MVA Variables}{78}
