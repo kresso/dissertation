@@ -441,12 +441,6 @@ Stefano Goria, Giampiero Passarino, and Dario Rosco.
 \bibitem{LHC-HCS}
 {LHC Higgs Cross Section Working Group web page}.
 
-\bibitem{HIG-11-027}
-{CMS Collaboration}.
-\newblock Search for a higgs boson in the decay channel $h \rightarrow
-  zz(^{\star}) \rightarrow q \bar{q}l^{-}l^{+}$.
-\newblock 2011.
-
 \bibitem{Passarino:2012ri}
 Giampiero Passarino.
 \newblock {Higgs Interference Effects in $\Pg \Pg \to \PZ\PZ$ and their
@@ -464,6 +458,12 @@ CMS Higgs~Combination Group.
 \newblock
   https://twiki.cern.ch/twiki/bin/view/CMS/SWGuideHiggsAnalysisCombinedLimit,
   2011.
+
+\bibitem{HIG-11-027}
+{CMS Collaboration}.
+\newblock Search for a higgs boson in the decay channel $h \rightarrow
+  zz(^{\star}) \rightarrow q \bar{q}l^{-}l^{+}$.
+\newblock 2011.
 
 \bibitem{SuperLHC}
 Michalangel~L. Mangano.
