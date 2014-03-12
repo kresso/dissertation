@@ -59,45 +59,45 @@ Warning--empty institution in 4l
 Warning--empty institution in CMS-PAS-LUM-12-001
 Warning--empty note in HIG-11-027
 Warning--empty journal in HiggsLimitTWiki
-You've used 91 entries,
+You've used 93 entries,
             1791 wiz_defined-function locations,
-            940 strings with 15762 characters,
-and the built_in function-call counts, 15521 in all, are:
-= -- 1284
-> -- 627
+            949 strings with 16002 characters,
+and the built_in function-call counts, 15779 in all, are:
+= -- 1306
+> -- 635
 < -- 10
-+ -- 262
-- -- 171
-* -- 887
-:= -- 2612
-add.period$ -- 259
-call.type$ -- 91
-change.case$ -- 86
++ -- 266
+- -- 173
+* -- 893
+:= -- 2660
+add.period$ -- 265
+call.type$ -- 93
+change.case$ -- 88
 chr.to.int$ -- 0
-cite$ -- 119
-duplicate$ -- 759
-empty$ -- 1630
-format.name$ -- 171
-if$ -- 3404
+cite$ -- 121
+duplicate$ -- 775
+empty$ -- 1658
+format.name$ -- 173
+if$ -- 3460
 int.to.chr$ -- 0
-int.to.str$ -- 91
-missing$ -- 77
-newline$ -- 441
-num.names$ -- 81
-pop$ -- 248
+int.to.str$ -- 93
+missing$ -- 79
+newline$ -- 451
+num.names$ -- 83
+pop$ -- 254
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 301
+skip$ -- 307
 stack$ -- 0
 substring$ -- 631
-swap$ -- 94
+swap$ -- 96
 text.length$ -- 10
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 28
-while$ -- 124
-width$ -- 93
-write$ -- 929
+while$ -- 126
+width$ -- 95
+write$ -- 949
 (There were 36 warnings)

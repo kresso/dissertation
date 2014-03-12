@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2013.6.27)  12 MAR 2014 17:04
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2013.6.27)  12 MAR 2014 17:41
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -3281,42 +3281,40 @@ File: Systematics/2012data_outputGsfElectronToId.png Graphic file (type png)
 Package pdftex.def Info: Systematics/2012data_outputGsfElectronToId.png used on
  input line 223.
 (pdftex.def)             Requested size: 346.89731pt x 234.9475pt.
- [92] [93 <./Systematics/2012data_outputSCToGsfElectron.png> <./Systematics/201
-2data_outputGsfElectronToId.png>] [94] <plots/data_pileup.pdf, id=2079, 569.126
-25pt x 450.68375pt>
+ [92]
+Overfull \vbox (17.69913pt too high) has occurred while \output is active []
+
+
+[93 <./Systematics/2012data_outputSCToGsfElectron.png> <./Systematics/2012data_
+outputGsfElectronToId.png>] [94] [95]
+<plots/data_pileup.pdf, id=2082, 569.12625pt x 450.68375pt>
 File: plots/data_pileup.pdf Graphic file (type pdf)
 
 <use plots/data_pileup.pdf>
 Package pdftex.def Info: plots/data_pileup.pdf used on input line 340.
 (pdftex.def)             Requested size: 212.47617pt x 168.2564pt.
- [95]
-Overfull \hbox (8.41443pt too wide) in paragraph at lines 351--352
-\OT1/cmr/m/n/12 by eval-u-at-ing the se-lec-tion ef-fi-ciency for the PDF sets:
- cteq66 [76], MSTW2008NLO [77]
- []
-
 
 Underfull \hbox (badness 7344) in paragraph at lines 355--355
 []\OT1/cmr/m/n/12 Systematic un-cer-tain-ties on the sig-nal ac-cep-tance fol-l
 ow-ing
  []
 
-[96 <./plots/data_pileup.pdf, page is rotated 90 degrees>]
-<plots/lineshapeunc.pdf, id=2129, 569.12625pt x 385.44pt>
+[96 <./plots/data_pileup.pdf, page is rotated 90 degrees>] [97]
+<plots/lineshapeunc.pdf, id=2133, 569.12625pt x 385.44pt>
 File: plots/lineshapeunc.pdf Graphic file (type pdf)
 
 <use plots/lineshapeunc.pdf>
 Package pdftex.def Info: plots/lineshapeunc.pdf used on input line 399.
 (pdftex.def)             Requested size: 242.82613pt x 164.45383pt.
 
-<plots/all_signal_effs.png, id=2130, 842.14626pt x 746.79pt>
+<plots/all_signal_effs.png, id=2134, 842.14626pt x 746.79pt>
 File: plots/all_signal_effs.png Graphic file (type png)
 
 <use plots/all_signal_effs.png>
 Package pdftex.def Info: plots/all_signal_effs.png used on input line 399.
 (pdftex.def)             Requested size: 190.79385pt x 169.18279pt.
- [97] [98 <./plots/lineshapeunc.pdf> <./plots/all_signal_effs.png>] [99] <plots
-/dy_jse.png, id=2146, 598.235pt x 574.145pt>
+ [98 <./plots/lineshapeunc.pdf> <./plots/all_signal_effs.png>] [99] <plots/dy_j
+se.png, id=2146, 598.235pt x 574.145pt>
 File: plots/dy_jse.png Graphic file (type png)
 
 <use plots/dy_jse.png>
@@ -3328,20 +3326,21 @@ File: plots/dy_pthe.png Graphic file (type png)
 <use plots/dy_pthe.png>
 Package pdftex.def Info: plots/dy_pthe.png used on input line 512.
 (pdftex.def)             Requested size: 212.47617pt x 203.92365pt.
- <plots/dy2_jsm.png, id=2148, 748.7975pt x 624.3325pt>
+ [100]
+<plots/dy2_jsm.png, id=2151, 748.7975pt x 624.3325pt>
 File: plots/dy2_jsm.png Graphic file (type png)
-
-<use plots/dy2_jsm.png>
+ <use plots/dy2_jsm.png>
 Package pdftex.def Info: plots/dy2_jsm.png used on input line 535.
 (pdftex.def)             Requested size: 212.47617pt x 177.15543pt.
- <plots/dy2_pthe.png, id=2149, 748.7975pt x 624.3325pt>
+
+<plots/dy2_pthe.png, id=2152, 748.7975pt x 624.3325pt>
 File: plots/dy2_pthe.png Graphic file (type png)
 
 <use plots/dy2_pthe.png>
 Package pdftex.def Info: plots/dy2_pthe.png used on input line 535.
 (pdftex.def)             Requested size: 212.47617pt x 177.15543pt.
 
-<plots/Diff_SBresidual_0btag.png, id=2150, 598.235pt x 574.145pt>
+<plots/Diff_SBresidual_0btag.png, id=2153, 598.235pt x 574.145pt>
 File: plots/Diff_SBresidual_0btag.png Graphic file (type png)
 
 <use plots/Diff_SBresidual_0btag.png>
@@ -3349,7 +3348,7 @@ Package pdftex.def Info: plots/Diff_SBresidual_0btag.png used on input line 550
 .
 (pdftex.def)             Requested size: 143.09538pt x 137.3333pt.
 
-<plots/Diff_SBresidual_1btag.png, id=2151, 598.235pt x 574.145pt>
+<plots/Diff_SBresidual_1btag.png, id=2154, 598.235pt x 574.145pt>
 File: plots/Diff_SBresidual_1btag.png Graphic file (type png)
 
 <use plots/Diff_SBresidual_1btag.png>
@@ -3357,7 +3356,7 @@ Package pdftex.def Info: plots/Diff_SBresidual_1btag.png used on input line 550
 .
 (pdftex.def)             Requested size: 143.09538pt x 137.3333pt.
 
-<plots/Diff_SBresidual_2btag.png, id=2152, 598.235pt x 574.145pt>
+<plots/Diff_SBresidual_2btag.png, id=2155, 598.235pt x 574.145pt>
 File: plots/Diff_SBresidual_2btag.png Graphic file (type png)
 
 <use plots/Diff_SBresidual_2btag.png>
@@ -3365,58 +3364,47 @@ Package pdftex.def Info: plots/Diff_SBresidual_2btag.png used on input line 550
 .
 (pdftex.def)             Requested size: 143.09538pt x 137.3333pt.
 
-<plots/SBres-ee-0b.pdf, id=2153, 569.12625pt x 546.04pt>
+<plots/SBres-ee-0b.pdf, id=2156, 569.12625pt x 546.04pt>
 File: plots/SBres-ee-0b.pdf Graphic file (type pdf)
 
 <use plots/SBres-ee-0b.pdf>
 Package pdftex.def Info: plots/SBres-ee-0b.pdf used on input line 555.
 (pdftex.def)             Requested size: 143.09538pt x 137.29286pt.
 
-<plots/SBres-ee-1b.pdf, id=2154, 569.12625pt x 546.04pt>
+<plots/SBres-ee-1b.pdf, id=2157, 569.12625pt x 546.04pt>
 File: plots/SBres-ee-1b.pdf Graphic file (type pdf)
 
 <use plots/SBres-ee-1b.pdf>
 Package pdftex.def Info: plots/SBres-ee-1b.pdf used on input line 555.
 (pdftex.def)             Requested size: 143.09538pt x 137.29286pt.
 
-<plots/SBres-ee-2b.pdf, id=2155, 569.12625pt x 546.04pt>
+<plots/SBres-ee-2b.pdf, id=2158, 569.12625pt x 546.04pt>
 File: plots/SBres-ee-2b.pdf Graphic file (type pdf)
 
 <use plots/SBres-ee-2b.pdf>
 Package pdftex.def Info: plots/SBres-ee-2b.pdf used on input line 555.
 (pdftex.def)             Requested size: 143.09538pt x 137.29286pt.
 
-<plots/SBres-mm-0b.pdf, id=2156, 569.12625pt x 546.04pt>
+<plots/SBres-mm-0b.pdf, id=2159, 569.12625pt x 546.04pt>
 File: plots/SBres-mm-0b.pdf Graphic file (type pdf)
 
 <use plots/SBres-mm-0b.pdf>
 Package pdftex.def Info: plots/SBres-mm-0b.pdf used on input line 560.
 (pdftex.def)             Requested size: 143.09538pt x 137.29286pt.
 
-<plots/SBres-mm-1b.pdf, id=2157, 569.12625pt x 546.04pt>
+<plots/SBres-mm-1b.pdf, id=2160, 569.12625pt x 546.04pt>
 File: plots/SBres-mm-1b.pdf Graphic file (type pdf)
 
 <use plots/SBres-mm-1b.pdf>
 Package pdftex.def Info: plots/SBres-mm-1b.pdf used on input line 560.
 (pdftex.def)             Requested size: 143.09538pt x 137.29286pt.
 
-<plots/SBres-mm-2b.pdf, id=2158, 569.12625pt x 546.04pt>
+<plots/SBres-mm-2b.pdf, id=2161, 569.12625pt x 546.04pt>
 File: plots/SBres-mm-2b.pdf Graphic file (type pdf)
 
 <use plots/SBres-mm-2b.pdf>
 Package pdftex.def Info: plots/SBres-mm-2b.pdf used on input line 560.
 (pdftex.def)             Requested size: 143.09538pt x 137.29286pt.
- [100]
-
-LaTeX Warning: Text page 101 contains only floats.
-
-[101 <./plots/dy_jse.png> <./plots/dy_pthe.png> <./plots/dy2_jsm.png> <./plots/
-dy2_pthe.png>] [102 <./plots/Diff_SBresidual_0btag.png> <./plots/Diff_SBresidua
-l_1btag.png> <./plots/Diff_SBresidual_2btag.png> <./plots/SBres-ee-0b.pdf, page
- is rotated 90 degrees> <./plots/SBres-ee-1b.pdf, page is rotated 90 degrees> <
-./plots/SBres-ee-2b.pdf, page is rotated 90 degrees> <./plots/SBres-mm-0b.pdf, 
-page is rotated 90 degrees> <./plots/SBres-mm-1b.pdf, page is rotated 90 degree
-s> <./plots/SBres-mm-2b.pdf, page is rotated 90 degrees>]
 Package epstopdf Info: Source file: <Systematics/plots/subtract_el_2_0.eps>
 (epstopdf)                    date: 2014-02-19 18:45:30
 (epstopdf)                    size: 13704 bytes
@@ -3429,7 +3417,7 @@ el_2_0-eps-converted-to.pdf Systematics/plots/subtract_el_2_0.eps>
 (epstopdf)             \includegraphics on input line 581.
 Package epstopdf Info: Output file is already uptodate.
 
-<Systematics/plots/subtract_el_2_0-eps-converted-to.pdf, id=2431, 569.12625pt x
+<Systematics/plots/subtract_el_2_0-eps-converted-to.pdf, id=2162, 569.12625pt x
  385.44pt>
 File: Systematics/plots/subtract_el_2_0-eps-converted-to.pdf Graphic file (type
  pdf)
@@ -3449,7 +3437,7 @@ mu_2_0-eps-converted-to.pdf Systematics/plots/subtract_mu_2_0.eps>
 (epstopdf)             \includegraphics on input line 581.
 Package epstopdf Info: Output file is already uptodate.
 
-<Systematics/plots/subtract_mu_2_0-eps-converted-to.pdf, id=2432, 569.12625pt x
+<Systematics/plots/subtract_mu_2_0-eps-converted-to.pdf, id=2163, 569.12625pt x
  385.44pt>
 File: Systematics/plots/subtract_mu_2_0-eps-converted-to.pdf Graphic file (type
  pdf)
@@ -3469,7 +3457,7 @@ _2_0-eps-converted-to.pdf Systematics/plots/divide_el_2_0.eps>
 (epstopdf)             \includegraphics on input line 588.
 Package epstopdf Info: Output file is already uptodate.
 
-<Systematics/plots/divide_el_2_0-eps-converted-to.pdf, id=2433, 569.12625pt x 3
+<Systematics/plots/divide_el_2_0-eps-converted-to.pdf, id=2164, 569.12625pt x 3
 85.44pt>
 File: Systematics/plots/divide_el_2_0-eps-converted-to.pdf Graphic file (type p
 df)
@@ -3489,7 +3477,7 @@ _2_0-eps-converted-to.pdf Systematics/plots/divide_mu_2_0.eps>
 (epstopdf)             \includegraphics on input line 588.
 Package epstopdf Info: Output file is already uptodate.
 
-<Systematics/plots/divide_mu_2_0-eps-converted-to.pdf, id=2434, 569.12625pt x 3
+<Systematics/plots/divide_mu_2_0-eps-converted-to.pdf, id=2165, 569.12625pt x 3
 85.44pt>
 File: Systematics/plots/divide_mu_2_0-eps-converted-to.pdf Graphic file (type p
 df)
@@ -3509,7 +3497,7 @@ el_2_1-eps-converted-to.pdf Systematics/plots/subtract_el_2_1.eps>
 (epstopdf)             \includegraphics on input line 599.
 Package epstopdf Info: Output file is already uptodate.
 
-<Systematics/plots/subtract_el_2_1-eps-converted-to.pdf, id=2435, 569.12625pt x
+<Systematics/plots/subtract_el_2_1-eps-converted-to.pdf, id=2166, 569.12625pt x
  385.44pt>
 File: Systematics/plots/subtract_el_2_1-eps-converted-to.pdf Graphic file (type
  pdf)
@@ -3529,7 +3517,7 @@ mu_2_1-eps-converted-to.pdf Systematics/plots/subtract_mu_2_1.eps>
 (epstopdf)             \includegraphics on input line 599.
 Package epstopdf Info: Output file is already uptodate.
 
-<Systematics/plots/subtract_mu_2_1-eps-converted-to.pdf, id=2436, 569.12625pt x
+<Systematics/plots/subtract_mu_2_1-eps-converted-to.pdf, id=2167, 569.12625pt x
  385.44pt>
 File: Systematics/plots/subtract_mu_2_1-eps-converted-to.pdf Graphic file (type
  pdf)
@@ -3549,7 +3537,7 @@ _2_1-eps-converted-to.pdf Systematics/plots/divide_el_2_1.eps>
 (epstopdf)             \includegraphics on input line 606.
 Package epstopdf Info: Output file is already uptodate.
 
-<Systematics/plots/divide_el_2_1-eps-converted-to.pdf, id=2437, 569.12625pt x 3
+<Systematics/plots/divide_el_2_1-eps-converted-to.pdf, id=2168, 569.12625pt x 3
 85.44pt>
 File: Systematics/plots/divide_el_2_1-eps-converted-to.pdf Graphic file (type p
 df)
@@ -3569,7 +3557,7 @@ _2_1-eps-converted-to.pdf Systematics/plots/divide_mu_2_1.eps>
 (epstopdf)             \includegraphics on input line 606.
 Package epstopdf Info: Output file is already uptodate.
 
-<Systematics/plots/divide_mu_2_1-eps-converted-to.pdf, id=2438, 569.12625pt x 3
+<Systematics/plots/divide_mu_2_1-eps-converted-to.pdf, id=2169, 569.12625pt x 3
 85.44pt>
 File: Systematics/plots/divide_mu_2_1-eps-converted-to.pdf Graphic file (type p
 df)
@@ -3589,7 +3577,7 @@ el_2_2-eps-converted-to.pdf Systematics/plots/subtract_el_2_2.eps>
 (epstopdf)             \includegraphics on input line 617.
 Package epstopdf Info: Output file is already uptodate.
 
-<Systematics/plots/subtract_el_2_2-eps-converted-to.pdf, id=2439, 569.12625pt x
+<Systematics/plots/subtract_el_2_2-eps-converted-to.pdf, id=2170, 569.12625pt x
  385.44pt>
 File: Systematics/plots/subtract_el_2_2-eps-converted-to.pdf Graphic file (type
  pdf)
@@ -3609,7 +3597,7 @@ mu_2_2-eps-converted-to.pdf Systematics/plots/subtract_mu_2_2.eps>
 (epstopdf)             \includegraphics on input line 617.
 Package epstopdf Info: Output file is already uptodate.
 
-<Systematics/plots/subtract_mu_2_2-eps-converted-to.pdf, id=2440, 569.12625pt x
+<Systematics/plots/subtract_mu_2_2-eps-converted-to.pdf, id=2171, 569.12625pt x
  385.44pt>
 File: Systematics/plots/subtract_mu_2_2-eps-converted-to.pdf Graphic file (type
  pdf)
@@ -3629,7 +3617,7 @@ _2_2-eps-converted-to.pdf Systematics/plots/divide_el_2_2.eps>
 (epstopdf)             \includegraphics on input line 624.
 Package epstopdf Info: Output file is already uptodate.
 
-<Systematics/plots/divide_el_2_2-eps-converted-to.pdf, id=2441, 569.12625pt x 3
+<Systematics/plots/divide_el_2_2-eps-converted-to.pdf, id=2172, 569.12625pt x 3
 85.44pt>
 File: Systematics/plots/divide_el_2_2-eps-converted-to.pdf Graphic file (type p
 df)
@@ -3649,7 +3637,7 @@ _2_2-eps-converted-to.pdf Systematics/plots/divide_mu_2_2.eps>
 (epstopdf)             \includegraphics on input line 624.
 Package epstopdf Info: Output file is already uptodate.
 
-<Systematics/plots/divide_mu_2_2-eps-converted-to.pdf, id=2442, 569.12625pt x 3
+<Systematics/plots/divide_mu_2_2-eps-converted-to.pdf, id=2173, 569.12625pt x 3
 85.44pt>
 File: Systematics/plots/divide_mu_2_2-eps-converted-to.pdf Graphic file (type p
 df)
@@ -3657,26 +3645,31 @@ df)
 Package pdftex.def Info: Systematics/plots/divide_mu_2_2-eps-converted-to.pdf u
 sed on input line 624.
 (pdftex.def)             Requested size: 266.77727pt x 180.67499pt.
-) [103 <./Systematics/plots/subtract_el_2_0-eps-converted-to.pdf> <./Systematic
-s/plots/subtract_mu_2_0-eps-converted-to.pdf> <./Systematics/plots/divide_el_2_
-0-eps-converted-to.pdf> <./Systematics/plots/divide_mu_2_0-eps-converted-to.pdf
->] [104 <./Systematics/plots/subtract_el_2_1-eps-converted-to.pdf> <./Systemati
-cs/plots/subtract_mu_2_1-eps-converted-to.pdf> <./Systematics/plots/divide_el_2
-_1-eps-converted-to.pdf> <./Systematics/plots/divide_mu_2_1-eps-converted-to.pd
-f>] [105 <./Systematics/plots/subtract_el_2_2-eps-converted-to.pdf> <./Systemat
-ics/plots/subtract_mu_2_2-eps-converted-to.pdf> <./Systematics/plots/divide_el_
-2_2-eps-converted-to.pdf> <./Systematics/plots/divide_mu_2_2-eps-converted-to.p
-df>]
+) [101 <./plots/dy_jse.png> <./plots/dy_pthe.png>] [102 <./plots/dy2_jsm.png> <
+./plots/dy2_pthe.png>] [103 <./plots/Diff_SBresidual_0btag.png> <./plots/Diff_S
+Bresidual_1btag.png> <./plots/Diff_SBresidual_2btag.png> <./plots/SBres-ee-0b.p
+df, page is rotated 90 degrees> <./plots/SBres-ee-1b.pdf, page is rotated 90 de
+grees> <./plots/SBres-ee-2b.pdf, page is rotated 90 degrees> <./plots/SBres-mm-
+0b.pdf, page is rotated 90 degrees> <./plots/SBres-mm-1b.pdf, page is rotated 9
+0 degrees> <./plots/SBres-mm-2b.pdf, page is rotated 90 degrees>] [104 <./Syste
+matics/plots/subtract_el_2_0-eps-converted-to.pdf> <./Systematics/plots/subtrac
+t_mu_2_0-eps-converted-to.pdf> <./Systematics/plots/divide_el_2_0-eps-converted
+-to.pdf> <./Systematics/plots/divide_mu_2_0-eps-converted-to.pdf>] [105 <./Syst
+ematics/plots/subtract_el_2_1-eps-converted-to.pdf> <./Systematics/plots/subtra
+ct_mu_2_1-eps-converted-to.pdf> <./Systematics/plots/divide_el_2_1-eps-converte
+d-to.pdf> <./Systematics/plots/divide_mu_2_1-eps-converted-to.pdf>] [106 <./Sys
+tematics/plots/subtract_el_2_2-eps-converted-to.pdf> <./Systematics/plots/subtr
+act_mu_2_2-eps-converted-to.pdf> <./Systematics/plots/divide_el_2_2-eps-convert
+ed-to.pdf> <./Systematics/plots/divide_mu_2_2-eps-converted-to.pdf>]
 \openout2 = `Results/Results.aux'.
 
-
-(./Results/Results.tex [106
+ (./Results/Results.tex
+Chapter 7.
+[107
 
 
 
 ]
-Chapter 7.
-[107]
 File: plots/all_signal_effs.png Graphic file (type png)
  <use plots/all_signal_effs.png>
 Package pdftex.def Info: plots/all_signal_effs.png used on input line 22.
@@ -4775,25 +4768,26 @@ nal-y-sis.
  []
 
 [155]
-Underfull \hbox (badness 10000) in paragraph at lines 452--457
+Underfull \hbox (badness 10000) in paragraph at lines 462--467
 []\OT1/cmr/m/n/12 CMS Higgs Com-bi-na-tion Group.  Doc-u-men-ta-tion of
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 452--457
+Underfull \hbox (badness 10000) in paragraph at lines 462--467
 \OT1/cmr/m/n/12 the RooStats-based statis-tics tools for Higgs PAG.
  []
 
 
-Overfull \hbox (21.19475pt too wide) in paragraph at lines 452--457
+Overfull \hbox (21.19475pt too wide) in paragraph at lines 462--467
 \OT1/cmr/m/n/12 https://twiki.cern.ch/twiki/bin/view/CMS/SWGuideHiggsAnalysisCo
 mbinedLimit,
  []
 
+[156]
 Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no ” in font cmr12!
-[156])) [157] (./thesis.aux (./front.aux) (./StandardModel/StandardModel.aux)
+)) [157] (./thesis.aux (./front.aux) (./StandardModel/StandardModel.aux)
 (./Experiment/Experiment.aux) (./Reconstruction/Reconstruction.aux)
 (./Selection/Selection.aux) (./Optimization/Optimization.aux)
 (./Systematics/Systematics.aux) (./Results/Results.aux)
@@ -4804,10 +4798,10 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 5989 strings out of 495059
- 114397 string characters out of 3182030
- 157032 words of memory out of 3000000
- 8716 multiletter control sequences out of 15000+200000
+ 5992 strings out of 495059
+ 114439 string characters out of 3182030
+ 157052 words of memory out of 3000000
+ 8719 multiletter control sequences out of 15000+200000
  22773 words of font info for 83 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
  52i,38n,62p,1470b,442s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -4831,7 +4825,7 @@ nts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texlive/texmf-dist/fonts/ty
 pe1/public/amsfonts/cm/cmtt10.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
 blic/amsfonts/cm/cmtt12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
 msfonts/cm/cmtt8.pfb>
-Output written on thesis.pdf (177 pages, 11559510 bytes).
+Output written on thesis.pdf (177 pages, 11560615 bytes).
 PDF statistics:
  3548 PDF objects out of 3580 (max. 8388607)
  2090 compressed objects within 21 object streams

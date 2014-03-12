@@ -384,6 +384,11 @@ The~CMS collaboration.
   l+l- q qbar at CMS}.
 \newblock Technical Report CMS-AS-HIG-13-064, CERN, Geneva, 2013.
 
+\bibitem{TagandProbe2012}
+The Egamma~ID Group.
+\newblock {Tag and probe methodology for analysis using electron and photons}.
+\newblock {\em CMS-AN-2012/116}, 2012.
+
 \bibitem{WandZCrossSections}
 The~CMS Collaboration.
 \newblock {Measurements of the Inclusive W and Z Cross Sections in pp
@@ -394,6 +399,11 @@ The~CMS Collaboration.
 {Michael Hildreth}.
 \newblock Estimating systematic errors due to pileup modeling.
 \newblock twiki, 2012.
+
+\bibitem{pdf4lhc}
+et~Al. Michiel~Botje.
+\newblock {The PDF4LHC Working Group Interim Recommendations}.
+\newblock {\em http://arxiv.org/abs/1101.0538}, 2011.
 
 \bibitem{cteq}
 Hung-Liang Lai, Marco Guzzi, Joey Huston, Zhao Li, Pavel~M. Nadolsky, et~al.
