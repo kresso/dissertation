@@ -52,7 +52,7 @@
 \contentsline {subsection}{\numberline {6.1.2}Jet Reconstruction}{93}
 \contentsline {subsection}{\numberline {6.1.3}b-Tagging}{94}
 \contentsline {subsection}{\numberline {6.1.4}MET uncertainty}{95}
-\contentsline {subsection}{\numberline {6.1.5}Pileup}{95}
+\contentsline {subsection}{\numberline {6.1.5}Pile-up}{95}
 \contentsline {subsection}{\numberline {6.1.6}Production mechanism}{96}
 \contentsline {subsection}{\numberline {6.1.7}Luminosity uncertainty}{98}
 \contentsline {section}{\numberline {6.2}Background systematic uncertainties}{99}

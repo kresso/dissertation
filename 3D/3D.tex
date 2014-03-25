@@ -39,7 +39,7 @@ There are a variety of different configurations that 3D sensors can use~\cite{3d
 \end{figure}
 %%%%%%%%%%%%%%%%%%%%%%%
 
-The fabricated sensors are tested both on the wafer and also after they have been connected to a 40 MhZ CMS pixel readout chip (ROC) through bump-bonds.  Each ROC has 4160 pixels that are organized in a matrix of 52 columns by 80 rows. The characterization of the I-V properties of the 3D pixel sensors can be seen in Figure~\ref{fig:IV_ba}. After the wire bonding the leakage current drops off for all the sensors tested.  This is because when the sensors were tested on the wafers only a temporary metal layer was used to connect the columns.  This allowed the entire chip to be tested at once but led to extra leakage current as can be seen in Figure~\ref{fig:IV_ba}.
+The fabricated sensors are tested both on the wafer and also after they have been connected to a 40 MhZ CMS pixel readout chip (ROC) through bump-bonds.  Each ROC has 4160 pixels that are organized in a matrix of 52 columns by 80 rows. The characterization of the I-V properties of the 3D pixel sensors can be seen in Figure~\ref{fig:IV_ba}. After the wire bonding, the leakage current drops off for all the sensors tested.  This is because when the sensors were tested on the wafers, only a temporary metal layer was used to connect the columns.  This allowed the entire chip to be tested at once, but led to extra leakage current as can be seen in Figure~\ref{fig:IV_ba}.
 
 %%%%%%%%%%%%%%%%%%%%%%%
 \begin{figure}[htb!]
@@ -58,12 +58,12 @@ The fabricated sensors are tested both on the wafer and also after they have bee
 
 \section{Threshold and Noise Measurements}
 
-A scan of the threshold of every pixel is done by injecting an internal charge (VCAL) and then looking at the response vs how much charge was deposited. One VCAL unit corresponds to 65.5 electrons. The ideal curve would be a step function from 0 to 1 but because some of the injected charge below the threshold is not detected and some of it above the threshold is detected there is a noise component. This noise is the width of the curve.  The efficiency curve is called an S-curve.  This corresponds to the convolution of the ideal step function and the Gaussian pixel noise distribution.
+A scan of the threshold of every pixel is done by injecting an internal charge (VCAL) and then looking at the response versus how much charge was deposited. One VCAL unit corresponds to 65.5 electrons. The ideal curve would be a step function from 0 to 1. But because some of the injected charge below the threshold is not detected, and some of it above the threshold is detected there is a noise component. This noise is the width of the curve.  The efficiency curve is called an S-curve.  This corresponds to the convolution of the ideal step function and the Gaussian pixel noise distribution.
 
 The threshold is the value of charge that corresponds to an efficiency of 0.5 in the S-curve.  The equivalent noise charge (ENC) of the pixel is given below.
 \begin{equation} ENC = \dfrac{1}{\sqrt{2\pi}}\dfrac{1}{s} \end{equation}
 
-In this equation s is the slope of the S-curve at an efficiency of 0.5. The distribution of both the noise and thresholds of the individual pixels make up a Gaussian distribution which in turn give the threshold and noise of the entire chip. Figure ~\ref{fig:eff_3D} shows the efficiency vs VCAL curves for two pixels.  One on the edge and one in the center. Similarly Figure~\ref{fig:noise} shows the map of the noise for each pixel in the rows and columns as they are layed out on the entire sensor.  Also shown is the Gaussian fit for the noise on these pixels.
+In this equation, s is the slope of the S-curve at an efficiency of 0.5. The distribution of both the noise and thresholds of the individual pixels make up a Gaussian distribution, which in turn give the threshold and noise of the entire chip. Figure ~\ref{fig:eff_3D} shows the efficiency versus VCAL curves for two pixels, one on the edge and one in the center. Similarly Figure~\ref{fig:noise} shows the map of the noise for each pixel in the rows and columns as they are laid out on the entire sensor.  Also shown is the Gaussian fit for the noise on these pixels.
 
 
 %%%%%%%%%%%%%%%%%%%%%%%
@@ -92,7 +92,7 @@ at a reverse bias of 40 V. The threshold and noise values are in VCAL units.~\ci
 \end{figure}
 %%%%%%%%%%%%%%%%%%%%%%%
 
-In addition to measuring the noise performance at just one bias voltage this has also been done for a range of voltages.  This can be seen in Figure~\ref{fig:bias}. We see that the noise decreases for bias voltages up to 40 V but beyond this the noise is essentially constant. We also get that the minimum noise for the 2E sensors is approximately 300 electrons and around 450 electrons for the 4E sensors. The 4E sensors have a higher noise compared with the 2E sensors because there is a smaller separation between the electrodes.  This smaller separation is also why both of the 3D detector configurations have higher noise than planer pixel detectors.
+In addition to measuring the noise performance at just one bias voltage, this has also been done for a range of voltages.  This can be seen in Figure~\ref{fig:bias}. We see that the noise decreases for bias voltages up to 40 V, but beyond this the noise is essentially constant. We also get that the minimum noise for the 2E sensors is approximately 300 electrons and around 450 electrons for the 4E sensors. The 4E sensors have a higher noise compared with the 2E sensors because there is a smaller separation between the electrodes.  This smaller separation is also why both of the 3D detector configurations have higher noise than planer pixel detectors.
 
 
 
@@ -108,7 +108,7 @@ In addition to measuring the noise performance at just one bias voltage this has
 \end{figure}
 %%%%%%%%%%%%%%%%%%%%%%%
 
-For the threshold there is a trimming algorithm that is done to correct variations between pixels and to unify the individual pixel thresholds to the lowest value~\cite{5734879}.  This is needed to improve the position resolution of the detector. Figure~\ref{fig:threshold} shows both the normal threshold measurements and the same measurements using trimming.
+For the threshold, there is a trimming algorithm that is done to correct variations between pixels and to unify the individual pixel thresholds to the lowest value~\cite{5734879}.  This is needed to improve the position resolution of the detector. Figure~\ref{fig:threshold} shows both the normal threshold measurements and the same measurements using trimming.
 
 
 %%%%%%%%%%%%%%%%%%%%%%%
@@ -125,6 +125,6 @@ For the threshold there is a trimming algorithm that is done to correct variatio
 \end{figure}
 %%%%%%%%%%%%%%%%%%%%%%%
 
-For the WB2-16\_2E\_6 module with reverse bias voltage of 40 V the threshold is 7919 $\pm$ 362 electrons before trimming and 6832 $\pm$ 86 electrons after trimming. The other modules have similar performance. Compared with the FPIX detector (and BPIX) which has a threshold of 2870 $\pm$ 220 electrons (2940 $\pm$ 80), the 3D detector display higher thresholds~\cite{CMSpixel}.
+For the WB2-16\_2E\_6 module with reverse bias voltage of 40 V, the threshold is 7919 $\pm$ 362 electrons before trimming and 6832 $\pm$ 86 electrons after trimming. The other modules have similar performance. Compared with the FPIX detector (and BPIX) which has a threshold of 2870 $\pm$ 220 electrons (2940 $\pm$ 80), the 3D detector display higher thresholds~\cite{CMSpixel}.
 
 Since these studies have been performed, there have been a number of improvements particularly in fabrication of the 3D sensors and the ability to fabricate them without any support structure.  With additional improvements that have also been made in the trimming algorithms, 3D pixel detectors are proving to be very promising for the future pixel upgrade to the High Luminosity LHC.  
