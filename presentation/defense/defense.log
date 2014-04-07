@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2013.6.29)  28 JAN 2014 15:06
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2013.6.29)  6 APR 2014 21:46
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1075,11 +1075,11 @@ File: images/lep2limit.jpg Graphic file (type jpg)
 Package pdftex.def Info: images/lep2limit.jpg used on input line 61.
 (pdftex.def)             Requested size: 111.24492pt x 110.99269pt.
 Package epstopdf Info: Source file: <images/tevsmlimits_feb2013.eps>
-(epstopdf)                    date: 2014-01-28 09:58:03
+(epstopdf)                    date: 2014-03-02 20:26:43
 (epstopdf)                    size: 49576 bytes
 (epstopdf)             Output file: <images/tevsmlimits_feb2013-eps-converted-t
 o.pdf>
-(epstopdf)                    date: 2014-01-28 09:58:03
+(epstopdf)                    date: 2014-03-02 20:26:43
 (epstopdf)                    size: 10076 bytes
 (epstopdf)             Command: <epstopdf --outfile=images/tevsmlimits_feb2013-
 eps-converted-to.pdf images/tevsmlimits_feb2013.eps>
@@ -1328,11 +1328,11 @@ Package pdftex.def Info: images/JetConeAll-1024x778.png used on input line 149.
 
  <./images/beta.png> <./images/JetConeAll-1024x778.png>]
 Package epstopdf Info: Source file: <images/analysis_strategy.eps>
-(epstopdf)                    date: 2014-01-28 09:58:02
+(epstopdf)                    date: 2014-03-02 20:26:42
 (epstopdf)                    size: 70920 bytes
 (epstopdf)             Output file: <images/analysis_strategy-eps-converted-to.
 pdf>
-(epstopdf)                    date: 2014-01-28 09:58:02
+(epstopdf)                    date: 2014-03-02 20:26:42
 (epstopdf)                    size: 31398 bytes
 (epstopdf)             Command: <epstopdf --outfile=images/analysis_strategy-ep
 s-converted-to.pdf images/analysis_strategy.eps>
@@ -1360,11 +1360,11 @@ LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <9> not available
 
 ]
 Package epstopdf Info: Source file: <images/preselection/el/mJJ.eps>
-(epstopdf)                    date: 2014-01-28 09:58:03
+(epstopdf)                    date: 2014-03-02 20:26:43
 (epstopdf)                    size: 31896 bytes
 (epstopdf)             Output file: <images/preselection/el/mJJ-eps-converted-t
 o.pdf>
-(epstopdf)                    date: 2014-01-28 09:58:03
+(epstopdf)                    date: 2014-03-02 20:26:43
 (epstopdf)                    size: 16871 bytes
 (epstopdf)             Command: <epstopdf --outfile=images/preselection/el/mJJ-
 eps-converted-to.pdf images/preselection/el/mJJ.eps>
@@ -1379,11 +1379,11 @@ Package pdftex.def Info: images/preselection/el/mJJ-eps-converted-to.pdf used o
 n input line 247.
 (pdftex.def)             Requested size: 171.14764pt x 115.9093pt.
 Package epstopdf Info: Source file: <images/test_zjj_s_sb_zero.eps>
-(epstopdf)                    date: 2014-01-28 09:58:03
+(epstopdf)                    date: 2014-03-02 20:26:43
 (epstopdf)                    size: 22022 bytes
 (epstopdf)             Output file: <images/test_zjj_s_sb_zero-eps-converted-to
 .pdf>
-(epstopdf)                    date: 2014-01-28 09:58:03
+(epstopdf)                    date: 2014-03-02 20:26:43
 (epstopdf)                    size: 8054 bytes
 (epstopdf)             Command: <epstopdf --outfile=images/test_zjj_s_sb_zero-e
 ps-converted-to.pdf images/test_zjj_s_sb_zero.eps>
@@ -1401,11 +1401,11 @@ Package pdftex.def Info: images/test_zjj_s_sb_zero-eps-converted-to.pdf used on
  <./images/preselection/el/mJJ-eps-converted-to.pdf> <./images/test_zjj_s_sb_ze
 ro-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <images/mLL_signal_sideband.eps>
-(epstopdf)                    date: 2014-01-28 09:58:02
+(epstopdf)                    date: 2014-03-02 20:26:42
 (epstopdf)                    size: 1310716 bytes
 (epstopdf)             Output file: <images/mLL_signal_sideband-eps-converted-t
 o.pdf>
-(epstopdf)                    date: 2014-01-28 09:58:02
+(epstopdf)                    date: 2014-03-02 20:26:42
 (epstopdf)                    size: 109063 bytes
 (epstopdf)             Command: <epstopdf --outfile=images/mLL_signal_sideband-
 eps-converted-to.pdf images/mLL_signal_sideband.eps>
@@ -1420,11 +1420,11 @@ Package pdftex.def Info: images/mLL_signal_sideband-eps-converted-to.pdf used o
 n input line 297.
 (pdftex.def)             Requested size: 135.5476pt x 91.87569pt.
 Package epstopdf Info: Source file: <images/mJJ_signal_sideband.eps>
-(epstopdf)                    date: 2014-01-28 09:58:02
+(epstopdf)                    date: 2014-03-02 20:26:42
 (epstopdf)                    size: 1375774 bytes
 (epstopdf)             Output file: <images/mJJ_signal_sideband-eps-converted-t
 o.pdf>
-(epstopdf)                    date: 2014-01-28 09:58:02
+(epstopdf)                    date: 2014-03-02 20:26:42
 (epstopdf)                    size: 81239 bytes
 (epstopdf)             Command: <epstopdf --outfile=images/mJJ_signal_sideband-
 eps-converted-to.pdf images/mJJ_signal_sideband.eps>
@@ -1453,11 +1453,11 @@ Package pdftex.def Info: images/plots/angles-HZZ2l2q.pdf used on input line 319
 
  <./images/plots/angles-HZZ2l2q.pdf>]
 Package epstopdf Info: Source file: <images/preselection/el/costheta1.eps>
-(epstopdf)                    date: 2014-01-28 09:58:03
+(epstopdf)                    date: 2014-03-02 20:26:43
 (epstopdf)                    size: 35736 bytes
 (epstopdf)             Output file: <images/preselection/el/costheta1-eps-conve
 rted-to.pdf>
-(epstopdf)                    date: 2014-01-28 09:58:03
+(epstopdf)                    date: 2014-03-02 20:26:43
 (epstopdf)                    size: 19881 bytes
 (epstopdf)             Command: <epstopdf --outfile=images/preselection/el/cost
 heta1-eps-converted-to.pdf images/preselection/el/costheta1.eps>
@@ -1473,11 +1473,11 @@ Package pdftex.def Info: images/preselection/el/costheta1-eps-converted-to.pdf
 used on input line 332.
 (pdftex.def)             Requested size: 112.95807pt x 76.49849pt.
 Package epstopdf Info: Source file: <images/preselection/el/costheta2.eps>
-(epstopdf)                    date: 2014-01-28 09:58:03
+(epstopdf)                    date: 2014-03-02 20:26:43
 (epstopdf)                    size: 35911 bytes
 (epstopdf)             Output file: <images/preselection/el/costheta2-eps-conve
 rted-to.pdf>
-(epstopdf)                    date: 2014-01-28 09:58:03
+(epstopdf)                    date: 2014-03-02 20:26:43
 (epstopdf)                    size: 19782 bytes
 (epstopdf)             Command: <epstopdf --outfile=images/preselection/el/cost
 heta2-eps-converted-to.pdf images/preselection/el/costheta2.eps>
@@ -1493,11 +1493,11 @@ Package pdftex.def Info: images/preselection/el/costheta2-eps-converted-to.pdf
 used on input line 332.
 (pdftex.def)             Requested size: 112.95807pt x 76.49849pt.
 Package epstopdf Info: Source file: <images/preselection/el/costhetast.eps>
-(epstopdf)                    date: 2014-01-28 09:58:03
+(epstopdf)                    date: 2014-03-02 20:26:43
 (epstopdf)                    size: 29179 bytes
 (epstopdf)             Output file: <images/preselection/el/costhetast-eps-conv
 erted-to.pdf>
-(epstopdf)                    date: 2014-01-28 09:58:03
+(epstopdf)                    date: 2014-03-02 20:26:43
 (epstopdf)                    size: 18239 bytes
 (epstopdf)             Command: <epstopdf --outfile=images/preselection/el/cost
 hetast-eps-converted-to.pdf images/preselection/el/costhetast.eps>
@@ -1513,11 +1513,11 @@ Package pdftex.def Info: images/preselection/el/costhetast-eps-converted-to.pdf
  used on input line 332.
 (pdftex.def)             Requested size: 112.95807pt x 76.49849pt.
 Package epstopdf Info: Source file: <images/preselection/el/phi.eps>
-(epstopdf)                    date: 2014-01-28 09:58:03
+(epstopdf)                    date: 2014-03-02 20:26:43
 (epstopdf)                    size: 35586 bytes
 (epstopdf)             Output file: <images/preselection/el/phi-eps-converted-t
 o.pdf>
-(epstopdf)                    date: 2014-01-28 09:58:03
+(epstopdf)                    date: 2014-03-02 20:26:43
 (epstopdf)                    size: 19326 bytes
 (epstopdf)             Command: <epstopdf --outfile=images/preselection/el/phi-
 eps-converted-to.pdf images/preselection/el/phi.eps>
@@ -1532,11 +1532,11 @@ Package pdftex.def Info: images/preselection/el/phi-eps-converted-to.pdf used o
 n input line 332.
 (pdftex.def)             Requested size: 112.95807pt x 76.49849pt.
 Package epstopdf Info: Source file: <images/preselection/el/phi1.eps>
-(epstopdf)                    date: 2014-01-28 09:58:03
+(epstopdf)                    date: 2014-03-02 20:26:43
 (epstopdf)                    size: 35014 bytes
 (epstopdf)             Output file: <images/preselection/el/phi1-eps-converted-
 to.pdf>
-(epstopdf)                    date: 2014-01-28 09:58:03
+(epstopdf)                    date: 2014-03-02 20:26:43
 (epstopdf)                    size: 19093 bytes
 (epstopdf)             Command: <epstopdf --outfile=images/preselection/el/phi1
 -eps-converted-to.pdf images/preselection/el/phi1.eps>
@@ -1557,11 +1557,11 @@ on/el/costheta2-eps-converted-to.pdf> <./images/preselection/el/costhetast-eps-
 converted-to.pdf> <./images/preselection/el/phi-eps-converted-to.pdf> <./images
 /preselection/el/phi1-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <images/preselection/mu/costheta1.eps>
-(epstopdf)                    date: 2014-01-28 09:58:03
+(epstopdf)                    date: 2014-03-02 20:26:43
 (epstopdf)                    size: 35910 bytes
 (epstopdf)             Output file: <images/preselection/mu/costheta1-eps-conve
 rted-to.pdf>
-(epstopdf)                    date: 2014-01-28 09:58:03
+(epstopdf)                    date: 2014-03-02 20:26:43
 (epstopdf)                    size: 19947 bytes
 (epstopdf)             Command: <epstopdf --outfile=images/preselection/mu/cost
 heta1-eps-converted-to.pdf images/preselection/mu/costheta1.eps>
@@ -1577,11 +1577,11 @@ Package pdftex.def Info: images/preselection/mu/costheta1-eps-converted-to.pdf
 used on input line 345.
 (pdftex.def)             Requested size: 112.95807pt x 76.49849pt.
 Package epstopdf Info: Source file: <images/preselection/mu/costheta2.eps>
-(epstopdf)                    date: 2014-01-28 09:58:03
+(epstopdf)                    date: 2014-03-02 20:26:43
 (epstopdf)                    size: 35736 bytes
 (epstopdf)             Output file: <images/preselection/mu/costheta2-eps-conve
 rted-to.pdf>
-(epstopdf)                    date: 2014-01-28 09:58:03
+(epstopdf)                    date: 2014-03-02 20:26:43
 (epstopdf)                    size: 19876 bytes
 (epstopdf)             Command: <epstopdf --outfile=images/preselection/mu/cost
 heta2-eps-converted-to.pdf images/preselection/mu/costheta2.eps>
@@ -1597,11 +1597,11 @@ Package pdftex.def Info: images/preselection/mu/costheta2-eps-converted-to.pdf
 used on input line 345.
 (pdftex.def)             Requested size: 112.95807pt x 76.49849pt.
 Package epstopdf Info: Source file: <images/preselection/mu/costhetast.eps>
-(epstopdf)                    date: 2014-01-28 09:58:03
+(epstopdf)                    date: 2014-03-02 20:26:43
 (epstopdf)                    size: 28970 bytes
 (epstopdf)             Output file: <images/preselection/mu/costhetast-eps-conv
 erted-to.pdf>
-(epstopdf)                    date: 2014-01-28 09:58:03
+(epstopdf)                    date: 2014-03-02 20:26:43
 (epstopdf)                    size: 18368 bytes
 (epstopdf)             Command: <epstopdf --outfile=images/preselection/mu/cost
 hetast-eps-converted-to.pdf images/preselection/mu/costhetast.eps>
@@ -1617,11 +1617,11 @@ Package pdftex.def Info: images/preselection/mu/costhetast-eps-converted-to.pdf
  used on input line 345.
 (pdftex.def)             Requested size: 112.95807pt x 76.49849pt.
 Package epstopdf Info: Source file: <images/preselection/mu/phi.eps>
-(epstopdf)                    date: 2014-01-28 09:58:03
+(epstopdf)                    date: 2014-03-02 20:26:43
 (epstopdf)                    size: 35493 bytes
 (epstopdf)             Output file: <images/preselection/mu/phi-eps-converted-t
 o.pdf>
-(epstopdf)                    date: 2014-01-28 09:58:03
+(epstopdf)                    date: 2014-03-02 20:26:43
 (epstopdf)                    size: 19450 bytes
 (epstopdf)             Command: <epstopdf --outfile=images/preselection/mu/phi-
 eps-converted-to.pdf images/preselection/mu/phi.eps>
@@ -1636,11 +1636,11 @@ Package pdftex.def Info: images/preselection/mu/phi-eps-converted-to.pdf used o
 n input line 345.
 (pdftex.def)             Requested size: 112.95807pt x 76.49849pt.
 Package epstopdf Info: Source file: <images/preselection/mu/phi1.eps>
-(epstopdf)                    date: 2014-01-28 09:58:03
+(epstopdf)                    date: 2014-03-02 20:26:43
 (epstopdf)                    size: 34579 bytes
 (epstopdf)             Output file: <images/preselection/mu/phi1-eps-converted-
 to.pdf>
-(epstopdf)                    date: 2014-01-28 09:58:03
+(epstopdf)                    date: 2014-03-02 20:26:43
 (epstopdf)                    size: 19292 bytes
 (epstopdf)             Command: <epstopdf --outfile=images/preselection/mu/phi1
 -eps-converted-to.pdf images/preselection/mu/phi1.eps>
@@ -1702,11 +1702,11 @@ Package pdftex.def Info: images/plots/sigPDF_PhiStar1proj_500.pdf used on input
 proj_500.pdf> <./images/plots/sigPDF_CosThetaSproj_500.pdf> <./images/plots/sig
 PDF_Phiproj_500.pdf> <./images/plots/sigPDF_PhiStar1proj_500.pdf>]
 Package epstopdf Info: Source file: <images/preselection/el/helyLD.eps>
-(epstopdf)                    date: 2014-01-28 09:58:03
+(epstopdf)                    date: 2014-03-02 20:26:43
 (epstopdf)                    size: 35593 bytes
 (epstopdf)             Output file: <images/preselection/el/helyLD-eps-converte
 d-to.pdf>
-(epstopdf)                    date: 2014-01-28 09:58:03
+(epstopdf)                    date: 2014-03-02 20:26:43
 (epstopdf)                    size: 18388 bytes
 (epstopdf)             Command: <epstopdf --outfile=images/preselection/el/hely
 LD-eps-converted-to.pdf images/preselection/el/helyLD.eps>
@@ -1722,11 +1722,11 @@ Package pdftex.def Info: images/preselection/el/helyLD-eps-converted-to.pdf use
 d on input line 375.
 (pdftex.def)             Requested size: 171.14764pt x 115.9093pt.
 Package epstopdf Info: Source file: <images/preselection/mu/helyLD.eps>
-(epstopdf)                    date: 2014-01-28 09:58:03
+(epstopdf)                    date: 2014-03-02 20:26:43
 (epstopdf)                    size: 34910 bytes
 (epstopdf)             Output file: <images/preselection/mu/helyLD-eps-converte
 d-to.pdf>
-(epstopdf)                    date: 2014-01-28 09:58:03
+(epstopdf)                    date: 2014-03-02 20:26:43
 (epstopdf)                    size: 19299 bytes
 (epstopdf)             Command: <epstopdf --outfile=images/preselection/mu/hely
 LD-eps-converted-to.pdf images/preselection/mu/helyLD.eps>
@@ -1746,11 +1746,11 @@ d on input line 375.
  <./images/preselection/el/helyLD-eps-converted-to.pdf> <./images/preselection/
 mu/helyLD-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <images/hely_optimization.eps>
-(epstopdf)                    date: 2014-01-28 09:58:02
+(epstopdf)                    date: 2014-03-02 20:26:42
 (epstopdf)                    size: 21664 bytes
 (epstopdf)             Output file: <images/hely_optimization-eps-converted-to.
 pdf>
-(epstopdf)                    date: 2014-01-28 09:58:02
+(epstopdf)                    date: 2014-03-02 20:26:42
 (epstopdf)                    size: 8295 bytes
 (epstopdf)             Command: <epstopdf --outfile=images/hely_optimization-ep
 s-converted-to.pdf images/hely_optimization.eps>
@@ -1768,11 +1768,11 @@ input line 396.
 
  <./images/hely_optimization-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <images/preselection/2/el/METsignif.eps>
-(epstopdf)                    date: 2014-01-28 09:58:02
+(epstopdf)                    date: 2014-03-02 20:26:43
 (epstopdf)                    size: 36048 bytes
 (epstopdf)             Output file: <images/preselection/2/el/METsignif-eps-con
 verted-to.pdf>
-(epstopdf)                    date: 2014-01-28 09:58:02
+(epstopdf)                    date: 2014-03-02 20:26:43
 (epstopdf)                    size: 17944 bytes
 (epstopdf)             Command: <epstopdf --outfile=images/preselection/2/el/ME
 Tsignif-eps-converted-to.pdf images/preselection/2/el/METsignif.eps>
@@ -1788,11 +1788,11 @@ Package pdftex.def Info: images/preselection/2/el/METsignif-eps-converted-to.pd
 f used on input line 419.
 (pdftex.def)             Requested size: 171.14764pt x 115.9093pt.
 Package epstopdf Info: Source file: <images/preselection/2/mu/METsignif.eps>
-(epstopdf)                    date: 2014-01-28 09:58:02
+(epstopdf)                    date: 2014-03-02 20:26:43
 (epstopdf)                    size: 34000 bytes
 (epstopdf)             Output file: <images/preselection/2/mu/METsignif-eps-con
 verted-to.pdf>
-(epstopdf)                    date: 2014-01-28 09:58:02
+(epstopdf)                    date: 2014-03-02 20:26:43
 (epstopdf)                    size: 18466 bytes
 (epstopdf)             Command: <epstopdf --outfile=images/preselection/2/mu/ME
 Tsignif-eps-converted-to.pdf images/preselection/2/mu/METsignif.eps>
@@ -1815,11 +1815,11 @@ tion/2/mu/METsignif-eps-converted-to.pdf>]
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <10> not available
 (Font)              Font shape `T1/phv/b/n' tried instead on input line 465.
 Package epstopdf Info: Source file: <images/preselection/el/j0jp_log.eps>
-(epstopdf)                    date: 2014-01-28 09:58:03
+(epstopdf)                    date: 2014-03-02 20:26:43
 (epstopdf)                    size: 36465 bytes
 (epstopdf)             Output file: <images/preselection/el/j0jp_log-eps-conver
 ted-to.pdf>
-(epstopdf)                    date: 2014-01-28 09:58:03
+(epstopdf)                    date: 2014-03-02 20:26:43
 (epstopdf)                    size: 17785 bytes
 (epstopdf)             Command: <epstopdf --outfile=images/preselection/el/j0jp
 _log-eps-converted-to.pdf images/preselection/el/j0jp_log.eps>
@@ -1838,10 +1838,10 @@ sed on input line 465.
 
  <./images/preselection/el/j0jp_log-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <images/final_cand.eps>
-(epstopdf)                    date: 2014-01-28 14:58:59
+(epstopdf)                    date: 2014-03-02 20:26:42
 (epstopdf)                    size: 63226 bytes
 (epstopdf)             Output file: <images/final_cand-eps-converted-to.pdf>
-(epstopdf)                    date: 2014-01-28 14:59:32
+(epstopdf)                    date: 2014-04-06 21:46:06
 (epstopdf)                    size: 24473 bytes
 (epstopdf)             Command: <epstopdf --outfile=images/final_cand-eps-conve
 rted-to.pdf images/final_cand.eps>
@@ -1859,11 +1859,11 @@ ine 481.
 
  <./images/final_cand-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <images/final/0/el/mZZ_signal_log.eps>
-(epstopdf)                    date: 2014-01-28 09:58:02
+(epstopdf)                    date: 2014-03-02 20:26:42
 (epstopdf)                    size: 21366 bytes
 (epstopdf)             Output file: <images/final/0/el/mZZ_signal_log-eps-conve
 rted-to.pdf>
-(epstopdf)                    date: 2014-01-28 09:58:02
+(epstopdf)                    date: 2014-03-02 20:26:42
 (epstopdf)                    size: 13598 bytes
 (epstopdf)             Command: <epstopdf --outfile=images/final/0/el/mZZ_signa
 l_log-eps-converted-to.pdf images/final/0/el/mZZ_signal_log.eps>
@@ -1879,11 +1879,11 @@ Package pdftex.def Info: images/final/0/el/mZZ_signal_log-eps-converted-to.pdf
 used on input line 497.
 (pdftex.def)             Requested size: 112.95807pt x 76.49849pt.
 Package epstopdf Info: Source file: <images/final/1/el/mZZ_signal_log.eps>
-(epstopdf)                    date: 2014-01-28 09:58:02
+(epstopdf)                    date: 2014-03-02 20:26:42
 (epstopdf)                    size: 22251 bytes
 (epstopdf)             Output file: <images/final/1/el/mZZ_signal_log-eps-conve
 rted-to.pdf>
-(epstopdf)                    date: 2014-01-28 09:58:02
+(epstopdf)                    date: 2014-03-02 20:26:42
 (epstopdf)                    size: 13534 bytes
 (epstopdf)             Command: <epstopdf --outfile=images/final/1/el/mZZ_signa
 l_log-eps-converted-to.pdf images/final/1/el/mZZ_signal_log.eps>
@@ -1899,11 +1899,11 @@ Package pdftex.def Info: images/final/1/el/mZZ_signal_log-eps-converted-to.pdf
 used on input line 497.
 (pdftex.def)             Requested size: 112.95807pt x 76.49849pt.
 Package epstopdf Info: Source file: <images/final/2/el/mZZ_signal_log.eps>
-(epstopdf)                    date: 2014-01-28 09:58:02
+(epstopdf)                    date: 2014-03-02 20:26:42
 (epstopdf)                    size: 22324 bytes
 (epstopdf)             Output file: <images/final/2/el/mZZ_signal_log-eps-conve
 rted-to.pdf>
-(epstopdf)                    date: 2014-01-28 09:58:02
+(epstopdf)                    date: 2014-03-02 20:26:42
 (epstopdf)                    size: 13065 bytes
 (epstopdf)             Command: <epstopdf --outfile=images/final/2/el/mZZ_signa
 l_log-eps-converted-to.pdf images/final/2/el/mZZ_signal_log.eps>
@@ -1919,11 +1919,11 @@ Package pdftex.def Info: images/final/2/el/mZZ_signal_log-eps-converted-to.pdf
 used on input line 497.
 (pdftex.def)             Requested size: 112.95807pt x 76.49849pt.
 Package epstopdf Info: Source file: <images/final/0/mu/mZZ_signal_log.eps>
-(epstopdf)                    date: 2014-01-28 09:58:02
+(epstopdf)                    date: 2014-03-02 20:26:42
 (epstopdf)                    size: 21308 bytes
 (epstopdf)             Output file: <images/final/0/mu/mZZ_signal_log-eps-conve
 rted-to.pdf>
-(epstopdf)                    date: 2014-01-28 09:58:02
+(epstopdf)                    date: 2014-03-02 20:26:42
 (epstopdf)                    size: 14677 bytes
 (epstopdf)             Command: <epstopdf --outfile=images/final/0/mu/mZZ_signa
 l_log-eps-converted-to.pdf images/final/0/mu/mZZ_signal_log.eps>
@@ -1939,11 +1939,11 @@ Package pdftex.def Info: images/final/0/mu/mZZ_signal_log-eps-converted-to.pdf
 used on input line 497.
 (pdftex.def)             Requested size: 112.95807pt x 76.49849pt.
 Package epstopdf Info: Source file: <images/final/1/mu/mZZ_signal_log.eps>
-(epstopdf)                    date: 2014-01-28 09:58:02
+(epstopdf)                    date: 2014-03-02 20:26:42
 (epstopdf)                    size: 22621 bytes
 (epstopdf)             Output file: <images/final/1/mu/mZZ_signal_log-eps-conve
 rted-to.pdf>
-(epstopdf)                    date: 2014-01-28 09:58:02
+(epstopdf)                    date: 2014-03-02 20:26:42
 (epstopdf)                    size: 14856 bytes
 (epstopdf)             Command: <epstopdf --outfile=images/final/1/mu/mZZ_signa
 l_log-eps-converted-to.pdf images/final/1/mu/mZZ_signal_log.eps>
@@ -1959,11 +1959,11 @@ Package pdftex.def Info: images/final/1/mu/mZZ_signal_log-eps-converted-to.pdf
 used on input line 497.
 (pdftex.def)             Requested size: 112.95807pt x 76.49849pt.
 Package epstopdf Info: Source file: <images/final/2/mu/mZZ_signal_log.eps>
-(epstopdf)                    date: 2014-01-28 09:58:02
+(epstopdf)                    date: 2014-03-02 20:26:42
 (epstopdf)                    size: 22295 bytes
 (epstopdf)             Output file: <images/final/2/mu/mZZ_signal_log-eps-conve
 rted-to.pdf>
-(epstopdf)                    date: 2014-01-28 09:58:02
+(epstopdf)                    date: 2014-03-02 20:26:42
 (epstopdf)                    size: 14325 bytes
 (epstopdf)             Command: <epstopdf --outfile=images/final/2/mu/mZZ_signa
 l_log-eps-converted-to.pdf images/final/2/mu/mZZ_signal_log.eps>
@@ -2009,10 +2009,10 @@ put line 8.
 
  <./images/plots/NN/nn_network_architecture.pdf>]
 Package epstopdf Info: Source file: <images/plots/NN/MLP.eps>
-(epstopdf)                    date: 2014-01-28 09:58:02
+(epstopdf)                    date: 2014-03-02 20:26:43
 (epstopdf)                    size: 21618 bytes
 (epstopdf)             Output file: <images/plots/NN/MLP-eps-converted-to.pdf>
-(epstopdf)                    date: 2014-01-28 09:58:02
+(epstopdf)                    date: 2014-03-02 20:26:43
 (epstopdf)                    size: 20885 bytes
 (epstopdf)             Command: <epstopdf --outfile=images/plots/NN/MLP-eps-con
 verted-to.pdf images/plots/NN/MLP.eps>
@@ -2030,11 +2030,11 @@ Package pdftex.def Info: images/plots/NN/MLP-eps-converted-to.pdf used on input
 
  <./images/plots/NN/MLP-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <images/preselection/0/el/MLP.eps>
-(epstopdf)                    date: 2014-01-28 09:58:02
+(epstopdf)                    date: 2014-03-02 20:26:43
 (epstopdf)                    size: 27017 bytes
 (epstopdf)             Output file: <images/preselection/0/el/MLP-eps-converted
 -to.pdf>
-(epstopdf)                    date: 2014-01-28 09:58:02
+(epstopdf)                    date: 2014-03-02 20:26:43
 (epstopdf)                    size: 15631 bytes
 (epstopdf)             Command: <epstopdf --outfile=images/preselection/0/el/ML
 P-eps-converted-to.pdf images/preselection/0/el/MLP.eps>
@@ -2050,11 +2050,11 @@ Package pdftex.def Info: images/preselection/0/el/MLP-eps-converted-to.pdf used
  on input line 36.
 (pdftex.def)             Requested size: 112.95807pt x 76.49849pt.
 Package epstopdf Info: Source file: <images/preselection/1/el/MLP.eps>
-(epstopdf)                    date: 2014-01-28 09:58:02
+(epstopdf)                    date: 2014-03-02 20:26:43
 (epstopdf)                    size: 31797 bytes
 (epstopdf)             Output file: <images/preselection/1/el/MLP-eps-converted
 -to.pdf>
-(epstopdf)                    date: 2014-01-28 09:58:02
+(epstopdf)                    date: 2014-03-02 20:26:43
 (epstopdf)                    size: 16963 bytes
 (epstopdf)             Command: <epstopdf --outfile=images/preselection/1/el/ML
 P-eps-converted-to.pdf images/preselection/1/el/MLP.eps>
@@ -2070,11 +2070,11 @@ Package pdftex.def Info: images/preselection/1/el/MLP-eps-converted-to.pdf used
  on input line 36.
 (pdftex.def)             Requested size: 112.95807pt x 76.49849pt.
 Package epstopdf Info: Source file: <images/preselection/2/el/MLP.eps>
-(epstopdf)                    date: 2014-01-28 09:58:02
+(epstopdf)                    date: 2014-03-02 20:26:43
 (epstopdf)                    size: 32274 bytes
 (epstopdf)             Output file: <images/preselection/2/el/MLP-eps-converted
 -to.pdf>
-(epstopdf)                    date: 2014-01-28 09:58:02
+(epstopdf)                    date: 2014-03-02 20:26:43
 (epstopdf)                    size: 17094 bytes
 (epstopdf)             Command: <epstopdf --outfile=images/preselection/2/el/ML
 P-eps-converted-to.pdf images/preselection/2/el/MLP.eps>
@@ -2090,11 +2090,11 @@ Package pdftex.def Info: images/preselection/2/el/MLP-eps-converted-to.pdf used
  on input line 36.
 (pdftex.def)             Requested size: 112.95807pt x 76.49849pt.
 Package epstopdf Info: Source file: <images/preselection/0/mu/MLP.eps>
-(epstopdf)                    date: 2014-01-28 09:58:02
+(epstopdf)                    date: 2014-03-02 20:26:43
 (epstopdf)                    size: 27330 bytes
 (epstopdf)             Output file: <images/preselection/0/mu/MLP-eps-converted
 -to.pdf>
-(epstopdf)                    date: 2014-01-28 09:58:02
+(epstopdf)                    date: 2014-03-02 20:26:43
 (epstopdf)                    size: 16767 bytes
 (epstopdf)             Command: <epstopdf --outfile=images/preselection/0/mu/ML
 P-eps-converted-to.pdf images/preselection/0/mu/MLP.eps>
@@ -2110,11 +2110,11 @@ Package pdftex.def Info: images/preselection/0/mu/MLP-eps-converted-to.pdf used
  on input line 36.
 (pdftex.def)             Requested size: 112.95807pt x 76.49849pt.
 Package epstopdf Info: Source file: <images/preselection/1/mu/MLP.eps>
-(epstopdf)                    date: 2014-01-28 09:58:02
+(epstopdf)                    date: 2014-03-02 20:26:43
 (epstopdf)                    size: 31961 bytes
 (epstopdf)             Output file: <images/preselection/1/mu/MLP-eps-converted
 -to.pdf>
-(epstopdf)                    date: 2014-01-28 09:58:02
+(epstopdf)                    date: 2014-03-02 20:26:43
 (epstopdf)                    size: 18176 bytes
 (epstopdf)             Command: <epstopdf --outfile=images/preselection/1/mu/ML
 P-eps-converted-to.pdf images/preselection/1/mu/MLP.eps>
@@ -2130,11 +2130,11 @@ Package pdftex.def Info: images/preselection/1/mu/MLP-eps-converted-to.pdf used
  on input line 36.
 (pdftex.def)             Requested size: 112.95807pt x 76.49849pt.
 Package epstopdf Info: Source file: <images/preselection/2/mu/MLP.eps>
-(epstopdf)                    date: 2014-01-28 09:58:02
+(epstopdf)                    date: 2014-03-02 20:26:43
 (epstopdf)                    size: 32679 bytes
 (epstopdf)             Output file: <images/preselection/2/mu/MLP-eps-converted
 -to.pdf>
-(epstopdf)                    date: 2014-01-28 09:58:02
+(epstopdf)                    date: 2014-03-02 20:26:43
 (epstopdf)                    size: 18360 bytes
 (epstopdf)             Command: <epstopdf --outfile=images/preselection/2/mu/ML
 P-eps-converted-to.pdf images/preselection/2/mu/MLP.eps>
@@ -2168,11 +2168,11 @@ ne 56.
  <./images/plots/NN/pretag_ROC_wincut.pdf>]
 Package epstopdf Info: Source file: <images/preselection/0/el/mZZ_sideband_log.
 eps>
-(epstopdf)                    date: 2014-01-28 09:58:02
+(epstopdf)                    date: 2014-03-02 20:26:43
 (epstopdf)                    size: 23640 bytes
 (epstopdf)             Output file: <images/preselection/0/el/mZZ_sideband_log-
 eps-converted-to.pdf>
-(epstopdf)                    date: 2014-01-28 09:58:02
+(epstopdf)                    date: 2014-03-02 20:26:43
 (epstopdf)                    size: 14780 bytes
 (epstopdf)             Command: <epstopdf --outfile=images/preselection/0/el/mZ
 Z_sideband_log-eps-converted-to.pdf images/preselection/0/el/mZZ_sideband_log.e
@@ -2191,11 +2191,11 @@ d-to.pdf used on input line 80.
 (pdftex.def)             Requested size: 112.95807pt x 76.49849pt.
 Package epstopdf Info: Source file: <images/preselection/1/el/mZZ_sideband_log.
 eps>
-(epstopdf)                    date: 2014-01-28 09:58:02
+(epstopdf)                    date: 2014-03-02 20:26:43
 (epstopdf)                    size: 24477 bytes
 (epstopdf)             Output file: <images/preselection/1/el/mZZ_sideband_log-
 eps-converted-to.pdf>
-(epstopdf)                    date: 2014-01-28 09:58:02
+(epstopdf)                    date: 2014-03-02 20:26:43
 (epstopdf)                    size: 14766 bytes
 (epstopdf)             Command: <epstopdf --outfile=images/preselection/1/el/mZ
 Z_sideband_log-eps-converted-to.pdf images/preselection/1/el/mZZ_sideband_log.e
@@ -2214,11 +2214,11 @@ d-to.pdf used on input line 80.
 (pdftex.def)             Requested size: 112.95807pt x 76.49849pt.
 Package epstopdf Info: Source file: <images/preselection/2/el/mZZ_sideband_log.
 eps>
-(epstopdf)                    date: 2014-01-28 09:58:02
+(epstopdf)                    date: 2014-03-02 20:26:43
 (epstopdf)                    size: 23013 bytes
 (epstopdf)             Output file: <images/preselection/2/el/mZZ_sideband_log-
 eps-converted-to.pdf>
-(epstopdf)                    date: 2014-01-28 09:58:02
+(epstopdf)                    date: 2014-03-02 20:26:43
 (epstopdf)                    size: 13708 bytes
 (epstopdf)             Command: <epstopdf --outfile=images/preselection/2/el/mZ
 Z_sideband_log-eps-converted-to.pdf images/preselection/2/el/mZZ_sideband_log.e
@@ -2237,11 +2237,11 @@ d-to.pdf used on input line 80.
 (pdftex.def)             Requested size: 112.95807pt x 76.49849pt.
 Package epstopdf Info: Source file: <images/preselection/0/mu/mZZ_sideband_log.
 eps>
-(epstopdf)                    date: 2014-01-28 09:58:02
+(epstopdf)                    date: 2014-03-02 20:26:43
 (epstopdf)                    size: 23630 bytes
 (epstopdf)             Output file: <images/preselection/0/mu/mZZ_sideband_log-
 eps-converted-to.pdf>
-(epstopdf)                    date: 2014-01-28 09:58:02
+(epstopdf)                    date: 2014-03-02 20:26:43
 (epstopdf)                    size: 15918 bytes
 (epstopdf)             Command: <epstopdf --outfile=images/preselection/0/mu/mZ
 Z_sideband_log-eps-converted-to.pdf images/preselection/0/mu/mZZ_sideband_log.e
@@ -2260,11 +2260,11 @@ d-to.pdf used on input line 80.
 (pdftex.def)             Requested size: 112.95807pt x 76.49849pt.
 Package epstopdf Info: Source file: <images/preselection/1/mu/mZZ_sideband_log.
 eps>
-(epstopdf)                    date: 2014-01-28 09:58:02
+(epstopdf)                    date: 2014-03-02 20:26:43
 (epstopdf)                    size: 24997 bytes
 (epstopdf)             Output file: <images/preselection/1/mu/mZZ_sideband_log-
 eps-converted-to.pdf>
-(epstopdf)                    date: 2014-01-28 09:58:02
+(epstopdf)                    date: 2014-03-02 20:26:43
 (epstopdf)                    size: 16120 bytes
 (epstopdf)             Command: <epstopdf --outfile=images/preselection/1/mu/mZ
 Z_sideband_log-eps-converted-to.pdf images/preselection/1/mu/mZZ_sideband_log.e
@@ -2283,11 +2283,11 @@ d-to.pdf used on input line 80.
 (pdftex.def)             Requested size: 112.95807pt x 76.49849pt.
 Package epstopdf Info: Source file: <images/preselection/2/mu/mZZ_sideband_log.
 eps>
-(epstopdf)                    date: 2014-01-28 09:58:03
+(epstopdf)                    date: 2014-03-02 20:26:43
 (epstopdf)                    size: 23521 bytes
 (epstopdf)             Output file: <images/preselection/2/mu/mZZ_sideband_log-
 eps-converted-to.pdf>
-(epstopdf)                    date: 2014-01-28 09:58:03
+(epstopdf)                    date: 2014-03-02 20:26:43
 (epstopdf)                    size: 14814 bytes
 (epstopdf)             Command: <epstopdf --outfile=images/preselection/2/mu/mZ
 Z_sideband_log-eps-converted-to.pdf images/preselection/2/mu/mZZ_sideband_log.e
@@ -2313,11 +2313,11 @@ eband_log-eps-converted-to.pdf> <./images/preselection/1/mu/mZZ_sideband_log-ep
 s-converted-to.pdf> <./images/preselection/2/mu/mZZ_sideband_log-eps-converted-
 to.pdf>]
 Package epstopdf Info: Source file: <images/sidebands/divide_el_2_0.eps>
-(epstopdf)                    date: 2014-01-28 09:58:03
+(epstopdf)                    date: 2014-03-02 20:26:43
 (epstopdf)                    size: 13188 bytes
 (epstopdf)             Output file: <images/sidebands/divide_el_2_0-eps-convert
 ed-to.pdf>
-(epstopdf)                    date: 2014-01-28 09:58:03
+(epstopdf)                    date: 2014-03-02 20:26:43
 (epstopdf)                    size: 14373 bytes
 (epstopdf)             Command: <epstopdf --outfile=images/sidebands/divide_el_
 2_0-eps-converted-to.pdf images/sidebands/divide_el_2_0.eps>
@@ -2333,11 +2333,11 @@ Package pdftex.def Info: images/sidebands/divide_el_2_0-eps-converted-to.pdf us
 ed on input line 89.
 (pdftex.def)             Requested size: 171.14764pt x 115.9093pt.
 Package epstopdf Info: Source file: <images/sidebands/divide_mu_2_0.eps>
-(epstopdf)                    date: 2014-01-28 09:58:03
+(epstopdf)                    date: 2014-03-02 20:26:43
 (epstopdf)                    size: 11720 bytes
 (epstopdf)             Output file: <images/sidebands/divide_mu_2_0-eps-convert
 ed-to.pdf>
-(epstopdf)                    date: 2014-01-28 09:58:03
+(epstopdf)                    date: 2014-03-02 20:26:43
 (epstopdf)                    size: 13816 bytes
 (epstopdf)             Command: <epstopdf --outfile=images/sidebands/divide_mu_
 2_0-eps-converted-to.pdf images/sidebands/divide_mu_2_0.eps>
@@ -2389,10 +2389,10 @@ png used on input line 120.
 ni/mZZ_sidebandsDATA_alpha_1btag_ALL_log.png> <./images/fromDani/mZZ_sidebandsD
 ATA_alpha_2btag_ALL_log.png>]
 Package epstopdf Info: Source file: <images/SC_fit.eps>
-(epstopdf)                    date: 2014-01-28 09:58:02
+(epstopdf)                    date: 2014-03-02 20:26:42
 (epstopdf)                    size: 70786 bytes
 (epstopdf)             Output file: <images/SC_fit-eps-converted-to.pdf>
-(epstopdf)                    date: 2014-01-28 09:58:02
+(epstopdf)                    date: 2014-03-02 20:26:42
 (epstopdf)                    size: 42468 bytes
 (epstopdf)             Command: <epstopdf --outfile=images/SC_fit-eps-converted
 -to.pdf images/SC_fit.eps>
@@ -2532,11 +2532,11 @@ Package pdftex.def Info: images/limit_observed_all-btag_combi.pdf used on input
 
 ]
 Package epstopdf Info: Source file: <images/preselection/el/mLL.eps>
-(epstopdf)                    date: 2014-01-28 09:58:03
+(epstopdf)                    date: 2014-03-02 20:26:43
 (epstopdf)                    size: 27361 bytes
 (epstopdf)             Output file: <images/preselection/el/mLL-eps-converted-t
 o.pdf>
-(epstopdf)                    date: 2014-01-28 09:58:03
+(epstopdf)                    date: 2014-03-02 20:26:43
 (epstopdf)                    size: 16312 bytes
 (epstopdf)             Command: <epstopdf --outfile=images/preselection/el/mLL-
 eps-converted-to.pdf images/preselection/el/mLL.eps>
@@ -2551,11 +2551,11 @@ Package pdftex.def Info: images/preselection/el/mLL-eps-converted-to.pdf used o
 n input line 80.
 (pdftex.def)             Requested size: 160.8792pt x 108.95757pt.
 Package epstopdf Info: Source file: <images/preselection/mu/mLL.eps>
-(epstopdf)                    date: 2014-01-28 09:58:03
+(epstopdf)                    date: 2014-03-02 20:26:43
 (epstopdf)                    size: 25739 bytes
 (epstopdf)             Output file: <images/preselection/mu/mLL-eps-converted-t
 o.pdf>
-(epstopdf)                    date: 2014-01-28 09:58:03
+(epstopdf)                    date: 2014-03-02 20:26:43
 (epstopdf)                    size: 17053 bytes
 (epstopdf)             Command: <epstopdf --outfile=images/preselection/mu/mLL-
 eps-converted-to.pdf images/preselection/mu/mLL.eps>
@@ -2570,11 +2570,11 @@ Package pdftex.def Info: images/preselection/mu/mLL-eps-converted-to.pdf used o
 n input line 80.
 (pdftex.def)             Requested size: 160.8792pt x 108.95757pt.
 Package epstopdf Info: Source file: <images/preselection/el/mJJ.eps>
-(epstopdf)                    date: 2014-01-28 09:58:03
+(epstopdf)                    date: 2014-03-02 20:26:43
 (epstopdf)                    size: 31896 bytes
 (epstopdf)             Output file: <images/preselection/el/mJJ-eps-converted-t
 o.pdf>
-(epstopdf)                    date: 2014-01-28 09:58:03
+(epstopdf)                    date: 2014-03-02 20:26:43
 (epstopdf)                    size: 16871 bytes
 (epstopdf)             Command: <epstopdf --outfile=images/preselection/el/mJJ-
 eps-converted-to.pdf images/preselection/el/mJJ.eps>
@@ -2587,11 +2587,11 @@ Package pdftex.def Info: images/preselection/el/mJJ-eps-converted-to.pdf used o
 n input line 80.
 (pdftex.def)             Requested size: 160.8792pt x 108.95757pt.
 Package epstopdf Info: Source file: <images/preselection/mu/mJJ.eps>
-(epstopdf)                    date: 2014-01-28 09:58:03
+(epstopdf)                    date: 2014-03-02 20:26:43
 (epstopdf)                    size: 32470 bytes
 (epstopdf)             Output file: <images/preselection/mu/mJJ-eps-converted-t
 o.pdf>
-(epstopdf)                    date: 2014-01-28 09:58:03
+(epstopdf)                    date: 2014-03-02 20:26:43
 (epstopdf)                    size: 18247 bytes
 (epstopdf)             Command: <epstopdf --outfile=images/preselection/mu/mJJ-
 eps-converted-to.pdf images/preselection/mu/mJJ.eps>
@@ -2614,11 +2614,11 @@ Overfull \vbox (1.11398pt too high) detected at line 80
  <./images/preselection/el/mLL-eps-converted-to.pdf> <./images/preselection/mu/
 mLL-eps-converted-to.pdf> <./images/preselection/mu/mJJ-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <images/preselection/el/helyLD.eps>
-(epstopdf)                    date: 2014-01-28 09:58:03
+(epstopdf)                    date: 2014-03-02 20:26:43
 (epstopdf)                    size: 35593 bytes
 (epstopdf)             Output file: <images/preselection/el/helyLD-eps-converte
 d-to.pdf>
-(epstopdf)                    date: 2014-01-28 09:58:03
+(epstopdf)                    date: 2014-03-02 20:26:43
 (epstopdf)                    size: 18388 bytes
 (epstopdf)             Command: <epstopdf --outfile=images/preselection/el/hely
 LD-eps-converted-to.pdf images/preselection/el/helyLD.eps>
@@ -2631,11 +2631,11 @@ Package pdftex.def Info: images/preselection/el/helyLD-eps-converted-to.pdf use
 d on input line 96.
 (pdftex.def)             Requested size: 136.91603pt x 92.7251pt.
 Package epstopdf Info: Source file: <images/preselection/el/MLP.eps>
-(epstopdf)                    date: 2014-01-28 09:58:03
+(epstopdf)                    date: 2014-03-02 20:26:43
 (epstopdf)                    size: 28557 bytes
 (epstopdf)             Output file: <images/preselection/el/MLP-eps-converted-t
 o.pdf>
-(epstopdf)                    date: 2014-01-28 09:58:03
+(epstopdf)                    date: 2014-03-02 20:26:43
 (epstopdf)                    size: 16034 bytes
 (epstopdf)             Command: <epstopdf --outfile=images/preselection/el/MLP-
 eps-converted-to.pdf images/preselection/el/MLP.eps>
@@ -2650,11 +2650,11 @@ Package pdftex.def Info: images/preselection/el/MLP-eps-converted-to.pdf used o
 n input line 96.
 (pdftex.def)             Requested size: 136.91603pt x 92.7251pt.
 Package epstopdf Info: Source file: <images/preselection/el/costhetast.eps>
-(epstopdf)                    date: 2014-01-28 09:58:03
+(epstopdf)                    date: 2014-03-02 20:26:43
 (epstopdf)                    size: 29179 bytes
 (epstopdf)             Output file: <images/preselection/el/costhetast-eps-conv
 erted-to.pdf>
-(epstopdf)                    date: 2014-01-28 09:58:03
+(epstopdf)                    date: 2014-03-02 20:26:43
 (epstopdf)                    size: 18239 bytes
 (epstopdf)             Command: <epstopdf --outfile=images/preselection/el/cost
 hetast-eps-converted-to.pdf images/preselection/el/costhetast.eps>
@@ -2668,11 +2668,11 @@ Package pdftex.def Info: images/preselection/el/costhetast-eps-converted-to.pdf
  used on input line 96.
 (pdftex.def)             Requested size: 136.91603pt x 92.7251pt.
 Package epstopdf Info: Source file: <images/preselection/mu/costhetast.eps>
-(epstopdf)                    date: 2014-01-28 09:58:03
+(epstopdf)                    date: 2014-03-02 20:26:43
 (epstopdf)                    size: 28970 bytes
 (epstopdf)             Output file: <images/preselection/mu/costhetast-eps-conv
 erted-to.pdf>
-(epstopdf)                    date: 2014-01-28 09:58:03
+(epstopdf)                    date: 2014-03-02 20:26:43
 (epstopdf)                    size: 18368 bytes
 (epstopdf)             Command: <epstopdf --outfile=images/preselection/mu/cost
 hetast-eps-converted-to.pdf images/preselection/mu/costhetast.eps>
@@ -2693,11 +2693,11 @@ Overfull \vbox (9.67348pt too high) detected at line 96
 
  <./images/preselection/el/MLP-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <images/costhetast_cut/el/helyLD.eps>
-(epstopdf)                    date: 2014-01-28 09:58:02
+(epstopdf)                    date: 2014-03-02 20:26:42
 (epstopdf)                    size: 33970 bytes
 (epstopdf)             Output file: <images/costhetast_cut/el/helyLD-eps-conver
 ted-to.pdf>
-(epstopdf)                    date: 2014-01-28 09:58:02
+(epstopdf)                    date: 2014-03-02 20:26:42
 (epstopdf)                    size: 18046 bytes
 (epstopdf)             Command: <epstopdf --outfile=images/costhetast_cut/el/he
 lyLD-eps-converted-to.pdf images/costhetast_cut/el/helyLD.eps>
@@ -2713,11 +2713,11 @@ Package pdftex.def Info: images/costhetast_cut/el/helyLD-eps-converted-to.pdf u
 sed on input line 106.
 (pdftex.def)             Requested size: 136.91603pt x 92.7251pt.
 Package epstopdf Info: Source file: <images/costhetast_cut/el/MLP.eps>
-(epstopdf)                    date: 2014-01-28 09:58:02
+(epstopdf)                    date: 2014-03-02 20:26:42
 (epstopdf)                    size: 28569 bytes
 (epstopdf)             Output file: <images/costhetast_cut/el/MLP-eps-converted
 -to.pdf>
-(epstopdf)                    date: 2014-01-28 09:58:02
+(epstopdf)                    date: 2014-03-02 20:26:42
 (epstopdf)                    size: 16155 bytes
 (epstopdf)             Command: <epstopdf --outfile=images/costhetast_cut/el/ML
 P-eps-converted-to.pdf images/costhetast_cut/el/MLP.eps>
@@ -2733,11 +2733,11 @@ Package pdftex.def Info: images/costhetast_cut/el/MLP-eps-converted-to.pdf used
  on input line 106.
 (pdftex.def)             Requested size: 136.91603pt x 92.7251pt.
 Package epstopdf Info: Source file: <images/costhetast_cut/el/costhetast.eps>
-(epstopdf)                    date: 2014-01-28 09:58:02
+(epstopdf)                    date: 2014-03-02 20:26:42
 (epstopdf)                    size: 30440 bytes
 (epstopdf)             Output file: <images/costhetast_cut/el/costhetast-eps-co
 nverted-to.pdf>
-(epstopdf)                    date: 2014-01-28 09:58:02
+(epstopdf)                    date: 2014-03-02 20:26:42
 (epstopdf)                    size: 18212 bytes
 (epstopdf)             Command: <epstopdf --outfile=images/costhetast_cut/el/co
 sthetast-eps-converted-to.pdf images/costhetast_cut/el/costhetast.eps>
@@ -2753,11 +2753,11 @@ Package pdftex.def Info: images/costhetast_cut/el/costhetast-eps-converted-to.p
 df used on input line 106.
 (pdftex.def)             Requested size: 136.91603pt x 92.7251pt.
 Package epstopdf Info: Source file: <images/costhetast_cut/mu/costhetast.eps>
-(epstopdf)                    date: 2014-01-28 09:58:02
+(epstopdf)                    date: 2014-03-02 20:26:42
 (epstopdf)                    size: 27938 bytes
 (epstopdf)             Output file: <images/costhetast_cut/mu/costhetast-eps-co
 nverted-to.pdf>
-(epstopdf)                    date: 2014-01-28 09:58:02
+(epstopdf)                    date: 2014-03-02 20:26:42
 (epstopdf)                    size: 17671 bytes
 (epstopdf)             Command: <epstopdf --outfile=images/costhetast_cut/mu/co
 sthetast-eps-converted-to.pdf images/costhetast_cut/mu/costhetast.eps>
@@ -2831,7 +2831,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 233.
 Here is how much of TeX's memory you used:
  18314 strings out of 495059
  332056 string characters out of 3182030
- 399587 words of memory out of 3000000
+ 399583 words of memory out of 3000000
  20731 multiletter control sequences out of 15000+200000
  119738 words of font info for 155 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
@@ -2854,7 +2854,7 @@ nts/type1/urw/courier/ucrr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw
 /helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uh
 vr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb></
 usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
-Output written on defense.pdf (66 pages, 8926106 bytes).
+Output written on defense.pdf (66 pages, 8926194 bytes).
 PDF statistics:
  3238 PDF objects out of 3580 (max. 8388607)
  2572 compressed objects within 26 object streams
