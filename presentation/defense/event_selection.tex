@@ -124,6 +124,106 @@ $2e2q$   & /DoubleElectron/Run2012A-13Jul2012-v1/AOD & 808\\
 
 
 
+\begin{frame}{Particle Flow}
+The particle flow algorithm attempts to reconstruct all stable final state particles using all of the CMS sub-detectors.
+
+\begin{columns}[T]
+  \begin{column}{0.6\textwidth}
+\footnotesize
+%\scriptsize
+    \begin{itemize}
+    \item
+      1. Create electrons for all tracks linked to a single ECAL cluster that pass the electron ID.
+    \end{itemize}
+  \end{column}
+  \begin{column}{0.40\textwidth}
+    \includegraphics[width=0.99\textwidth]{images/pf1.pdf}
+  \end{column}
+\end{columns}
+\end{frame}
+
+
+
+\begin{frame}{Particle Flow}
+The particle flow algorithm attempts to reconstruct all stable final state particles using all of the CMS sub-detectors.
+
+\begin{columns}[T]
+  \begin{column}{0.6\textwidth}
+\footnotesize
+%\scriptsize
+    \begin{itemize}
+    \item
+      1. Create electrons for all tracks linked to a single ECAL cluster that pass the electron ID.
+    \item
+      2. If the tracks fail the electron ID create a charged hadron, unless there are hits in the muon chambers, then create a muon.
+    \end{itemize}
+  \end{column}
+  \begin{column}{0.40\textwidth}
+    \includegraphics[width=0.99\textwidth]{images/pf2.pdf}
+  \end{column}
+\end{columns}
+\end{frame}
+
+
+\begin{frame}{Particle Flow}
+The particle flow algorithm attempts to reconstruct all stable final state particles using all of the CMS sub-detectors.
+
+\begin{columns}[T]
+  \begin{column}{0.6\textwidth}
+\footnotesize
+%\scriptsize
+    \begin{itemize}
+    \item
+      1. Create electrons for all tracks linked to a single ECAL cluster that pass the electron ID.
+    \item
+      2. If the tracks fail the electron ID create a charged hadron, unless there are hits in the muon chambers, then create a muon.
+    \item
+      3. For each HCAL cluster get all the linked tracks and ECAL clusters. Create a charged hadron for each track. If the energy in the HCAL is greater than the energy in the tracks, create photons or neutral hadrons equal to the missing energy.
+    \end{itemize}
+  \end{column}
+  \begin{column}{0.40\textwidth}
+    \includegraphics[width=0.99\textwidth]{images/pf3.pdf}
+  \end{column}
+\end{columns}
+\end{frame}
+
+\begin{frame}{Particle Flow}
+The particle flow algorithm attempts to reconstruct all stable final state particles using all of the CMS sub-detectors.
+
+\begin{columns}[T]
+  \begin{column}{0.6\textwidth}
+\footnotesize
+%\scriptsize
+    \begin{itemize}
+    \item
+      1. Create electrons for all tracks linked to a single ECAL cluster that pass the electron ID.
+    \item
+      2. If the tracks fail the electron ID create a charged hadron, unless there are hits in the muon chambers, then create a muon.
+    \item
+      3. For each HCAL cluster get all the linked tracks and ECAL clusters. Create a charged hadron for each track. If the energy in the HCAL is greater than the energy in the tracks, create photons or neutral hadrons equal to the missing energy.
+    \item
+      4. For the remaining ECAL (HCAL) clusters that are not linked to tracks create a photon (neutral hadron).
+    \end{itemize}
+  \end{column}
+  \begin{column}{0.40\textwidth}
+    \includegraphics[width=0.99\textwidth]{images/pf4.pdf}
+  \end{column}
+\end{columns}
+\end{frame}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 \begin{frame}{PileUp and Isolation}
 \begin{columns}
@@ -156,58 +256,7 @@ $\Delta R = \sqrt{\Delta \phi^2 + \Delta \eta^2} > 0.5$
 
 \begin{frame}{Physics Objects and Preselection}
 \begin{columns}
-      \begin{column}{0.4\textwidth}
-        \footnotesize
-        \scriptsize
-  %        {\bf Leptons}\\
-  {\bf Electrons}\\
-  Physics Object
-  \begin{itemize}
-    \footnotesize
-  \item
-    Loose WP GSF Electron
-    \end{itemize}
-  Preselection
-  \begin{itemize}
-  \item
-    $p_{T}$ > 40/20 GeV
-  \item
-    $|\eta|$ < 2.5
-  \end{itemize}
-
-  {\bf Muons}\\
-  Physics Object
-  \begin{itemize}
-    \footnotesize
-    %\scriptsize
-  \item
-    Tight WP PF Muon
-    \end{itemize}
-  Preselection
-  \begin{itemize}
-  \item
-    $p_{T}$ > 40/20 GeV
-  \item
-    $|\eta|$ < 2.4
-  \end{itemize}
- {\bf Jets}\\
-        Physics Object
-        \begin{itemize}
-        \item
-          Anti-k$_T$ 0.5 PF Jets
-        \end{itemize}
-        
-        Preselection
-        \begin{itemize}
-        \item
-          p$_{T}$ > 30 GeV
-        \item
-          $|\eta|$ < 2.4
-        \end{itemize}
-
-
-  \end{column}
-      \begin{column}{0.6\textwidth}
+\begin{column}{0.6\textwidth}
    \footnotesize
 
  {\bf Triggers}\\
@@ -231,6 +280,60 @@ After we have the objects, we apply additional preselection cuts to the leptons.
  % \includegraphics[width=0.8\textwidth]{images/preselection/el/mLL.eps}\\
  % \includegraphics[width=0.8\textwidth]{images/preselection/mu/mLL.eps}
 \end{column}
+
+
+      \begin{column}{0.4\textwidth}
+        \footnotesize
+        \scriptsize
+  %        {\bf Leptons}\\
+  {\bf Electrons}\\
+  Physics Object
+  \begin{itemize}
+    \footnotesize
+  \item
+    Identification and Isolation
+    \end{itemize}
+  Preselection
+  \begin{itemize}
+  \item
+    $p_{T}$ > 40/20 GeV
+  \item
+    $|\eta|$ < 2.5
+  \end{itemize}
+
+  {\bf Muons}\\
+  Physics Object
+  \begin{itemize}
+    \footnotesize
+    %\scriptsize
+  \item
+    Identification and Isolation
+    \end{itemize}
+  Preselection
+  \begin{itemize}
+  \item
+    $p_{T}$ > 40/20 GeV
+  \item
+    $|\eta|$ < 2.4
+  \end{itemize}
+ {\bf Jets}\\
+        Physics Object
+        \begin{itemize}
+        \item
+          Identification and Isolation
+        \end{itemize}
+        
+        Preselection
+        \begin{itemize}
+        \item
+          p$_{T}$ > 30 GeV
+        \item
+          $|\eta|$ < 2.4
+        \end{itemize}
+
+
+  \end{column}
+      
 \end{columns}
 \end{frame}
 
@@ -474,7 +577,7 @@ When there are multiple candidates in the same event we apply a string of logic 
 \begin{center}
 $\Delta Z = |M_{\Plp \Plm} - m_Z| + |M_{JJ} - m_Z|$\\
 $m_Z$ is the nominal mass of the Z boson\\
-$\Delta Z 1 .. Z n$ is the candidates sorted by $\Delta Z$ smallest to largest.\\
+$\Delta Z 1 ...$ $Z n$ is the candidates sorted by $\Delta Z$ smallest to largest.\\
 \end{center}
 \vspace{1em}
 When all candidates are sorted we keep the candidate that is furthest to the left.

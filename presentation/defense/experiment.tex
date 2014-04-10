@@ -322,65 +322,15 @@ Main Discovery Channels
 \end{frame}
 
 
-
-
-
-\begin{frame}{The Heavy Higgs Decay}
-\begin{center}
-  For a heavy ($m_H$ > 200 GeV) Higgs boson the Higgs decays predominantly to vector boson pairs.
-\\  The fully leptonic decay modes are:\\
-\vspace{.5em}
-$H \rightarrow WW \rightarrow \Plp \Pgn \Plm \Pagn$\\
-$H \rightarrow ZZ \rightarrow \Plp \Plm \Plp \Plm$\\
-$(\Pl = \Pe , \Pgm)$\\
-\vspace{1em}
-$H \rightarrow ZZ \rightarrow \Plp \Plm \Plp \Plm$ (The ``golden'' Channel)\\
-\end{center}
-
-Pros:
-\footnotesize
-\begin{itemize}
-\item
-  Decay chain can be fully reconstructed.
-\item
-  High precision lepton measurements gives a narrow invariant mass peak.
-\end{itemize}
-\vspace{1em}
-\small
-Cons:
-\footnotesize
-\begin{itemize}
-  \item
-    The branching ratio of $Z \rightarrow \Plp \Plm$ is only 3.37\% so less than 0.5\% of the $H \rightarrow ZZ$ events will end up in the ``golden'' channel.
-\end{itemize}
-
-
-%\begin{itemize}
-%  \item
-
-%    Decay to two Z bosons is the most promising discovery channel for $m_H > 180 GeV$.
-%  \item
-%    If both Z bosons decay to electrons or muons you get a very clean signature.
-%\end{itemize}
-%    \includegraphics[width=0.99\textwidth]{images/ZZdecay.png}
-%\begin{columns}
-%  \begin{column}{0.5\textwidth}
-%  \end{column}
-%  \begin{column}{0.5\textwidth}
-%  \end{column}
-%\end{columns}
-
-\end{frame}
-
 \begin{frame}{The $H \rightarrow ZZ \rightarrow llqq$ Channel}
 \begin{center}
-
- When a Z decays to quarks they hadronize and form ``jets.'' These are complex objects and challenging to reconstruct. 
-
-    If we allow one Z to decay leptonicly and the other to quarks we get.\\
-    \vspace{.5em}
-    $H \rightarrow ZZ \rightarrow \Plp \Plm \Pq \Paq$\\
-    $(q = u,d,c,s,b)$
+There are three sub-channels in $H \rightarrow ZZ$ that are studied.\\
+$H \rightarrow ZZ \rightarrow 4l$\\
+$H \rightarrow ZZ \rightarrow 2l2 \nu$\\
+\textcolor{red}{$H \rightarrow ZZ \rightarrow \Plp \Plm \Pq \Paq$\\
+\scriptsize{$(\Pl =e, \mu$ and $q = u,d,c,s,b)$}}\\
+\vspace{.5em}
+\small
 \begin{columns}
   \begin{column}{0.7\textwidth}
      Pros:\footnotesize
@@ -394,14 +344,16 @@ Cons:
        BR($ZZ \rightarrow 2l2q$) = $\color{red}{20} \color{black} \times BR(ZZ \rightarrow 4l)$
      \end{itemize}
    \item
-     Fully decay is reconstructed (closed kinematics)
+     Full decay is reconstructed (closed kinematics)
      \end{itemize}
      \vspace{1em}
      \small
      Cons:\footnotesize
      \begin{itemize}
      \item
-       Resolution of jet momentum reconstruction is worse than for leptons.
+       Quarks hadronize to form ``jets.''
+     \item
+       Momentum resolution is worse for jets then for leptons.
      \item
        Large background coming from Z production in conjunction with QCD jets ($\sim 10^5$ > signal).
      \end{itemize}
@@ -410,9 +362,9 @@ Cons:
     \includegraphics[width=0.99\textwidth]{images/h_zz_2l2q.png}
   \end{column}
 \end{columns}
-
 \end{center}
 \end{frame}
+
 
 
 %\begin{frame}{Traditional Jet Approach: Caloremeter Jets}
@@ -420,124 +372,39 @@ Cons:
 
 
 
-\begin{frame}{Traditional Jet Approach: Caloremeter Jets}
-For CaloJets we assume most particles will reach the calorimeters close to each other.  So all we have to do is cluster the energy deposits in the calorimeters.
+%\begin{frame}{Traditional Jet Approach: Calorimeter Jets}
+%For CaloJets we assume most particles will reach the calorimeters close to each other.  So all we have to do is cluster the energy deposits in the calorimeters.
 
-\begin{columns}[T]
-  \begin{column}{0.6\textwidth}
-    \vspace{2em}
-    \begin{column}{0.5\textwidth}
-      Pros:
-      \begin{itemize}
-      \item
-        straightforward
-      \item
-        fast and unaffected by event complexity
-      \end{itemize}
-    \end{column}
-    \begin{column}{0.5\textwidth}
-      Cons:
-      \begin{itemize}
-      \item
-        response is $p_{T}$-dependent
-      \item
-        lose low $p_{T}$ charged particles
-      \item
-        HCAL resolution
-      \end{itemize}
-    \end{column}
-  \end{column}
-  \begin{column}{0.40\textwidth}
-    \includegraphics[width=0.99\textwidth]{images/calojets.pdf}
-  \end{column}
-\end{columns}
-\end{frame}
+%\begin{columns}[T]
+%  \begin{column}{0.6\textwidth}
+%    \vspace{2em}
+%    \begin{column}{0.5\textwidth}
+%      Pros:
+%      \begin{itemize}
+%      \item
+%        straightforward
+%      \item
+%        fast and unaffected by event complexity
+%      \end{itemize}
+%    \end{column}
+%    \begin{column}{0.5\textwidth}
+%      Cons:
+%      \begin{itemize}
+%      \item
+%        response is $p_{T}$-dependent
+%      \item
+%        lose low $p_{T}$ charged particles
+%      \item
+%        limited by HCAL resolution
+%      \end{itemize}
+%    \end{column}
+%  \end{column}
+%  \begin{column}{0.40\textwidth}
+%    \includegraphics[width=0.99\textwidth]{images/calojets.pdf}
+%  \end{column}
+%\end{columns}
+%\end{frame}
 
-
-\begin{frame}{Particle Flow}
-The particle flow algorithm attempts to reconstruct all stable final state particles using all of the CMS sub-detectors.
-
-\begin{columns}[T]
-  \begin{column}{0.6\textwidth}
-\footnotesize
-    \begin{itemize}
-    \item
-      1. Get tracks linked to a single ECAL cluster if electron ID says OK create an electron.
-    \end{itemize}
-  \end{column}
-  \begin{column}{0.40\textwidth}
-    \includegraphics[width=0.99\textwidth]{images/pf1.pdf}
-  \end{column}
-\end{columns}
-\end{frame}
-
-
-
-\begin{frame}{Particle Flow}
-The particle flow algorithm attempts to reconstruct all stable final state particles using all of the CMS sub-detectors.
-
-\begin{columns}[T]
-  \begin{column}{0.6\textwidth}
-\footnotesize
-    \begin{itemize}
-\footnotesize
-    \item
-      1. Get tracks linked to a single ECAL cluster if electron ID says OK create an electron.
-    \item
-      2. If not then if there are compatible hits in muon chambers create a muon if not create a charged hadron.
-    \end{itemize}
-  \end{column}
-  \begin{column}{0.40\textwidth}
-    \includegraphics[width=0.99\textwidth]{images/pf2.pdf}
-  \end{column}
-\end{columns}
-\end{frame}
-
-
-\begin{frame}{Particle Flow}
-The particle flow algorithm attempts to reconstruct all stable final state particles using all of the CMS sub-detectors.
-
-\begin{columns}[T]
-  \begin{column}{0.6\textwidth}
-\footnotesize
-    \begin{itemize}
-\footnotesize
-    \item
-      1. Get tracks linked to a single ECAL cluster if electron ID says OK create an electron.
-    \item
-      2. If not then if there are compatible hits in muon chambers create a muon if not create a charged hadron.
-    \item
-      3. For each HCAL cluster get all the linked tracks and all ECAL clusters linked to tracks. If the energy in the calorimeters is compatible with the tracks then create a charged hadron for each track.  If the energy is greater than the tracks create photons or neutral hadrons equal to the missing calorimeter energy.
-    \end{itemize}
-  \end{column}
-  \begin{column}{0.40\textwidth}
-    \includegraphics[width=0.99\textwidth]{images/pf3.pdf}
-  \end{column}
-\end{columns}
-\end{frame}
-
-\begin{frame}{Particle Flow}
-The particle flow algorithm attempts to reconstruct all stable final state particles using all of the CMS sub-detectors.
-
-\begin{columns}[T]
-  \begin{column}{0.6\textwidth}
-    \begin{itemize}
-      \footnotesize
-    \item
-      1. Get tracks linked to a single ECAL cluster if electron ID says OK create an electron.
-    \item
-      2. If not then if there are compatible hits in muon chambers create a muon if not create a charged hadron.
-    \item
-      3. For each HCAL cluster get all the linked tracks and all ECAL clusters linked to tracks. If the energy in the calorimeters is compatible with the tracks then create a charged hadron for each track.  If the energy is greater than the tracks create photons or neutral hadrons equal to the missing calorimeter energy.
-    \item
-      4. For the remaining ECAL (HCAL) clusters that are not linked to tracks create a photon (neutral hadron).
-    \end{itemize}
-  \end{column}
-  \begin{column}{0.40\textwidth}
-    \includegraphics[width=0.99\textwidth]{images/pf4.pdf}
-  \end{column}
-\end{columns}
-\end{frame}
 
 
 %\begin{frame}{Discovering the Higgs}
