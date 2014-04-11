@@ -337,15 +337,28 @@ After we have the objects, we apply additional preselection cuts to the leptons.
 \end{columns}
 \end{frame}
 
+\begin{frame}{m$_{ll}$ and m$_{jj}$ distributions}
+\begin{center}
+\includegraphics[width=0.47\textwidth]{images/preselection/el/mLL.eps}
+\includegraphics[width=0.47\textwidth]{images/preselection/mu/mLL.eps}\\
+\includegraphics[width=0.47\textwidth]{images/preselection/el/mJJ.eps}
+\includegraphics[width=0.47\textwidth]{images/preselection/mu/mJJ.eps}\\
+%\includegraphics[width=0.4\textwidth]{images/preselection/el/helyLD.eps}
+%\includegraphics[width=0.4\textwidth]{images/preselection/el/MLP.eps}\\
+%\includegraphics[width=0.4\textwidth]{images/preselection/el/costhetast.eps}
+%\includegraphics[width=0.4\textwidth]{images/preselection/mu/costhetast.eps}
+\end{center}
+\end{frame}
 
-\begin{frame}{Mass Cut around Z$_{jj}$ Peak}
+\begin{frame}{Mass Cut around Z Peaks}
 \begin{center}
 Our main background is Z+jets where the Z decays into leptons.  For the signal the di-jet mass peak should be at the nominal Z boson mass of 91 GeV.  We can cut on either side of this peak to reject a large amount of the Z+jets background. We optimized these cuts to maximize $\dfrac{S}{\sqrt{S+B}}$.
 \\
 \includegraphics[width=0.5\textwidth]{images/preselection/el/mJJ.eps}
-\includegraphics[width=0.5\textwidth]{images/test_zjj_s_sb_zero.eps}
+\includegraphics[width=0.5\textwidth]{images/test_zjj_s_sb_zero.eps}\\
 %\includegraphics[width=0.33\textwidth]{images/zjj_s_sb_one.eps}
 %\includegraphics[width=0.33\textwidth]{images/zjj_s_sb_two.eps}
+The same optimization is done for the $m_{ll}$ distribution.
 \end{center}
 \end{frame}
 
@@ -354,7 +367,7 @@ Our main background is Z+jets where the Z decays into leptons.  For the signal t
     \begin{column}{0.6\textwidth}
 \footnotesize
 \scriptsize
-Optimal cuts around the Z$_{ll}$ mass peak were also calculated. A side band region is defined in the Z$_{jj}$ mass distribution.  This side band region is used to get the Z+jets background from data.
+Optimal cuts around the m$_{ll}$ mass peak were also calculated. A side band region is defined in the m$_{jj}$ mass distribution.  This side band region is used to get the Z+jets background from data.
 \\
 \footnotesize
 \vspace{1em}
@@ -375,7 +388,7 @@ Optimal cuts around the Z$_{ll}$ mass peak were also calculated. A side band reg
       \end{itemize}
 \vspace{2em}
 \scriptsize
-The muon distributions look similar and can be seen in the backup slides.
+%The muon distributions look similar and can be seen in the backup slides.
     \end{column}
     \begin{column}{0.4\textwidth}
       \includegraphics[width=0.99\textwidth]{images/mLL_signal_sideband.eps}\\
