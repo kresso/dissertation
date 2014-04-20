@@ -10,7 +10,7 @@ The energy that is collected in the calorimeter is grouped together into super-c
 
 \begin{itemize}
 \item
-  Golden electrons. This class represents electrons least affected by radiation emission, with a reconstructed track well matching the super-cluster and a well behaved super-cluster pattern. 
+  Golden electrons. This class represents electrons least affected by radiation emission, with a reconstructed track that matches the super-cluster. 
 \item
   Big Brem electrons. This class contains electrons with a good match between the energy calculated in the super-cluster algorithms and the momentum recorded coming in, but the super-cluster does not directly match with the reconstructed track.  Also, there must be no energy loss effects from secondary photon conversion. Electrons for which all the bremsstrahlung is radiated in a single step can fall in this category.
 \item
@@ -39,7 +39,7 @@ A muon candidate made from the muon chambers and tracker information is called a
 
 \section{Jet Reconstruction}
 
-At proton colliders, the reactions are primarily from the interaction of partons, which is the name given to the constituents that make up a hadron. Hadronization gives rise to columns of particles that we call jets. Jets are difficult for both theorists and experimental physicists because they are composite objects that cannot be specifically defined.  The jet reconstruction that is used is based on how particle candidates cluster using the particle flow (PF) algorithms which are described below.  This composite nature causes the detector response to vary jet to jet. This becomes a problem for the determination of the jet's energy and necessitates careful calibrations.
+At proton colliders, the reactions are primarily from the interaction of partons, which is the name given to the constituents that make up a hadron. Hadronization gives rise to columns of particles that we call jets. Jets are difficult for both theorists and experimental physicists because they are composite objects that cannot be uniquely specifically defined.  The jet reconstruction that is used is based on how particle candidates cluster using the particle flow (PF) algorithms which are described below.  This composite nature causes the detector response to vary jet to jet. This becomes a problem for the determination of the jet's energy and necessitates careful calibrations.
 
 Light particles make up of the bulk of hadronization.  The typical breakdown of a jets energy is as follows:
 \begin{itemize}
@@ -56,7 +56,7 @@ kaons, neutrons, and $\Lambda$ baryons~\cite{Pandolfi_thesis}.
 
 With only 20\% of the jet energy being purely electromagnetic, the remaining measurements are taken through the hadronic calorimeter which leads to additional energy measurement difficulties.
 
-The clustering of the particles that make up the jets is done with the anti-$K_t$ algorithm.  This algorithm is described in the following section. 
+The clustering of the particles that make up the jets is done with the anti-$k_t$ algorithm.  This algorithm is described in the following section. 
 
 We first define $d_{ij}$ and $d_{iB}$~\cite{1126-6708-2008-04-063}:
 \begin{equation}
