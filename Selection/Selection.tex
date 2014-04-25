@@ -269,7 +269,7 @@ Di-lepton invariant mass in data and MC of $Z \rightarrow \ell \ell$ candidates 
 
 \subsection{Jet Selection}
 \label{sec:jetsel}
-The PF jets are reconstructed with the anti-k$_{T}$ algorithm ~\cite{antikt} with radius parameter set to $R=0.5$. Jets are required to be inside the tracker acceptance ($|\eta|<2.4$) thus allowing high reconstruction efficiency and precise energy measurements using PF techniques. Jet-energy corrections are applied to data and Monte Carlo~\cite{CMS-PAS-JME-10-010}. Correction for PU energy is applied at the first level, by using the Fastjet algorithm. In order to remove jets which originate from PU interactions, only jets with $\beta \ge 0.2$ are selected, where $\beta$ is defined as the sum of transverse momenta of all charged particles in the jet coming from the primary vertex, normalized to the total sum of transverse momenta of all charged particles in the jet. The $\beta$ distribution and efficiency can be seen in Figure~\ref{fig:beta}~\cite{2l2q115}. $Z \rightarrow q\overline{q} $ candidates are reconstructed from jet-jet pairs. In order to reject fake candidates made by low-$p_T$ jets from QCD background, both jets of the pair must have $p_T > 30 GeV$.
+The PF jets are reconstructed with the anti-k$_{T}$ algorithm ~\cite{antikt} with radius parameter set to $R=0.5$. Jets are required to be inside the tracker acceptance ($|\eta|<2.4$) thus allowing high reconstruction efficiency and precise energy measurements using PF techniques. Jet-energy corrections are applied to data and Monte Carlo~\cite{CMS-PAS-JME-10-010}. Correction for PU energy is applied at the first level, by using the Fastjet algorithm~\cite{FastJet}. In order to remove jets which originate from PU interactions, only jets with $\beta \ge 0.2$ are selected, where $\beta$ is defined as the sum of transverse momenta of all charged particles in the jet coming from the primary vertex, normalized to the total sum of transverse momenta of all charged particles in the jet. The $\beta$ distribution and efficiency can be seen in Figure~\ref{fig:beta}~\cite{2l2q115}. $Z \rightarrow q\overline{q} $ candidates are reconstructed from jet-jet pairs. In order to reject fake candidates made by low-$p_T$ jets from QCD background, both jets of the pair must have $p_T > 30 GeV$.
 
 
 \begin{figure}[htb]
@@ -355,7 +355,7 @@ A summary of all the selection can be found in section~\ref{sec:summaryofselecti
 %\includegraphics[width=0.45\textwidth]{plots//tmva_massZjj.eps}
 }
 \caption{
-Distribution of the jet probability (JP) discriminator that is used for b-tagging.  Right: Muons. Left: Electrons.
+Distribution of the jet probability (JP) discriminator that is used for b-tagging.  Right: Muons. Left: Electrons. The peaks in the distribution come from calculating the jet probability non-continuously in $\eta$ bins. This phenomenon is well understood and expected.
 }
 \label{fig:JP}
 \end{center}

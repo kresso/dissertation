@@ -99,6 +99,10 @@ J.~Beringer et~al. (Particle Data~Group).
 \newblock {2012 Review of Particle Physics}.
 \newblock {\em Phys. Rev. D}, 86, 2012.
 
+\bibitem{ComputingProduction2014}
+{CMS Computing Production}.
+\newblock {\em http://cmsdoc.cern.ch/cms/production/www/html/general/}, 2014.
+
 \bibitem{Campbell:2006wx}
 John~M. Campbell, J.W. Huston, and W.J. Stirling.
 \newblock {Hard Interactions of Quarks and Gluons: A Primer for LHC Physics}.
@@ -326,6 +330,12 @@ Matteo Cacciari, Gavin~P. Salam, and Gregory Soyez.
 \newblock Jet energy corrections determination at 7 tev.
 \newblock CMS Physics Analysis Summary CMS-PAS-JME-10-010, 2010.
 
+\bibitem{FastJet}
+{FastJet Algorithm}.
+\newblock {\em
+  https://twiki.cern.ch/twiki/bin/view/CMSPublic/WorkBookJetEnergyCorrections},
+  2014.
+
 \bibitem{2l2q115}
 The CMS~$H \rightarrow ZZ \rightarrow~2l2q$ Group.
 \newblock {Search for the standard model Higgs Boson in the decay channel $H
@@ -394,6 +404,10 @@ The~CMS Collaboration.
 \newblock {Measurements of the Inclusive W and Z Cross Sections in pp
   Collisions at $\sqrt{s}$= 7 TeV}.
 \newblock {\em JHEP}, 1101:080, 2011.
+
+\bibitem{CrystalBall}
+{The Crystal Ball Function}.
+\newblock {\em http://en.wikipedia.org/wiki/Crystal\_Ball\_function}, 2014.
 
 \bibitem{pileupsys}
 {Michael Hildreth}.
