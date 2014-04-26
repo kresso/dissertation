@@ -20,17 +20,17 @@ Warning--entry type for "Wiki:Guage_Theory" isn't style-file defined
 Warning--entry type for "LHC-HCS" isn't style-file defined
 --line 1570 of file all.bib
 Warning--entry type for "Egede_Feynman_Higgs" isn't style-file defined
---line 1737 of file all.bib
+--line 1743 of file all.bib
 Warning--entry type for "LHC_Higgs_Gallery" isn't style-file defined
---line 1745 of file all.bib
+--line 1751 of file all.bib
 Warning--entry type for "CERN_complex" isn't style-file defined
---line 1753 of file all.bib
+--line 1759 of file all.bib
 Warning--entry type for "cms_solenoid_magnet" isn't style-file defined
---line 1857 of file all.bib
+--line 1863 of file all.bib
 Warning--entry type for "Pandolfi_thesis" isn't style-file defined
---line 1988 of file all.bib
+--line 1994 of file all.bib
 Warning--entry type for "Cosa_thesis" isn't style-file defined
---line 2024 of file all.bib
+--line 2030 of file all.bib
 Warning--empty journal in Ridolfi2001
 Warning--empty journal in ALEPH:2010aa
 Warning--empty author in CDFandD0:2011aa
@@ -62,45 +62,46 @@ Warning--empty institution in 4l
 Warning--empty institution in CMS-PAS-LUM-12-001
 Warning--empty journal in HiggsLimitTWiki
 Warning--empty note in HIG-11-027
-You've used 96 entries,
+Warning--empty author in FermiFunction
+You've used 98 entries,
             1791 wiz_defined-function locations,
-            962 strings with 16341 characters,
-and the built_in function-call counts, 16106 in all, are:
-= -- 1333
-> -- 638
+            971 strings with 16705 characters,
+and the built_in function-call counts, 16457 in all, are:
+= -- 1355
+> -- 668
 < -- 10
-+ -- 269
-- -- 173
-* -- 911
-:= -- 2702
-add.period$ -- 271
-call.type$ -- 96
-change.case$ -- 91
++ -- 280
+- -- 182
+* -- 938
+:= -- 2765
+add.period$ -- 276
+call.type$ -- 98
+change.case$ -- 93
 chr.to.int$ -- 0
-cite$ -- 127
-duplicate$ -- 799
-empty$ -- 1700
-format.name$ -- 173
-if$ -- 3535
+cite$ -- 130
+duplicate$ -- 815
+empty$ -- 1728
+format.name$ -- 182
+if$ -- 3607
 int.to.chr$ -- 0
-int.to.str$ -- 96
-missing$ -- 82
-newline$ -- 463
-num.names$ -- 83
-pop$ -- 266
+int.to.str$ -- 98
+missing$ -- 84
+newline$ -- 472
+num.names$ -- 84
+pop$ -- 271
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 319
+skip$ -- 327
 stack$ -- 0
 substring$ -- 631
-swap$ -- 99
+swap$ -- 101
 text.length$ -- 10
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 31
-while$ -- 126
-width$ -- 98
-write$ -- 973
-(There were 39 warnings)
+warning$ -- 32
+while$ -- 127
+width$ -- 100
+write$ -- 992
+(There were 40 warnings)

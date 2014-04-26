@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2013.6.29)  25 APR 2014 11:57
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2013.6.29)  26 APR 2014 12:02
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -4626,47 +4626,47 @@ File: plots/mH_lim20_2btag-SB_NORM_LOG.png Graphic file (type png)
 Package pdftex.def Info: plots/mH_lim20_2btag-SB_NORM_LOG.png used on input lin
 e 17.
 (pdftex.def)             Requested size: 143.09538pt x 137.3333pt.
-) [141 <./plots/mH_lim20_0btag_NORM_LOG.png> <./plots/mH_lim20_1btag_NORM_LOG.p
-ng> <./plots/mH_lim20_2btag_NORM_LOG.png> <./plots/mH_lim20_0btag-SB_NORM_LOG.p
-ng> <./plots/mH_lim20_1btag-SB_NORM_LOG.png> <./plots/mH_lim20_2btag-SB_NORM_LO
-G.png>] [142
+ [141 <./plots/mH_lim20_0btag_NORM_LOG.png> <./plots/mH_lim20_1btag_NORM_LOG.pn
+g> <./plots/mH_lim20_2btag_NORM_LOG.png> <./plots/mH_lim20_0btag-SB_NORM_LOG.pn
+g> <./plots/mH_lim20_1btag-SB_NORM_LOG.png> <./plots/mH_lim20_2btag-SB_NORM_LOG
+.png>]) [142] [143] [144
 
 ]
 Appendix H.
 (./Appendix/cutcount.tex
-<plots/limit_CiC_unblinded_win0.png, id=3355, 899.36pt x 875.27pt>
+<plots/limit_CiC_unblinded_win0.png, id=3362, 899.36pt x 875.27pt>
 File: plots/limit_CiC_unblinded_win0.png Graphic file (type png)
 
 <use plots/limit_CiC_unblinded_win0.png>
 Package pdftex.def Info: plots/limit_CiC_unblinded_win0.png used on input line 
 14.
 (pdftex.def)             Requested size: 212.47617pt x 206.78363pt.
-)) [143 <./plots/limit_CiC_unblinded_win0.png>]
+)) [145 <./plots/limit_CiC_unblinded_win0.png>]
 \openout2 = `3D/3D.aux'.
 
- (./3D/3D.tex [144
+ (./3D/3D.tex [146
 
 
 
 ]
 Appendix I.
-<3D/processes.pdf, id=3363, 201.87419pt x 283.7802pt>
+<3D/processes.pdf, id=3369, 201.87419pt x 283.7802pt>
 File: 3D/processes.pdf Graphic file (type pdf)
  <use 3D/processes.pdf>
 Package pdftex.def Info: 3D/processes.pdf used on input line 17.
 (pdftex.def)             Requested size: 195.12767pt x 274.31383pt.
 
-<3D/configuration.pdf, id=3364, 251.0178pt x 92.9874pt>
+<3D/configuration.pdf, id=3370, 251.0178pt x 92.9874pt>
 File: 3D/configuration.pdf Graphic file (type pdf)
 
 <use 3D/configuration.pdf>
 Package pdftex.def Info: 3D/configuration.pdf used on input line 34.
 (pdftex.def)             Requested size: 325.215pt x 120.48064pt.
- [145] [146 <./3D/processes.pdf> <./3D/configuration.pdf
+ [147] [148 <./3D/processes.pdf> <./3D/configuration.pdf
 
 pdfTeX warning: pdflatex (file ./3D/configuration.pdf): PDF inclusion: multiple
  pdfs with page group included in a single page
->] <3D/IV_ba.pdf, id=3384, 222.5916pt x 183.56581pt>
+>] <3D/IV_ba.pdf, id=3390, 222.5916pt x 183.56581pt>
 File: 3D/IV_ba.pdf Graphic file (type pdf)
  <use 3D/IV_ba.pdf>
 Package pdftex.def Info: 3D/IV_ba.pdf used on input line 51.
@@ -4684,48 +4684,48 @@ Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ù in font cmr12!
 
-[147 <./3D/IV_ba.pdf>] <3D/efficiency.pdf, id=3395, 242.3454pt x 166.7028pt>
+[149 <./3D/IV_ba.pdf>] <3D/efficiency.pdf, id=3401, 242.3454pt x 166.7028pt>
 File: 3D/efficiency.pdf Graphic file (type pdf)
 
 <use 3D/efficiency.pdf>
 Package pdftex.def Info: 3D/efficiency.pdf used on input line 74.
 (pdftex.def)             Requested size: 238.49231pt x 164.05186pt.
- <3D/map.pdf, id=3396, 254.3904pt x 201.3924pt>
+ <3D/map.pdf, id=3402, 254.3904pt x 201.3924pt>
 File: 3D/map.pdf Graphic file (type pdf)
 
 <use 3D/map.pdf>
 Package pdftex.def Info: 3D/map.pdf used on input line 88.
 (pdftex.def)             Requested size: 195.12767pt x 154.48259pt.
- <3D/noise.pdf, id=3397, 229.8186pt x 163.812pt>
+ <3D/noise.pdf, id=3403, 229.8186pt x 163.812pt>
 File: 3D/noise.pdf Graphic file (type pdf)
 
 <use 3D/noise.pdf>
 Package pdftex.def Info: 3D/noise.pdf used on input line 88.
 (pdftex.def)             Requested size: 195.12767pt x 139.08586pt.
- [148 <./3D/efficiency.pdf>]
-<3D/bias.pdf, id=3408, 243.30899pt x 169.1118pt>
+ [150 <./3D/efficiency.pdf>]
+<3D/bias.pdf, id=3415, 243.30899pt x 169.1118pt>
 File: 3D/bias.pdf Graphic file (type pdf)
  <use 3D/bias.pdf>
 Package pdftex.def Info: 3D/bias.pdf used on input line 104.
 (pdftex.def)             Requested size: 281.85034pt x 195.91951pt.
 
-<3D/threshold1.pdf, id=3409, 254.8722pt x 177.7842pt>
+<3D/threshold1.pdf, id=3416, 254.8722pt x 177.7842pt>
 File: 3D/threshold1.pdf Graphic file (type pdf)
  <use 3D/threshold1.pdf>
 Package pdftex.def Info: 3D/threshold1.pdf used on input line 120.
 (pdftex.def)             Requested size: 195.12767pt x 136.11566pt.
 
-<3D/threshold2.pdf, id=3410, 251.9814pt x 172.0026pt>
+<3D/threshold2.pdf, id=3417, 251.9814pt x 172.0026pt>
 File: 3D/threshold2.pdf Graphic file (type pdf)
  <use 3D/threshold2.pdf>
 Package pdftex.def Info: 3D/threshold2.pdf used on input line 120.
 (pdftex.def)             Requested size: 195.12767pt x 133.19826pt.
 )
-[149 <./3D/map.pdf> <./3D/noise.pdf
+[151 <./3D/map.pdf> <./3D/noise.pdf
 
 pdfTeX warning: pdflatex (file ./3D/noise.pdf): PDF inclusion: multiple pdfs wi
 th page group included in a single page
->] [150 <./3D/bias.pdf> <./3D/threshold1.pdf
+>] [152 <./3D/bias.pdf> <./3D/threshold1.pdf
 
 pdfTeX warning: pdflatex (file ./3D/threshold1.pdf): PDF inclusion: multiple pd
 fs with page group included in a single page
@@ -4733,10 +4733,10 @@ fs with page group included in a single page
 
 pdfTeX warning: pdflatex (file ./3D/threshold2.pdf): PDF inclusion: multiple pd
 fs with page group included in a single page
->] [151]
+>] [153]
 \openout2 = `bibliography.aux'.
 
- (./bibliography.tex (./thesis.bbl [152
+ (./bibliography.tex (./thesis.bbl [154
 
 
 
@@ -4745,7 +4745,7 @@ Missing character: There is no √ in font cmr12!
 Missing character: There is no Å in font cmr12!
 Missing character: There is no √ in font cmr12!
 Missing character: There is no © in font cmr12!
- [152
+ [154
 
 ]
 Overfull \hbox (49.61758pt too wide) in paragraph at lines 103--105
@@ -4771,10 +4771,10 @@ Underfull \hbox (badness 2707) in paragraph at lines 189--192
 ign Re-port.
  []
 
-[153]
+[155]
 Missing character: There is no √ in font cmr12!
 Missing character: There is no ° in font cmr12!
- [154]
+ [156]
 Overfull \hbox (109.83464pt too wide) in paragraph at lines 334--338
 []\OT1/cmr/m/n/12 FastJet Al-go-rithm.  \OT1/cmr/m/it/12 https://twiki.cern.ch/
 twiki/bin/view/CMSPublic/WorkBookJetEnergyCorrections\OT1/cmr/m/n/12 ,
@@ -4786,7 +4786,7 @@ Underfull \hbox (badness 2080) in paragraph at lines 377--380
 nal-y-sis.
  []
 
-[155]
+[157]
 Underfull \hbox (badness 10000) in paragraph at lines 470--475
 []\OT1/cmr/m/n/12 CMS Higgs Com-bi-na-tion Group.  Doc-u-men-ta-tion of
  []
@@ -4802,11 +4802,16 @@ Overfull \hbox (21.19475pt too wide) in paragraph at lines 470--475
 mbinedLimit,
  []
 
-[156]
+[158]
+Underfull \hbox (badness 1609) in paragraph at lines 490--492
+[]\OT1/cmr/m/n/12 Fermi Dirac Statis-tics.  \OT1/cmr/m/it/12 http://en.wikipedi
+a.org/wiki/Fermi-Dirac[]statistics\OT1/cmr/m/n/12 ,
+ []
+
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no î in font cmr12!
-)) [157] (./thesis.aux (./front.aux) (./StandardModel/StandardModel.aux)
+)) [159] (./thesis.aux (./front.aux) (./StandardModel/StandardModel.aux)
 (./Experiment/Experiment.aux) (./Reconstruction/Reconstruction.aux)
 (./Selection/Selection.aux) (./Optimization/Optimization.aux)
 (./Systematics/Systematics.aux) (./Results/Results.aux)
@@ -4817,10 +4822,10 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 5988 strings out of 495059
- 114393 string characters out of 3182030
- 156900 words of memory out of 3000000
- 8716 multiletter control sequences out of 15000+200000
+ 5992 strings out of 495059
+ 114453 string characters out of 3182030
+ 156934 words of memory out of 3000000
+ 8720 multiletter control sequences out of 15000+200000
  21764 words of font info for 77 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
  52i,38n,62p,1470b,442s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -4843,10 +4848,10 @@ dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fo
 nts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texlive/texmf-dist/fonts/ty
 pe1/public/amsfonts/cm/cmtt10.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
 blic/amsfonts/cm/cmtt12.pfb>
-Output written on thesis.pdf (177 pages, 11558576 bytes).
+Output written on thesis.pdf (179 pages, 11562404 bytes).
 PDF statistics:
- 3544 PDF objects out of 3580 (max. 8388607)
- 2087 compressed objects within 21 object streams
+ 3550 PDF objects out of 3580 (max. 8388607)
+ 2091 compressed objects within 21 object streams
  0 named destinations out of 1000 (max. 500000)
  1236 words of extra memory for PDF output out of 10000 (max. 10000000)
 

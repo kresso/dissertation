@@ -70,8 +70,8 @@
 \contentsline {chapter}{\numberline {E}Expected signal and background events per btag category}{133}
 \contentsline {chapter}{\numberline {F}Determination of $\ensuremath {\Pqt \Paqt }$ background from data}{135}
 \contentsline {chapter}{\numberline {G}Mass distributions for the electron and muon channels}{141}
-\contentsline {chapter}{\numberline {H}Limit Cross Checks}{143}
-\contentsline {chapter}{\numberline {I}3D Prototype Silicon Sensors}{145}
-\contentsline {section}{\numberline {I.1}3D Sensors}{145}
-\contentsline {section}{\numberline {I.2}Threshold and Noise Measurements}{147}
-\contentsline {chapter}{LIST OF REFERENCES}{152}
+\contentsline {chapter}{\numberline {H}Limit Cross Checks}{145}
+\contentsline {chapter}{\numberline {I}3D Prototype Silicon Sensors}{147}
+\contentsline {section}{\numberline {I.1}3D Sensors}{147}
+\contentsline {section}{\numberline {I.2}Threshold and Noise Measurements}{149}
+\contentsline {chapter}{LIST OF REFERENCES}{154}
