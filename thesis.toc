@@ -75,3 +75,4 @@
 \contentsline {section}{\numberline {I.1}3D Sensors}{147}
 \contentsline {section}{\numberline {I.2}Threshold and Noise Measurements}{149}
 \contentsline {chapter}{LIST OF REFERENCES}{154}
+\contentsline {chapter}{VITA}{160}

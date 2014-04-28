@@ -14,6 +14,7 @@ A level-1 auxiliary file: Conclusion/Conclusion.aux
 A level-1 auxiliary file: Appendix.aux
 A level-1 auxiliary file: 3D/3D.aux
 A level-1 auxiliary file: bibliography.aux
+A level-1 auxiliary file: vita.aux
 Database file #1: all.bib
 Warning--entry type for "Wiki:Guage_Theory" isn't style-file defined
 --line 115 of file all.bib
@@ -65,7 +66,7 @@ Warning--empty note in HIG-11-027
 Warning--empty author in FermiFunction
 You've used 98 entries,
             1791 wiz_defined-function locations,
-            971 strings with 16705 characters,
+            972 strings with 16713 characters,
 and the built_in function-call counts, 16457 in all, are:
 = -- 1355
 > -- 668
