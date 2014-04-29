@@ -1536,6 +1536,7 @@
   \renewcommand{\@chapapp}{\appendixname}%
   \renewcommand{\thechapter}{\Alph{chapter}}
 }
+
 \newcommand{\@@vitaname}{VITA}
 \newenvironment{vita}
   {

@@ -1,7 +1,7 @@
 \contentsline {chapter}{LIST OF TABLES}{vi}
 \contentsline {chapter}{LIST OF FIGURES}{viii}
 \contentsline {chapter}{ABSTRACT}{xviii}
-\contentsline {chapter}{\numberline {1}The Standard Model of Particle Physics}{1}
+\contentsline {chapter}{\numberline {1}THE STANDARD MODEL OF PARTICLE PHYSICS}{1}
 \contentsline {section}{\numberline {1.1}Particles and Forces}{1}
 \contentsline {section}{\numberline {1.2}The Electroweak Interaction}{3}
 \contentsline {section}{\numberline {1.3}The Higgs Boson}{5}
@@ -13,7 +13,7 @@
 \contentsline {subsection}{\numberline {1.4.2}Higgs Decay}{14}
 \contentsline {subsection}{\numberline {1.4.3}H $\rightarrow $ ZZ $\rightarrow l^{+}l^{-} \Pq \Paq $ Channel}{15}
 \contentsline {subsubsection}{$l^{+}l^{-} \Pq \Paq $ Background Contamination}{17}
-\contentsline {chapter}{\numberline {2}Experimental Apparatus}{21}
+\contentsline {chapter}{\numberline {2}EXPERIMENTAL APPARATUS}{21}
 \contentsline {section}{\numberline {2.1}The Large Hadron Collider}{21}
 \contentsline {section}{\numberline {2.2}The Compact Muon Solenoid}{26}
 \contentsline {subsection}{\numberline {2.2.1}CMS Subsections}{27}
@@ -21,12 +21,12 @@
 \contentsline {subsubsection}{Tracker}{28}
 \contentsline {subsubsection}{The Calorimeters}{30}
 \contentsline {subsection}{\numberline {2.2.2}The CMS Trigger System}{33}
-\contentsline {chapter}{\numberline {3}Electron, Muon, and Jet Reconstruction}{37}
+\contentsline {chapter}{\numberline {3}ELECTRION, MUON, AND JET RECONSRUCTION}{37}
 \contentsline {section}{\numberline {3.1}Electron Reconstruction}{37}
 \contentsline {section}{\numberline {3.2}Muon Reconstruction}{38}
 \contentsline {section}{\numberline {3.3}Jet Reconstruction}{40}
 \contentsline {section}{\numberline {3.4}Particle Flow Reconstruction}{41}
-\contentsline {chapter}{\numberline {4}Event Selection}{47}
+\contentsline {chapter}{\numberline {4}EVENT SELECTION}{47}
 \contentsline {section}{\numberline {4.1}Datasets}{47}
 \contentsline {subsection}{\numberline {4.1.1}Simulated Events}{48}
 \contentsline {section}{\numberline {4.2}Pile-Up}{48}
@@ -35,7 +35,7 @@
 \contentsline {subsection}{\numberline {4.3.2}Jet Selection}{52}
 \contentsline {subsection}{\numberline {4.3.3}B-tagging of jets}{55}
 \contentsline {subsection}{\numberline {4.3.4}Higgs candidates}{56}
-\contentsline {chapter}{\numberline {5}Signal Optimization}{59}
+\contentsline {chapter}{\numberline {5}SIGNAL OPTIMIZATION}{59}
 \contentsline {section}{\numberline {5.1}Tagging Classification}{59}
 \contentsline {section}{\numberline {5.2}Helicity Likelihood}{61}
 \contentsline {subsection}{\numberline {5.2.1}Angular Discriminant}{67}
@@ -46,7 +46,7 @@
 \contentsline {section}{\numberline {5.4}Helicity Optimization}{80}
 \contentsline {section}{\numberline {5.5}Missing Transverse Energy}{82}
 \contentsline {section}{\numberline {5.6}Summary of Selection Requirements}{86}
-\contentsline {chapter}{\numberline {6}Correlated and Uncorrelated Systematic Uncertainties}{89}
+\contentsline {chapter}{\numberline {6}CORRELATED AND UNCORRELATED SYSTEMATIC UNCERTAINTIES}{89}
 \contentsline {section}{\numberline {6.1}Signal Uncertainties}{89}
 \contentsline {subsection}{\numberline {6.1.1}Trigger and Lepton Selection Efficiency}{89}
 \contentsline {subsection}{\numberline {6.1.2}Jet Reconstruction}{92}
@@ -59,19 +59,19 @@
 \contentsline {subsection}{\numberline {6.2.1}Background normalization uncertainties}{99}
 \contentsline {subsection}{\numberline {6.2.2}Background shape uncertainties}{99}
 \contentsline {subsection}{\numberline {6.2.3}Upper and Lower Side Band Comparison}{101}
-\contentsline {chapter}{\numberline {7}Statistical interpretation and results}{107}
+\contentsline {chapter}{\numberline {7}STATISTICAL INTERPRETATION AND RESULTS}{107}
 \contentsline {section}{\numberline {7.1}Signal determination}{107}
 \contentsline {section}{\numberline {7.2}Results}{108}
-\contentsline {chapter}{\numberline {8}Conclusion}{117}
-\contentsline {chapter}{\numberline {A}Data and Monte Carlo samples}{119}
-\contentsline {chapter}{\numberline {B}Trigger efficiencies and Monte Carlo correction factors}{123}
-\contentsline {chapter}{\numberline {C}Lepton identification requirements and efficiencies}{127}
-\contentsline {chapter}{\numberline {D}Systematic uncertainties on the signal}{131}
-\contentsline {chapter}{\numberline {E}Expected signal and background events per btag category}{133}
-\contentsline {chapter}{\numberline {F}Determination of $\ensuremath {\Pqt \Paqt }$ background from data}{135}
-\contentsline {chapter}{\numberline {G}Mass distributions for the electron and muon channels}{141}
-\contentsline {chapter}{\numberline {H}Limit Cross Checks}{145}
-\contentsline {chapter}{\numberline {I}3D Prototype Silicon Sensors}{147}
+\contentsline {chapter}{\numberline {8}CONCLUSION}{117}
+\contentsline {chapter}{\numberline {A}DATA AND MONTE CARLO SAMPLES}{119}
+\contentsline {chapter}{\numberline {B}TRIGGER EFFICIENCIES AND MONTE CARLO CORRECTION FACTORS}{123}
+\contentsline {chapter}{\numberline {C}LEPTON IDENTIFICATION REQUIREMENTS AND EFFICIENCIES}{127}
+\contentsline {chapter}{\numberline {D}SYSTEMATIC UNCERTAINTIES ON THE SIGNAL}{131}
+\contentsline {chapter}{\numberline {E}EXPECTED SIGNAL AND BACKGROUND EVENTS PER BTAG CATEGORY}{133}
+\contentsline {chapter}{\numberline {F}DETERMINATION OF $\ensuremath {\Pqt \Paqt }$ BACKGROUND FROM DATA}{135}
+\contentsline {chapter}{\numberline {G}MASS DISTRIBUTIONS FOR THE ELECTRON AND MUON CHANNELS}{141}
+\contentsline {chapter}{\numberline {H}LIMIT CROSS CHECKS}{145}
+\contentsline {chapter}{\numberline {I}3D PROTOTYPE SILICON SENSORS}{147}
 \contentsline {section}{\numberline {I.1}3D Sensors}{147}
 \contentsline {section}{\numberline {I.2}Threshold and Noise Measurements}{149}
 \contentsline {chapter}{LIST OF REFERENCES}{154}

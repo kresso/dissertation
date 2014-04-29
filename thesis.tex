@@ -98,7 +98,7 @@
 % Only use one \author line.
 % CHANGE NEXT TWO LINES.
 %%%\author{Mark Senn}{Senn, Mark}
-\author{Matthew K. Kress}{Kress, Matthew K.}
+\author{Matthew Kip Kress}{Kress, Matthew Kip}
 
 % First is long title of degree (used on cover).
 % Second is abbreviation for degree (used in abstract).
@@ -222,9 +222,8 @@
 % appendix.
 % CHANGE NEXT 7 LINES?
 
-
-
-
+%http://tex.stackexchange.com/questions/69341/how-to-remove-empty-page-after-appendix-and-the-next-chapter
+\cleardoublepage\makeatletter\@openrightfalse\makeatother
 \appendices
 \include{Appendix}
 \include{3D/3D}
